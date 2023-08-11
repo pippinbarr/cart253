@@ -20,11 +20,11 @@ Section B (Tuesdays): Mathilde Davan
 
 ## Contents
 
-### [Course Outline](course-information/outline/)
+### [Course Outline](course-information/outline.md)
 
 The basic nature of the course, evaluation, software, expectations, and more.
 
-### [Schedule](course-information/schedule/)
+### [Schedule](course-information/schedule.md)
 
 A week-to-week schedule of the course, including links to learning materials, due dates, and more.
 
