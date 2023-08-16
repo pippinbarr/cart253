@@ -1,12 +1,6 @@
 #### [CART253](/cart253) | [Schedule](../course-information/schedule) | [Guides](../guides/) | [Examples](../examples/)
 
-# Quick links
-
-* [Template p5 project (ZIP)](../templates/template-p5-project.zip)
-
 # Schedule
-
-#### Contents
 
 * [Hello, World!](#hello-world) - introductions, course software
 * [Instructions](#instructions) - telling p5 to draw shapes and colors
@@ -28,23 +22,23 @@
 
 Week of 4 September 2023
 
-## Objectives
+## ✅ Objectives
 
 * Understand the overall course
 * Install the course software and get used to GitHub
 
-## Before class
+## 🏠 Before class
 
 * **Join** the course discord (link on [Moodle](https://moodle.concordia.ca/))
   * Don't forget to use your real/preferred name!
-* **Read** the [Course Outline](../outline/)
+* **Read** the [Course Outline](./outline)
 * Get pumped!?
 
-### Template (for experimenting and the activity)
+### 🦴 Template (for experimenting and the activity)
 
 * [Template p5 project](../templates/template-p5-project.zip)
 
-### Topics
+### 💡 Topics
 
 [Hello, World! YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd1uBR2TKZByMNF3qbpRGZmK)
 
@@ -54,24 +48,24 @@ Week of 4 September 2023
 * **Watch** [1.1 Creating a repository](https://www.youtube.com/watch?v=RYlNGzVuVwo) (16:44) and/or **follow** the [text tutorial](../topics/software/github-repository.md)
 * **Watch** [1.2 Basic version control](https://www.youtube.com/watch?v=nRY_4cXDSmE) and/or **follow** the [text tutorial](../topics/software/basic-github-desktop.md)
 
-## Classroom (EV 8.15 at 13:45 on the day of class)
+## 🧑‍🏫 Classroom (EV 8.15 at 13:45 on the day of class)
 
 * Welcome and Territorial Acknowledgement
 * Introductions
-* Reviewing the [Course Outline](../outline/)
+* Reviewing the [Course Outline](./outline)
 * Reviewing the [Course Schedule](./)
 * Waiting list? Is anyone on it?
 * The [C-LAB](https://clab.concordia.ca/) is there to help you, **get in touch now!**
 * Computation Arts Orientation at 16:00 on Zoom (Pippin will provide the link)
 * Q&A
 
-## Studio (in the classroom and the Discord #studio channel)
+## 🎨 Studio (in the classroom and the Discord #studio channel)
 
 * Instructor and TA available to help
 * Any problems with the course software?
 * Start work on next week's material
 
-## Homework
+## 📖 Homework
 
 * Continue work on next week's material
 * Send questions about anything to Pippin (Discord, email, paper dart, ESP but probably not DSP)
@@ -84,18 +78,18 @@ Week of 11 September 2023
 
 ## 🏠 Before class
 
-### Objectives
+### ✅ Objectives
 
 * Writing basic instructions/function calls with arguments in JavaScript
 * Drawing shapes on the canvas using the coordinate system
 * Playing with colors
 * Using Git and GitHub with code
 
-### Template (for experimenting and the activity)
+### 🦴 Template (for experimenting and the activity)
 
 * [Template p5 project](../templates/template-p5-project.zip)
 
-### Topics
+### 💡 Topics
 
 [Instructions YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd25s0av8bFNk7F2i-CgUBt0)
 
@@ -146,7 +140,7 @@ Week of 11 September 2023
 
 Week of 18 September 2023
 
-## Objectives
+## ✅ Objectives
 
 * Using variables to give names to numbers
 * Understanding how time passes in a p5 program
@@ -157,9 +151,9 @@ Week of 18 September 2023
 
 * [Template p5 project](../templates/template-p5-project.zip)
 
-## Before class
+## 🏠 Before class
 
-### Topics
+### 💡 Topics
 
 [Variables YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd3tmhwh0S_ao2hXJq-5p2o3)
 
@@ -186,19 +180,19 @@ Week of 18 September 2023
 
 * [Exercise: I Like to Move It!](../exercises/i-like-to-move-it)
 
-## Classroom (EV 8.15 at 13:45 on the day of class)
+## 🧑‍🏫 Classroom (EV 8.15 at 13:45 on the day of class)
 
 * [Project 1](../projects/project1/)
 * [Arrays](#arrays) may be useful ahead of schedule
 * [Variables](#variables) review
 * Q&A: Generative Art???
 
-## Studio (in the classroom and the Discord #studio channel)
+## 🎨 Studio (in the classroom and the Discord #studio channel)
 
 * [Exercise: I Like to Move It!](../exercises/i-like-to-move-it) (due tonight!)
 * Start work on [Conditionals](#conditionals)
 
-## Homework
+## 📖 Homework
 
 * Continue work on next week's material
 * [Project 1](../projects/project1/)
@@ -209,7 +203,7 @@ Week of 18 September 2023
 
 Week of 25 September 2023
 
-## Objectives
+## ✅ Objectives
 
 * Writing if-statements to control what happens in your programs
 * Including mouse and keyboard input in a program
@@ -219,9 +213,9 @@ Week of 25 September 2023
 
 * [Template p5 project](../templates/template-p5-project.zip)
 
-## Before class
+## 🏠 Before class
 
-### Topics
+### 💡 Topics
 
 #### Conditionals
 
@@ -252,18 +246,18 @@ Week of 25 September 2023
 
 * [Exercise: Dodge-em](../exercises/dodge-em)
 
-## Classroom (EV 8.15 at 13:45 on the day of class)
+## 🧑‍🏫 Classroom (EV 8.15 at 13:45 on the day of class)
 
 * [Conditionals](#conditionals) review
 * Q&A
 
-## Studio (in the classroom and the Discord #studio channel)
+## 🎨 Studio (in the classroom and the Discord #studio channel)
 
 * Instructor and TA available to help
 * [Exercise: Dodge-em](../exercises/dodge-em) (due tonight!)
 * Work on next week's material
 
-## Homework
+## 📖 Homework
 
 * Work on next week's material
 * [Project 1](../projects/project1/)
@@ -274,7 +268,7 @@ Week of 25 September 2023
 
 Week of 2 October 2023
 
-## Objectives
+## ✅ Objectives
 
 * Using functions to organize your code
 * Using functions with parameters and return values to write reusable code
@@ -285,9 +279,9 @@ Week of 2 October 2023
 
 * [Template p5 project](../templates/template-p5-project.zip)
 
-## Before class
+## 🏠 Before class
 
-### Topics
+### 💡 Topics
 
 [Functions YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd12V9SMFnrNl1MRBTw0Zi2U)
 
@@ -311,17 +305,17 @@ Week of 2 October 2023
 
 * [Exercise: Love, Actually](../exercises/love-actually/)
 
-## Classroom (EV 8.15 at 13:45 on the day of class)
+## 🧑‍🏫 Classroom (EV 8.15 at 13:45 on the day of class)
 
 * Q&A
 
-## Studio (in the classroom and the Discord #studio channel)
+## 🎨 Studio (in the classroom and the Discord #studio channel)
 
 * Instructor and TA available to help
 * [Exercise: Love, Actually](../exercises/love-actually/) (due tonight!)
 * Work on next week's material
 
-## Homework
+## 📖 Homework
 
 * Work on material for after midterm break
 * [Project 1](../projects/project1/) (due after midterm break)
@@ -339,7 +333,7 @@ Week of 2 October 2023
 
 Week of 16 October 2023
 
-## Objectives
+## ✅ Objectives
 
 * Understand the use of `strict` in our programs
 * Use basic sounds in your code
@@ -348,9 +342,9 @@ Week of 16 October 2023
 
 * [Template p5 project](../templates/template-p5-project.zip)
 
-## Before class
+## 🏠 Before class
 
-### Topics
+### 💡 Topics
 
 [Sound and strict YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd1CiZxxlcQTGcEuXX_G7B6h)
 
@@ -362,19 +356,19 @@ Week of 16 October 2023
 
 * **Watch** [6.2. `"use strict";`](https://www.youtube.com/watch?v=P2wpX-bKO3U) (6:47) (and **read** [`"use strict";`](../topics/debugging/use-strict.md))
 
-## Classroom (EV 8.15 at 13:45 on the day of class)
+## 🧑‍🏫 Classroom (EV 8.15 at 13:45 on the day of class)
 
 * [Project 1](../projects/project1/) first due date is tonight
 * Summarizing [Sound and strict](#sound-and-strict)
 * Let's make something?
 
-## Studio (in the classroom and the Discord #studio channel)
+## 🎨 Studio (in the classroom and the Discord #studio channel)
 
 * Instructor and TA available to help
 * Work on [Project 1](../projects/project1/)
 * Work on next week's material
 
-## Homework
+## 📖 Homework
 
 * Finish [Project 1](../projects/project1) for tonight
 * Continue work on next week's material
@@ -385,7 +379,7 @@ Week of 16 October 2023
 
 Week of 23 October 2023
 
-## Objectives
+## ✅ Objectives
 
 * Using arrays to store collections of data
 * Understanding how to use for-loops and arrays
@@ -396,9 +390,9 @@ Week of 23 October 2023
 
 * [Template p5 project](../templates/template-p5-project.zip)
 
-## Before class
+## 🏠 Before class
 
-### Topics
+### 💡 Topics
 
 [Arrays YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd1Vx5ge8o7BCWNXNPub5xCn)
 
@@ -424,20 +418,20 @@ Week of 23 October 2023
 
 * **Start** [Exercise: Age of Aquariums](../exercises/age-of-aquariums/)
 
-## Classroom (EV 8.15 at 13:45 on the day of class)
+## 🧑‍🏫 Classroom (EV 8.15 at 13:45 on the day of class)
 
 * [Project 2](../projects/project2/) is now available
 * Summarizing [Arrays learning materials](#arrays)
 * Let's make something?
 
-## Studio (in the classroom and the Discord #studio channel)
+## 🎨 Studio (in the classroom and the Discord #studio channel)
 
 * Instructor and TA available to help
 * [Exercise: Age of Aquariums](../exercises/age-of-aquariums/) (due tonight!)
 * Start work on next week's material
 * [Project 2](../projects/project2/)
 
-## Homework
+## 📖 Homework
 
 * Continue work on next week's material
 * [Project 2](../projects/project2/)
@@ -448,7 +442,7 @@ Week of 23 October 2023
 
 Week of 30 October 2023
 
-## Objectives
+## ✅ Objectives
 
 * Writing classes to organize your code into more complex objects
 
@@ -456,9 +450,9 @@ Week of 30 October 2023
 
 * [Template p5 project](../templates/template-p5-project.zip)
 
-## Before class
+## 🏠 Before class
 
-### Topics
+### 💡 Topics
 
 [Object-Oriented Programming YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd1DiCxy52Ep2dgqp1sPjUdl)
 
@@ -483,19 +477,19 @@ Week of 30 October 2023
 
 * **Start** [Exercise: Juggle Garden](../exercises/juggle-garden/)
 
-## Classroom (EV 8.15 at 13:45 on the day of class)
+## 🧑‍🏫 Classroom (EV 8.15 at 13:45 on the day of class)
 
 * [Project 2](../projects/project2/) proposal and prototype are due next week
 * Summarizing [Object-Oriented Programming learning materials](#object-oriented-programming)
 * Let's make something?
 
-## Studio (in the classroom and the Discord #studio channel)
+## 🎨 Studio (in the classroom and the Discord #studio channel)
 
 * Instructor and TA available to help
 * [Exercise: Juggle Garden](../exercises/juggle-garden/) (due tonight!)
 * Start work on next week's material
 
-## Homework
+## 📖 Homework
 
 * Continue work on next week's material
 * [Project 2](../projects/project2/)
@@ -506,7 +500,7 @@ Week of 30 October 2023
 
 Week of 6 November 2023
 
-## Objectives
+## ✅ Objectives
 
 * Understanding inheritance as a way to make more complex class structures
 * Taking advantage of polymorphism
@@ -515,9 +509,9 @@ Week of 6 November 2023
 
 * [Template p5 project](../templates/template-p5-project.zip)
 
-## Before class
+## 🏠 Before class
 
-### Topics
+### 💡 Topics
 
 [Inheritance and polymorphism YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd1XiX1XQ2ZML_krsuXObtcQ)
 
@@ -545,19 +539,19 @@ Week of 6 November 2023
   * **Follow along** with [9.5. Inheritance activity](https://www.youtube.com/watch?v=RsMhk8Zq4ic) (54:08) if you want!
   * **Check** out [Pippin's Inheritance activity code](https://github.com/pippinbarr/cart253/blob/main/activities/inheritance-activity) if you like
 
-## Classroom (EV 8.15 at 13:45 on the day of class)
+## 🧑‍🏫 Classroom (EV 8.15 at 13:45 on the day of class)
 
 * [Project 2](../projects/project2/) proposal and prototype are due next week
 * Summarizing [Inheritance and polymorphism learning materials](#inheritance-and-polymorphism)
 * Let's make something?
 
-## Studio (in the classroom and the Discord #studio channel)
+## 🎨 Studio (in the classroom and the Discord #studio channel)
 
 * Instructor and TA available to help
 * Start work on next week's material
 * [Project 2](../projects/project2/)
 
-## Homework
+## 📖 Homework
 
 * Continue work on next week's material
 * [Project 2](../projects/project2/)
@@ -568,7 +562,7 @@ Week of 6 November 2023
 
 Week of 13 November 2023
 
-## Objectives
+## ✅ Objectives
 
 * Getting to know a new library
 * Getting comfortable reading documentation
@@ -578,9 +572,9 @@ Week of 13 November 2023
 
 * [Template p5 project](../templates/template-p5-project.zip)
 
-## Before class
+## 🏠 Before class
 
-### Topics
+### 💡 Topics
 
 [p5.sound YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd2SojpwZB1-QZ9z1ljqqQjT)
 
@@ -601,19 +595,19 @@ Week of 13 November 2023
 
 * **Start** [Exercise: Make Some Noise](../exercises/make-some-noise/)
 
-## Classroom (EV 8.15 at 13:45 on the day of class)
+## 🧑‍🏫 Classroom (EV 8.15 at 13:45 on the day of class)
 
 * [Project 2](../projects/project2/) proposal and prototype is due tonight
 * Summarizing [p5.sound learning materials](#p5sound)
 * Let's make something?
 
-## Studio (in the classroom and the Discord #studio channel)
+## 🎨 Studio (in the classroom and the Discord #studio channel)
 
 * Instructor and TA available to help
 * [Exercise: Make Some Noise](../exercises/make-some-noise/) (due tonight!)
 * [Project 2](../projects/project2/)
 
-## Homework
+## 📖 Homework
 
 * [Project 2](../projects/project2/)
 
@@ -623,22 +617,22 @@ Week of 13 November 2023
 
 Week of 20 November 2023
 
-## Before class
+## 🏠 Before class
 
 * **Start** [Exercise: Project Progress Report](../exercises/project-progress-report/)
 
-## Classroom (EV 8.15 at 13:45 on the day of class)
+## 🧑‍🏫 Classroom (EV 8.15 at 13:45 on the day of class)
 
 * [Project 2](../projects/project2/)
 * Let's make something?
 
-## Studio (in the classroom and the Discord #studio channel)
+## 🎨 Studio (in the classroom and the Discord #studio channel)
 
 * Instructor and TA available to help
 * [Exercise: Project Progress Report](../exercises/project-progress-report/) (due tonight)
 * [Project 2](../projects/project2/)
 
-## Homework
+## 📖 Homework
 
 * [Project 2](../projects/project2/)
 
@@ -648,17 +642,17 @@ Week of 20 November 2023
 
 Week of 27 November 2023
 
-## Classroom (EV 8.15 at 13:45 on the day of class)
+## 🧑‍🏫 Classroom (EV 8.15 at 13:45 on the day of class)
 
 * [Project 2](../projects/project2/)
 * Let's make something?
 
-## Studio (in the classroom and the Discord #studio channel)
+## 🎨 Studio (in the classroom and the Discord #studio channel)
 
 * Instructor and TA available to help
 * [Project 2](../projects/project2/)
 
-## Homework
+## 📖 Homework
 
 * [Project 2](../projects/project2/)
 * [Exercise: Reflection](../exercises/reflection/) (due tonight!)

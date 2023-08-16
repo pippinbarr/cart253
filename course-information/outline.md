@@ -162,7 +162,7 @@ It is course policy that no student will use AI tools such as [GitHub Copilot](h
 
 The practical work done in this class will take place on your own computer, with course software installed on it by you. The instructor is significantly more experienced with macOS, but will work to support Windows and even Linux as needed. This course does not require a significantly powerful machine beyond the ability to run a web browser.
 
-## [Course Schedule](../schedule/)
+## [Course Schedule](./schedule)
 
 (Click through for week-by-week information about what we will cover in the course.)
 

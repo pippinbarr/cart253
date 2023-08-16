@@ -24,7 +24,7 @@ Section B (Tuesdays): Mathilde Davan
 
 The basic nature of the course, evaluation, software, expectations, and more.
 
-### [Schedule](course-information/schedule.md)
+### [Schedule](course-information/schedule)
 
 A week-to-week schedule of the course, including links to learning materials, due dates, and more.
 

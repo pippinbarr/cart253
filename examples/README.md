@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [p5 Editor Collection](p5-editor-collection)
+- [p5 Editor Collection](#p5-editor-collection)
 - [Games](#games)
 - [Structure](#structure)
 - [Time](#time)
@@ -104,18 +104,19 @@ Here are **example final projects** from the 2019 edition of CART253 for you to 
 Here are **example midterm projects** from the 2020 edition of CART253 for you to look at and be inspired by!
 
 - [My Masterpiece](https://juniorvigneault.github.io/cart253/projects/project1/) ([code](https://github.com/juniorvigneault/cart253/tree/master/projects/project1)) by Junior Vigneault
-* [Hungry Fishies](https://sharon-ku.github.io/cart253/projects/project1/) ([code](https://github.com/sharon-ku/cart253/tree/master/projects/project1)) by Sharon Ku
-* [PAIN simulaTOR](https://zidizhu.github.io/cart253/projects/project1/) ([code](https://github.com/zidizhu/cart253/tree/master/projects/project1/)) by Zi Di Zhu
-* [Cat Owner Simulator](https://angelcellacenerini.github.io/CART253/Projects/Simulation_P1/) ([code](https://github.com/AngelCellaCenerini/CART253/tree/master/Projects/Simulation_P1)) by Angel Cenerini
-* [Get the F*** Out!](https://m-hops.github.io/CART253/project1) ([code](https://github.com/m-hops/CART253/tree/main/project1)) by Madeline Zaytsoff
 
+* [Hungry Fishies](https://sharon-ku.github.io/cart253/projects/project1/) ([code](https://github.com/sharon-ku/cart253/tree/master/projects/project1)) by Sharon Ku
+- [PAIN simulaTOR](https://zidizhu.github.io/cart253/projects/project1/) ([code](https://github.com/zidizhu/cart253/tree/master/projects/project1/)) by Zi Di Zhu
+- [Cat Owner Simulator](https://angelcellacenerini.github.io/CART253/Projects/Simulation_P1/) ([code](https://github.com/AngelCellaCenerini/CART253/tree/master/Projects/Simulation_P1)) by Angel Cenerini
+- [Get the F*** Out!](https://m-hops.github.io/CART253/project1) ([code](https://github.com/m-hops/CART253/tree/main/project1)) by Madeline Zaytsoff
 
 ## Final Projects from 2020
 
 Here are **example final projects** from the 2020 edition of CART253 for you to look at and be inspired by!
 
 - [Horse.com](https://juniorvigneault.github.io/cart253/projects/project2/official/) ([code](https://github.com/juniorvigneault/cart253/tree/master/projects/project2/official)) by Junior Vigneault
+
 * [Hungry Fishies](https://sharon-ku.github.io/cart253/projects/project2/) ([code](https://github.com/sharon-ku/cart253/tree/master/projects/project2)) by Sharon Ku
-* [Plural Platformers](https://zidizhu.github.io/cart253/projects/project2/prototype/) ([code](https://github.com/zidizhu/cart253/tree/master/projects/project2/prototype)) by Zi Di Zhu
-* [Madeleine](https://angelcellacenerini.github.io/CART253/Projects/Project02/FinalProject02/) ([code](https://github.com/AngelCellaCenerini/CART253/tree/master/Projects/Project02/)) by Angel Cenerini
-* [The Lessor Key](https://m-hops.github.io/CART253/project2/) ([code](https://github.com/m-hops/CART253/tree/main/project2)) by Madeline Zaytsoff
+- [Plural Platformers](https://zidizhu.github.io/cart253/projects/project2/prototype/) ([code](https://github.com/zidizhu/cart253/tree/master/projects/project2/prototype)) by Zi Di Zhu
+- [Madeleine](https://angelcellacenerini.github.io/CART253/Projects/Project02/FinalProject02/) ([code](https://github.com/AngelCellaCenerini/CART253/tree/master/Projects/Project02/)) by Angel Cenerini
+- [The Lessor Key](https://m-hops.github.io/CART253/project2/) ([code](https://github.com/m-hops/CART253/tree/main/project2)) by Madeline Zaytsoff
