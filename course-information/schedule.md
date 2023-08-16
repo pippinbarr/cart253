@@ -2,19 +2,19 @@
 
 # Schedule
 
-* [👋 Hello, World!](#👋-hello-world) - introductions, course software
-* [💬 Instructions](#instructions) - telling p5 to draw shapes and colors
-* [📦 Variables](#variables) - making things change
-* [❓ Conditionals](#conditionals) - programs that react
-* [🤖 Functions](#functions) - modularity and reuse
-* [🌴 *Midterm break*](#midterm-break)
-* [🔉Sound and strict](#sound-and-strict) - basic sound and `"use strict";`
-* [🗄️ Arrays](#arrays) - storing data in little boxes
-* [🧱 Object-Oriented Programming](#object-oriented-programming) - thinking of code as a collection of objects
-* [👪 Inheritance and Polymorphism](#inheritance-and-polymorphism) - creating objects based on other objects
-* [🔊 p5.sound](#p5sound) - the p5.sound library
-* [🆘 Project 2 Studio I](#project-2-studio-i)
-* [🆘 Project 2 Studio II](#project-2-studio-ii)
+* [👋 Hello, World!](#-hello-world) - introductions, course software
+* [💬 Instructions](#-instructions) - telling p5 to draw shapes and colors
+* [📦 Variables](#-variables) - making things change
+* [❓ Conditionals](#-conditionals) - programs that react
+* [🤖 Functions](#-functions) - modularity and reuse
+* [🌴 *Midterm break*](#-midterm-break)
+* [🔉Sound and strict](#-sound-and-strict) - basic sound and `"use strict";`
+* [🗄️ Arrays](#-arrays) - storing data in little boxes
+* [🧱 Object-Oriented Programming](#-object-oriented-programming) - thinking of code as a collection of objects
+* [👪 Inheritance and Polymorphism](#-inheritance-and-polymorphism) - creating objects based on other objects
+* [🔊 p5.sound](#-p5sound) - the p5.sound library
+* [🆘 Project 2 Studio I](#-project-2-studio-i)
+* [🆘 Project 2 Studio II](#-project-2-studio-ii)
 
 ---
 
