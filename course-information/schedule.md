@@ -130,7 +130,7 @@ Week of 11 September 2023
 * Making sure you're confident with Instructions
 * Start work on [Variables](#variables)
 
-## 🏡 Homework
+## 📝 Homework
 
 * Continue work on [Variables](#variables)
 
