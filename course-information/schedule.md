@@ -18,7 +18,7 @@
 
 ---
 
-# Hello, World
+# 👋 Hello, World
 
 Week of 4 September 2023
 
@@ -65,14 +65,14 @@ Week of 4 September 2023
 * Any problems with the course software?
 * Start work on next week's material
 
-## 📖 Homework
+## 📝 Homework
 
 * Continue work on next week's material
 * Send questions about anything to Pippin (Discord, email, paper dart, ESP but probably not DSP)
 
 ---
 
-# Instructions
+# 💬 Instructions
 
 Week of 11 September 2023
 
@@ -136,7 +136,7 @@ Week of 11 September 2023
 
 ---
 
-# Variables
+# 📦 Variables
 
 Week of 18 September 2023
 
@@ -192,14 +192,14 @@ Week of 18 September 2023
 * [Exercise: I Like to Move It!](../exercises/i-like-to-move-it) (due tonight!)
 * Start work on [Conditionals](#conditionals)
 
-## 📖 Homework
+## 📝 Homework
 
 * Continue work on next week's material
 * [Project 1](../projects/project1/)
 
 ---
 
-# Conditionals
+# ❓ Conditionals
 
 Week of 25 September 2023
 
@@ -257,14 +257,14 @@ Week of 25 September 2023
 * [Exercise: Dodge-em](../exercises/dodge-em) (due tonight!)
 * Work on next week's material
 
-## 📖 Homework
+## 📝 Homework
 
 * Work on next week's material
 * [Project 1](../projects/project1/)
 
 ---
 
-# Functions
+# 🤖 Functions
 
 Week of 2 October 2023
 
@@ -315,21 +315,21 @@ Week of 2 October 2023
 * [Exercise: Love, Actually](../exercises/love-actually/) (due tonight!)
 * Work on next week's material
 
-## 📖 Homework
+## 📝 Homework
 
 * Work on material for after midterm break
 * [Project 1](../projects/project1/) (due after midterm break)
 
 ---
 
-# Midterm Break
+# 🌴 Midterm Break
 
 * Work on next week's material
 * [Project 1](../projects/project1/) (due after midterm break)
 
 ---
 
-# Sound and strict
+# 🔉 Sound and strict
 
 Week of 16 October 2023
 
@@ -368,14 +368,14 @@ Week of 16 October 2023
 * Work on [Project 1](../projects/project1/)
 * Work on next week's material
 
-## 📖 Homework
+## 📝 Homework
 
 * Finish [Project 1](../projects/project1) for tonight
 * Continue work on next week's material
 
 ---
 
-# Arrays
+# 🗄️ Arrays
 
 Week of 23 October 2023
 
@@ -431,14 +431,14 @@ Week of 23 October 2023
 * Start work on next week's material
 * [Project 2](../projects/project2/)
 
-## 📖 Homework
+## 📝 Homework
 
 * Continue work on next week's material
 * [Project 2](../projects/project2/)
 
 ---
 
-# Object-Oriented Programming
+# 🧱 Object-Oriented Programming
 
 Week of 30 October 2023
 
@@ -489,14 +489,14 @@ Week of 30 October 2023
 * [Exercise: Juggle Garden](../exercises/juggle-garden/) (due tonight!)
 * Start work on next week's material
 
-## 📖 Homework
+## 📝 Homework
 
 * Continue work on next week's material
 * [Project 2](../projects/project2/)
 
 ---
 
-# Inheritance and polymorphism
+# 👪 Inheritance and polymorphism
 
 Week of 6 November 2023
 
@@ -551,14 +551,14 @@ Week of 6 November 2023
 * Start work on next week's material
 * [Project 2](../projects/project2/)
 
-## 📖 Homework
+## 📝 Homework
 
 * Continue work on next week's material
 * [Project 2](../projects/project2/)
 
 ---
 
-# p5.sound
+# 🔊 p5.sound
 
 Week of 13 November 2023
 
@@ -607,13 +607,13 @@ Week of 13 November 2023
 * [Exercise: Make Some Noise](../exercises/make-some-noise/) (due tonight!)
 * [Project 2](../projects/project2/)
 
-## 📖 Homework
+## 📝 Homework
 
 * [Project 2](../projects/project2/)
 
 ---
 
-# Project 2 Studio I
+# 🆘 Project 2 Studio I
 
 Week of 20 November 2023
 
@@ -632,13 +632,13 @@ Week of 20 November 2023
 * [Exercise: Project Progress Report](../exercises/project-progress-report/) (due tonight)
 * [Project 2](../projects/project2/)
 
-## 📖 Homework
+## 📝 Homework
 
 * [Project 2](../projects/project2/)
 
 ---
 
-# Project 2 Studio II
+# 🆘 Project 2 Studio II
 
 Week of 27 November 2023
 
@@ -652,7 +652,7 @@ Week of 27 November 2023
 * Instructor and TA available to help
 * [Project 2](../projects/project2/)
 
-## 📖 Homework
+## 📝 Homework
 
 * [Project 2](../projects/project2/)
 * [Exercise: Reflection](../exercises/reflection/) (due tonight!)
