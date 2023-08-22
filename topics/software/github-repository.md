@@ -6,19 +6,19 @@ This tutorial will take you through the steps needed to create a __repository__ 
 
 If you already have a GitHub account, skip this step. Otherwise, we need to register with GitHub so that we can create repositories that will be hosted by them (a bit like DropBox or Google Drive).
 
-1. Go to https://www.github.com/
+1. Go to <https://www.github.com/>
 1. Either fill out the registration form that appears or click "Sign up" at the top right of the screen
 1. Follow the steps they require to create your account, including reply to the verification email
 1. Edit your profile, add an avatar image as you desire (not required)
 
 ## Create a course repository
 
-We will create a single repository to store all your coursework in called `cc1`.
+We will create a single repository to store all your coursework in called `cart253-2023`.
 
-1. Go to https://www.github.com/
+1. Go to <https://www.github.com/>
 1. Log in if you aren't currently logged in
 1. Either click on the green "New" button or click the "+" button at the top right and select "New repository"
-1. Name the repository `cc1` (or something similar)
+1. Name the repository `cart253-2023` (or something similar)
 1. Add a short description like "This is Pippin Barr's coursework repository for Creative Computation 1"
 1. Set your repository to __Public__
 1. Select "__Initialize this repository with a README__"
@@ -28,10 +28,11 @@ We will create a single repository to store all your coursework in called `cc1`.
 
 We use a tool called __GitHub Pages__ on GitHub to be able to host our coursework on their servers, making it visible to anyone on the web if we wish. It's an amazing cheap web hosting option!
 
-1. Go to https://www.github.com/yourgithubusername/cc1 (the homepage of your new course repository, substitute your GitHub username for `yourgithubusername` and if you called the repository something other than `cc1` use that instead)
+1. Go to <https://www.github.com/yourgithubusername/cart253-2023> (the homepage of your new course repository, substitute your GitHub username for `yourgithubusername` and if you called the repository something other than `cart253-2023` use that instead)
 1. Click on "Settings" (the right-most option in the repository's menu)
-1. Scroll down the page to the section labelled __GitHub Pages__
-1. Under __Source__ use the drop-down menu to select `master`
+1. Go to the menu item "Pages" in the left-hand menu bar
+1. Under __Source__ use the drop-down menu to select "Deploy from a branch"
+1. Under __Branch__ use the drop-down menu to select "main"
 1. Click "Save"
 
 ## Clone (download) your repository
@@ -41,12 +42,14 @@ We use a tool called __GitHub Pages__ on GitHub to be able to host our coursewor
 1. It may ask you to set up things like an email address etc., do this if you want to
 1. Go to `File > Clone Repository`
 1. Select the "GitHub.com" tab
-1. Under __Your Repositories__ select your `cc1` repository (the one you created for this course)
-1. Under __Local Path__ select a folder you want to save the repository (a folder) into on your computer (this could be your Desktop, it could be your Documents folder, it could be wherever you keep your other courses' materials, whatever suits you)
+1. Under __Your Repositories__ select your `cart253-2023` repository (the one you created for this course)
+1. Under __Local Path__ select a folder you want to save the repository (a folder) into on your computer
+    1. This could be your Desktop, it could be your Documents folder, it could be wherever you keep your other courses' materials, whatever suits you
+    1. By default GitHub Desktop will create a `GitHub` folder in your main `Documents` folder and your repository folder will be in there
 1. Click "Clone" and the repository will be __downloaded__ and it will also show up in your GitHub Desktop
 
-You're now ready to use GitHub Desktop and GitHub to save and synchronize all the projects you will end up creating for this course! As a simple rule, you should just keep all your work for the course in this `cc1` repository folder.
+You're now ready to use GitHub Desktop and GitHub to save and synchronize all the projects you will end up creating for this course! As a simple rule, you should just keep all your work for the course in this `cart253-2023` repository folder.
 
 ## Summary
 
-We now have a GitHub account. We also have a __repository__ (like a special folder that keeps track of your work over time) that exists locally on __your computer__ (as a folder called `cc1` or similar) and also remotely on __GitHub.com__ (as a repository homepage called `cc1`). By keeping these two instances of the repository in synch, we can avoid many, many problems and also share our work much more easily. Because we enabled GitHub Pages, we can also share our work with anyone via a URL.
+We now have a GitHub account. We also have a __repository__ (like a special folder that keeps track of your work over time) that exists locally on __your computer__ (as a folder called `cart253-2023` or similar) and also remotely on __GitHub.com__ (as a repository homepage called `cart253-2023`). By keeping these two instances of the repository in synch, we can avoid many, many problems and also share our work much more easily. Because we enabled GitHub Pages, we can also share our work with anyone via a URL.

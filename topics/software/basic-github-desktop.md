@@ -1,6 +1,6 @@
 # Basic Version Control with GitHub Desktop
 
-In this course we will be using "version control". We'll achieve this via our `cc1` **Git repository** to store all our coursework. So what is version control? What is Git? What is a repository? What is GitHub Desktop for? How do we actually use all this stuff? And why should we?
+In this course we will be using "version control". We'll achieve this via our `cart253-2023` **Git repository** to store all our coursework. So what is version control? What is Git? What is a repository? What is GitHub Desktop for? How do we actually use all this stuff? And why should we?
 
 ## Why?
 
@@ -20,48 +20,49 @@ Git and other version control software is so popular and so important in the pro
 
 In order to use **Git** we need to change the way we work a little bit. As well as having our set of files for a project (like the HTML, CSS, JavaScript, images, etc.) and saving them each time we make changes, we need to add an extra layer.
 
-### Use the repository folder!
+### Use the repository folder
 
-First, we must always do our work **inside the repository folder** on our computer. We have a folder called `cc1` and we will do **all our work** in that folder. If you're starting a new project, for example, you would make a new folder inside `cc1` called something like `projects` and then a folder inside that for the specific project called something like `project1`.
+First, we must always do our work **inside the repository folder** on our computer. We have a folder called `cart253-2023` and we will do **all our work** in that folder. If you're starting a new project, for example, you would make a new folder inside `cart253-2023` called something like `projects` and then a folder inside that for the specific project called something like `project1`.
 
-For now, we will focus on the file that should already be in your `cc1` from when you created it called `README.md`. (If it doesn't exist for some reason, please create a new file with that name in **Atom** and save it into your `cc1` folder.)
+For now, we will focus on the file that should already be in your `cart253-2023` from when you created it called `README.md`. (If it doesn't exist for some reason, please create a new file with that name in **VS Code** and save it into your `cart253-2023` folder.)
 
 By default, this file has placeholder text in it that is not very informative. Let's **edit** the file and use this to show Git at work.
 
 ### Edit README.md
 
-1. Open the `README.md` file in your `cc1` repository folder in Atom. (You can do this by selecting `File > Open...` in Atom and finding the file, you can probably right click on the file and choose to open it with Atom, you can probably drag the file onto the Atom icon at the bottom of your screen.)
+1. Open your `cart253-2023` repository folder in VS Code. (You can do this by dragging the folder onto the VS Code icon in your dock/task bar, by selecting `File > Open...` from the menu, or even by dragging the folder into the VS Code window itself)
+1. Now select the `README.md` file in the left-hand pane to make it display in the editor window
 1. With the file open, change the file so that it contains the course title ("Creative Computation 1")
 1. Save the file.
-1. Notice how the places you made **changes** are now **highlighted in orange**. This is because Atom knows your file is in a Git repository and therefore cares about tracking what has changed.
+1. Notice how the places you made **changes** are now **highlighted** down the left side of the file. Also notice how the filename has turned **yellow** in the left-hand pane. This is because VS Code knows your file is in a Git repository and therefore **automatically tracks what has changed**.
 
 Let's imagine the changes that we made are worth not just **saving** but also keeping specific track of in our repository.
 
 ### See the changes
 
-To see that GitHub Desktop has **noticed** the changes we made, we need to run it and look at the interface.
+To see that GitHub Desktop has also **noticed** the changes we made, we need to run it and look at the interface.
 
 1. Open GitHub Desktop (log in if you need to)
-1. If you only have your `cc1` repository it should show by default. (If it isn't selected, click the button at the top right where it says "Current Repository" and select your `cc1` repository from the list.)
+1. If you only have your `cart253-2023` repository it should show by default. (If it isn't selected, click the button at the top right where it says "Current Repository" and select your `cart253-2023` repository from the list.)
 1. Notice that next to the "Changes" tab (on the left) there is now a "(1)", indicated that one file has been changed in the repository. Below, you can see all the files that have been changed listed, which should just be `README.md`. If you select the file, you'll the specific changes displayed on the right side of the application.
 
 ### Commit the changes
 
 When we want to add changes to our repository it is called a **commit**. We're saying we want to commit to these changes because we're sure we want them in our project. Importantly, when we commit, we also write a **message** that describes our changes precisely.
 
-Let's say we're happy with the changes we made to `README.md`. (If not, go back to Atom and change it more, then save it again and come back to GitHub Desktop.)
+Let's say we're happy with the changes we made to `README.md`. (If not, go back to VS Code and change it more, then save it again and come back to GitHub Desktop.)
 
 1. At the bottom left of the "Changes" tab there is a small interface to **commit** our changes.
 1. There is a small field which defaults to "Update README.md", and a longer field called "description".
 1. In the small field, write a short message that explains the changes you made to `README.md`. (Something like: "Initialized README to contain course code and title")
 1. If you want to, write a longer description in the "description" field.
-1. Click the blue "Commit to master" button at the bottom!
+1. Click the blue "Commit to main" button at the bottom!
 
 The changes are committed along with your message! The new version of `README.md` with your changes is now part of the repository on your computer and you will see there are now no changes displayed by GitHub Desktop.
 
 ### View the history
 
-To prove to yourself that the changes and the message are really there, go to the "History" tab next to the "Changes" tab. You will see a list of the **commit history** of your `cc1` repository. Right now it is probably small, but it will get very long. The most recent commit is at the top, and it should have the message you just wrote.
+To prove to yourself that the changes and the message are really there, go to the "History" tab next to the "Changes" tab. You will see a list of the **commit history** of your `cart253-2023` repository. Right now it is probably small, but it will get very long. The most recent commit is at the top, and it should have the message you just wrote.
 
 If you select the commit in the history, you can also see a list of the files that were changed and the changes that were made to them.
 
@@ -69,10 +70,10 @@ If you select the commit in the history, you can also see a list of the files th
 
 Let's imagine that `README.md` is part of some larger project and we want to keep working on it. We would follow this same process of making some changes and then, when a set of related changes have been made, commit them.
 
-1. In Atom and add your name to the `README.md` file and save it
+1. In VS Code and add your name to the `README.md` file and save it
 1. In GitHub Desktop, confirm that the new changes are noticed by GitHub Desktop in the "Changes" tab
 1. Write a commit message like "Added my name to the README"
-1. Click the "Commit to master" button
+1. Click the "Commit to main" button
 
 If you want to, look at the History again to see your two separate commits are listed there.
 
@@ -83,24 +84,24 @@ Currently the repository on your computer is up to date, but the version of your
 1. In GitHub Desktop, notice the "Push origin" button in the top menu bar (it has a little "up arrow" beside it). The number beside it is the number of new commits made that must be uploaded or **pushed** to GitHub.com
 1. Click the button.
 
-After a hopefully short time, your changes (the commits) will have been uploaded to GitHub.com. This is great because they are safe there now ("in the cloud"). If you were to accidentally delete the `cc1` folder (repository) on your computer, it would be fine because you could get all your files back from GitHub.com!
+After a hopefully short time, your changes (the commits) will have been uploaded to GitHub.com. This is great because they are safe there now ("in the cloud"). If you were to accidentally delete the `cart253-2023` folder (repository) on your computer, it would be fine because you could get all your files back from GitHub.com!
 
 ### Adding and removing files
 
 Any time you **add** a new file to your repository folder or **remove** a file from the repository, this **counts as a change**. To try it out let's add a file.
 
-1. Make a new file in Atom with `File > New File`
+1. Make a new file in VS Code with `File > New File`
 1. Write some text in it (it doesn't matter what)
-1. Save the file with `File > Save` and give it a name (doesn't matter what) and make sure to save it inside the `cc1` folder
+1. Save the file with `File > Save` and give it a name (doesn't matter what) and make sure to save it inside the `cart253-2023` folder
 1. Go to GitHub Desktop and notice that this added file is now listed as a change to the repository!
-1. Write a commit message and click "Commit to master" to commit it to the local repository
+1. Write an appropriate commit message and click "Commit to main" to commit it to the local repository
 1. Click "Push origin" to upload the changes to GitHub.com
 
 Now let's delete the file we just created.
 
-1. In the `cc1` folder on your computer, move the new file to the Trash or Recycle Bin, or just somewhere outside your `cc1` folder
+1. In the `cart253-2023` folder on your computer, move the new file to the Trash or Recycle Bin, or just somewhere outside your `cart253-2023` folder
 1. Go to GitHub Desktop and notice that removing the file is now listed as a change to the repository!
-1. Write a commit message and click "Commit to master" to commit it to the local repository
+1. Write an appropriate commit message and click "Commit to main" to commit it to the local repository
 1. Click "Push origin" to upload the changes to GitHub.com
 
 Notice that your History in GitHub Desktop now includes at least two commits from editing `README.md`, one commit for adding the new file, and another commit for removing it. Even though adding and then removing the file leaves the repository exactly the way it was, it's still part of the **commit history**.
@@ -115,8 +116,8 @@ We will talk more about "when to commit" once we get to actual code, but the bas
 
 This is the new working approach in this course. Instead of just "edit, save, edit, save" as with ordinary software, we add "commit, push, commit, push, commit, commit, push" to the cycle.
 
-1. First we **edit** (or **add** or **remove**) one or more files in our project (like `README.md` in this tutorial) in Atom
-1. Then we **save** the changes we made in Atom (to save them to the local version of the file)
+1. First we **edit** (or **add** or **remove**) one or more files in our project (like `README.md` in this tutorial) in VS Code
+1. Then we **save** the changes we made in VS Code (to save them to the local version of the file)
 1. Then we **commit** the changes we made in GitHub Desktop (to add them to the local version of the repository)
 1. Then we **push** the changes we made to GitHub.com (to save the in the remote version of the repository)
 

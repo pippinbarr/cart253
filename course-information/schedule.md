@@ -99,7 +99,7 @@ Week of 11 September 2023
 
 #### Writing code
 
-* ~~**Watch** [2.1. Working with code in Atom](https://www.youtube.com/watch?v=aaKkvYVYcKA) (18:16) (and **read** [Working with code in Atom](../topics/software/working-with-code-in-atom.md))~~
+* ~~**Watch** [2.1. Working with code in Atom](https://www.youtube.com/watch?v=aaKkvYVYcKA) (18:16)~~ (and **read** [Working with code in VS Code](../topics/software/working-with-code-in-vs-code.md))
 * **Watch** [2.2. Drawing shapes](https://www.youtube.com/watch?v=_opNnvV6ER4) (50:44) (and **read** [Drawing shapes](../topics/drawing/drawing-shapes.md))
 * **Watch** [2.3. Drawing colors](https://www.youtube.com/watch?v=NuhKC5NWTAw) (21:02) (and **read** [Drawing colors](../topics/drawing/drawing-colors.md))
 
