@@ -2,7 +2,7 @@
 
 # CART 253 - Creative Computation I - Fall 2023
 
-## Instructor
+## Instructors
 
 Pippin Barr  
 Associate Professor  
@@ -10,12 +10,18 @@ Department of Design and Computation Arts
 [pippin.barr@concordia.ca](mailto:pippin.barr@concordia.ca)  
 [www.pippinbarr.com](http://www.pippinbarr.com/)  
 
+Lee Wilkins 
+Department of Design and Computation Arts 
+[l.wilkins@concordia.ca](mailto:l.wilkins@concordia.ca)
+[www.leecyb.org](http://leecyb.org)
+
+
 ### Office hours
 
 tbd. (Previously Wednesdays, 14:00-16:00)
 
 ### TAs
-
+Section A (Thursdays): Stephen Friedrich 
 Section B (Tuesdays): Mathilde Davan
 
 ## Contents
