@@ -60,7 +60,7 @@ The key is that we want that specific folder open in its own window in VS Code. 
 
 ## Inside the template project
 
-![](images/VS Code-template-project.png)
+![](images/template-project-in-vs-code.png)
 
 - This is roughly what you should see when you open the template project
 - In this case we have the `index.html` file selected in the project on the left
@@ -118,15 +118,15 @@ Just to see how running our code works in action, let's add a tiny bit of code t
 
 ```javascript
 /**
- * Description of setup
- */
+ * Description of setup()
+*/
 function setup() {
 
 }
 
 /**
- * Description of draw
- */
+ * Description of draw()
+*/
 function draw() {
 
 }
@@ -136,15 +136,15 @@ Let's add one line of code so it looks like this:
 
 ```javascript
 /**
- * Description of setup
- */
+ * Description of setup()
+*/
 function setup() {
   background(255, 0, 0);
 }
 
 /**
- * Description of draw
- */
+ * Description of draw()
+*/
 function draw() {
 
 }

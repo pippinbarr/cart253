@@ -1,16 +1,15 @@
 /**
-Title of Project
-Author Name
-
-This is a template. You must fill in the title,
-author, and this description to match your project!
-*/
+ * Title of Project
+ * Author Name
+ * 
+ * This is a template. You must fill in the title, author, 
+ * and this description to match your project!
+ */
 
 "use strict";
 
-
 /**
-Description of preload
+ * Description of preload
 */
 function preload() {
 
@@ -18,7 +17,7 @@ function preload() {
 
 
 /**
-Description of setup
+ * Description of setup
 */
 function setup() {
 
@@ -26,7 +25,7 @@ function setup() {
 
 
 /**
-Description of draw()
+ * Description of draw()
 */
 function draw() {
 
