@@ -21,7 +21,7 @@ Department of Design and Computation Arts
 tbd. (Previously Wednesdays, 14:00-16:00)
 
 ### TAs
-Section A (Thursdays): Stephen Friedrich 
+Section A (Thursdays): Stephen Friedrich   
 Section B (Tuesdays): Mathilde Davan
 
 ## Contents
