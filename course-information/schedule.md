@@ -48,7 +48,7 @@ Week of 4 September 2023
 * **Watch** [1.1 Creating a repository](https://www.youtube.com/watch?v=h2KWrUI3P-g) (10:26) and/or **follow** the [text tutorial](../topics/software/github-repository.md)
 * **Watch** [1.2. Version control and workflow](https://www.youtube.com/watch?v=jxswW6yhB2I) (32:15) (and/or **read** [Version control and workflow](../topics/software/version-control-and-workflow.md))
 
-## 🧑‍🏫 Classroom (EV 8.15 at 13:45 on the day of class)
+## 🧑‍🏫 Classroom (in your assigned classroom at 13:15 on the day of class)
 
 * Welcome and Territorial Acknowledgement
 * Introductions
@@ -116,7 +116,7 @@ Week of 11 September 2023
   * **Watch** [2.6. Draw an alien](https://www.youtube.com/watch?v=gAiJp3pbk_U) (41:13) video to see Pippin doing it
   * **Check** out [Pippin's Draw an alien code](https://github.com/pippinbarr/cart253/blob/main/activities/draw-an-alien) if you like
 
-## 🧑‍🏫 Classroom (EV 5.815 at 13:45 on the day of class)
+## 🧑‍🏫 Classroom (EV 5.815 at 13:15 on the day of class)
 
 * Mini-review
 * The [Style Guide](../guides/style-guide.md)
@@ -179,7 +179,7 @@ Week of 18 September 2023
 
 * [Exercise: I Like to Move It!](../exercises/i-like-to-move-it)
 
-## 🧑‍🏫 Classroom (EV 8.15 at 13:45 on the day of class)
+## 🧑‍🏫 Classroom (in your assigned classroom at 13:15 on the day of class)
 
 * [Project 1](../projects/project1/)
 * [Arrays](#arrays) may be useful ahead of schedule
@@ -245,7 +245,7 @@ Week of 25 September 2023
 
 * [Exercise: Dodge-em](../exercises/dodge-em)
 
-## 🧑‍🏫 Classroom (EV 8.15 at 13:45 on the day of class)
+## 🧑‍🏫 Classroom (in your assigned classroom at 13:15 on the day of class)
 
 * [Conditionals](#conditionals) review
 * Q&A
@@ -304,7 +304,7 @@ Week of 2 October 2023
 
 * [Exercise: Love, Actually](../exercises/love-actually/)
 
-## 🧑‍🏫 Classroom (EV 8.15 at 13:45 on the day of class)
+## 🧑‍🏫 Classroom (in your assigned classroom at 13:15 on the day of class)
 
 * Q&A
 
@@ -355,7 +355,7 @@ Week of 16 October 2023
 
 * **Watch** [6.2. `"use strict";`](https://www.youtube.com/watch?v=P2wpX-bKO3U) (6:47) (and **read** [`"use strict";`](../topics/debugging/use-strict.md))
 
-## 🧑‍🏫 Classroom (EV 8.15 at 13:45 on the day of class)
+## 🧑‍🏫 Classroom (in your assigned classroom at 13:15 on the day of class)
 
 * [Project 1](../projects/project1/) first due date is tonight
 * Summarizing [Sound and strict](#sound-and-strict)
@@ -417,7 +417,7 @@ Week of 23 October 2023
 
 * **Start** [Exercise: Age of Aquariums](../exercises/age-of-aquariums/)
 
-## 🧑‍🏫 Classroom (EV 8.15 at 13:45 on the day of class)
+## 🧑‍🏫 Classroom (in your assigned classroom at 13:15 on the day of class)
 
 * [Project 2](../projects/project2/) is now available
 * Summarizing [Arrays learning materials](#arrays)
@@ -476,7 +476,7 @@ Week of 30 October 2023
 
 * **Start** [Exercise: Juggle Garden](../exercises/juggle-garden/)
 
-## 🧑‍🏫 Classroom (EV 8.15 at 13:45 on the day of class)
+## 🧑‍🏫 Classroom (in your assigned classroom at 13:15 on the day of class)
 
 * [Project 2](../projects/project2/) proposal and prototype are due next week
 * Summarizing [Object-Oriented Programming learning materials](#object-oriented-programming)
@@ -538,7 +538,7 @@ Week of 6 November 2023
   * **Follow along** with [9.5. Inheritance activity](https://www.youtube.com/watch?v=RsMhk8Zq4ic) (54:08) if you want!
   * **Check** out [Pippin's Inheritance activity code](https://github.com/pippinbarr/cart253/blob/main/activities/inheritance-activity) if you like
 
-## 🧑‍🏫 Classroom (EV 8.15 at 13:45 on the day of class)
+## 🧑‍🏫 Classroom (in your assigned classroom at 13:15 on the day of class)
 
 * [Project 2](../projects/project2/) proposal and prototype are due next week
 * Summarizing [Inheritance and polymorphism learning materials](#inheritance-and-polymorphism)
@@ -594,7 +594,7 @@ Week of 13 November 2023
 
 * **Start** [Exercise: Make Some Noise](../exercises/make-some-noise/)
 
-## 🧑‍🏫 Classroom (EV 8.15 at 13:45 on the day of class)
+## 🧑‍🏫 Classroom (in your assigned classroom at 13:15 on the day of class)
 
 * [Project 2](../projects/project2/) proposal and prototype is due tonight
 * Summarizing [p5.sound learning materials](#p5sound)
@@ -620,7 +620,7 @@ Week of 20 November 2023
 
 * **Start** [Exercise: Project Progress Report](../exercises/project-progress-report/)
 
-## 🧑‍🏫 Classroom (EV 8.15 at 13:45 on the day of class)
+## 🧑‍🏫 Classroom (in your assigned classroom at 13:15 on the day of class)
 
 * [Project 2](../projects/project2/)
 * Let's make something?
@@ -641,7 +641,7 @@ Week of 20 November 2023
 
 Week of 27 November 2023
 
-## 🧑‍🏫 Classroom (EV 8.15 at 13:45 on the day of class)
+## 🧑‍🏫 Classroom (in your assigned classroom at 13:15 on the day of class)
 
 * [Project 2](../projects/project2/)
 * Let's make something?
