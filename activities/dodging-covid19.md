@@ -25,7 +25,7 @@ First we will want to start a fresh project using the p5 template project for th
 
 1. Download the [Template p5 project](../templates/template-p5-project.zip) and unzip it
 2. Rename the folder from `template-p5-project` to `04-dodging-covid-19`
-3. Move the folder into your `cc1` repository folder inside the `activities` folder
+3. Move the folder into your `cart253-2023` repository folder inside the `activities` folder
 4. In GitHub Desktop, commit with a message like "A4: Started the COVID-19 activity" and push
 
 Remember that it's a nice idea to commit (and push) throughout the activity as you get different things done. This will be part of the evaluation for exercises and projects.
@@ -118,7 +118,7 @@ We're almost there!
 
 ---
 
-## Catching COVID-19!
+## Catching COVID-19
 
 We want to check if the `covid19` circle touches the `user` circle, in which case the user catching COVID-19 and the "simulation" is over! We will need another `if`-statement. So, in `draw()` __after__ the code that updates `covid19` and `user`'s positions:
 
@@ -138,10 +138,10 @@ We will write this immediately after our `background()` instruction in `draw()` 
 
 1. Write a `for` loop that counts from `0` up to `1000` (the number of points of static to display)
 2. Inside the `for` loop's curly brackets:
-  1. Declare a variable `x` and assign it a random position between `0` and `width` (use `random()`!)
-  2. Declare a variable `y` and assign it a random position between `0` and `height`
-  3. Set the `stroke()` to white
-  4. Draw a `point()` at your `x` and `y`
+1. Declare a variable `x` and assign it a random position between `0` and `width` (use `random()`!)
+2. Declare a variable `y` and assign it a random position between `0` and `height`
+3. Set the `stroke()` to white
+4. Draw a `point()` at your `x` and `y`
 
 Hey presto! Static fizzing away against the background! Looks great! What happens if you display `5000` points of static? `10000`? `100000`???
 
@@ -149,7 +149,7 @@ It would be nice to use a variable instead of that number for static, so declare
 
 ---
 
-## "Finished"!
+## "Finished"
 
 Now our program does what we said it would do!
 
@@ -157,7 +157,7 @@ There's always more tweaking we might do, but this is pretty good. We should pro
 
 ---
 
-## Commit! Push!
+## Commit! Push
 
 Remember to commit and push your code at the end (at least!) in order to save it.
 

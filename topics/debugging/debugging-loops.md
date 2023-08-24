@@ -124,7 +124,7 @@ Again the error does not point to the real location of the issue, but the error 
 
 To solve this error we should work backwards from the __bottom__ of the program and look for a spot that is missing a `}`.
 
-Note that these curly bracket errors are also __vastly__ easier if you are indenting your code automatically with the `atom-prettier` or `atom-beautify` packages in Atom because a missing `{` or `}` will make the indentation of the program look __very wrong__.
+Note that these curly bracket errors are also __vastly__ easier when VS Code automatically indents your code because a missing `{` or `}` will make the indentation of the program look __very wrong__.
 
 e.g. with auto-indenting:
 

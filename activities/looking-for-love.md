@@ -24,7 +24,7 @@ First we will want to start a fresh project using the p5 template project for th
 
 1. Download the [Template p5 project](../templates/template-p5-project.zip) and unzip it
 2. Rename the folder from `template-p5-project` to `05-looking-for-love`
-3. Move the folder into your `cc1` repository folder inside the `activities` folder
+3. Move the folder into your `cart253-2023` repository folder inside the `activities` folder
 4. In GitHub Desktop, commit with a message like "A5: Started the Looking for Love activity" and push
 
 Remember that it's a nice idea to commit (and push) throughout the activity as you get different things done. This will be part of the evaluation for exercises and projects.
@@ -36,19 +36,24 @@ Remember that it's a nice idea to commit (and push) throughout the activity as y
 If you want to go totally off road and just wing it, feel free, but generally it's still a good idea to have some kind of plan. Here's one:
 
 1. Set up the program
-  - Create objects representing our circles looking for love
-  - Do basic set up of our canvas
-  - Assign the circles random starting velocities in setup
-  - Set the background in draw
+
+- Create objects representing our circles looking for love
+- Do basic set up of our canvas
+- Assign the circles random starting velocities in setup
+- Set the background in draw
+
 2. Work on the simulation part
-  - Get the circles moving and display them
-  - Check for either circle moving off the screen (sadness)
-  - Check for the circles intersecting (love)
-  - Move the simulation stuff into functions
+
+- Get the circles moving and display them
+- Check for either circle moving off the screen (sadness)
+- Check for the circles intersecting (love)
+- Move the simulation stuff into functions
+
 3. Add the idea of states (title, simulation, love, sadness)
-  - Create a state variable and check it in draw
-  - Add title, love, and sadness functions that use simple text
-  - Connect the states (click to begin, simulation leads to outcomes)
+
+- Create a state variable and check it in draw
+- Add title, love, and sadness functions that use simple text
+- Connect the states (click to begin, simulation leads to outcomes)
 
 Some stuff to do here. Let's do this!
 
@@ -205,18 +210,19 @@ We want to display an ending when the circles are forever alone.
 
 ---
 
-## "Finished"!
+## "Finished"
 
 Now our program does what we said it would do! Quite a nice thing actually!
 
 We could do a few other things like
+
 - Move the texts for the title, sad ending, and love ending into variables
 - Improve our typography
 - Improve colors etc.
 
 ---
 
-## Commit! Push!
+## Commit! Push
 
 Remember to commit and push your code at the end (at least!) in order to save it.
 

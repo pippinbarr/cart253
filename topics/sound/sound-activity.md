@@ -24,7 +24,7 @@ First we will want to start a fresh project using the p5 template project for th
 
 1. Download the [Template p5 project](../templates/template-p5-project.zip) and unzip it
 2. Rename the folder from `template-p5-project` to `sound-activity`
-3. Move the folder into your `cc1` repository folder inside the `activities` folder
+3. Move the folder into your `cart253-2023` repository folder inside the `activities` folder
 4. In GitHub Desktop, commit with a message like "Activity: Started the sound activity" and push
 
 Remember that it's a nice idea to commit (and push) throughout the activity as you get different things done. This will be part of the evaluation for exercises and projects.

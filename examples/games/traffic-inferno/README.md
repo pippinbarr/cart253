@@ -6,4 +6,4 @@ Control your car with the arrow keys. UP = accelerate. LEFT and RIGHT = turn.
 
 Keep moving to increase your score, stop and it will decrease. Try to set a high score I guess?
 
-[Run the program](https://pippinbarr.github.io/cc/1/examples/games/traffic-inferno/) | [Source Code](https://www.github.com/pippinbarr/cart253-2020/tree/master/examples/games/traffic-inferno/) | [Download Source](https://pippinbarr.github.io/cc/1/examples/games/traffic-inferno.zip)
+[Run the program](https://pippinbarr.github.io/cart253/examples/games/traffic-inferno/) | [Source Code](https://www.github.com/pippinbarr/cart253/tree/main/examples/games/traffic-inferno/) | [Download Source](https://pippinbarr.github.io/cart253/examples/games/traffic-inferno.zip)

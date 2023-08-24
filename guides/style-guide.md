@@ -12,11 +12,9 @@
 
 ## Formatting
 
-### Use a package
+### Trust the editor
 
-__Use the `prettier-atom` package to format your code automatically!__ It won't do absolutely everything you need, but it will do most of it. In the settings, select "Format Code on Save" so that it happens automatically.
-
-There is another package called `atom-beauty` which you can install and use instead if you prefer it.
+__Let VS Code format your code automatically!__ It won't do absolutely everything you need, but it will do most of it.
 
 ### The basic ideas
 
@@ -51,6 +49,7 @@ function mousePressed() {
 ```
 
 The above example makes many mistakes. For instance:
+
 - The object variable `circle` is all on one line with no whitespace and has no semicolon
 - No whitespace between the variable declaration and the `setup()` function
 - `createCanvas()` isn't indented and has no semicolon
@@ -147,6 +146,7 @@ At the top of every JavaScript file (`.js`) you should have a comment that descr
 It is common to use a "multi-line comment" for these kinds of descriptions (and sometimes for functions too), which we write by starting with `/*` and ending with `*/`.
 
 `script.js`:  
+
 ```javascript
 /***********************
 Face drawing machine
@@ -269,7 +269,7 @@ It's important to __push__ your work to the remote server to keep it extra safe.
 
 ### The general idea
 
-Whenever you use code or media from somewhere else you must **attribute** it to give credit, this includes:
+Whenever you use code or media from somewhere else you must __attribute__ it to give credit, this includes:
 
 - Code/media found online
 - Code/media drawn from the course examples
@@ -281,7 +281,7 @@ To attribute, make sure to include the place you found the code/media and the or
 
 ### Licenses
 
-Much code and media online comes with a specific **license** (e.g. the Creative Commons) which you must respect. Make sure you read the licensing agreement and follow it.
+Much code and media online comes with a specific __license__ (e.g. the Creative Commons) which you must respect. Make sure you read the licensing agreement and follow it.
 
 ### Where to attribute
 
@@ -292,6 +292,6 @@ For media, you can attribute
 
 For code, you can attribute
 
-- In the location you are **using** the code (this is usually best for specific snippets of code)
+- In the location you are __using__ the code (this is usually best for specific snippets of code)
 - In your comment at the top of your main program file (this may be better if you are using an entire framework of code from somewhere else)
 - In your README.md (as above, this is better when using a large amount of pre-existing code)

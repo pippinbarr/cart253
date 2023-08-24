@@ -15,7 +15,7 @@ First we will want to start a fresh project using the p5 template project for th
 
 1. Download the [Template p5 project](../templates/template-p5-project.zip) and unzip it
 2. Rename the folder from `template-p5-project` to `02-draw-an-alien`
-3. Move the folder into your `cc1` repository folder inside a new `activities` folder
+3. Move the folder into your `cart253-2023` repository folder inside a new `activities` folder
 4. In GitHub Desktop, commit with a message like "Activity 02: Started the draw an alien activity" and push
 
 This is how we should __always__ start any new project, whether it's an experimental sandbox for lecture topics, an activity like this, or our final project.
@@ -111,11 +111,11 @@ We now have a __very convincing alien__ on our screen. Try not to run away in fe
 
 ---
 
-## Check it out on the internet!
+## Check it out on the internet
 
 Now that we have pushed our changes to GitHub.com we can view our work online. For example, Pippin's are at
 
-https://pippinbarr.github.io/cc1/activities/02-draw-an-alien/
+<https://pippinbarr.github.io/cart253-2023/activities/02-draw-an-alien/>
 
 Make the appropriate substitutions to that URL to match your username, repository name, activities folder, and folder name and you'll be able to see yours too!
 

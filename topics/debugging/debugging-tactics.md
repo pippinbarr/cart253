@@ -22,7 +22,7 @@ Some bugs are __syntax errors__ where we've typed something that doesn't make se
 
 ---
 
-## Debugging!
+## Debugging
 
 We call the process of fixing the bugs in our code "__debugging__".
 
@@ -105,10 +105,9 @@ Much of improving at debugging comes down to:
 1. Experiencing every kind of error and remembering the kinds of things that happen and how to fix them
 2. Avoiding the kinds of mistakes you're already familiar with in the first place (like curly brackets!)
 
-
 ---
 
-## Okay, my program works now...
+## Okay, my program works now
 
 __... but it doesn't, you know... work.__
 
@@ -166,9 +165,7 @@ There are a few basic things you can do to make your life of debugging easier:
 
 ## Remember to use proper formatting
 
-It is __really__ important to make sure that when you write (and debug) code it is properly indented. This is best achieved with a package in Atom that will automatically do this for you.
-
-`atom-prettier`, which you should have installed already, has an option in its preferences called "Format files on save" which you should have __on__. This will autoformat your entire file whenever you save it, which is __very__ helpful.
+It is __really__ important to make sure that when you write (and debug) code it is properly indented. This is best achieved by trusting VS Code's ability to format your code nicely!
 
 In particular, formatting our JavaScript files will often help to identify serious issues in the code, particularly around missing curly brackets which are the bane of our existence!
 

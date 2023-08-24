@@ -8,11 +8,11 @@ To begin work on a repository we need to have it on our local computer. If we do
 
 #### GitHub Desktop
 
-Go `File > Clone Repository...` and either select the desired repository from the list or paste in the URL for the repository (e.g. `https://www.github.com/pippinbarr/cc1/`)
+Go `File > Clone Repository...` and either select the desired repository from the list or paste in the URL for the repository (e.g. `https://www.github.com/pippinbarr/cart253-2023/`)
 
-#### Atom
+#### VS Code
 
-Open the command palette with `Command-Shift-P` and type `clone` to bring up the `GitHub: Clone` command. Execute the command and follow the instructions, pasting in the URL for your repository in the "Clone from" field.
+Open the command palette with `Command-Shift-P` and type `clone` to bring up the `GitHub: Clone` command. Execute the command and follow the instructions, pasting in the URL for your repository in the input field.
 
 #### Command line
 
@@ -27,9 +27,9 @@ Before starting work with your repository you should always at least check wheth
 
 Check the fetch/pull button at the top of the window, it will tell you if you can pull. Click it if you need to.
 
-#### Atom
+#### VS Code
 
-Check the fetch/pull button at the bottom right of the window, it will tell you if you can pull. Click it if you need to.
+Check the fetch/pull button at the bottom left of the window, it will tell you if you can pull. Click it if you need to.
 
 #### Command line
 
@@ -48,13 +48,12 @@ After doing a block of work you should **commit** it to save it in your reposito
 3. Enter a sensible, explanatory commit message in the Summary field
 4. Click the `Commit to master` button
 
-#### Atom
+#### VS Code
 
-1. Open the Git pane using `Packages > GitHub > Toggle Git Tab` if it isn't already open (or use the key combination)
-2. Check that all the file you've changed are listed in the Unstaged Changes area (and remind yourself of what has been changed by click on them if you want to)
-3. Stage the changes (confirming you want to commit them) by clicking the `Stage All` button (you can also stage a subset if you wanted)
-4. Enter a sensible, explanatory commit message in the Commit Message field
-5. Click the `Commit to master` button
+1. Open the version control pane using `View > Source Control` if it isn't already open or click the icon on the left of a little flowchart
+2. Check that all the file you've changed are listed in the changes area (and remind yourself of what has been changed by click on them if you want to)
+3. Enter a sensible, explanatory commit message in the Commit Message field
+4. Click the `Commit` button
 
 #### Command line
 
@@ -72,15 +71,15 @@ In order to store our commits on the remote repository host we need to **push** 
 
 Click the push button at the top right.
 
-#### Atom
+#### VS Code
 
-Click the push button at the bottom right.
+Click the push button at the bottom left.
 
 #### Command line
 
 1. `git push`
 
-## Undo!
+## Undo
 
 Sometimes you need to go back in time. See also: [How to undo (almost) anything with Git](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/)
 
@@ -92,9 +91,9 @@ If you just did some amount of work that sucks and you want to reset to where yo
 
 Right click the file you want to discard changes from in the Changes tab and choose "Discard changes"
 
-#### Atom
+#### VS Code
 
-First unstaging it if necessary, right click the file you want to discard changes from in the "Unstaged Changes" pane and choose "Discard changes".
+Right-click the file you want to discard changes from "changes" list and choose "Discard changes".
 
 #### Command line
 
@@ -108,9 +107,9 @@ Sometimes you want to get undo an entire commit in the history. You can only rea
 
 You can't really do this on GitHub Desktop.
 
-#### Atom
+#### VS Code
 
-In the History listed at the bottom right, click the "Undo" button next to the commit.
+Click the "three dots" at the top right of the Source Control pane then go to `Commit > Undo Last Commit`.
 
 #### Command line
 
@@ -126,9 +125,9 @@ When you've pushed a commit, you can no longer just undo it and pretend it didn'
 
 Right click the commit you want to revert in the History pane and select `Revert this Commit`. Note how it makes a **new** commit called `Revert` followed by the commit message of the change you're undoing. This commit still has to be pushed at some point.
 
-#### Atom
+#### VS Code
 
-You can't do this in Atom without a special extra package.
+You can't do this in VS Code without a special extra extension.
 
 #### Command line
 

@@ -1,11 +1,13 @@
 # Exercise: Make Some Noise {
 
 #### Grade
+
 - 4% of final grade
 - Remember that only 5 of your completed and passing exercises contribute to the final grade
 - Further guidelines below
 
 #### Deadline
+
 - Section A (Thursdays): 11:59PM, 11 November 2021.
 - Section B (Tuesdays): 11:59PM, 9 November 2021.
 
@@ -18,7 +20,7 @@
 
 1. Download the `template-p5-project` and rename the folder to `make-some-noise`
 3. Move the `make-some-noise` folder to your `exercises` folder
-4. Open the `make-some-noise` folder in Atom
+4. Open the `make-some-noise` folder in VS Code
 5. Commit and push in GitHub Desktop with a message saying "Ex: Started Make Some Noise exercise"
 
 ## Brief
@@ -44,17 +46,16 @@ If you simply cannot or will not include some kind of sound dimension in your fi
 
 ## Submission
 
-Submission will take place on __Moodle__. Go to the appropriately named __exercise__ on the Moodle and then submit your work there.
+Submission will take place on **Moodle**. Go to the appropriately named **exercise** on the Moodle and then submit your work there.
 
 Your submission should just be plain text that includes (substituting your GitHub username and any difference in the folder names):
 
-1. A link to your exercise code (e.g. https://github.com/pippinbarr/cc1/tree/master/exercises/make-some-noise/)
-2. A link to your project on the web (e.g. https://pippinbarr.github.io/cc1/exercises/make-some-noise/)
+1. A link to your exercise code (e.g. <https://github.com/pippinbarr/cart253/tree/main/exercises/make-some-noise/>)
+2. A link to your project on the web (e.g. <https://pippinbarr.github.io/cart253-2023/exercises/make-some-noise/>)
 
 ## Evaluation
 
 See the [evaluation guide for exercises](../evaluation-guide/)
-
 
 ---
 

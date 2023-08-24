@@ -24,7 +24,7 @@ First we will want to start a fresh project using the p5 template project for th
 
 1. Download the [Template p5 project](../templates/template-p5-project.zip) and unzip it
 2. Rename the folder from `template-p5-project` to `03-moving-pictures`
-3. Move the folder into your `cc1` repository folder inside the `activities` folder
+3. Move the folder into your `cart253-2023` repository folder inside the `activities` folder
 4. In GitHub Desktop, commit with a message like "A3: Started the moving pictures activity" and push
 
 Remember, this is how we should __always__ start any new project, whether it's an experimental sandbox for lecture topics, an activity like this, or our final project.
@@ -190,7 +190,7 @@ Both circles grow now! `circle1` grows because we add to its `size` and `circle2
 
 ---
 
-## "Finished"!
+## "Finished"
 
 Now our program does what we said it would do!
 
@@ -208,7 +208,7 @@ A further good thing to do, of course, is to add __more comments__ everywhere to
 
 ---
 
-## Commit! Push!
+## Commit! Push
 
 Remember to commit and push your code at the end (at least!) in order to save it.
 

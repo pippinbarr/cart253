@@ -19,9 +19,9 @@ While learning to program it's a __very__ good idea to follow along and try thin
 
 1. __Download and unzip__ the template project again if you need to
 2. __Rename__ the main folder from `template-p5-project` to something like `drawing-experiments`
-3. __Open__ the `drawing-experiments` folder in Atom so you're ready to work on it as a project
+3. __Open__ the `drawing-experiments` folder in VS Code so you're ready to work on it as a project
 
-__Note__: if you want to, you could move your `drawing-experiments` folder into your `cc1` repository inside a `sandboxes` folder and then commit and push your changes as you work. This way you could keep track of your progress as you try things out. This isn't required for these "sandbox" projects, but could be good practice.
+__Note__: if you want to, you could move your `drawing-experiments` folder into your `cart253-2023` repository inside a `sandboxes` folder and then commit and push your changes as you work. This way you could keep track of your progress as you try things out. This isn't required for these "sandbox" projects, but could be good practice.
 
 ---
 
@@ -94,7 +94,7 @@ function draw() {
 }
 ```
 
-Save the file and run atom-live-server if you haven't already, then check in the browser for the result.
+Save the file and "Go Live"" if you haven't already, then check in the browser for the result.
 
 Now we can see the canvas because it has a grey background. You can see that it's 100x100 pixels, and that it's pressed up against the top left corner of the screen.
 
@@ -144,7 +144,7 @@ We count the first pixel on an axis from __zero__, so if we're numbering our two
 
 ---
 
-## There on the canvas!
+## There on the canvas
 
 So, to specify the location of a pixel on the screen (or in our canvas) we give its __x and y coordinates__. x first, then y.
 
@@ -505,7 +505,7 @@ Now the line is on top.
 
 ---
 
-## And so on!
+## And so on
 
 There are more functions for drawing shapes, such as
 
@@ -642,7 +642,7 @@ Likewise, these `ellipseMode()` instructions apply to all ellipses drawn _after_
 
 ---
 
-## Draw something!
+## Draw something
 
 With all these drawing functions, we're now all set up to draw something made out of shapes, like...
 

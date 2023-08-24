@@ -1,8 +1,9 @@
-#### [CART253](/cart253-2021/) | [Schedule](/cart253-2021/course-information/schedule/) | [Guides](https://pippinbarr.github.io/cc/1/guides/) | [Examples](https://pippinbarr.github.io/cc/1/examples/)
+#### [CART253](/cart253-2021/) | [Schedule](/cart253-2021/course-information/schedule/) | [Guides](https://pippinbarr.github.io/cart253/guides/) | [Examples](https://pippinbarr.github.io/cart253/examples/)
 
 # Project 2: Anything™ {
 
 #### Grade
+
 - 50% of final grade
   - Proposal and prototype (10%)
   - Final project (40%)
@@ -10,10 +11,12 @@
 #### Deadlines
 
 ##### Proposal and prototype
+
 - Section B (Tuesdays): 11:59PM, 2 - 9 November 2021
 - Section A (Thursdays): 11:59PM, 4 - 11 November 2021
 
 ##### Final project
+
 - Section B (Tuesdays): 11:59PM, 7 December 2021
 - Section A (Thursdays): 11:59PM, 9 December 2021
 
@@ -122,7 +125,6 @@ Your submission should just be plain text that includes:
 1. A link to your project folder (including your proposal document or artist's statement)
 2. A link to your running project
 
-
 ## Evaluation
 
 ### Proposal and prototype
@@ -138,8 +140,8 @@ Grading for projects will consider the following categories:
 
 - **Functional** (40%)- The program runs and meets the brief in terms of functionality and code requirements, shows mastery of the course material.
 - **Creative** (30%) - the project is an interesting and expressive interpretation of the brief for the user. Has a clear point of view and conveys it consistently. Uses code in surprising ways to create new experiences.
-- **Style** (20%) - the code follows the [style guide](https://pippinbarr.github.io/cc/1/guides/style-guide.html).
-- **Commitment** (10%) - the code follows the version control section of the [style guide](https://pippinbarr.github.io/cc/1/guides/style-guide.html).
+- **Style** (20%) - the code follows the [style guide](https://pippinbarr.github.io/cart253/guides/style-guide.html).
+- **Commitment** (10%) - the code follows the version control section of the [style guide](https://pippinbarr.github.io/cart253/guides/style-guide.html).
 
 Each category for the project will be graded as follows:
 

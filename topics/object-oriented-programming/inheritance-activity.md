@@ -4,7 +4,6 @@
 
 1. Using inheritance to create and use multiple, similar classes
 
-
 ---
 
 ## The idea
@@ -21,7 +20,7 @@ First we will want to start a fresh project using the p5 template project for th
 
 1. Download the [Template p5 project](../templates/template-p5-project.zip) and unzip it
 2. Rename the folder from `template-p5-project` to `inheritance-activity`
-3. Move the folder into your `cc1` repository folder inside the `activities` folder
+3. Move the folder into your `cart253-2023` repository folder inside the `activities` folder
 4. In GitHub Desktop, commit with a message like "Activity: Started the Inheritance activity" and push
 
 Remember that it's a nice idea to commit (and push) throughout the activity as you get different things done. This will be part of the evaluation for exercises and projects.
@@ -79,7 +78,6 @@ We'll need to
 
 ---
 
-
 ### Create a class file and link it in `index.html`
 
 First we need a new file in our project to store the `Pedestrian` class in, so:
@@ -92,6 +90,7 @@ First we need a new file in our project to store the `Pedestrian` class in, so:
 Now we want to get the basics of our `Pedestrian` class working. To begin with, we need the basic `class` structure for the `Pedestrian`.
 
 `Pedestrian.js`
+
 1. Add the standard `class` definition structure to the file to define a `Pedestrian`
 
 ### Add a `constructor()`
@@ -99,6 +98,7 @@ Now we want to get the basics of our `Pedestrian` class working. To begin with, 
 The constructor should set the default properties of a pedestrian when it is created. Our pedestrian will be moving around in the simulation, so it needs a position, velocity, speed, and size. Since we know the pedestrian can be killed in traffic, it will need a property for that too. The position should be passed as parameters.
 
 `Pedestrian.js`
+
 1. Define a `constructor()` method with two parameters, `x` and `y`
 2. Create properties `x` and `y` and set them to the parameters `x` and `y`
 3. Create property `size` and set it to something like `20`
@@ -111,6 +111,7 @@ The constructor should set the default properties of a pedestrian when it is cre
 The pedestrian will move around using the arrow keys, so we need a method that checks which arrow key(s) are pressed and sets the pedestrian's velocity appropriately.
 
 `Pedestrian.js`
+
 1. Define a `handleInput()` method
 2. Check the left and right arrow keys to set the x velocity appropriately based on the `speed` property. If neither is held down, set the x velocity to `0`. (Use `keyIsDown()` to check the key codes `LEFT_ARROW` and `RIGHT_ARROW`)
 3. Check the up and down arrow keys to set the y velocity appropriately based on the `speed` property. If neither is held down, set the y velocity to `0`. (Use `keyIsDown()` to check the key codes `UP_ARROW` and `DOWN_ARROW`)
@@ -120,14 +121,16 @@ The pedestrian will move around using the arrow keys, so we need a method that c
 We want the pedestrian to move according to its velocity, so we should add its velocity to its position.
 
 `Pedestrian.js`
+
 1. Define a `move()` method
 2. Add the two velocity properties to the two position properties
 
 ### Add a `display()` method
 
-It would be sensible is we could, you know, **see** the pedestrian, so let's write a `display()` method to display it on the canvas.
+It would be sensible is we could, you know, __see__ the pedestrian, so let's write a `display()` method to display it on the canvas.
 
 `Pedestrian.js`
+
 1. Define a `display()` method
 2. Use `push()` and `pop()` around drawing instructions that display an ellipse at the pedestrian's position and use its size. Or draw something super fancy if you like!
 
@@ -148,7 +151,7 @@ We should now be able to run our program and move our pedestrian around on the s
 
 ## 3. Create a Vehicle class
 
-Now we want some **traffic**. We know that we want different kinds of vehicles driving around in our program, so it makes sense to define a `Vehicle` class to collect together all the shared properties and methods a vehicle will need. We can then `extend` that class to create specific kinds of vehicles that have different speeds and appearance.
+Now we want some __traffic__. We know that we want different kinds of vehicles driving around in our program, so it makes sense to define a `Vehicle` class to collect together all the shared properties and methods a vehicle will need. We can then `extend` that class to create specific kinds of vehicles that have different speeds and appearance.
 
 A vehicle will be some kind of rectangle that can move horizontally at a set speed. It will wrap when it reaches the left or right edges of the canvas.
 
@@ -179,6 +182,7 @@ First we need a new file in our project to store the `Vehicle` class in, so:
 Now we want to get the basics of our `Vehicle` class working. To begin with, we need the basic `class` structure for the `Vehicle`.
 
 `Vehicle.js`
+
 1. Add the standard `class` definition structure to the file to define a `Vehicle`
 
 ### Add a `constructor()`
@@ -188,6 +192,7 @@ The constructor should set the default properties of a vehicle when it is create
 Our vehicle needs to move on the screen so it will need a position, velocity, and speed. It will technically also have dimensions when we create specific vehicles extending this class.
 
 `Vehicle.js`
+
 1. Define a `constructor()` method with two parameters, `x` and `y`
 2. Create properties `x` and `y` and set them to the parameters `x` and `y`
 3. Create properties `width` and `height` and set them to `undefined` (this superclass doesn't have specific dimensions)
@@ -201,6 +206,7 @@ Our vehicle needs to move on the screen so it will need a position, velocity, an
 We want the vehicle to move according to its velocity, so we should add its velocity to its position.
 
 `Vehicle.js`
+
 1. Define a `move()` method
 2. Add the two velocity properties to the two position properties
 
@@ -244,13 +250,14 @@ Now that we have our `Vehicle` class we can extend it. The process of extending 
 
 ### Create a `Car` class file and link it in `index.html`
 
-You know how to do this by now. Make sure that you link to the `Car.js` file **after** the `Vehicle.js` file, since the `Car` class needs to know about the `Vehicle` class.
+You know how to do this by now. Make sure that you link to the `Car.js` file __after__ the `Vehicle.js` file, since the `Car` class needs to know about the `Vehicle` class.
 
 ---
 
 ### Add the class structure, making sure to extend the Vehicle class
 
 `Car.js`
+
 1. Add the standard `class` definition structure to the file to define a `Car` but include `extends Vehicle` after the class name to make it inherit its properties and methods from the `Vehicle` class.
 
 ---
@@ -320,11 +327,11 @@ We'll need an array to store all our vehicles in, as well as variables storing t
 We need to create our different kinds of vehicles in `setup()` and add them to our `vehicles` array. There are sneaky ways of doing this more efficiently, but in this case, let's just have a `for`-loop for each kind of vehicle we need to create. So for the cars we would:
 
 1. Write a `for`-loop that counts from `0` to `numCars`. Inside:
-  1. Declare `x` and `y` variables and assign random positions (for the `y` variable, choose a random position that does not include the bottom of the canvas, to the pedestrian has somewhere to stand!)
-  2. Declare a `car` variable and assign a new `Car` using the `x` and `y` as arguments
-  3. Push the new `car` variable into the `vehicles` array
+1. Declare `x` and `y` variables and assign random positions (for the `y` variable, choose a random position that does not include the bottom of the canvas, to the pedestrian has somewhere to stand!)
+2. Declare a `car` variable and assign a new `Car` using the `x` and `y` as arguments
+3. Push the new `car` variable into the `vehicles` array
 
-That will take care of the cars. Now **do the same thing for the trucks and motorcycles**.
+That will take care of the cars. Now __do the same thing for the trucks and motorcycles__.
 
 ---
 
@@ -333,9 +340,9 @@ That will take care of the cars. Now **do the same thing for the trucks and moto
 We want our various vehicles to be moving either right or left for some visual chaos! There are different ways to achieve this, but we'll do it in another `for`-loop at the end of `setup()`.
 
 1. Write a `for`-loop that goes through the `vehicles` array from `0` to `vehicles.length` in a variable `i`. Inside:
-  1. Store the current vehicle in the array (at index `i`) in a variable called `vehicle`
-  2. Declare a variable `r` and assign it a random number between `0` and `1`
-  3. Write an `if`-statement that checks if `r` is less than `0.5` (50% of the time it will be)
+1. Store the current vehicle in the array (at index `i`) in a variable called `vehicle`
+2. Declare a variable `r` and assign it a random number between `0` and `1`
+3. Write an `if`-statement that checks if `r` is less than `0.5` (50% of the time it will be)
     1. If it is `true`, then assign `-vehicle.speed` to `vehicle.vx` (so it moves to the left)
     2. If it is `false` then assign `vehicle.speed` to `vehicle.vx` (so it moves to the right)
 
@@ -348,10 +355,10 @@ Now our vehicles are all set up to either move to the left or the right when the
 Finally, for our simulation to actually show our vehicles moving around, we need to add a `for`-loop that runs through all the vehicles and calls their `move()`, `wrap()` and `display()` methods.
 
 1. In `simulation()` write a `for`-loop that counts from `0` to `vehicles.length` with a variable `i`. Inside:
-  1. Store the current vehicle in the array (at index `i`) in a variable called `vehicle`
-  2. Call the `move()` method of the `vehicle`
-  3. Call the `wrap()` method of the `vehicle`
-  4. Call the `display()` method of the `vehicle`
+1. Store the current vehicle in the array (at index `i`) in a variable called `vehicle`
+2. Call the `move()` method of the `vehicle`
+3. Call the `wrap()` method of the `vehicle`
+4. Call the `display()` method of the `vehicle`
 
 ---
 
@@ -382,6 +389,7 @@ A central part of our simulation is knowing whether or not the pedestrian is hit
 For simplicity, if you're struggling to think about it, this particular code would look like this:
 
 `Pedestrian.js`
+
 ```javascript
 checkHit(vehicle) {
   if (this.x > vehicle.x - vehicle.width / 2 &&
@@ -419,11 +427,12 @@ Wow! Now we have a very depressing commentary of trying to cross the road! Love 
 
 ---
 
-## "Finished"!
+## "Finished"
 
 Now our program does what we said it would do! Not bad, not bad.
 
 We could do so many things:
+
 - Tweak the relative speeds and relative of our objects to change the experience of play
 - Implement movement with angle/speed instead of our current movement style (it would be pretty interesting to do this with the vehicles too!)
 - Fix the "easter egg" of being able to walk the pedestrian off the canvas to the left or right and then up to the top our of harm's way!
@@ -436,7 +445,7 @@ We could do so many things:
 
 ---
 
-## Commit! Push!
+## Commit! Push
 
 Remember to commit and push your code at the end (at least!) in order to save it.
 

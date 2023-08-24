@@ -33,7 +33,7 @@ funtion drawCircle() {
 
 A familiar error telling us JavaScript has seen something unexpected. Again, this is so often a typo of some kind. The line number is correct, so we need to eyeball the line to spot the issue.
 
-Note how in Atom, which uses "syntax highlighting" to change the colors of the various key words in your program, `funtion` is the __wrong color__ for a keyword, turning white instead of purple (in my coloring at least).
+Note how in VS Code, which uses "syntax highlighting" to change the colors of the various key words in your program, `funtion` is the __wrong color__ for a keyword, turning white instead of purple (in my coloring at least).
 
 ---
 

@@ -30,13 +30,9 @@ Remember this is somewhat an artificial example, because you would rarely write 
 
 ---
 
-## Please remember to use proper formatting!
+## Please remember to use proper formatting
 
-It is __really__ important to make sure that when you write (and debug) code it is properly indented. This is best achieved with a package in Atom that will automatically do this for you.
-
-`atom-prettier`, which you should have installed already, has an option in its preferences called "Format files on save" which you should have __on__. This will autoformat your entire file whenever you save it, which is __very__ helpful.
-
-As a backup, consider also installing `atom-beautify`, another package which handles autoindenting and formatting.
+It is __really__ important to make sure that when you write (and debug) code it is properly indented. This is best achieved by letting VS Code do its automatic formatting magic for you.
 
 Formatting our JavaScript files will often help to identify serious issues in the code, particularly around missing curly brackets which are the bane of our existence!
 
@@ -149,7 +145,7 @@ function displayFood(food)
 
 ---
 
-## Finished?!
+## Finished?
 
 That was some terrible, terrible code wasn't it? But we made it through and now it works!
 

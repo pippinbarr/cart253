@@ -13,7 +13,7 @@ __We constantly need to _debug_ our work__
 
 ---
 
-## Bugs! Gross!
+## Bugs! Gross
 
 - We can think of a "bug" as basically any problem with our program
 - Many of them are _syntax errors_ where we've typed something that doesn't make sense to JavaScript in some way
@@ -23,7 +23,7 @@ __True story__: The story goes that they're called "bugs" from back in the day w
 
 ---
 
-## Debugging!
+## Debugging
 
 - Debugging is the process of going through our code and getting rid of all the bugs
 - Controversial opinion: __Debugging is actually pretty fun__ once you get used to it
@@ -60,7 +60,7 @@ function draw() {
 
 ## Run your program
 
-- Use `atom-live-server` to start a local server and run the program
+- Use "Go Live" to start a local server and run the program
 - You should see a black circle on a pink background
 - Everything is working as expected!
 
@@ -71,7 +71,6 @@ function draw() {
 - In Chrome go to `View > Developer > JavaScript Console`
 - In FireFox go to `Tools > Web Developer > Web Console`
 - A new window will show up in your browser
-- You will likely see the text "Live reload enabled.", which is `atom-live-server` reporting for duty
 - That is the JavaScript console
 - Because everything is going well, it doesn't need to say much
 
@@ -81,7 +80,7 @@ __Good ideas:__ Ideally, memorize the shortcut for bringing up the JavaScript co
 
 ## Cause a problem
 
-- In Atom, go to your script and let's break it a bit
+- In VS Code, go to your script and let's break it a bit
 - Misspell `background` as `bckground`
 
 ```javascript
@@ -137,7 +136,7 @@ Uncaught ReferenceError: bckground is not defined
 - This error message tells us a lot
 - Critically, it tells us _where_ it thinks the error is: `script.js:3`
 - That means "line 3 of the file `script.js`"
-- The fact that Atom numbers your lines is very helpful now!
+- The fact that VS Code numbers your lines is very helpful now!
 - Also, you can type `Control-G` to specify a line to jump to if you have a big program
 
 __Extra:__ You can see that the answer to "Where?" is actually more detailed than this:
@@ -171,16 +170,16 @@ In this case, the explanation is right there in the error message: "bckground is
 ## Fix it
 
 - Having diagnosed the error using the console we simply go to our code and make the appropriate change
-- Go to Atom and fix the broken code
+- Go to VS Code and fix the broken code
 - Then go back into Chrome and confirm that it works again
 - That's debugging!
 
 ---
 
-## Debugging!
+## Debugging
 
 - We now know the basic process for debugging in JavaScript
-- We run our code in the browser (using `atom-live-server`)
+- We run our code in the browser (using "Go Live")
 - We make sure the JavaScript Console is open
 - We look in the console to check for errors
 - We interpret the errors

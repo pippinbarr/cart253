@@ -23,7 +23,7 @@ clas FireFly {
 
 A familiar error telling us JavaScript has seen something unexpected. Again, this is so often a typo of some kind. The line number is correct, so we need to eyeball the line to spot the issue.
 
-Note how in Atom, which uses "syntax highlighting" to change the colors of the various key words in your program, `clas` is the __wrong color__ for a keyword, turning white instead of purple (in my coloring at least).
+Note how in VS Code, which uses "syntax highlighting" to change the colors of the various key words in your program, `clas` is the __wrong color__ for a keyword, turning white instead of purple (in my coloring at least).
 
 Same thing for miswriting `extends` if using inheritance
 
@@ -88,7 +88,7 @@ class FireFly {
 
 There is no variable called `size` in the program defined anywhere. We should have written `this.size` to make `size` a property of our new `FireFly` object.
 
-This kind of error can be **even worse** if there **is** a variable called `size` somewhere in our program! Then our class **would** use that variable, setting it to `10`, and it would be doing the wrong thing.
+This kind of error can be __even worse__ if there __is__ a variable called `size` somewhere in our program! Then our class __would__ use that variable, setting it to `10`, and it would be doing the wrong thing.
 
 ### With methods
 
@@ -120,7 +120,7 @@ class FireFly {
 
 `Uncaught (in promise) ReferenceError: move is not defined   FireFly.js:9`
 
-The same problem. There is no function called `move()` in this program. We intended to call the **method** called `move()` (and `display()`), but to do so we'd have needed to write:
+The same problem. There is no function called `move()` in this program. We intended to call the __method__ called `move()` (and `display()`), but to do so we'd have needed to write:
 
 ```javascript
 update() {
@@ -129,7 +129,7 @@ update() {
 }
 ```
 
-As above, this kind of error can be **even worse** if there **is** a function called `move()` or `display()` somewhere in our program! Then our class **would** call that method, and it would be doing the wrong thing.
+As above, this kind of error can be __even worse__ if there __is__ a function called `move()` or `display()` somewhere in our program! Then our class __would__ call that method, and it would be doing the wrong thing.
 
 ---
 
@@ -189,7 +189,7 @@ class FireFly {
 
 `Uncaught (in promise) TypeError: this.move is not a function   FireFly.js:9`
 
-Here the problem is in the definition of the method as `moov()`, causing our "correct" calling of `this.move()` to fail. In these cases it's wise to remember we should always look at the **place we call a method/function** and **the method/function definition** to figure out what's going on.
+Here the problem is in the definition of the method as `moov()`, causing our "correct" calling of `this.move()` to fail. In these cases it's wise to remember we should always look at the __place we call a method/function__ and __the method/function definition__ to figure out what's going on.
 
 ---
 
