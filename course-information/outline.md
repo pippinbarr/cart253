@@ -2,18 +2,29 @@
 
 # CART 253: Creative Computation 1 – Fall 2023 – 3 credits
 
-## When?
+## When and where?
 
 5 September – 4 December, 2023  
-Tuesdays, 13:45 – 17:45
 
-## Where?
-
-EV 5.815
+**Section A**: Thursdays, 13:45 – 17:45 in EV 5.635  
+**Section B**: Tuesdays, 13:45 – 17:45 in EV 5.815
 
 Also: Discord, Zoom, email, the internet!
 
 ## Who?
+
+### Section A (Thursdays)
+
+Lee Wilkins
+Department of Design and Computation Arts
+[l.wilkins@concordia.ca](mailto:l.wilkins@concordia.ca)  
+[www.leecyb.org](http://leecyb.org)  
+
+Office hours tbd.
+
+**Teaching assistant**: Stephen Friedrich
+
+### Section B (Tuesdays)
 
 Dr. Pippin Barr  
 Associate Professor  
@@ -22,13 +33,9 @@ Department of Design and Computation Arts
 [pippin.barr@concordia.ca](mailto:pippin.barr@concordia.ca)  
 [www.pippinbarr.com](http://www.pippinbarr.com/)  
 
-## Office hours (on Discord)
+Office hours tbd. (Previously: Wednesdays, 14:00-16:00)
 
-tbd. (Previously: Wednesdays, 14:00-16:00)
-
-## TA (see Moodle for contact details)
-
-Mathilde Davan
+**Teaching assistant**: Mathilde Davan
 
 ## [Territorial acknowledgment](https://www.concordia.ca/about/indigenous/territorial-acknowledgement.html)
 
@@ -50,17 +57,17 @@ After completing this course, students should be able to:
 
 ### Lectures
 
-Each week will include a number of lecture videos and notes covering a specific topic in JavaScript programming and libraries for students to follow in their own time before that week's class time.
+Most weeks will include a number of lecture videos and notes covering a specific topic in JavaScript programming and libraries for students to follow in their own time before that week's class time.
 
 ### Activities
 
-Each week will include a short programming activity covering the topic of the week. Students will complete the activity themselves (optionally alongside a video of the instructor doing the same work).
+Most weeks will include a short programming activity covering the topic of the week. Students will complete the activity themselves (optionally alongside a video of the instructor doing the same work).
 
 ### Class structure
 
 #### Discussion
 
-Each class will being with a discussion period in the classroom. The instructor will recap the week's material and answer any and all questions about it. Additionally topics for discussion will be introduced as necessary by the instructor, TA, and students. As much as possible this session will also be live on Zoom or Discord and recorded.
+Each class will being with a discussion period in the classroom. The instructor will  answer questions about about the week's material and demonstrate examples. Additional topics for discussion will be introduced as necessary by the instructor, TA, and students. As much as possible this session will also be live on Zoom or Discord and recorded.
 
 Attendance at the start of class period is heavily recommended.
 
