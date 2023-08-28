@@ -11,10 +11,9 @@
 * [🔉Sound and strict](#-sound-and-strict) - basic sound and `"use strict";`
 * [🗄️ Arrays](#-arrays) - storing data in little boxes
 * [🧱 Object-Oriented Programming](#-object-oriented-programming) - thinking of code as a collection of objects
+* [🆘 Project 2 Proposal Studio](#-project-2-proposal-studio)
 * [🔊 p5.sound](#-p5sound) - the p5.sound library
-* [🆘 Project 2 Studio I](#-project-2-studio-i)
-* [🆘 Project 2 Studio II](#-project-2-studio-ii)
-* [🆘 Project 2 Studio III](#-project-2-studio-iii)
+* [🆘 Project 2 Studio](#-project-2-studio)
 * OPTIONAL: [👪 Inheritance and Polymorphism](#-optional-inheritance-and-polymorphism) - creating objects based on other objects
 
 ---
@@ -497,7 +496,7 @@ Week of 30 October 2023
 
 ---
 
-# 🆘 Project 2 Studio I
+# 🆘 Project 2 Proposal Studio
 
 Week of 6 November 2023
 
@@ -577,7 +576,7 @@ Week of 13 November 2023
 
 ---
 
-# 🆘 Project 2 Studio II
+# 🆘 Project 2 Studio
 
 Week of 20 November 2023
 
