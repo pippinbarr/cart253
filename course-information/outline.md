@@ -127,7 +127,7 @@ Specific evaluation requirements will be provided when assigned.
   * Due: week of 16 October 2023 (midnight, day of class)
 * Project 2 (50%)
   * Proposal and prototype (10%)
-    * Assigned: week of 23 October 2022 (in class)
+    * Assigned: week of 23 October 2023 (in class)
     * Due: week of 6 November 2023 (midnight, day of class)
   * Presentation (5%)
     * Due: week of 27 November 2023 (in class)
