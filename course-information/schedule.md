@@ -11,10 +11,11 @@
 * [🔉Sound and strict](#-sound-and-strict) - basic sound and `"use strict";`
 * [🗄️ Arrays](#-arrays) - storing data in little boxes
 * [🧱 Object-Oriented Programming](#-object-oriented-programming) - thinking of code as a collection of objects
-* [👪 Inheritance and Polymorphism](#-inheritance-and-polymorphism) - creating objects based on other objects
 * [🔊 p5.sound](#-p5sound) - the p5.sound library
 * [🆘 Project 2 Studio I](#-project-2-studio-i)
 * [🆘 Project 2 Studio II](#-project-2-studio-ii)
+* [🆘 Project 2 Studio III](#-project-2-studio-iii)
+* OPTIONAL: [👪 Inheritance and Polymorphism](#-optional-inheritance-and-polymorphism) - creating objects based on other objects
 
 ---
 
@@ -491,68 +492,32 @@ Week of 30 October 2023
 ## 📝 Homework
 
 * Continue work on next week's material
+* See also: [👪 Inheritance and Polymorphism](#-optional-inheritance-and-polymorphism) - creating objects based on other objects
 * [Project 2](../projects/project2/)
 
 ---
 
-# 👪 Inheritance and polymorphism
+# 🆘 Project 2 Studio I
 
 Week of 6 November 2023
 
-## ✅ Objectives
-
-* Understanding inheritance as a way to make more complex class structures
-* Taking advantage of polymorphism
-
-## Template (for experimenting and the activity)
-
-* [Template p5 project](../templates/template-p5-project.zip)
-
 ## 🏠 Before class
 
-### 💡 Topics
-
-[Inheritance and polymorphism YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd1XiX1XQ2ZML_krsuXObtcQ)
-
-#### Inheritance and polymorphism
-
-* **Watch** [9.1. Inheritance](https://www.youtube.com/watch?v=ZOnHATLcv-Y) (27:38) (and **read** [Inheritance](../topics/object-oriented-programming/inheritance.md))
-* **Watch** [9.2. Overriding methods](https://www.youtube.com/watch?v=7Iyw7eU_m3o) (10:36) (and **read** [Overriding methods](../topics/object-oriented-programming/overriding-methods.md))
-* **Watch** [9.3. Polymorphism](https://www.youtube.com/watch?v=UvMMgMZXz9w) (11:17) (and **read** [Polymorphism](../topics/object-oriented-programming/polymorphism.md))
-* **Watch** [9.4. Chains of Inheritance](https://www.youtube.com/watch?v=ZYp0GZGjXRU) (11:54) (and **read** [Chains of Inheritance](../topics/object-oriented-programming/chains-of-inheritance.md))
-
-#### Movement
-
-* **Read** [Movement with Polar Coordinates](../topics/movement/movement-with-polar-coordinates.md)
-
-### Relevant examples
-
-* **Example** [OOP States](examples/#oop-states) - using Object-Oriented Programming, Inheritance, and Polymorphism to manage program states
-* **Example** [Clown Chase](examples/#clown-chase) - using images as part of JavaScript Object literals
-* **Example** [Clown Chase OOP](examples/#clown-chase-oop) - using images with Object-Oriented Programming
-* **Example** [Clown Chase Inheritance](examples/#clown-chase-inheritance) - using images with Object-Oriented Programming and Inheritance
-
-### Activity
-
-* **Complete** [Inheritance activity](../topics/object-oriented-programming/inheritance-activity.md)
-  * **Follow along** with [9.5. Inheritance activity](https://www.youtube.com/watch?v=RsMhk8Zq4ic) (54:08) if you want!
-  * **Check** out [Pippin's Inheritance activity code](https://github.com/pippinbarr/cart253/blob/main/activities/inheritance-activity) if you like
+* **Start** [Exercise: Project Progress Report](../exercises/project-progress-report/)
 
 ## 🧑‍🏫 Classroom (in your assigned classroom at 13:15 on the day of class)
 
-* [Project 2](../projects/project2/) proposal and prototype are due next week
-* Summarizing [Inheritance and polymorphism learning materials](#inheritance-and-polymorphism)
+* [Project 2](../projects/project2/) proposal workshopping
 * Let's make something?
 
 ## 🎨 Studio (in the classroom and the Discord #studio channel)
 
 * Instructor and TA available to help
-* Start work on next week's material
+* [Exercise: Project Progress Report](../exercises/project-progress-report/) (due tonight)
 * [Project 2](../projects/project2/)
 
 ## 📝 Homework
 
-* Continue work on next week's material
 * [Project 2](../projects/project2/)
 
 ---
@@ -612,13 +577,9 @@ Week of 13 November 2023
 
 ---
 
-# 🆘 Project 2 Studio I
+# 🆘 Project 2 Studio II
 
 Week of 20 November 2023
-
-## 🏠 Before class
-
-* **Start** [Exercise: Project Progress Report](../exercises/project-progress-report/)
 
 ## 🧑‍🏫 Classroom (in your assigned classroom at 13:15 on the day of class)
 
@@ -628,7 +589,28 @@ Week of 20 November 2023
 ## 🎨 Studio (in the classroom and the Discord #studio channel)
 
 * Instructor and TA available to help
-* [Exercise: Project Progress Report](../exercises/project-progress-report/) (due tonight)
+* [Project 2](../projects/project2/)
+
+## 📝 Homework
+
+* [Project 2](../projects/project2/)
+* Remember that **presentations** are next week
+* [Exercise: Reflection](../exercises/reflection/) (due tonight!)
+
+---
+
+# 🧑‍💻 Project 2 Presentations
+
+Week of 27 November 2023
+
+## 🧑‍🏫 Classroom (in your assigned classroom at 13:15 on the day of class)
+
+* [Project 2](../projects/project2/) presentations
+
+## 🎨 Studio (in the classroom and the Discord #studio channel)
+
+* **If there is time after the presentations**
+* Instructor and TA available to help
 * [Project 2](../projects/project2/)
 
 ## 📝 Homework
@@ -637,21 +619,43 @@ Week of 20 November 2023
 
 ---
 
-# 🆘 Project 2 Studio II
+# OPTIONAL: 👪 Inheritance and polymorphism
 
-Week of 27 November 2023
+## ✅ Objectives
 
-## 🧑‍🏫 Classroom (in your assigned classroom at 13:15 on the day of class)
+* Understanding inheritance as a way to make more complex class structures
+* Taking advantage of polymorphism
 
-* [Project 2](../projects/project2/)
-* Let's make something?
+## Template (for experimenting and the activity)
 
-## 🎨 Studio (in the classroom and the Discord #studio channel)
+* [Template p5 project](../templates/template-p5-project.zip)
 
-* Instructor and TA available to help
-* [Project 2](../projects/project2/)
+## 🏠 Before class
 
-## 📝 Homework
+### 💡 Topics
 
-* [Project 2](../projects/project2/)
-* [Exercise: Reflection](../exercises/reflection/) (due tonight!)
+[Inheritance and polymorphism YouTube Playlist](https://www.youtube.com/playlist?list=PLlhzHWGvpvd1XiX1XQ2ZML_krsuXObtcQ)
+
+#### Inheritance and polymorphism
+
+* **Watch** [9.1. Inheritance](https://www.youtube.com/watch?v=ZOnHATLcv-Y) (27:38) (and **read** [Inheritance](../topics/object-oriented-programming/inheritance.md))
+* **Watch** [9.2. Overriding methods](https://www.youtube.com/watch?v=7Iyw7eU_m3o) (10:36) (and **read** [Overriding methods](../topics/object-oriented-programming/overriding-methods.md))
+* **Watch** [9.3. Polymorphism](https://www.youtube.com/watch?v=UvMMgMZXz9w) (11:17) (and **read** [Polymorphism](../topics/object-oriented-programming/polymorphism.md))
+* **Watch** [9.4. Chains of Inheritance](https://www.youtube.com/watch?v=ZYp0GZGjXRU) (11:54) (and **read** [Chains of Inheritance](../topics/object-oriented-programming/chains-of-inheritance.md))
+
+#### Movement
+
+* **Read** [Movement with Polar Coordinates](../topics/movement/movement-with-polar-coordinates.md)
+
+### Relevant examples
+
+* **Example** [OOP States](examples/#oop-states) - using Object-Oriented Programming, Inheritance, and Polymorphism to manage program states
+* **Example** [Clown Chase](examples/#clown-chase) - using images as part of JavaScript Object literals
+* **Example** [Clown Chase OOP](examples/#clown-chase-oop) - using images with Object-Oriented Programming
+* **Example** [Clown Chase Inheritance](examples/#clown-chase-inheritance) - using images with Object-Oriented Programming and Inheritance
+
+### Activity
+
+* **Complete** [Inheritance activity](../topics/object-oriented-programming/inheritance-activity.md)
+  * **Follow along** with [9.5. Inheritance activity](https://www.youtube.com/watch?v=RsMhk8Zq4ic) (54:08) if you want!
+  * **Check** out [Pippin's Inheritance activity code](https://github.com/pippinbarr/cart253/blob/main/activities/inheritance-activity) if you like
