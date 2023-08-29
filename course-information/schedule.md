@@ -56,7 +56,6 @@ Week of 4 September 2023
 * Reviewing the [Course Schedule](./)
 * Waiting list? Is anyone on it?
 * The [C-LAB](https://clab.concordia.ca/) is there to help you, **get in touch now!**
-* Computation Arts Orientation at 16:00 on Zoom (Pippin will provide the link)
 * Q&A
 
 ## 🎨 Studio (in the classroom and the Discord #studio channel)
@@ -502,8 +501,6 @@ Week of 6 November 2023
 
 ## 🏠 Before class
 
-* **Start** [Exercise: Project Progress Report](../exercises/project-progress-report/)
-
 ## 🧑‍🏫 Classroom (in your assigned classroom at 13:15 on the day of class)
 
 * [Project 2](../projects/project2/) proposal workshopping
@@ -512,7 +509,6 @@ Week of 6 November 2023
 ## 🎨 Studio (in the classroom and the Discord #studio channel)
 
 * Instructor and TA available to help
-* [Exercise: Project Progress Report](../exercises/project-progress-report/) (due tonight)
 * [Project 2](../projects/project2/)
 
 ## 📝 Homework
@@ -579,6 +575,12 @@ Week of 13 November 2023
 # 🆘 Project 2 Studio
 
 Week of 20 November 2023
+
+## 🏠 Before class
+
+### Exercise
+
+* Start [Exercise: Reflection](../exercises/reflection/)
 
 ## 🧑‍🏫 Classroom (in your assigned classroom at 13:15 on the day of class)
 
