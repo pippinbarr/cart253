@@ -6,8 +6,8 @@
 
 5 September – 4 December, 2023  
 
-**Section A**: Thursdays, 13:45 – 17:45 in EV 5.635  
-**Section B**: Tuesdays, 13:45 – 17:45 in EV 5.815
+**Section A**: Thursdays, 13:15 – 17:15 in EV 5.635  
+**Section B**: Tuesdays, 13:15 – 17:15 in EV 5.815
 
 Also: Discord, Zoom, email, the internet!
 
