@@ -75,6 +75,17 @@ Week of 4 September 2023
 
 Week of 11 September 2023
 
+## NOTE
+
+**This is a reminder that there are a couple of small differences between the programming environment you'll see in the instructional videos and what we're using this year:**
+
+* **Our code editor is *VS Code* and not *Atom***
+* **Starting the program in the browser uses the *Go Live* button in VS Code and not *atom-live-server* in Atom**
+* **Your repository is probably called `cart253-2023` and not `cc1`**
+* **The main branch of your repository is called `main` and not `master`**
+
+**If you notice anything else confusing please let Pippin know so he can add it to the list.**
+
 ## 🏠 Before class
 
 ### ✅ Objectives
