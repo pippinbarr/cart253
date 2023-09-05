@@ -10,8 +10,8 @@
 
 **Note**: This project has a courtesy week of extra flexibility to help you schedule it against other project from other classes. You can submit any time in between the two listed hand-in dates.
 
-- Section B (Tuesdays): 11:59PM, 12 October 2021 **or** 19 October 2021
-- Section A (Thursdays): 11:59PM, 14 October 2021 **or** 21 October 2021
+- Section B (Tuesdays): 11:59PM, 17 October 2023
+- Section A (Thursdays): 11:59PM, 19 October 2023
 
 ## Objectives
 

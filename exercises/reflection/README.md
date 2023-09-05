@@ -8,8 +8,8 @@
 
 #### Deadline
 
-- Section A (Thursdays): 11:59PM, 2 December 2021.
-- Section B (Tuesdays): 11:59PM, 30 November 2021.
+- Section A (Thursdays): 11:59PM, 23 November 2023.
+- Section B (Tuesdays): 11:59PM, 21 November 2023.
 
 ## Objectives
 

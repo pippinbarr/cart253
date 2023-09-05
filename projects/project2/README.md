@@ -6,19 +6,25 @@
 
 - 50% of final grade
   - Proposal and prototype (10%)
-  - Final project (40%)
+  - Presentation (5%)
+  - Final project (35%)
 
 #### Deadlines
 
 ##### Proposal and prototype
 
-- Section B (Tuesdays): 11:59PM, 2 - 9 November 2021
-- Section A (Thursdays): 11:59PM, 4 - 11 November 2021
+- Section B (Tuesdays): 11:59PM, 7 November 2023
+- Section A (Thursdays): 11:59PM, 9 November 2023
+
+##### Presentation
+
+- Section B (Tuesdays): 11:59PM, 28 November 2023
+- Section A (Thursdays): 11:59PM, 30 November 2023
 
 ##### Final project
 
-- Section B (Tuesdays): 11:59PM, 7 December 2021
-- Section A (Thursdays): 11:59PM, 9 December 2021
+- Section B (Tuesdays): 11:59PM, 5 December 2023
+- Section A (Thursdays): 11:59PM, 7 December 2023
 
 ## Objectives
 
@@ -41,8 +47,8 @@ The proposal and prototype stage will require you to write a **short proposal do
 
 ### Deadline
 
-- Section B (Tuesdays): 11:59PM, 2 - 9 November 2021
-- Section A (Thursdays): 11:59PM, 4 - 11 November 2021
+- Section B (Tuesdays): 11:59PM, 7 November 2023
+- Section A (Thursdays): 11:59PM, 9 November 2023
 
 ### Requirements
 
@@ -65,14 +71,25 @@ The proposal and prototype stage will require you to write a **short proposal do
 
 ---
 
-## Part 2 - Final project (40%)
+## Part 3 - Presentation (5%)
+
+tbd.
+
+### Deadline
+
+- Section B (Tuesdays): 11:59PM, 28 November 2023
+- Section A (Thursdays): 11:59PM, 30 November 2023
+
+---
+
+## Part 2 - Final project (35%)
 
 The final project will be the culmination of your learning in the course and so its key objectives are to demonstrate your technical mastery of the concepts covered over the entire course as well as to show your artistic engagement with programming as a medium of expression. The final project will consist of an **artist's statement** and the final **p5 project**.
 
 ### Deadline
 
-- Section B (Tuesdays): 11:59PM, 7 December 2021
-- Section A (Thursdays): 11:59PM, 9 December 2021
+- Section B (Tuesdays): 11:59PM, 5 December 2023
+- Section A (Thursdays): 11:59PM, 7 December 2023
 
 ### Requirements
 
