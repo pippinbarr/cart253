@@ -14,7 +14,8 @@
 * [🆘 Project 2 Proposal Studio](#-project-2-proposal-studio)
 * [🔊 p5.sound](#-p5sound) - the p5.sound library
 * [🆘 Project 2 Studio](#-project-2-studio)
-* OPTIONAL: [👪 Inheritance and Polymorphism](#-optional-inheritance-and-polymorphism) - creating objects based on other objects
+* [🧑‍💻 Project 2 Presentations](#-project-2-presentations)
+* OPTIONAL: [👪 Inheritance and Polymorphism](#optional--inheritance-and-polymorphism) - creating objects based on other objects
 
 ---
 
@@ -502,7 +503,7 @@ Week of 30 October 2023
 ## 📝 Homework
 
 * Continue work on next week's material
-* See also: [👪 Inheritance and Polymorphism](#-optional-inheritance-and-polymorphism) - creating objects based on other objects
+* See also: [👪 Inheritance and Polymorphism](#optional--inheritance-and-polymorphism) - creating objects based on other objects
 * [Project 2](../projects/project2/)
 
 ---
