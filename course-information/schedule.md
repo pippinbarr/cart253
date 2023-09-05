@@ -51,6 +51,7 @@ Week of 4 September 2023
 ## 🧑‍🏫 Classroom (in your assigned classroom at 13:15 on the day of class)
 
 * Welcome and Territorial Acknowledgement
+* Design and Computation Arts Orientation (visit from Kathy McAleese)
 * Introductions
 * Reviewing the [Course Outline](./outline)
 * Reviewing the [Course Schedule](./)
