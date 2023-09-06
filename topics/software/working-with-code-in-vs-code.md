@@ -162,7 +162,7 @@ While we could take the project and upload it to a web server, this would be tim
 
 Instead, we'll use "Go Live" option in VS Code to immediately see our webpage and code running. So, at the bottom left of VS Code, click on the "Go Live" button and watch as it magically launches your browser and opens a new tab displaying your project!
 
-(Remember, if you don't see the "Go Live" button, you need to install the "Live Server" extension. See the [software](.software.md) page for details.
+(Remember, if you don't see the "Go Live" button, you need to install the "Live Server" extension. See the [software](.software.md) page for details.)
 
 ---
 
