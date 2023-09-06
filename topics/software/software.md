@@ -25,6 +25,12 @@ If you prefer some other text editor, by all means use it, just make sure it sup
 
 One of the great things about __VS Code__ (and most development-oriented text editors) is that it provides great base functionality but also a huge range of *extensions* that you can use to add specific functionality you want. Feel free to browse the range of extensions available by going to the "extensions" section of the program - notably via the symbol of three squares (one offset) on the left hand side of the editor.
 
+Arguably the most important extension for you to install right away is the *Live Server* extension. This will add a "Go Live" button at the bottom right of your editor allowing you to see your code running in a browser. To install it:
+
+1. Click on the "extensions" icon on the left hand side of VS Code
+1. Search for "Live Server" (it's the one with almost 39 million downloads!)
+1. Click on the "Install" button for the "Live Server" extension
+
 ## GitHub Desktop
 
 We will be using __version control__ as a central part of this course. To make our lives easier we're going to use __GitHub Desktop__ so we have a nice user-interface to version control.
