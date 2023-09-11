@@ -131,6 +131,7 @@ Week of 11 September 2023
 ## 🧑‍🏫 Classroom (EV 5.815 at 13:15 on the day of class)
 
 * Mini-review
+* A visit from Sabine Rosenberg of CLAB at 15:30
 * The [Style Guide](../guides/style-guide.md)
 * The [Git Cheatsheet](../guides/git-cheatsheet.md)
 * Q&A
