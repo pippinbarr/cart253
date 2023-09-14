@@ -195,9 +195,9 @@ Week of 18 September 2023
 ## 🧑‍🏫 Classroom (in your assigned classroom at 13:15 on the day of class)
 
 * [Project 1](../projects/project1/)
-* [Arrays](#arrays) may be useful ahead of schedule
+* [Arrays](#arrays) could be useful ahead of schedule
 * [Variables](#variables) review
-* Q&A: Generative Art???
+* Let's try stuff! (Also: Copilot???)
 
 ## 🎨 Studio (in the classroom and the Discord #studio channel)
 
