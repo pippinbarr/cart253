@@ -33,7 +33,7 @@ Department of Design and Computation Arts
 [pippin.barr@concordia.ca](mailto:pippin.barr@concordia.ca)  
 [www.pippinbarr.com](http://www.pippinbarr.com/)  
 
-Office hours tbd. (Previously: Wednesdays, 14:00-16:00)
+Office hours: Thursdays, 15:00-16:00
 
 **Teaching assistant**: Mathilde Davan
 

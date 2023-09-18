@@ -194,6 +194,7 @@ Week of 18 September 2023
 
 ## 🧑‍🏫 Classroom (in your assigned classroom at 13:15 on the day of class)
 
+* Office hours (Section B only)
 * [Project 1](../projects/project1/)
 * [Arrays](#arrays) could be useful ahead of schedule
 * [Variables](#variables) review
