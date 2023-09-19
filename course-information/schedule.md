@@ -194,7 +194,8 @@ Week of 18 September 2023
 
 ## 🧑‍🏫 Classroom (in your assigned classroom at 13:15 on the day of class)
 
-* Office hours (Section B only)
+* Office hours: Thursdays, 15:00-16:00 (Section B only)
+* If you are not registered for CART263 in the Winter, you probably should be
 * [Project 1](../projects/project1/)
 * [Arrays](#arrays) could be useful ahead of schedule
 * [Variables](#variables) review
