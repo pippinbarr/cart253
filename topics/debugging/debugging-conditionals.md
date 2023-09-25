@@ -118,12 +118,12 @@ __Make sure you match your curly brackets properly! It can be really hard to sol
 
 ---
 
-## Always `true`!
+## Always `true`
 
 Moving away from error messages, another thing that can happen is we accidentally write a condition that is always `true`...
 
 ```javascript
-if (mouseX >= 0)
+if (mouseX >= 0) {
   fill(255, 0, 0);
 }
 else {
@@ -137,7 +137,7 @@ You will generally be able to find these problems when you program just __won't 
 
 ---
 
-## Invisibly always `true`!
+## Invisibly always `true`
 
 The previous example of a conditional with a condition that is always `true` was relatively easy to spot in our program because there's a __visual__ component: we notice that no matter where we move our mouse, the circle is red, and this tells us what's wrong.
 
@@ -162,12 +162,12 @@ Then we can examine our conditional and realize that its condition doesn't reall
 
 ---
 
-## Always false!
+## Always false
 
 We can of course have the exact opposite problem, where we write a condition that is always `false`...
 
 ```javascript
-if (mouseX < 0)
+if (mouseX < 0) {
   fill(255, 0, 0);
 }
 else {
