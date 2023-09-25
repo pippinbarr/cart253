@@ -2,7 +2,7 @@
 
 ---
 
-## In this module...
+## In this module
 
 - `else`
 - `else if`
@@ -10,7 +10,7 @@
 
 ---
 
-## Our circular fiend
+## Our circular friend
 
 ```javascript
 let backgroundShade = 0;
@@ -106,7 +106,7 @@ And it works! The circle is red while the mouse is on the left, and blue while i
 
 ---
 
-## More alternatives!
+## More alternatives
 
 We may have more complicated plans for our programs! If this is the case, we use `if`-statements that include a series of potential conditions, each checked one after the other. Here we combine `else` with `if`.
 
@@ -126,7 +126,7 @@ else {
 
 Notice two important things here:
 
-### The `else if` part only happens if the previous condition was __false__.
+### The `else if` part only happens if the previous condition was __false__
 
 The `else if` after the first `if` can __assume that the first condition was false__. Because if it had been true, then the program would set `fill(255,0,0)` and the `else if` and the `else` would be ignored.
 
