@@ -2,7 +2,7 @@
 
 ---
 
-## In this module...
+## In this module
 
 - What are functions?
 - Calling functions
@@ -85,7 +85,7 @@ function draw() {
   background(0);
 
   circle.x = circle.x + circle.vx;
-  circle.x = circle.x + circle.vy;
+  circle.y = circle.y + circle.vy;
 
   if (circle.x > width) {
     circle.x = 0;
@@ -105,11 +105,13 @@ function mousePressed() {
 ```
 
 A circle moves across the screen, left to right. When it gets to the right side it:
+
 1. Moves back to the left
 2. Gets faster
 3. Gets bigger
 
 We also have an event when the mouse button is pressed, so when the user clicks the circle:
+
 1. Moves back to the left
 2. Gets faster
 3. Gets bigger
@@ -139,7 +141,7 @@ function draw() {
   background(0);
 
   circle.x = circle.x + circle.vx;
-  circle.x = circle.x + circle.vy;
+  circle.y = circle.y + circle.vy;
 
   if (circle.x > width) {
     // CALLING reset()
@@ -219,7 +221,7 @@ function draw() {
 // Defining our move function
 function move() {
   circle.x = circle.x + circle.vx;
-  circle.x = circle.x + circle.vy;
+  circle.y = circle.y + circle.vy;
 }
 
 // Defining our wrap function
