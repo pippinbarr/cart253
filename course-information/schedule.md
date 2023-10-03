@@ -321,6 +321,8 @@ Week of 2 October 2023
 
 ## 🧑‍🏫 Classroom (in your assigned classroom at 13:15 on the day of class)
 
+* Visit from CASS (Computation Arts Student Society)
+* [Project 1](../projects/project1/) (due after reading week)
 * Q&A
 
 ## 🎨 Studio (in the classroom and the Discord #studio channel)
@@ -338,7 +340,7 @@ Week of 2 October 2023
 
 # 🌴 Midterm Break
 
-* Work on next week's material
+* Work on next week's material (it's little)
 * [Project 1](../projects/project1/) (due after midterm break)
 
 ---
