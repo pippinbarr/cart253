@@ -8,7 +8,7 @@
 
 #### Deadline
 
-**Note**: This project has a courtesy week of extra flexibility to help you schedule it against other project from other classes. You can submit any time in between the two listed hand-in dates.
+**Note**: If you need an extension of up to a week because you have a valid reason - including multiple projects due at the same time - please consult your instructor **early** and they will make a call.
 
 - Section B (Tuesdays): 11:59PM, 17 October 2023
 - Section A (Thursdays): 11:59PM, 19 October 2023
