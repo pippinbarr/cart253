@@ -71,18 +71,24 @@ The proposal and prototype stage will require you to write a **short proposal do
 
 ---
 
-## Part 3 - Presentation (5%)
+## Part 2 - Presentation (5%)
 
-tbd.
+In our final day of class you will give a short presentation of your final project work as a way to communicate to the instructor and your classmates what you've managed to put together as well as where you think you've learned the most over the semester.
 
 ### Deadline
 
 - Section B (Tuesdays): 11:59PM, 28 November 2023
 - Section A (Thursdays): 11:59PM, 30 November 2023
 
+### Requirements
+
+- Duration: Your presentation should take no longer than 4 minutes
+- Content: Please present a running version of your final project (make sure it isn't broken before class!) along with showing us some of the  code involved you're particularly happy with. Discuss your objectives with the project in terms of user experience and how you feel you accomplished those goals.
+- Q&A: Be ready to answer a couple of questions from the instructor and/or fellow students after your presentation
+
 ---
 
-## Part 2 - Final project (35%)
+## Part 3 - Final project (35%)
 
 The final project will be the culmination of your learning in the course and so its key objectives are to demonstrate your technical mastery of the concepts covered over the entire course as well as to show your artistic engagement with programming as a medium of expression. The final project will consist of an **artist's statement** and the final **p5 project**.
 
@@ -135,7 +141,7 @@ If your dream project is likely to omit one or more of the above requirements (p
 
 ## Submission
 
-Submission will take place on **Moodle**. Go to the appropriately named submission page on the Moodle and submit your work there. There will be separate submission pages for the **proposal and prototype** and the **final project**.
+Submission of code and websites will take place on **Moodle**. Go to the appropriately named submission page on the Moodle and submit your work there. There will be separate submission pages for the **proposal and prototype** and the **final project**.
 
 Your submission should just be plain text that includes:
 
@@ -150,6 +156,13 @@ Grading for the proposal and prototype will consider the following categories:
 
 - **Functional** (50%)- the prototype code meets the requirements, has no errors, is ambitious in its use of the course material, points in an interesting direction, is appropriate as a stepping stone toward the final project.
 - **Creative** (50%) - the proposed project as expressed in the proposal and prototype is interesting and expressive. It has a clear point of view and conveys it consistently. The prototype uses code in surprising ways to create new experiences. The proposed project is of a reasonable scope.
+
+### Presentation
+
+Grading for the presentation will consider the following categories:
+
+- **Functional** (50%) - you are able to demonstrate the project and show the source code successfully, the project itself is of a reasonable scope
+- **Critical** (50%) - you are able to discuss your project in terms of your experience goals, how you chose to approach them, and how much you feel you succeeded (aka. don't just describe it); your answers to any questions during Q&A will be considered here as well
 
 ### Final project
 
