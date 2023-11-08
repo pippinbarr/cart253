@@ -668,10 +668,10 @@ Week of 27 November 2023
 
 ### Relevant examples
 
-* **Example** [OOP States](examples/#oop-states) - using Object-Oriented Programming, Inheritance, and Polymorphism to manage program states
-* **Example** [Clown Chase](examples/#clown-chase) - using images as part of JavaScript Object literals
-* **Example** [Clown Chase OOP](examples/#clown-chase-oop) - using images with Object-Oriented Programming
-* **Example** [Clown Chase Inheritance](examples/#clown-chase-inheritance) - using images with Object-Oriented Programming and Inheritance
+* **Example** [OOP States](../examples/#oop-states) - using Object-Oriented Programming, Inheritance, and Polymorphism to manage program states
+* **Example** [Clown Chase](../examples/#clown-chase) - using images as part of JavaScript Object literals
+* **Example** [Clown Chase OOP](../examples/#clown-chase-oop) - using images with Object-Oriented Programming
+* **Example** [Clown Chase Inheritance](../examples/#clown-chase-inheritance) - using images with Object-Oriented Programming and Inheritance
 
 ### Activity
 
