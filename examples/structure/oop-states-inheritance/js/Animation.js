@@ -3,12 +3,24 @@
 // moves from left to right across the screen. When it reaches the right
 // side the program will switch to the Ending state.
 
-class Animation {
+// NOTE: We extend the State class to guarantee this class will have
+// the key methods that we call in the main program,
+// draw() and keyPressed() in this case.
+
+// NOTE: Even though at the moment Animation does *not* define a keyPressed()
+// method, the fact it extends State means it *does* have one when it is called
+// in the main program. This is a key benefit of extending State.
+class Animation extends State {
 
   // Acts as the setup() of the state, called when the
   // state is created. Creates a circle object and sets its
   // velocity.
   constructor() {
+    // We should always call the superclass constructor
+    // even if it doesn't do anything right now. It might
+    // later!
+    super();
+
     // Create a circle property with our moving object in it.
     this.circle = {
       x: 0,
@@ -30,6 +42,10 @@ class Animation {
   // state needs to do each frame. It moves and displays the circle
   // and checks if it has reached the right hand side.
   draw() {
+    // Always call the super() version of the method if there is one
+    // just in case it does something important.
+    super.draw();
+
     background(0);
 
     // Call the state's methods to make the animation work
@@ -76,7 +92,5 @@ class Animation {
     }
   }
 
-  keyPressed() {
-
-  }
+  // NO keyPressed() needed down here, it is handled by the State version
 }

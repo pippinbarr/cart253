@@ -36,9 +36,15 @@ Keep moving to increase your score, stop and it will decrease. Try to set a high
 
 ### OOP States
 
-An example of representing your program's states using **Object-Oriented Programming** with **inheritance** and **polymorphism**. Reworks an earlier example of a simulation with a title, simulation, and ending. Probably the ideal way to represent your states.
+An example of representing your program's states using **Object-Oriented Programming**. Reworks an earlier example of a simulation with a title, simulation, and ending. Probably the ideal way to represent your states.
 
 [Running program](https://pippinbarr.github.io/cart253/examples/structure/oop-states/) / [Source Code](https://github.com/pippinbarr/cart253/tree/main/examples/structure/oop-states) / [Download](https://pippinbarr.github.io/cart253/examples/structure/oop-states.zip)
+
+### OOP States with Inheritance
+
+As above, but uses inheritance and polymorphism for a slightly more efficient approach.
+
+[Running program](https://pippinbarr.github.io/cart253/examples/structure/oop-states-inheritance/) / [Source Code](https://github.com/pippinbarr/cart253/tree/main/examples/structure/oop-states-inheritance) / [Download](https://pippinbarr.github.io/cart253/examples/structure/oop-states-inheritance.zip)
 
 ---
 
