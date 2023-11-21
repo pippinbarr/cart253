@@ -1,6 +1,23 @@
 // A variable to store the currently active state object (starts empty)
 let currentState;
 
+// the images used
+let imgHouse;
+let imgseaShell;
+let imgOctopus;
+let imgCoral;
+let imgBubbles;
+let imgsoup;
+
+function preload() {
+  imgHouse = loadImage("assets/images/House.jpg");
+  imgseaShell = loadImage("assets/images/seaShell.jpg");
+  imgOctopus = loadImage("assets/images/octopus.png");
+  imgCoral = loadImage("assets/images/coral.png");
+  imgBubbles = loadImage("assets/images/bubbles.png");
+  imgsoup = loadImage("assets/images/soup.png");
+}
+
 // setup()
 // Create the canvas, start our program in the title state, set default text style
 function setup() {
@@ -32,4 +49,8 @@ function keyPressed() {
   // If the current state is Animation this will call the Animation class keyPressed()
   // if the current state is Ending this will call the Ending class keyPressed()
   currentState.keyPressed();
+}
+
+function mousePressed() {
+  currentState.mousePressed();
 }

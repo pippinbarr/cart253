@@ -607,6 +607,8 @@ Week of 20 November 2023
 
 ## 🎨 Studio (in the classroom and the Discord #studio channel)
 
+* Course Evaluations
+* Discussion of Presentations
 * Instructor and TA available to help
 * [Project 2](../projects/project2/)
 
