@@ -79,4 +79,8 @@ class Animation {
   keyPressed() {
 
   }
+
+  mousePressed() {
+
+  }
 }

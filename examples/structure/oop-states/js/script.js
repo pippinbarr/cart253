@@ -33,3 +33,7 @@ function keyPressed() {
   // if the current state is Ending this will call the Ending class keyPressed()
   currentState.keyPressed();
 }
+
+function mousePressed() {
+  currentState.mousePressed();
+}

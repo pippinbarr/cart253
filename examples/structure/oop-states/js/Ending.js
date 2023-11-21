@@ -16,14 +16,6 @@ class Ending {
   draw() {
     background(0);
 
-    // Overkill perhaps, but we have a separate method to just display
-    // the actual ending text. More methods/functions is generally better.
-    this.displayEnding();
-  }
-
-  // displayTitle()
-  // Sets style and then display the text in the endingString property on the canvas
-  displayEnding() {
     push();
     fill(255, 0, 0);
     text(this.endingString, width / 2, height / 2)
@@ -31,6 +23,10 @@ class Ending {
   }
 
   keyPressed() {
+    currentState = new Title();
+  }
+
+  mousePressed() {
 
   }
 }
