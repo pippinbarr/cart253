@@ -24,6 +24,10 @@ function draw() {
 }
 ```
 
+## What is the canvas?
+
+**EXPLAIN IT**
+
 ## Draw a background
 
 We know that `draw` happens *every frame* so it's usually a good idea to draw a background color (or later an image) for each frame, so let's add that in `draw` with the `background` function call.
@@ -41,6 +45,8 @@ function draw() {
 ```
 
 Remember to look at the result in your browser by clicking on the "Go Live" button. You should see a square canvas with a grey background.
+
+Feel free to change the numbers to see what happens.
 
 ## Draw a circle
 
@@ -72,8 +78,8 @@ The function name is `ellipse`
 
 Then we have parentheses to say "execute this with these arguments." Inside the parentheses we have *four* arguments:
 
-1. The first argument (`320`) is the x-position of the *centre* of the ellipse relative to the top-left of the canvas (`320` is centre of the canvas horizonally because `640 / 2` is `320`)
-2. The second argument (`320`) is the y-position of the centre of the ellipse relative to the top-left of the canvas
+1. The first argument (`320`) is the x-coordinate of the *centre* of the ellipse relative to the top-left of the canvas (`320` is centre of the canvas horizonally because `640 / 2` is `320`)
+2. The second argument (`320`) is the y-coordinate of the centre of the ellipse relative to the top-left of the canvas
 3. The third argument (`480`) is the *width* of the ellipse in pixels
 4. The fourth argument (`480`) is the *height* of the ellipse in pixels
 
@@ -85,7 +91,7 @@ We end on a semicolon like always.
 
 What was the difference?
 
-It is that by *default* the `ellipse` function positions the *centre* of the ellipse at the x,y position you specify. But the `rect` function positions the *top-left corner* of the rectangle at the x,y position you specify. Little details like this are important and over time we remember them.
+It is that by *default* the `ellipse` function positions the *centre* of the ellipse at the (x,y) coordinates you specify. But the `rect` function positions the *top-left corner* of the rectangle at the (x,y) coordinates you specify. Little details like this are important and over time we remember them.
 
 ## Change the colour of the ellipse
 

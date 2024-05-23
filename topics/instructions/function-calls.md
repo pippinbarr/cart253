@@ -47,7 +47,7 @@ There's more going on here than just the *name* here, though, so let's break it 
 
 ## Draw a background
 
-If we ran our program right now it would look underwhelming because we're not *drawing* anything on the canvas. Let's fix that by adding a new function call, this time in `draw()`:
+If we ran our program right now it would look underwhelming because we're not *drawing* anything on the canvas. Let's fix that by adding a new *function call*, this time in `draw()`:
 
 ```javascript
 function draw() {
@@ -76,13 +76,67 @@ What is the resulting colour? Let's see!
 
 1. In VS Code click on the `Go Live` button at the bottom right of your editor
 2. This should open your default browser (which should be *Chrome* ideally) and display your program
-3. Thus you should see a the beautiful pink background you fill the canvas with
+3. Thus you should see a the beautiful pink background you filled the canvas with
 
 Because our `background` function call is in `draw()` it is actually being executed *every frame*, but since it always draws the *same pink colour* we don't see anything change.
 
+## Positions on the canvas
+
+In order to draw things at specific positions we need to know how to refer to those positions on the canvas with numbers. Because computers love numbers.
+
+So, if we create a tiny 10x10 canvas, it looks like this:
+
+![](./images/positions-on-the-canvas/positions-on-the-canvas.002.png)
+
+We can then draw a point (a single pixel) at the position or coordinates (2, 2)...
+
+![](./images/positions-on-the-canvas/positions-on-the-canvas.003.png)
+
+But what does (2, 2) mean?
+
+![](./images/positions-on-the-canvas/positions-on-the-canvas.004.png)
+
+These are the *x* and *y* coordinates we want to draw our pixel at. The *x* coordinate tells us where to draw the pixel on the *horizontal* axis. And the *y* coordinate tells us where to draw the pixel on the *vertical* axis.
+
+![](./images/positions-on-the-canvas/positions-on-the-canvas.005.png)
+
+But what do those numbers actually *mean*?
+
+![](./images/positions-on-the-canvas/positions-on-the-canvas.006.png)
+
+Well, the pixels on the canvas are actually numbered like *this*. 
+
+The *x* coordinates start from the left at `0` (*not 1*) and go up as you move to the right. So the 10th pixel from the left is labelled as `9`.
+
+The *y* coordinates start from the top at `0` (*not 1*) and go up as you move downward on the *y* axis. So the 10th pixel from the top is labelled as `9`.
+
+![](./images/positions-on-the-canvas/positions-on-the-canvas.007.png)
+
+So, when we tell our program to draw a point (pixel) at coordinates (2, 2) we're using that *coordinate system*.
+
+![](./images/positions-on-the-canvas/positions-on-the-canvas.008.png)
+
+And thus the pixel lands here:
+
+![](./images/positions-on-the-canvas/positions-on-the-canvas.009.png)
+
+A pixel positioned at (7, 2) lands here:
+
+![](./images/positions-on-the-canvas/positions-on-the-canvas.010.png)
+
+And a line from coordinates (2, 6) to coordinates (7, 6) will be drawn like this:
+
+![](./images/positions-on-the-canvas/positions-on-the-canvas.011.png)
+
+And that's about it. Except that you should know that position (0, 0) is usually known as *the origin*.
+
+![](./images/positions-on-the-canvas/positions-on-the-canvas.012.png)
+
+Things are always being drawn *relative to the origin*.
+
 ## Draw a rectangle
 
-Let's draw a square on the canvas so we can experience the majesty of one last function call with different arguments. Since we're going to be drawing now, we'll add it to `draw()` like this:
+Let's draw a square on the canvas so we can experience the majesty of one last *function call* with different arguments. Since we're going to be drawing now, we'll add it to `draw()` like this:
 
 ```javascript
 function draw() {
@@ -97,8 +151,8 @@ This is using the p5 function `rect()` to draw a rectangle in the centre of the 
 
 So, what are the numbers this time? You can probably guess, but:
 
-1. The `200` is the x-position of the rectangle's *top-left corner* in pixels relative to the top-left corner of the canvas (e.g. the rectangle's top-left corner will be drawn 200 pixels horizontally to the *right* of the top-left of the canvas)
-2. The `80` is the y-position of the rectangles top-left corner in pixels relative to the top-left corner of the canvas (same deal)
+1. The `200` is the x-coordinate of the rectangle's *top-left corner*
+2. The `80` is the y-coordinate of the rectangle's *top-left corner*
 3. The `240` is the *width* of the rectangle in pixels
 4. The `320` is the *height* of the rectangle in pixels
 

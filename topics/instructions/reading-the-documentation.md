@@ -61,7 +61,7 @@ Any good documentation will include examples of the function in action and p5 is
 
 Note that they show it working in `setup` but it *of course* works in `draw` too. And in fact you will almost always be using it there.
 
-Although it wasn't explained in the description, it's hopefully at least somewhat intuitive that the *four arguments* that are going into the `line` function in these examples are the x- and y-positions of the starting and ending points of the line to draw. (When there are *six arguments* it's because it's in 3D, but let's not worry about that right now.)
+Although it wasn't explained in the description, it's hopefully at least somewhat intuitive that the *four arguments* that are going into the `line` function in these examples are the (x, y) coordinates of the starting and ending points of the line to draw. (When there are *six arguments* it's because it's in 3D, but let's not worry about that right now.)
 
 The examples show a set of basic uses of a line in isolation so you can get a sense of how the arguments work, and also how other functions affect it (e.g. `stroke` and `strokeWidth`).
 
@@ -79,18 +79,18 @@ line(x1, y1, x2, y2)
 
 By referring to the syntax description and the parameters list we can understand what the four arguments we send it will do.
 
-- The first two are the x- and y-positions of the starting point of the line (referred to as `x1` and `y1`)
-- The second two are the x- and y-positions of the endpoint of the line (referred to as `x2` and `y2`)
+- The first two are the (x, y) coordinates of the starting point of the line (referred to as `x1` and `y1`)
+- The second two are the (x, y) coordinates of the endpoint of the line (referred to as `x2` and `y2`)
 
 This confirms our intuitive understanding. Other functions are *not so intuitive* and so it's really helpful and important to read the actual technical definition when in doubt.
 
 ## Let's `line`
 
-We have read the documentation for line. So, if we wanted to draw a line from the top-left corner of the canvas to the bottom-right corner, we would need the x- and y-positions of those two points.
+We have read the documentation for line. So, if we wanted to draw a line from the top-left corner of the canvas to the bottom-right corner, we would need the (x, y) coordinates of those two points.
 
 The top-left is at 0,0, it's *the origin* by default.
 
-The bottom-right is going to be the full width and full height away from the origin. (Remember that on the canvas the x-positions increase as you go to the *right* and the y-positions increase as you go *down*).
+The bottom-right is going to be the full width and full height away from the origin. (Remember that on the canvas the x-coordinates increase as you go to the *right* and the y-coordinates increase as you go *down*).
 
 So:
 
