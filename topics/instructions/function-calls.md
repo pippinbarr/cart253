@@ -82,27 +82,29 @@ Because our `background` function call is in `draw()` it is actually being execu
 
 ## Positions on the canvas
 
-In order to draw things at specific positions we need to know how to refer to those positions on the canvas with numbers. Because computers love numbers.
-
-So, if we create a tiny 10x10 canvas, it looks like this:
+In order to draw things at specific positions we need to know how to refer to those positions on the canvas with numbers. Because computers love numbers. In this case we'll be talking about *coordinates*.
 
 ![](./images/positions-on-the-canvas/positions-on-the-canvas.002.png)
 
-We can then draw a point (a single pixel) at the position or coordinates (2, 2)...
+So, if we create a tiny 10x10 canvas, it looks like this.
 
 ![](./images/positions-on-the-canvas/positions-on-the-canvas.003.png)
 
-But what does (2, 2) mean?
+We can then draw a point (a single pixel) at the coordinates (2, 2)...
 
 ![](./images/positions-on-the-canvas/positions-on-the-canvas.004.png)
 
-These are the *x* and *y* coordinates we want to draw our pixel at. The *x* coordinate tells us where to draw the pixel on the *horizontal* axis. And the *y* coordinate tells us where to draw the pixel on the *vertical* axis.
+But what does (2, 2) mean?
 
 ![](./images/positions-on-the-canvas/positions-on-the-canvas.005.png)
 
-But what do those numbers actually *mean*?
+These are the *x* and *y* coordinates we want to draw our pixel at. The *x* coordinate tells us where to draw the pixel on the *horizontal* axis. And the *y* coordinate tells us where to draw the pixel on the *vertical* axis.
 
 ![](./images/positions-on-the-canvas/positions-on-the-canvas.006.png)
+
+But what do those numbers actually *mean*?
+
+![](./images/positions-on-the-canvas/positions-on-the-canvas.007.png)
 
 Well, the pixels on the canvas are actually numbered like *this*. 
 
@@ -110,27 +112,25 @@ The *x* coordinates start from the left at `0` (*not 1*) and go up as you move t
 
 The *y* coordinates start from the top at `0` (*not 1*) and go up as you move downward on the *y* axis. So the 10th pixel from the top is labelled as `9`.
 
-![](./images/positions-on-the-canvas/positions-on-the-canvas.007.png)
+![](./images/positions-on-the-canvas/positions-on-the-canvas.008.png)
 
 So, when we tell our program to draw a point (pixel) at coordinates (2, 2) we're using that *coordinate system*.
 
-![](./images/positions-on-the-canvas/positions-on-the-canvas.008.png)
-
-And thus the pixel lands here:
-
 ![](./images/positions-on-the-canvas/positions-on-the-canvas.009.png)
 
-A pixel positioned at (7, 2) lands here:
+And thus the pixel lands here.
 
 ![](./images/positions-on-the-canvas/positions-on-the-canvas.010.png)
 
-And a line from coordinates (2, 6) to coordinates (7, 6) will be drawn like this:
+A pixel positioned at (7, 2) lands here.
 
 ![](./images/positions-on-the-canvas/positions-on-the-canvas.011.png)
 
-And that's about it. Except that you should know that position (0, 0) is usually known as *the origin*.
+And a line from coordinates (2, 6) to coordinates (7, 6) will be drawn like this.
 
 ![](./images/positions-on-the-canvas/positions-on-the-canvas.012.png)
+
+And that's about it. Except that you should know that position (0, 0) is usually known as *the origin*.
 
 Things are always being drawn *relative to the origin*.
 
