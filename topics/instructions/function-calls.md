@@ -6,7 +6,7 @@ We're going to look at the most fundamental kind of JavaScript instruction, the 
 
 ## Preparation
 
-1. Download the [template project](XXXX)
+1. Download the [template project](../../templates/template-p5-project.zip)
 2. Unzip it
 3. Open the resulting folder in VS Code
 4. Give the project a title in `index.html`

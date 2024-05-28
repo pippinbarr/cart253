@@ -6,7 +6,7 @@ It is incredibly important to be able to read the documentation for any library 
 
 ## Preparation
 
-1. Download the [template project](XXXX)
+1. Download the [template project](MISSING_LINK)
 2. Unzip it
 3. Open the resulting folder in VS Code
 4. Give the project a title in `index.html`
