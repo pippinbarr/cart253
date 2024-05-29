@@ -180,15 +180,6 @@ Good.
 
 **Rule:** *Any time a comment would clarify how one or more lines of code work or what they are for, write the comment.*
 
-## Tip: Commenting out code
-
-In VS Code if you select some of your program and then press:
-
-- Mac: ⌘-/
-- Windows: Ctrl-/
-
-It will "comment out" the selected code, meaning it will put `//` in front of each line and thus remove it from the program temporarily. Or, if the lines you select are commented out, it will reinstate them.
-
 ## Summary
 
 We looked at three different kinds of comments we should be writing in our programs from now on:

@@ -10,7 +10,7 @@
 "use strict";
 
 /**
- * Create a canvas
+ * Create a canvas, hides the cursor
 */
 function setup() {
     // A 640x480 canvas
@@ -20,9 +20,9 @@ function setup() {
     noCursor();
 }
 
-
 /**
- * Draws some shapes!
+ * Draws a top-down view of a pyramid and also a red circle
+ * at the position of the user's cursor
 */
 function draw() {
     // Make the background black (specified as RGB)
@@ -46,7 +46,7 @@ function draw() {
         // Draw rectangles from the centre
         rectMode(CENTER);
         // Draw the rectangle in the centre of the canvas
-        // with a size based on the level
+        // (320, 320) with a size based on the level
         // e.g. level 1 will be a 48x48 rectangle and
         // level 10 will be a 480x480 rectangle
         rect(320, 320, level * 48, level * 48);
