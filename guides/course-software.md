@@ -19,22 +19,42 @@ We use **VS Code** as our text editor. It's a nice, free text editor that's very
 
 If you prefer some other text editor, by all means use it, just make sure it supports your work.
 
+Open VS Code now so you can set it up! When you start it it will automatically open a "Welcome" window which will explain a bunch of options, but we'll focus on just a few things.
+
+### The VS Code Window
+
+![](./images/vs-code.png)
+
+Here is what a VS Code window looks like. It includes a couple of elements you won't have by default, but those will be mentioned below.
+
 ### VS Code Settings
 
-...
+VS Code has a *lot* of settings and you can read about and play around with them as you wish. At a minimum, though, make sure your code is *autoformatted* by going into Settings > Text Editor > Formatting and enable "Format on Paste," "Format on Save," and "Format on Type." These will help to ensure your code is always formatted and will save you a *ton* of heartache.
 
 ### VS Code Extensions
 
-One of the great things about **VS Code** (and most development-oriented text editors) is that it provides great base functionality but also a huge range of *extensions* that you can use to add specific functionality you want. Feel free to browse the range of extensions available by going to the "extensions" section of the program - notably via the symbol of three squares (one offset) on the left hand side of the editor.
+One of the great things about **VS Code** (and most development-oriented text editors) is that it provides great base functionality but also a huge range of *extensions* that you can use to add specific functionality you want. 
 
 #### Go Live
 
-Arguably the most important extension for you to install right away is the *Live Server* extension. This will add a "Go Live" button at the bottom right of your editor allowing you to see your code running in a browser. To install it:
+Arguably the most important extension for you to install right away is the *Live Server* extension. This will add a "Go Live" button at the bottom right of your editor allowing you to see your code running in a browser (visible in the screenshot above). To install it:
 
 1. Click on the "extensions" icon on the left hand side of VS Code
 1. Search for "Live Server" (it's the one with almost 39 million downloads!)
 1. Click on the "Install" button for the "Live Server" extension
 1. Look for the "Go Live" button that should now have appeared at the bottom-right of your VS Code window
+
+#### HTML CSS Support
+
+We're not really doing much in the way of HTML/CSS in this course, but it's nice to have this extension installed anyway:
+
+1. Go to the Extensions menu again
+1. Search for "HTML CSS Support"
+1. Click on the "Install" button
+
+#### ... and more?
+
+Feel free to browse the full range of extensions available by going to the "extensions" section of the program (see the screenshot above). There are a lot though and you may want to hold off until you know you need something.
 
 ## GitHub Desktop
 
@@ -44,9 +64,9 @@ We will be using **version control** as a central part of this course. To make o
 1. Use the link to download GitHub Desktop to your computer
 1. Install it
 
-For now, **don't run GitHub Desktop** as you won't have created your course repository, which is what we will use it for.
+For now, **don't run GitHub Desktop** just yet as you won't have created your course repository, which is what we will use it for.
 
-**NOTE:** You can also do all your version control inside VS Code if you'd like to. It's a little more complex to set up, so ask your instructor or TA if you want help to do it.
+**NOTE:** You can also do all your version control inside VS Code if you'd like to. It's more complex to set up and involves the terminal among other things, so ask your instructor or TA if you want help to do it.
 
 ## Zoom
 
