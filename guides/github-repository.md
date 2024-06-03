@@ -1,6 +1,6 @@
 # Creating a Course Repository on GitHub {
 
-This tutorial will take you through the steps needed to create a **repository** for your coursework on the website GitHub. A repository is essentially a place you will save all your work and that will keep track of the history of your work over time. On your computer it will just look like a normal folder you put files in, but it has special powers we will talk about later.
+This tutorial will take you through the steps needed to create the **repository** for your coursework on the website GitHub. Again, a repository is essentially a folder where you will save all your work and that will keep track of the history of your work over time. On your computer it will just look like a normal folder you put files in, but it has special powers!
 
 ## Register for a GitHub Account
 
@@ -37,7 +37,7 @@ We will create a single repository to store all your coursework in called `cart2
     1. By default GitHub Desktop will create a `GitHub` folder in your main `Documents` folder and your repository folder will be in there
 1. Click "Clone" and the repository will be **downloaded** and it will also show up in your GitHub Desktop
 
-You're now ready to use GitHub Desktop and GitHub to save and synchronize all the projects you will end up creating for this course! As a simple rule, you should just keep all your work for the course in this `cart253-2023` repository folder.
+You're now ready to use GitHub Desktop and GitHub to save and synchronize all the projects you will end up creating for this course! As a simple rule, you should just keep all your work for the course in this `cart253` repository folder.
 
 ## Summary
 

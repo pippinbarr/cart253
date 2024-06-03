@@ -2,14 +2,68 @@
     
 ## In this module
 
-- Why use version control? And what is it?
 - Always work in the repository folder
-- Starting a new project with the template
 - The workflow
-  - making changes
-  - checking them in "Go Live" mode
-  - committing them to the repository
-  - and pushing them to GitHub
+
+## Always work in the repository
+
+Remember that `cart253` folder we *cloned* (downloaded) using GitHub Desktop? That is our *repository* for this course. As a rule, we will store *all* our work in this folder.
+
+## The version control workflow
+
+Let's take a look at the typical steps we'll take when we're working on a project using version control.
+
+### Starting a project
+
+When we are going to start a new project the first thing we'll probably want to do is *download the p5 template* as a starting point, so let's do that:
+
+1. [Download the p5 template](../templates/template-p5-project.zip)
+2. Unzip it
+
+Now we should have a folder called `template-p5-project` with all those useful JavaScript (with p5) files in it.
+
+Not a very good name, though, so let's rename the folder to something that reflects our current project:
+
+1. Rename the folder to `version-control-workflow`
+
+Because this is a project we're working on for CART253 specifically, we should move it into the CART253 repository. Even better, we should start organizing that folder first:
+
+1. In `cart253` create a folder called `topics`
+1. In `topics` create a folder called `version-control`
+1. Copy your `version-control-workflow` folder into the `version-control` folder
+
+This way you've got a place to store example projects you work on during these different topics, week-to-week. So structured!
+
+### Commit your changes!
+
+By copying a new folder into our repository we have *changed* the repository. And because this is a *significant change* (we started a new project) we should *commit* and *push* it in GitHub Desktop. 
+
+What does that mean? Let's try it and find out: Open GitHub Desktop (log in if necessary)
+
+<!-- Insert screenshot -->
+
+Notice that in the Changes tab on the left you can see the changes you have made to files in the repository. In this case we added our `version-control-workflow` project folder which meant adding a bunch of different files.
+
+If we want our repository to *remember* this moment as part of the history of our repository we need to *commit* the changes to it:
+
+1. Write "Added template project for the version control workflow module"
+2. Click on "Commit to main"
+
+Now the changes we made are stored in the repository's history. You can even go to the History tab to see your commit there, complete with the description you wrote.
+
+**Note:** Writing a clear description of the changes you made it *very important* when using version control. It doesn't have to be a masterpiece, but it does need to explain what you did.
+
+### Push your changes
+
+Currently, the changes are stored in the repository *on our computer* but they aren't synchornized with the version on github.com. To do that we need to also *push* the commit:
+
+1. Click on the 
+
+### Making changes
+### Checking them in "Go Live" mode
+### Committing changes to the repository
+### Pushing changes to GitHub
+### Repeat
 
 ## Why use version control?
 
