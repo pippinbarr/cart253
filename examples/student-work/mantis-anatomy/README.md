@@ -1,0 +1,5 @@
+# Artist's Statement
+
+My artistic vision was a game that would make you question the actions of every character. No one was supposed to be good, not even the protagonist. The game is supposed to be focused on the mystery and misfortune that happens on the characters. While there is a lot left unsaid, there is also a lot that is supposed to be figured out. The user is supposed to read and figure out the true plot of the story. That is the desired experience of the user is to read and understand story and explore all possible endings. I believe i've accomplished this technically and artistically by making visual novel that makes my vision and tells the story in a way that still shows the dark aspect of the visual novel yet also a silly nonsense twist to it. It's not supposed to be taken seriously but also be taken seriously in some parts. It's just something fun and that sometimes take a dark twist only to go back to something funny. I hope that the art of the program conveys the technic used to have an immersive experience.
+
+
