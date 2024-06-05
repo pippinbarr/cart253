@@ -1,8 +1,8 @@
 # Welcome to Creative Computation! {
     
-## Introduction
+## Hi!
 
-Hi! Whoa! It's a course about learning how to code??? You have so many questions, like...
+Whoa! It's a course about learning how to code??? You have so many questions, like...
 
 - Do I already need to know how to code?
 - Why should I learn to code?
@@ -10,6 +10,10 @@ Hi! Whoa! It's a course about learning how to code??? You have so many questions
 - Can I just copy and paste stuff from Stack Exchange?
 - Can I use AI assistants?
 - What kind of stuff will we be making?
+
+## Also, who are you, Pippin?
+
+[Glad you asked!](https://pippinbarr.com/)
 
 ## Do I already need to know how to code?
 
@@ -85,8 +89,6 @@ Ultimately, if the thing you're making is designed to be fun and playful (whethe
 
 Note: **play** does not mean **games**. 
 
----
-
 ## So how do I learn programming? 
 
 ### By being taught.
@@ -147,11 +149,14 @@ The world continues to need people who *actually know how to program*. Those peo
 
 We are going to be those people.
 
-## What kind of stuff will we make?
+## What kind of stuff will I make?
 
 It'll depend a *lot* one what you want to make and how much effort you put in, but here are four examples from the 2023 edition of this course:
 
-- []() by 
+- [Emotional Support Pet](https://pippinbarr.com/cart253/examples/student-work/emotional-support-pet/) by Dorsa Zare
+- [JumpThang](https://pippinbarr.com/cart253/examples/student-work/jumpthang/) by Samuel Reinstein Wright
+- [Mantis Anatomy](https://pippinbarr.com/cart253/examples/student-work/mantis-anatomy/) by Scarlett Perez-Hernandez
+- [Minigame Library](https://pippinbarr.com/cart253/examples/student-work/minigame-library/) by Nicolas Morales-Sanabria
 
 ## Summary
     
