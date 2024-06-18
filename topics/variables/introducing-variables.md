@@ -74,7 +74,7 @@ function draw() {
     // If we set the ellipse's (x,y) coordinates to
     // *half* the width and *half* the height, it will
     // always end up in the centre of our canvas.
-    // That's math, baby!
+    // That's math, baby! / means division
     ellipse(width/2, height/2, 100, 100);
     pop();
 }
@@ -83,13 +83,13 @@ function draw() {
 Here the variables `width` and `height` have done two great things:
 
 - They make our program *easier to read* because instead of having to understand *numbers* we can read *words* (the variable names)
-- They make our program *easier to write* because help to bind together the different *ideas* of our program, like the idea of "the centre" and the idea of "the canvas dimensions"
+- They make our program *easier to write* because they help to bind together the different *ideas* of our program, like the idea of "the centre" and the idea of "the canvas dimensions"
 
 Win, win, win.
 
 ## A name for a *changing* value: `mouseX` and `mouseY`
     
-Variables are even more excellent than just providing sensible names for useful values though. They can *change over time*!
+Variables are even more excellent than just providing sensible names for useful values though. Those values can *change over time*!
     
 As with `width` and `height`, the variables `mouseX` and `mouseY` are *always available* when we use p5, our JavaScript library.
 
@@ -123,7 +123,7 @@ function draw() {
     // JavaScript will *use the values inside them* as the values
     // to send as the x and y arguments of ellipse()
     // And that will mean the ellipse will be drawn with its (x, y)
-    // position set to the mouse (x, y) position.
+    // position set to the current mouse (x, y) position.
     ellipse(mouseX, mouseY, 100, 100);
     pop();
 }
@@ -154,7 +154,7 @@ function draw() {
     // We use the variable names mouseX and mouseY instead
     // of numbers for the width and height of the ellipse
     // This causes it to be bigger the further from the origin (0,0)
-    ellipse(320, 320, mouseX, mouseY);
+    ellipse(width/2, height/2, mouseX, mouseY);
     pop();
 }
 ```
@@ -180,7 +180,7 @@ function draw() {
     // We use the variable names mouseX and mouseY instead
     // of numbers for the red and green of the circle's fill
     fill(mouseX, mouseY, 0);
-    ellipse(320, 320, 100, 100);
+    ellipse(width/2, height/2, 100, 100);
     pop();
 }
 ```
