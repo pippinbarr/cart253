@@ -4,3 +4,10 @@
 - [Conditionals](topics/conditionals/)
 - [Events](topics/events/)
 - [Making](topics/making/)
+- **Reading week**
+- [Functions](topics/functions/)
+- [Arrays](topics/arrays/)
+- [Loops](topics/loops/)
+- [Data](topics/data/)
+- Project week
+- Project week

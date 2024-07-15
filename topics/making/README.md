@@ -2,7 +2,17 @@
 
 ...
 
-## Modules
+## This week
+
+**All videos are also available on YouTube with ads or on the Moodle without ads.**
+
+- **Watch** *Having ideas* ([YouTube](MISSING_LINK), YuJa/Moodle) and **read** the [notes](./having-ideas.md)
+- **Watch** *From idea to plan* ([YouTube](MISSING_LINK), YuJa/Moodle) and **read** the [notes](./from-idea-to-plan.md)
+- **Watch** *Writing pseudocode* ([YouTube](MISSING_LINK), YuJa/Moodle) and **read** the [notes](./writing-pseudocode.md)
+- **Watch** *Implementation* ([YouTube](MISSING_LINK), YuJa/Moodle)
+- **Watch** *Distribution* ([YouTube](MISSING_LINK), YuJa/Moodle) and **read** the [notes](./distribution.md)
+
+---
 
 As you can see, leaning heavily to video only here? Or is it smart to also spell it out? Depends on whether I want the example to be highly controlled or more realistic... maybe controlled is good though...
 
@@ -12,7 +22,7 @@ Could even make some of these kind of post-hoc in terms of listing out what I ac
 
 - √ States (needs text) <- small
 - √ `switch` (states again) (needs text) <- small
-- Having ideas (needs text)
+- √ Having ideas (needs text)
     - Play based
     - Timer based
     - Example based
