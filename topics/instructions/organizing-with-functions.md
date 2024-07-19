@@ -346,7 +346,7 @@ Yes, it's "the same program" in the sense that the drawing hasn't changed - we h
 - it's much clearer *what our program does* when we read `draw` thanks to the function names
 - it's much clearer *where to make changes* when we want to, by just going to the function responsible for that part of things (if I want the sky to be green, I should edit `drawSky`!)
 
-This is a part of programming called *encapsulation*, where we try as much as possible to group related code together, ideally with a way to *name* it, to improve the modularity of our program. (We could take our `drawHouse` function and use it in another program!)
+This is a part of programming called **modularity**, where we try as much as possible to group related code together, ideally with a way to *name* it. (We could take our `drawHouse` function and use it in another program!)
 
 ## Do it even more?
 
@@ -428,6 +428,8 @@ So, from now on you should *never* have a `draw` full of lines and lines and lin
 ## Summary
 
 We've seen how to define simple functions that help us to break down our program into smaller parts, making it easier to read and easier to work with as it becomes more and more complex.
+
+MENTION MODULARITY.
 
 ## Next
 

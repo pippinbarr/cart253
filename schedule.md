@@ -9,12 +9,12 @@
 - [Arrays](topics/arrays/)
 - [Loops](topics/loops/)
 - [Data](topics/data/)
-- Project week
-- Project week
+- Jam Week 1
+- Jam Week 2
 
 ---
 
-## Hello, World
+## 👋 Hello, World
 
 *Week of 2 September 2024*
 
@@ -35,7 +35,7 @@
 ### Homework
 - Work on next week's materials
 
-## Instructions
+## 💬 Instructions
 
 *Week of 9 September 2024*
 
@@ -53,7 +53,7 @@
 ### Homework
 - Work on next week's materials
 
-## Variables
+## 🎁 Variables
 
 *Week of 16 September 2024*
 
@@ -74,7 +74,7 @@
 - Work on next week's materials
 - Work on the [Art Jam](./jams/art-jam) assignment
 
-## Conditionals
+## 🤔 Conditionals
 
 *Week of 23 September 2024*
 
@@ -94,7 +94,7 @@
 - Work on next week's materials
 - Work on the [Art Jam](./jams/art-jam) assignment (due next week)
 
-## Events
+## ⏱ Events
 
 *Week of 30 September 2024*
 
@@ -113,7 +113,7 @@
 ### Homework
 - Work on next week's materials
 
-## Making
+## 🛠 Making
 
 *Week of 7 October 2024*
 
@@ -134,37 +134,37 @@
 - Work on the post-reading week materials
 - Work on the [Mod Jam](./jams/mod-jam) assignment
 
-## Reading week (NO CLASS)
+## 📚 Reading week (NO CLASS)
 
 *Week of 14 October 2024*
 
 - Work on next week's materials
 - Work on the [Mod Jam](./jams/mod-jam) assignment
 
-## Functions
+## ☎️ Functions
 
 *Week of 21 October 2024*
 
-## Arrays
+## 🗄 Arrays
 
 *Week of 28 October 2024*
 
-## Loops
+## 🔁 Loops
 
 *Week of 4 November 2024*
 
-## Data
+## 💿 Data
 
 *Week of 11 November 2024*
 
-## Jam Week
+## 🍓 Jam Week 1
 
 *Week of 18 November 2024*
 
-## Jam Week
+## 🍓 Jam Week 2
 
 *Week of 25 November 2024*
 
-## Final Submission Week (NO CLASSs)
+## ✋ Final Submission Week (NO CLASSs)
 
 *Week of 2 December 2024*

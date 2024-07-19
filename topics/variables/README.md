@@ -14,7 +14,9 @@
 
 ## 🔥 Hot tip
 
-There aren't many things more fun than *random numbers*. p5 has a function we can call to get a random number any time we want, and it's called `random()`. With no arguments we get a random number between `0` and `1`, or we can give it two arguments to get a random number between those numbers.
+There aren't many things more fun than *random numbers*. p5 has a function we can call to get a random number any time we want, and it's called `random()`. Importantly this function *returns* (gives back) a *number* that we can use in our program.
+
+With no arguments we get a random number between `0` and `1`, or we can give it two arguments to get a random number between those numbers. Usually we'll then *store* the returned number in a variable or use it directly somewhere else in our program.
 
 A random greyscale fill:
 ```javascript
@@ -51,9 +53,9 @@ function setup() {
 
 function draw() {
     background(0);
-    // Add a random number between 0 and 5 to the big's position
+    // Add a random number between 1 and 5 to the big's position
     // to make it move jerkily
-    bug.x += random(0, 5);
+    bug.x += random(1, 5);
     ellipse(bug.x, bug.y, bug.size);
 }
 ```
