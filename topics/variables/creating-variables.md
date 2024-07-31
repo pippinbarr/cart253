@@ -26,6 +26,7 @@ function draw() {
     fill(0);
     // When we only provide a width argument we get a circle
     // with that diameter
+    // https://p5js.org/reference/p5/ellipse/
     ellipse(140, 175, 180);
     pop();
 }
@@ -77,7 +78,7 @@ let holeSize = 180;
 ```
 
 - `let` tells JavaScript we are *declaring a variable*: we are going to announce the name of a new variable
-- `holeSize` is the *name* of our new variable: it will be use to store the size of the hole in pixels
+- `holeSize` is the *name* of our new variable: it will be used to store the size of the hole in pixels
 - `=` tells JavaScript we are going to *assign a value* to the variable: we are going to *store a number in it* in this case
 - `180` is the *value* we are telling JavaScript to store in the variable
 - `;` is how we end any instruction in JavaScript (and many other languages)
@@ -93,10 +94,10 @@ ellipse(140, 175, holeSize);
 Here we have a standard `ellipse` function call, but we're using our variable as one of its arguments (the one for its diameter) in this case, so that:
 
 - `ellipse` is the *name* of the function we're calling
-- `(...)` tells JavaScript to *execute* or *call* the function
+- `(...)` tells JavaScript to *execute* or *call* the function using the arguments inside the parentheses
 - `140` is the x-coordinate to draw the ellipse at
 - `175` is the y-coordinate to draw the ellipse at
-- `holeSize` is the size to draw the ellipse (and since `holeSize` store the value `180` this means the size will be `180`)
+- `holeSize` is the diameter to draw the ellipse (and since `holeSize` contains the value `180` this means the diameter will be `180`)
 
 ### That's it
 
@@ -141,13 +142,14 @@ function draw() {
 }
 ```
 
-Hey presto, we have a program that is
-
-- Easier to read
-- Easier to modify (if we want to adjust the hole size, for instance, we know exactly where to look)
-- Capable of changing over time! (More on this later)
+Beautiful, n'est-ce pas?
     
 ## Summary
 
+Declaring our own variables makes our programs infinitely more amazing. They are:
     
+- Easier to read
+- Easier to modify (if we want to adjust the hole size, for instance, we know exactly where to look)
+- Capable of changing over time! (More on this later)
+
 ## }

@@ -1,4 +1,4 @@
-# Five drawing challenges {
+# Drawing challenges {
     
 At this point you've seen a lot! You know how to draw shapes, colour them, break your program down into functions, comment it, read the documentation, and debug your code.
 

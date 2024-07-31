@@ -1,4 +1,4 @@
-# Movement variables {
+# Variables in Practice: Movement {
    
 One neat thing you can do with variables now is create some pretty good *movement* with your shapes. At the very least it's worth practising working with *velocity*, even if *acceleration* feels a bit much.
 

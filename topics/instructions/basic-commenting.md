@@ -1,8 +1,14 @@
 # Basic commenting {
 
-## Introduction
-
 Programs are complicated animals and it can really help if we add *explanations* of how they work alongside the code itself. This process is called *commenting* our code and here we're going to look at *three* kinds of comments we should be including when we write a program.
+
+## In this module
+
+- Preparation
+- Reading a program
+- The top-level comment
+- Function definition-level comments
+- Instruction-level comments
 
 ## Preparation
 
@@ -14,7 +20,7 @@ One of the big things we have to be able to do when we're programming is *read o
 
 Make a program *readable* or *legible* is a really important job for a programmer and one that is perilously easy to forget or to skip over. We will not be like that!
 
-## Our program right now
+### Our program right now
 
 So, we're working with this program (your version in the template might look a bit different, but this is the essence of the information we are working with):
 
@@ -31,15 +37,15 @@ function draw() {
 }
 ```
 
-## Good enough?
+### Good enough?
 
 This program is small enough that right now we could *probably* read it without any help, but there's a bunch of stuff that is hard to understand just from the code. Things like:
 
-1. What is this program actually *for* or *about*?
-2. Is there any reason the canvas is set to be 640x480?
-3. What colour is that in the `background` function?
-4. What does that `rect` actually look like?
-5. What is the `draw` function trying to accomplish?
+- What is this program actually *for* or *about*?
+- Is there any reason the canvas is set to be 640x480?
+- What colour is that in the `background` function?
+- What does that `rect` actually look like?
+- What is the `draw` function trying to accomplish?
 
 We can guess. We can run the program. We can painstakingly figure out the RGB values.
 
@@ -51,10 +57,10 @@ In programming, those kinds of explanatory words are called *comments*, and we n
 
 Any program should have a comment at the top of its main file (`script.js` for us) that introduces it clearly. There are no hard rules for this, but it's a good idea to provide
 
-1. The title
-2. The author (you!)
-3. An explanation of what the program does and how it does it
-4. Credit given to any external (not by you) code involved in the project
+- The title (if you don't have a title, do you really know what you're doing?)
+- The author (you!)
+- An explanation of what the program does and how it does it
+- Credit given to any external (not by you) code involved in the project
 
 We can write stuff one inside `/**` and `*/` to turn it into a *comment* that JavaScript won't try to treat like it's part of the program. So we might write something like:
 

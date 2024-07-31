@@ -1,18 +1,35 @@
-# Variables
+# Variables {
 
-**All videos are also available on YouTube with ads or on the Moodle without ads.**
+## Modules
 
-- **Watch** *Introducing variables* ([YouTube](MISSING_LINK), YuJa/Moodle) and **read** the [notes](./introducing-variables.md)
-- **Watch** *Creating variables* ([YouTube](MISSING_LINK), YuJa/Moodle) and **read** the [notes](./creating-variables.md)
-- **Watch** *Introducing JavaScript Objects* ([YouTube](MISSING_LINK), YuJa/Moodle) and **read** the [notes](./introducing-javascript-objects.md)
-- **Watch** *Changing variables* ([YouTube](MISSING_LINK), YuJa/Moodle) and **read** the [notes](./changing-variables.md)
-- **Watch** *Thinking like a computer with variables* ([YouTube](MISSING_LINK), YuJa/Moodle) and **read** the [notes](./thinking-like-a-computer-with-variables.md)
-- **Watch** *Constraining variables* ([YouTube](MISSING_LINK), YuJa/Moodle) and **read** the [notes](./constraining-variables.md)
-- **Watch** *Movement variables* ([YouTube](MISSING_LINK), YuJa/Moodle) and **read** the [notes](./movement-variables.md)
-- **Download** the [variables debugging project](MISSING_LINK), **watch** *Debugging variables* ([YouTube](MISSING_LINK), YuJa/Moodle), and **read** the [debugging guide](../../guides/debugging-guide.md)
-- **Try** the [variables challenges](MISSING_LINK)
+- *Introducing variables*
+    - Watch the video on Moodle
+    - Read the [text notes](./introducing-variables.md)
+- *Creating variables*
+    - Watch the video on Moodle
+    - Read the [text notes](./creating-variables.md)
+- *Introducing JavaScript Objects*
+    - Watch the video on Moodle
+    - Read the [text notes](./introducing-javascript-objects.md)
+- *Changing variables*
+    - Watch the video on Moodle
+    - Read the [text notes](./changing-variables.md)
+- *Constraining variables*
+    - Watch the video on Moodle
+    - Read the [text notes](./constraining-variables.md)
+- *Variables in Practice: Movement*
+    - Watch the video on Moodle
+    - Read the [text notes](./movement-variables.md)
+- *Debugging variables*
+    - Download the [Debugging Variables Project](MISSING_LINK)
+    - Watch the video on Moodle
+    - Read the [Debugging Guide](../../guides/debugging-guide.md)
 
-## 🔥 Hot tip
+## Challenges
+
+- **Try** the [variables challenges](./variables-challenges.md) (we will review them in class)
+
+## 🔥 Hot tip: `random()`
 
 There aren't many things more fun than *random numbers*. p5 has a function we can call to get a random number any time we want, and it's called `random()`. Importantly this function *returns* (gives back) a *number* that we can use in our program.
 
@@ -59,3 +76,5 @@ function draw() {
     ellipse(bug.x, bug.y, bug.size);
 }
 ```
+
+## }

@@ -33,17 +33,17 @@ That new line is a *function call* that tells our program to, you guessed it, *c
 
 There's more going on here than just the *name* here, though, so let's break it down.
 
-1. `createCanvas` is the *name* of the function we are calling. It's a *good name* because it describes what the function does: it *create*s a *canvas*.
-2. Then we have a set of *parentheses* with stuff inside them: `(...)`. These parentheses are what tells JavaScript to *execute* the function with this name (without them it wouldn't run).
-1. Some function calls have *nothing* inside the parentheses, like `setup()`, but lots of them have *extra information* needed to run the function called *arguments*.
-3. For `createCanvas` we have *two arguments* that tell the function what kind of canvas to create. Specifically, they tell it the *size* of the canvas to create.
-1. The *first argument* of `640` tells it the canvas should be `640` pixels wide
-2. The *second argument* of *480* tells it the canvas should be `480` pixels high
-3. The two arguments are separated by a *comma* so that JavaScript can see that there are two in this case
-4. Other functions may have zero arguments, or one, or two, or many more
-4. After we close the parentheses to say we're done providing arguments and that this function call should be *executed* we have...
-5. ... a semicolon: `;`. This just means "this instruction is done!"
-1. **Tip:** JavaScript does *not* always need the semicolon to be there to work, but it is a *very good idea* to include them because other programming languages you may want to learn *do require them*. May as well.
+- `createCanvas` is the *name* of the function we are calling. It's a *good name* because it describes what the function does: it *create*s a *canvas*.
+- Then we have a set of *parentheses* with stuff inside them: `(...)`. These parentheses are what tells JavaScript to *execute* the function with this name (without them it wouldn't run).
+- Some function calls have *nothing* inside the parentheses, like `setup()`, but lots of them have *extra information* needed to run the function called *arguments*.
+- For `createCanvas` we have *two arguments* that tell the function what kind of canvas to create. Specifically, they tell it the *size* of the canvas to create.
+    -  The *first argument* of `640` tells it the canvas should be `640` pixels wide
+    -  The *second argument* of *480* tells it the canvas should be `480` pixels high
+    -  The two arguments are separated by a *comma* so that JavaScript can see that there are two in this case
+    -  Other functions may have zero arguments, or one, or two, or many more
+- After we close the parentheses to say we're done providing arguments and that this function call should be *executed* we have...
+- ... a semicolon: `;`. This just means "this instruction is done!"
+    - **Note:** JavaScript does *not* always need the semicolon to be there to work, but it is a *very good idea* to include them because other programming languages you may want to learn *do require them*. May as well.
 
 ## Draw a background
 
@@ -57,10 +57,10 @@ function draw() {
 
 Hopefully, you can see this has the same *structure* as the `createCanvas()` function call we added just before:
 
-1. We have the *function name* `background` which is a function that tells p5 to fill the entire canvas with a colour of your choice
-2. We have the *parentheses* that go around the *arguments* and also tell JavaScript to *execute* this instruction
-3. We have the *arguments* that tell `background` extra information on what to do
-4. We have the *semicolon* at the end to say "done!"
+- `background`: We have the *function name* `background` which is a function that tells p5 to fill the entire canvas with a colour of your choice
+- `(...)`: We have the *parentheses* that go around the *arguments* and also tell JavaScript to *execute* this instruction
+- `255, 100, 100`: We have the *arguments* themselves that tell `background` extra information on what to do
+- `;`: We have the *semicolon* at the end to say "done!"
 
 Obviously the function *name* is different, because it has a different job: filling the "background" of the canvas with a color.
 
@@ -68,15 +68,15 @@ But we also have a different set of *arguments*. This time there are *three* and
 
 In this case they are the red, green, and blue (RGB) values to use when filling the canvas with a colour. They determine the colour that `background` will use. Importantly, they are numbers *between `0` and `255`*. `0` is *none of that colour*. `255` is *all of that colour*. So:
 
-1. `255` is for the *red* amount in the colour and it means "all the red!"
-2. The first `100` is for the *green* amount in the colour, "a bit less than half the green"
-3. And the second `100` is for the *blue* about in the colour, "the same amount of blue"
+- `255`: is for the *red* amount in the colour and it means "all the red!"
+- `100`: the first `100` is for the *green* amount in the colour, "a bit less than half the green"
+- `100`: the second `100` is for the *blue* about in the colour, "the same amount of blue"
 
 What is the resulting colour? Let's see!
 
-1. In VS Code click on the `Go Live` button at the bottom right of your editor
-2. This should open your default browser (which should be *Chrome* ideally) and display your program
-3. Thus you should see a the beautiful pink background you filled the canvas with
+- In VS Code click on the `Go Live` button at the bottom right of your editor
+- This should open your default browser (which should be *Chrome* ideally) and display your program
+- Thus you should see a the beautiful pink background you filled the canvas with
 
 Because our `background` function call is in `draw()` it is actually being executed *every frame*, but since it always draws the *same pink colour* we don't see anything change.
 
@@ -151,10 +151,10 @@ This is using the p5 function `rect()` to draw a rectangle in the centre of the 
 
 So, what are the numbers this time? You can probably guess, but:
 
-1. The `200` is the x-coordinate of the rectangle's *top-left corner*
-2. The `80` is the y-coordinate of the rectangle's *top-left corner*
-3. The `240` is the *width* of the rectangle in pixels
-4. The `320` is the *height* of the rectangle in pixels
+- `200`:  the x-coordinate of the rectangle's *top-left corner*
+- `80` : the y-coordinate of the rectangle's *top-left corner*
+- `240`:  the *width* of the rectangle in pixels
+- `320`:  the *height* of the rectangle in pixels
 
 If you check back in your browser you *should* see that the webpage has updated since last time (it's Go *Live* remember) and you *should* see the rectangle.
 
@@ -162,7 +162,7 @@ If you check back in your browser you *should* see that the webpage has updated 
 
 It does *not take much* for a program to mean something.
 
-What if I told you that this is a program that simulates the experience of a writer staring at a blank piece of paper as they try to start writing their new novel. Well it does! And can you type anything? No! Oh the humanity!
+What if I told you that this is a program that simulates the experience of a writer staring at a blank piece of paper as they try to start writing their new novel. Well it does! And can you type anything? No! That's part of it!!! 
 
 ## Play
 

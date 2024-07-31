@@ -1,4 +1,6 @@
 # Introducing JavaScript Objects {
+  
+When we use variables we often end up with multiple variables that are "for" the same kind of thing in our program - say the position, size, and colour of an object. JavaScript Objects allow us to organize all those values into *one place*, which is beautiful to behold.
     
 ## In this module
 
@@ -6,6 +8,7 @@
 - JavaScript Objects to the rescue
 - JavaScript Objects forever
 - Nested JavaScript Objects
+- Dot notation and bracket notation
 
 ## Multiple variables for one thing
 
@@ -62,7 +65,7 @@ function draw() {
 
 Good! Lots of variables!
 
-But, one thing that is a tiny bit less good is that now that we're think about distinctive objects or ideas like "the sky", "the sun", and "my self esteem" it feels a bit wrong that they have to be made up of a bunch of *separate* variables.
+But, one thing that is a tiny bit less good is that now that we're thinking about distinctive objects or ideas like "the sky", "the sun", and "my self-esteem" it feels a bit wrong that they have to be made up of a bunch of *separate* variables.
 
 It would be better if there was *one variable* for the sun, for example, that could contain *all* of the other variables.
 
@@ -74,7 +77,7 @@ JavaScript has exactly what we want in the form of JavaScript Objects.
 
 ### Declaring and assigning a JavaScript Object
 
-If we were to change our *sun* variables into a JavaScript object we could do this:
+If we were to change our multiple *sun* variables into one JavaScript object we could do this:
 
 ```javascript
 let sun = {
@@ -191,7 +194,7 @@ One last thing though! The properties of JavaScript objects can actually *contai
 ```javascript
 // The sun
 let sun = {
-  colour: {
+  fill: {
     red: 255,
     green: 255,
     blue: 0,        
@@ -205,13 +208,15 @@ let sun = {
 And then use the new approach to the colour like this:
 
 ```javascript
-fill(sun.colour.red, sun.colour.green, sun.colour.blue);
+fill(sun.fill.red, sun.fill.green, sun.fill.blue);
 ```
 
-Here you can see that because we have a JavaScript object in the `colour` property we use another `.` to refer to its properties.
+Here you can see that because we have a JavaScript object in the `fill` property we use another `.` to refer to its properties.
 
 You can keep doing this to any level of depth that is helpful! Learn to love being organized!!
 
 ## Summary
+    
+JavaScript Objects allow us to organize the information in our program so that *related information is stored together*. This can help us to think more clearly about our programs and to write clearer code. If you want a fancy word, a JavaScript Object is a *data structure*.
     
 ## }

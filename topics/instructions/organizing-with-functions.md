@@ -1,6 +1,14 @@
 # Organizing with functions {
 
-## Introduction
+Our programs are going to get longer and longer as we learn the possibilities of JavaScript and p5.js and as we become more ambitious. Very quickly, we'll need to *organize* our code so we don't go mad.
+
+## In this module
+
+- Preparation
+- Commenting helps
+- Functions for organization
+- Same result, better code
+- Do this from now on
 
 ## Preparation
 
@@ -102,12 +110,6 @@ function draw() {
 }
 ```
 
-## That's a lot of code
-
-Well, yeah, that's a lot of code we have in our `script.js` right now. And that's the way it goes: we *write a lot of code* when we're programming.
-
-To avoid going kind of insane, we need to always be thinking about how to *organize* our code to make it easier to deal with.
-
 ## Commenting helps
 
 We can already see in our example code how much it helps to have commented it. If we want to change the doorknob, we can go find the doorknob "bit" of the code and change it there.
@@ -116,7 +118,7 @@ But that's just a first step, and ideally we just don't want this much *stuff* s
 
 So what else can we do?
 
-## Defining simple functions for organization
+## Functions for organization
 
 A great thing we can do is to *break our program down into functions*. So far we've mostly been *calling* functions (like `line` and `rect` and `strokeWeight`) but we can also *define our own*. And in fact we already see that with `setup` and `draw`. Those two are a little bit special because of how p5 works (more on that later on), but we can make our own too.
 
@@ -241,7 +243,7 @@ You can see there are two distinct parts to this:
 - we *define* our new functions below `draw`
 - we *call* our new functions in `draw`
 
-## The function *definition*
+### The function *definition*
 
 Here's our cloud drawing function definition:
 
@@ -265,7 +267,7 @@ function drawCloud() {
 
 There are three main parts to it, and this kind of simple function definition is *always the same*:
 
-### A comment 
+#### A comment 
 
 ```javascript
 /**
@@ -275,7 +277,7 @@ There are three main parts to it, and this kind of simple function definition is
 
 We have a comment that describes what the function does.
 
-### Function definition syntax
+#### Function definition syntax
 
 We have the function definition syntax, which is this bit:
 
@@ -285,16 +287,27 @@ function drawCloud() {
 }
 ```
 
-You can see that it
+Let's break it down:
 
-1. Starts with the special word `function` which means we will be *defining* a function
-2. Has the *name* of the function, `drawCloud`, so we know how to *call* it (can't call it without a name, right?)
-3. Has empty *parentheses*, `()`, to show that this function doesn't need any *argumnets*
-4. Has *curly brackets*, `{ ... }`, that will contain the *instructions this function will execute if you call it*. Whatever you put in here is what will *happen* when you call the function.
+`function`
+
+All function definitions start with the special word `function` which means we will be *defining* a function.
+
+`drawCloud`
+
+Our function needs a *name* so we know how to *call* it (can't call it without a name, right?).
+
+`()`
+
+Our function definnition has empty *parentheses*, `()`, to show that this function doesn't need any *argumnets* (no extra information needed for it to do its job).
+
+`{ ... }`
+
+Finally we have the curly brackets that will contain the *instructions this function will execute if you call it*. Whatever you put in here is what will *happen* when you call the function.
 
 As you can see, *all* the other function definitions for `drawSky` and `drawGround` and `drawHouse` have this same shape.
 
-### The function's instructions
+#### The function's instructions
 
 Finally we have the stuff this function actually *does* inside the curly brackets:
 
@@ -315,7 +328,7 @@ And these are literally just the same instructions we used to have in `draw`. We
 
 And so if we were to *call* this function, it will *execute* the instructions that draw a cloud. That's why we called it `drawCloud`. (More on *naming things* later.)
 
-## The function *calls*
+### The function *calls*
 
 If we want our program to draw the house now, we need to *call* all the functions we defined. And we will *call* them in `draw` because, again, that's the part of our program that runs every frame and is called `draw` for a reason. 
 
@@ -337,7 +350,7 @@ Which is *incredibly* clearer than it used to be, right? It doesn't even need co
 
 Now each time `draw` happens (once per frame, remember) it will *call* each of our new functions and thus *execute* all the instructions inside them. And those instructions will draw the sky, the cloud, the ground, and the house.
 
-## But, it looks the same...
+## Same result, better code
 
 Yes, it's "the same program" in the sense that the drawing hasn't changed - we have the same *output* when we look at it in the browser.
 
@@ -348,7 +361,7 @@ Yes, it's "the same program" in the sense that the drawing hasn't changed - we h
 
 This is a part of programming called **modularity**, where we try as much as possible to group related code together, ideally with a way to *name* it. (We could take our `drawHouse` function and use it in another program!)
 
-## Do it even more?
+### Do it even more?
 
 Actually, we could break this program down further. `drawHouse` is pretty complicated and we could break *it* down into functions as well:
 

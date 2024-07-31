@@ -67,7 +67,7 @@ And when our variables are numbers, which they often are, we will change those n
 
 Addition uses the `+` (plus) symbol.
 
-0 + 1 = 1, am I right?
+1 + 1 = 2, am I right?
 
 We can do exactly this kind of math in JavaScript to change variables. For instance, if we wanted the sky shade to gradually become lighter we could add this to `draw()` just before the `background()` instruction:
 
@@ -201,6 +201,6 @@ function draw() {
     
 ## Summary
 
-At the heart of a huge amount of change in a program is this kind of simple *arithmetic* on numbers. We can use the standard arithmetic operators (+, -, \*, \\) to change the numbers in our variables. When we do that, the behaviour of our program changes over time.
+At the heart of a huge amount of change in a program is this kind of simple *arithmetic* on numbers. We can use the standard arithmetic operators (`+`, `-`, `*`, `\`) to change the numbers in our variables. When we do that, the behaviour of our program changes over time.
     
 ## }

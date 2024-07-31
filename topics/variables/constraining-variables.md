@@ -136,25 +136,4 @@ It fits! And of course you could change the `minSize` and `maxSize` depending on
 
 We can and should use `constrain()` whenever we want to make sure our variables stay within specific bounds. It's one less thing to worry about when we're debugging for example.
 
-## TMI?
-
-You can accomplish this in JavaScript with a bit of extra work using `Math.min()` (which returns the smaller of two values) an `Math.max()` which returns the larger of two values:
-
-```javascript
-// Size gets bigger, symbolizing taking up emotional space
-ego.size = ego.size + 1;
-// Constrain the ego to be within its defined minimum and maximum
-ego.size = Math.min(Math.max(ego.size, ego.minSize), ego.maxSize);
-```
-
-Less pretty though, so you could also write your own `constrain()` function if you wanted to:
-
-```javascript
-function constrain(value, min, max) {
-    return Math.min(Math.max(value, min), max);
-}
-```
-
-Buuuut, using p5's `constrain` is just fine.
-    
 ## }

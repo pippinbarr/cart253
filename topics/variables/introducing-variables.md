@@ -1,5 +1,7 @@
 # Introducing variables {
     
+Variables are the life-blood of *change* in our programs. Without them, everything would just stay the same and be boring. 
+    
 ## In this module
 
 - What is a variable?
@@ -9,11 +11,10 @@
 ## What is a variable?
 
 A variable 
-
 - lets us use a *name* for a *value* that is a part of our program. 
 - lets us *change* the value stored in it, which means our programs can change too.
 
-For right now let's just think of variables as storing *numbers* as that's probably the most common kind.
+For right now let's just think of variables as storing *numbers* as that's a very common use.
 
 Let's meet a couple of variables to understand this.
 
@@ -96,7 +97,7 @@ As with `width` and `height`, the variables `mouseX` and `mouseY` are *always av
 - `mouseX` is a variable that contains the *current x-coordinate of the mouse*.
 - `mouseY` is a variable that contains the *current y-coordinate of the mouse*.
 
-So if the mouse is currently pointing a position (50, 150) on our canvas, then
+So if the mouse is currently pointing at position (50, 150) on our canvas, then
 
 - `mouseX` will contain the number `50`
 - `mouseY` will contain the number `150`
@@ -120,7 +121,7 @@ function draw() {
     fill(255, 0, 0);
     // We use the variable names mouseX and mouseY instead
     // of numbers for the x and y coordinates of our circle
-    // JavaScript will *use the values inside them* as the values
+    // JavaScript will *use the values inside them* (the numbers)
     // to send as the x and y arguments of ellipse()
     // And that will mean the ellipse will be drawn with its (x, y)
     // position set to the current mouse (x, y) position.
@@ -189,6 +190,6 @@ Now the circle changes colour when we move the mouse! And again that's because t
     
 ## Summary
 
-
+Variables make our programs able to change what they do and this is crucial to creating any kind of interesting work! In essence, *variables store values* (we have focused on *numbers*) and allow us to *change those values while the program is running*. Powerful stuff.
     
 ## }

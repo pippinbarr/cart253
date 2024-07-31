@@ -1,6 +1,17 @@
 # Basic drawing {
 
-## Introduction
+One of the main benefits of learning JavaScript via p5.js is that we can very easily *draw stuff* on the canvas, which generally makes the process of figuring out how programming works much more entertaining.
+
+## In this module
+
+- Preparation
+- The canvas
+- The background
+- A shape
+- Changing colours
+- `push()` and `pop()`
+- A meaning
+- Commenting
 
 ## Preparation
 
@@ -9,7 +20,9 @@
 3. Open the resulting folder in VS Code
 4. Give the program a title in `index.html`
 
-## Make a canvas
+## The canvas
+
+### Make a canvas
 
 Any project we work on with the p5 library will need us to create a canvas, so let's make one with `createCanvas`, specifying the width and height we want.
 
@@ -24,11 +37,11 @@ function draw() {
 }
 ```
 
-## What is the canvas?
+### What is the canvas?
 
 **EXPLAIN IT**
 
-## Draw a background
+## The background
 
 We know that `draw` happens *every frame* so it's usually a good idea to draw a background color (or later an image) for each frame, so let's add that in `draw` with the `background` function call.
 
@@ -48,7 +61,7 @@ Remember to look at the result in your browser by clicking on the "Go Live" butt
 
 Feel free to change the numbers to see what happens.
 
-## Draw a circle
+## A shape
 
 We've seen that we can use `rect` to draw a rectangle, so let's learn a new function call that will let us draw a circle called `ellipse` (you might guess from the name it can also draw ellipses in general and you would be right).
 
@@ -70,30 +83,30 @@ function draw() {
 
 The `ellipse` function works roughly the same as the `rect` function with an important difference. Let's break it down:
 
-### `ellipse`
+`ellipse`
 
 The function name is `ellipse`
 
-### `(320, 320, 480, 480)`
+`(320, 320, 480, 480)`
 
 Then we have parentheses to say "execute this with these arguments." Inside the parentheses we have *four* arguments:
 
-1. The first argument (`320`) is the x-coordinate of the *centre* of the ellipse relative to the top-left of the canvas (`320` is centre of the canvas horizonally because `640 / 2` is `320`)
-2. The second argument (`320`) is the y-coordinate of the centre of the ellipse relative to the top-left of the canvas
-3. The third argument (`480`) is the *width* of the ellipse in pixels
-4. The fourth argument (`480`) is the *height* of the ellipse in pixels
+- `320`: The first number is the x-coordinate of the *centre* of the ellipse relative to the top-left of the canvas (`320` is centre of the canvas horizonally because `640 / 2` is `320`)
+- `320`: The second number is the y-coordinate of the centre of the ellipse relative to the top-left of the canvas
+- `480`: The third number is the *width* of the ellipse in pixels
+- `480`: The fourth number is the *height* of the ellipse in pixels
 
-### `;`
+`;`
 
 We end on a semicolon like always.
 
-## Look at the result in your browser
+### Look at the result in your browser
 
 What was the difference?
 
 It is that by *default* the `ellipse` function positions the *centre* of the ellipse at the (x,y) coordinates you specify. But the `rect` function positions the *top-left corner* of the rectangle at the (x,y) coordinates you specify. Little details like this are important and over time we remember them.
 
-## Change the colour of the ellipse
+## Changing colours
 
 You might have noticed by now that the *default* for the shapes we're drawing is to have a white *fill* (the colour inside the shape) and a black *stroke* (the colour of the line around the shape).
 
@@ -128,7 +141,7 @@ This is how RGB colour works.
 
 Notice that we *set* the fill and the stroke colours *before we draw the shape*. It's like selecting the fill in Photoshop or MS Paint and *then* drawing the shape. This is a general rule with drawing with the p5 functions: you set all the colours etc. first, *then* draw the shape.
 
-## Safety first
+## `push()` and `pop()`
 
 Once we start setting colours for `fill` and `stroke` and other things, we'll run into the potential problem that our program will *keep using those settings* even after our shape is drawn. Again, it's like in Photoshop. If you set the fill to red it *stays red* until you change it again.
 
@@ -161,7 +174,7 @@ Now any drawings we do *after* our red circle won't use the red fill or the whit
 
 In programming we often want to be very *explicit* about what we're doing so there's no confusion. Confusion is scary.
 
-## A record
+## A meaning
 
 We might as well add a couple more shapes to turn this into a vinyl record:
 
@@ -260,21 +273,11 @@ function draw() {
 
 Ah, that's better. A program that makes sense even if you don't know the specific function calls and arguments. If my cat could read, my cat could read this.
 
-## Is that it?
-
-*Kind of!*
+## Summary
 
 Drawing using the p5 functions amounts to what we've just seen. It's just that there are *a lot of other functions*.
 
 But whether you only use `rect` or you use `rect` and `ellipse` and `fill` and `stroke` or you use every single function there is, the basic idea stays the same: you do it by *calling functions* and (when needed) passing them *arguments*.
-
-## Summary
-
-We learned some new drawing functions, including `ellipse`, `fill`, `stroke`, and `noStroke`.
-
-We saw that we can draw multiple shapes in one program (and maybe we even noticed that they end up one on top of the other in order?).
-
-We learned that we should surround individual shapes and their settings (`fill` etc.) with `push` and `pop` to avoid confusion. (Confusion is scary.)
 
 ## Next
 
