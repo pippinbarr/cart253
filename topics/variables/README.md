@@ -1,6 +1,12 @@
 # Variables {
 
+✨ Variables are the lifeblood of *information* in our program and, most important of all: they can *change*! And if they can change, then our program is alive! ✨
+
 ## Learning objectives
+
+- Understanding and using basic number variables in a program
+- Using JavaScript Objects to better organize our data
+- Using variables to create *life itself*
 
 ## Modules
 

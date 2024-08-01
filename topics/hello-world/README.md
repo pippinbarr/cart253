@@ -1,10 +1,12 @@
 # Hello, World! {
 
-Inspire inspire
+✨ Here we are, together at last in the warm embrace of CART253 - Creative Computation I! ✨
 
 ## Learning Objectives
 
-- ...
+- Understand the nature and structure of the course
+- Get the basic software up and running
+- Understand and set up version control
 
 ## Modules
 

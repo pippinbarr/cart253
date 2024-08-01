@@ -1,10 +1,12 @@
 # Making {
 
-...
+✨ Actually *making our work* isn't just about knowing the syntax and commands of JavaScript and p5, it's about *coming up with ideas* that we can actually work on and be excited about! ✨
 
 ## Learning objectives
 
-- ...
+- Overcoming the terror of having to have an idea for a program
+- Building from an idea through to a thorough plan through to pseudocode
+- Understanding the connections (and fun!) from idea all the way to implementation
 
 ## Modules
 

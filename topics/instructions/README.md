@@ -1,6 +1,13 @@
 # Instructions {
 
-✨ Instructions are a fundamental building block of how we tell a computer what to *do* in a programming language. They're like a magical language we can learn! ✨
+✨ Instructions are a fundamental building block of how we tell a computer what to *do* in a programming language! ✨
+
+## Learning Objectives
+
+- Call functions to make things happen on screen
+- Write comments and function definitions to clarify your work
+- Start getting comfortable with reading documentation
+- Begin learning how to debug code (including spiritually)
 
 ## Modules
 

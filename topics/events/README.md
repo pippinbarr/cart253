@@ -1,10 +1,11 @@
 # Events {
 
-Basic motivations
+✨ Events allow our programs to directly *react* to what a user does. This is at the heart of interactivity and thus one of the most powerful ways our programs can be engaging! ✨
 
 ## Learning objectives
 
-- ...
+- Getting comfortable with how time flows in a program
+- Building mastery of different types of events for user input or timing
 
 ## Schedule
 

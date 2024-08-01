@@ -1,10 +1,11 @@
 # Conditionals {
 
-Basic motivating idea.
+✨ Conditionals are the key way we can make a program do *different things* based on the current situation! ✨
 
 ## Learning objectives
 
-- ...
+- Understanding what "conditions" are in a program and how to write them out with `if`-statements
+- Increasing our expressive power with logic operators
 
 ## Modules
 
