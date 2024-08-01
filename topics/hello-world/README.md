@@ -11,7 +11,8 @@ Inspire inspire
 - *Welcome to Creative Computation!*
     - Watch the video on Moodle
     - Read the [Welcome to Creative Computation notes](./welcome-to-creative-computation.md)
-- Follow the [*Course Software Installation Guide*](../../guides/course-software.md)
+- *Software Setup*
+    - Follow the [*Course Software Installation Guide*](../../guides/course-software.md)
 - *What is version control?*
     - Watch the video on Moodle
     - Read the [What is version control? notes](./what-is-version-control.md)
