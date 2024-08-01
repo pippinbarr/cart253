@@ -1,6 +1,6 @@
 # Writing pseudocode {
     
-We've made a pretty solid plan, but we can go further by writing out our plan as a "sort of" code. Here we try to express all the ideas in the plan using the ideas we know from programming, without worrying too much about the exact syntax stuff. Pseudocode.
+We've made a pretty solid plan, but we can go further by writing out our plan as a "sort of" program. Here we try to express all the ideas in the plan using the ideas we know from programming, without worrying too much about the exact syntax stuff. Pseudocode.
 
 ## In this module
 
@@ -9,7 +9,7 @@ We've made a pretty solid plan, but we can go further by writing out our plan as
 
 ## Not an exact science
 
-Writing pseudocode is by no means something you can do exactly right. The key, though, is that it should help you bridge from your *plan*, which is pretty a pretty specific explanation of how the program works, to your *program*, which is written in actual code. Pseudocode is a chance to think about the details.
+Writing pseudocode is by no means something you can do exactly right. The key, though, is that it should help you bridge from your *plan*, which is a pretty specific explanation of how the program works, to your *program*, which is written in actual code. Pseudocode is a chance to think about the details.
 
 ## The pseudocode
 
@@ -31,7 +31,7 @@ frog
         state: idle // At the beginning the tongue isn't moving
 ```
  
-You can see this is kind of "close" to a JavaScript Object, but not *exactly*. We didn't worry about the syntax with all the curly brackets and commas, we just tried to express what the frog is made up of in terms of properties and what would be in those properties. We also haven't specified how the state property really works, but it will probably be a string to begin with.
+You can see this is kind of "close" to a JavaScript Object, but not *exactly*. We didn't worry about the syntax with all the curly brackets and commas, we just tried to express what the frog is made up of in terms of properties and what would be in those properties. We also haven't specified how the state property really works, but it will probably be a string.
 
 ### Fly
 
@@ -137,7 +137,7 @@ Drawing the frog isn't too complex because we're not being too ambitious with ou
 ```
 drawFrog()
     Draw a green circle using the frog body's position and size
-    Draw a red circle using the frog tongue's body and size
+    Draw a red circle using the tongue's body and size
     Draw a red line between the tongue circle and the frog body
 ```
 

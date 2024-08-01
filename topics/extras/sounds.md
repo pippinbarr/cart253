@@ -14,14 +14,14 @@ Loading and playing a sound is always the same process.
 
 ### Preparing the sound
 
-Let's say you have an sound file called `bark.wav`. First, you:
+Let's say you have a sound file called `bark.wav`. First, you:
 
 1. Check that `bark.wav` isn't like 100MB. Remember that people are experiencing your work in their browser, they don't want to download GIGANTIC FILES
-2. Put `bark.wav` in the `assets/images` folder of your project
+2. Put `bark.wav` in the `assets/sounds` folder of your project where it belongs
 
 ### Loading and playing the sound
 
-Now the image is in your project you can load it. The simplest approach here is to use `preload()` in your project to load the sound *into a variable*. That's right, a variable can contain an sound.
+Now the image is in your project you can load it. The simplest approach here is to use `preload()` in your project to load the sound *into a variable*. That's right, a variable can contain a sound.
 
 ```javascript
 // We need a variable to store our sound in so we can use it later
@@ -33,7 +33,7 @@ let barkSFX = undefined;
  */
 function preload() {
     // This is how you load a sound!
-    // Note that loadSound) needs the PATH to your sound inside your project
+    // Note that loadSound() needs the PATH to your sound inside your project
     // Note that the path is CASE SENSITIVE
     // Note that the filename is CASE SENSITIVE
     // Note the QUOTE MARKS around the path
@@ -55,13 +55,13 @@ function mousePressed() {
 }
 ```
 
-And now the program barks when you click.
+And now the program barks when you click. Good dog.
 
 ## Don't play sounds in `draw()`
 
-If you try to play your `barkSFX` sound in the `draw()` function, what's going to happen? It's going to be played *every frame*, which is a *lot of barking*. It's also almost never what you want.
+If you try to play your `barkSFX` sound in the `draw()` function, what's going to happen? It's going to be played *every frame*, which is a *lot of barking*. Too much barking. It's also almost never what you want.
 
-So when we play a sound we usually need to play it in a spot where it will play *once*. Most often that's in response to a user input, like a click (`mousePressed()` above) or a keypress or a timer, etc.
+So when we play a sound we usually need to play it in a spot where it will play *once*. Most often that's in response to a user input, like a click (`mousePressed()` above) or a keypress or a timer going off, etc.
 
 Note that we *can* actually play a sound in `draw()` but only if the way the program works means it *won't play every frame*. Always something to think about.
 
@@ -81,7 +81,7 @@ The easiest way to do that is to start your program with a screen that requires 
 
 ## Summary
 
-Using `loadSound()` in `preload()` we can load a sound into a variable (or property). Using `.play()` we can play the sound.
+Using `loadSound()` in `preload()` we can load a sound into a variable (or object property). Using `.play()` we can play the sound.
 
 We will pay attention to *sound file sizes* and *sound file formats* to make sure they are appropriate.
     

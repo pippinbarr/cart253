@@ -6,12 +6,10 @@ Perhaps the most fundamental kind of event is just waiting for an amount of time
 
 - A traffic light
 - `setTimeout()`
-- Changing the light once
 - `setInterval()`
-- Changing the light over and over
 - Other time events
 
-## A stoplight
+## A traffic light
 
 Let's make a (very primitive) traffic light:
 
@@ -53,7 +51,7 @@ function draw() {
 }
 ```
 
-Now, this is a great traffic light, but perhaps a little bit redundant if it's always green! We need it to change colours after a while to regulate the traffic.
+Now, this is a great traffic light, but perhaps a little bit redundant if it's always green! Hmm, maybe it's quite dangerous... we need it to change colours after a while to regulate the traffic.
 
 That means we need an *event* to occur after a set time, and when that event happens we want to *change the light*.
 
@@ -61,7 +59,7 @@ That means we need an *event* to occur after a set time, and when that event hap
 
 In JavaScript we mostly use `setTimeout()` for this. Note that this works in *JavaScript* in general, not just in p5. 
 
-`setTimeout()` works like this:
+`setTimeout()` is called like this:
 
 ```javascript
 setTimeout(eventHandlerFunction, delayInMilliseconds);
@@ -69,16 +67,16 @@ setTimeout(eventHandlerFunction, delayInMilliseconds);
 
 That is, it's a function that takes *two arguments*:
 
-- `eventHandlerFunction` is the name of the function that should be called *when the event happens* - that is, when the timer goes off
+- `eventHandlerFunction` is the name of the function that should be called *when the event happens* - that is, when the timer goes off (notice we do *not* include the parentheses after this function name - we don't want to call it *immediately*)
 - `delayInMilliseconds` is how long to wait, in *milliseconds*, before calling the `eventHandlerFunction`
 
-## Changing the light once
+### Changing the light once
 
 With `setTimeout()` we can make our light change from green to red after a while!
 
 Where should we put our `setTimeout()`? Well we *shouldn't* put it in `draw()` because that would be like setting a new timer every frame. Like, we would be setting 30 timers every second and then they'd all go off one after the other! Not how a traffic light works.
 
-Really we only want to start the timer *once*, and for that we should use `setup()`.
+Really we only want to start the timer *once*, and for that we should call it in `setup()` (or plausibly in a `mousePressed()` or just somewhere else we can start it one time only).
 
 ```javascript
 /**
@@ -124,7 +122,7 @@ So, again, it's a function that takes *two arguments*:
 - `eventHandlerFunction` is the name of the function that should be called *each time the event happens* - that is, when the timer goes off (over and over)
 - `delayInMilliseconds` is how long to wait, in *milliseconds*, before calling the `eventHandlerFunction` each time
 
-## Changing the light over and over
+### Changing the light over and over
 
 Now we can replace our `setTimeout()` with a `setInterval()` to make the light change forever! Let's make it go from green to orange to red and back again, once every second. In `setup()` we can do pretty much the same thing:
 
@@ -168,12 +166,12 @@ And there we have it - a (still-pretty-bad) traffic light that cycles once every
 
 There's one other key time event you can use:
 
-- [`requestAnimationFrame()`](https://developer.mozilla.org/en-US/docs/Web/API/Window/requestAnimationFrame) which will trigger its event hander function ever frame of animation on the webpage (guess what? this is how `draw()` works in p5!)
+- [`requestAnimationFrame()`](https://developer.mozilla.org/en-US/docs/Web/API/Window/requestAnimationFrame) which will trigger its event hander function on the next frame of animation on the webpage (guess what? this is how `draw()` works in p5!)
 
 It's a bit unlikely you'll want this one while working with p5, but worth knowing it exists.
 
 ## Summary
 
-...
+With `setTimeout()` and `setInterval()` we now have the power to call a function after an *arbitrary amount of time* which is *very often something we want to do*!
 
 ## }

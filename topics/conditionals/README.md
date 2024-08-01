@@ -1,33 +1,50 @@
-# Conditionals
+# Conditionals {
 
 Basic motivating idea.
 
-## This week
+## Learning objectives
 
 - ...
 
-**All videos are also available on YouTube with ads or on the Moodle without ads.**
+## Modules
 
-- **Watch** *Introducing conditionals* ([YouTube](MISSING_LINK), YuJa/Moodle) and **read** the [notes](./introducing-conditionals.md)
-- **Watch** *Conditionals in practice* ([YouTube](MISSING_LINK), YuJa/Moodle) and **read** the [notes](./conditionals-in-practice.md)
-- **Watch** *Booleans* ([YouTube](MISSING_LINK), YuJa/Moodle) and **read** the [notes](./booleans.md)
-- **Watch** *Introducing logic operators* ([YouTube](MISSING_LINK), YuJa/Moodle) and **read** the [notes](./introducing-logic-operators.md)
-- **Watch** *Logic operators in practice* ([YouTube](MISSING_LINK), YuJa/Moodle) and **read** the [notes](./logic-operators-in-practice.md)
-- **Download** the [conditionals debugging project](MISSING_LINK), **watch** *Debugging variables* ([YouTube](MISSING_LINK), YuJa/Moodle), and **read** the [debugging guide](../../guides/debugging-guide.md)
+- *Introducing conditionals*
+    - Watch the video on Moodle
+    - Read the [Introducing conditionals notes](./introducing-conditionals.md)
+- *Conditionals in practice: Part 1: Creature Loves Mouse*
+    - Watch the video on Moodle
+    - Read the [Conditionals in practice: Part 1: Creature loves mouse notes](./conditionals-in-practice-part-1.md)
+- *Booleans*
+    - Watch the video on Moodle
+    - Read the [Booleans notes](./booleans.md)
+- *Introducing logic operators*
+    - Watch the video on Moodle
+    - Read the [Introducing logic operators notes](./introducing-logic-operators.md)
+- *Conditionals in practice: Part 1: Massage*
+    - Watch the video on Moodle
+    - Read the [Conditionals in practice: Part 2: Massage notes](./conditionals-in-practice-part-2.md)
+- *Conditionals in practice: Part 3: Death*
+    - Watch the video on Moodle
+    - Read the [Conditionals in practice: Part 3: Death notes](./conditionals-in-practice-part-3.md)
+- *Debugging conditionals*
+    - Download the [Debugging Conditionals Project](MISSING_LINK)
+    - Watch the video on Moodle
+    - Read the [Debugging Guide](../../guides/debugging-guide.md)
+- **Extra!** *Images*
+    - Read the [Loading and displaying images notes](../extras/images.md)
+    - You can also read the reference pages for [`loadImage()`](https://p5js.org/reference/p5/loadImage/) and [`image()`](https://p5js.org/reference/p5/image/)
 
-## Extra! Extra! 🖼 Images!
+## Challenges
 
-Drawing everything with shapes is pretty great, but you may also want to display images in your program. And you can!
+- Try the [conditionals challenges](MISSING_LINK) (We will review them in class)
 
-Read about [loading and displaying images in p5](../extras/images.md) to find out how!
+## Examples
 
-## Practice
-
-- **Try** the [conditionals challenges](MISSING_LINK)
+- ...
 
 ## 🔥 Hot tip: Text
 
-We can store *text* in variables by using quotation marks:
+We can store *text* in variables (or object properties) by using quotation marks:
 
 ```javascript
 let myName = "Gladiolus";
@@ -64,3 +81,4 @@ function draw() {
 
 Read the [Typography](https://p5js.org/reference/#Typography) documentation in the reference for more information.
 
+## }

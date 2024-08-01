@@ -1,6 +1,6 @@
 # Booleans {
     
-...
+When we're using conditionals we have conditions, and conditions are either *true* or *false*. In programming there are two values, `true` and `false`, we can store in variables and that can be useful when dealing with conditionals.
 
 ## In this module
 
@@ -21,7 +21,7 @@ let owl = {
 };
 ```
 
-This can be handy when we're usng conditionals in our program because our variables or properties can be designed to work with them.
+This can be handy when we're using conditionals in our program because our variables or properties can be designed to work with them.
 
 ### A lightswitch
 
@@ -160,6 +160,6 @@ It's a little thing, but it can also be a great way to make sure you understand 
 
 ## Summary
 
-
+In JavaScript the values `true` and `false` are available for storing *conditions*. This often lets us make our programs even more clear.
     
 ## }

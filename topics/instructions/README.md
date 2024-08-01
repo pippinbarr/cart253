@@ -29,7 +29,7 @@
 
 ## Challenges
 
-- **Try** the [instructions challenges](./drawing-challenges.md) (we will review them in class)
+- Try the [instructions challenges](./drawing-challenges.md) (we will review them in class)
 
 ## 🔥 Hot tip: Commenting Shortcut
 

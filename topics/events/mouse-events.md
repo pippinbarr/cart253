@@ -57,8 +57,6 @@ function draw() {
 
 Right now we can make the ball move if we manually set its velocity properties, but it would be nicer if we could control that with... the mouse!
 
-... with the mouse!
-
 ## `mousePressed()`
     
 We've already seen that we can add a `mousePressed()` function definition to our program and it will be called whenever the mouse button is pressed down!
@@ -67,7 +65,7 @@ A simple idea would be that the ball should move to the right when we press down
 
 ```javascript
 /**
- * Starts the ball moving
+ * Starts the ball moving on mouse pressed
  */
 function mousePressed() {
     ball.velocity.x = ball.speed;
@@ -93,6 +91,8 @@ function mouseReleased() {
 
 Yes! Now the ball only moves while we're holding down the mouse! True power!
 
+(The eagle-eyed among you may notice that you could *also* do this with the boolean variable `mouseIsPressed` in `draw()`, but we're talking about events here people!)
+
 ## `mouseWheel()`
 
 Just for laughs, let's control the ball's size by using the mouse wheel (or a scroll gesture on a trackpad).
@@ -101,7 +101,7 @@ The `mouseWheel()` function is called whenever the user moves the mouse wheel (o
 
 ```javascript
 /**
- * Grows the ball
+ * Grows the ball when the mouse wheel is rolled
  */
 function mouseWheel() {
     ball.size += 0.5;
@@ -137,7 +137,7 @@ This is already so cool! Now we can move the ball and adjust its size, all using
 
 But wait a second, *how did we know about `event` and `event.delta`*?
 
-Gentle reader, we [read the documentation for `mouseWheel()` in the p5 reference](https://p5js.org/reference/#/p5/mouseWheel). It ain't magic. It's reading.
+Gentle reader, we [read the documentation for `mouseWheel()` in the p5 reference](https://p5js.org/reference/p5/mouseWheel/). It ain't magic. It's reading.
     
 ## Other mouse events    
 
@@ -150,8 +150,10 @@ There are a few other mouse events available in p5, notably:
 
 You can use them all in the same kind of way as we've been looking at. You define a function with the matching name, and then inside the function you can write code that will run *when that event happens*.
 
+Want to know more? Read the section of the documentation called [Mouse](https://p5js.org/reference/#IO:~:text=characters%20are%20pressed.-,Mouse,-doubleClicked()).
+
 ## Summary
 
-...
+We can now include the idea of the user doing *all kinds of things with their mouse* (clicking, releasing, dragging, double clicking, ...) as ways they can interact with our program.
 
 ## }

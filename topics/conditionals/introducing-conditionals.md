@@ -1,6 +1,6 @@
 # Introducing conditionals {
     
-One of the most interesting things a program can do is *change how it works* depending on what is happening. Maybe it could respond to mouse movement, or to the current time, or to the weather? A key way to tell a program what to do in different situations is to use *conditionals*, expressed in code as `if`-statements.
+One of the most interesting things a program can do is *change how it responds depending on what is happening*. Maybe it could respond to mouse movement, or to the current time, or to the weather? A key way to tell a program what to do in different situations is to use *conditionals*, expressed in code as `if`-statements.
 
 ## In this module
 
@@ -9,6 +9,7 @@ One of the most interesting things a program can do is *change how it works* dep
 - Math and comparisons
 - `else`
 - `else if`
+- Situations
 
 ## Decisions, decisions
 
@@ -18,7 +19,7 @@ We all make decisions about what *do* based on *information* we have about the w
 
 This is made up of two key parts we can call the *condition* and the *consequence*:
 
-- The **condition** is "freezing rain". Whether or not there is freezing rain is what we are going to base our *decision* on.
+- The **condition** is "there is freezing rain". Whether or not there is freezing rain is what we are going to base our *decision* on.
 - The **consequence** is "I'm going to stay at home". This is what we're going to *do* if the condition is true and there *is* freezing rain.
 
 ## `if`-statements
@@ -30,7 +31,7 @@ An `if`-statement expressing the above decision about freezing rain in program m
 ```javascript
 // Check if there is freezing rain
 // ("If there is freezing rain", the condition)
-if (freezingRain) {
+if (thereIsfreezingRain) {
   // There is freezing rain, so stay at home
   // ("then I'm going to stay at home", the consequence)
   stayAtHome();
@@ -41,7 +42,7 @@ That is, we write:
 
 - `if` - the special word that starts a conditional
 - `(...)` - parentheses that go around the *condition*
-- `freezingRain` - the condition itself, inside the parentheses, needs to be something that will be either `true` or `false`
+- `thereIsFreezingRain` - the condition itself, inside the parentheses, needs to be something that will be either `true` or `false` (right now this one is just made up)
 - `{ ... }` - curly brackets around the *consequence*
 - `stayAtHome()` - our consequence is to call the `stayAtHome()` function
 
@@ -50,7 +51,7 @@ So, in general:
 ```javascript
 // Check if the condition is true
 if (condition) {
-  // If it's true, the things inside these curcle brackets
+  // If it's true, the things inside these curly brackets
   // will be executed
 }
 ```
@@ -65,7 +66,9 @@ In a program a lot of the time our *conditions* are going to be based on *number
 - Is the variable `confidence` greater than or equal to `90`? `(confidence >= 90)`
 - Is the variable `sadness` less than or equal to `10`? `(sadness <= 10)`
 
-As you can see, we use standard mathematical comparison operators (the fancy name for equals, less than, greater than, etc.) to compare numbers.
+As you can see, we use standard mathematical comparison operators (the fancy name for equals, less than, greater than, etc.) to compare numbers. 
+
+Note especially that we write **three equals signs** to check equality (`===`). Not one (which is what we use to *assign* values to variables) and not two (which works, but less consistently).
 
 We will essentially *always* write comparisons that involve at least one *variable* because if there's no variable involved then the *condition cannot change* and it's pointless. You can check `(5 > 2)` as many times as you want, but it will always be `true`.
 
@@ -80,7 +83,7 @@ Extending our program version, we would write this:
 ```javascript
 // Check if there is freezing rain
 // ("If there is freezing rain", the condition)
-if (freezingRain) {
+if (thereIsFreezingRain) {
   // There is freezing rain, so stay at home
   // ("then I'm going to stay at home", the consequence)
   stayAtHome();
@@ -96,7 +99,7 @@ So the `else` part allows us to tell the program what to do if the condition is 
 
 ## `else if`
 
-One last thing! Sometimes we have more complicated decisions to make where there isn't just *one condition* but several. Such as:
+One last thing! Sometimes we have more complicated decisions to make where there isn't just *one condition* but several depending on each other. Such as:
 
 > **If there is freezing rain, then I'm going to stay at home. Otherwise, if it's 12 degrees or warmer, I'll go for a walk. Otherwise, I'll go to the café.**
 
@@ -105,7 +108,7 @@ Extending our program version, we would write this:
 ```javascript
 // Check if there is freezing rain
 // ("If there is freezing rain", the condition)
-if (freezingRain) {
+if (thereIsfreezingRain) {
   // There is freezing rain, so stay at home
   // ("then I'm going to stay at home", the consequence)
   stayAtHome();
@@ -140,5 +143,7 @@ Essentially we're able to *describe situations* using our conditions and *respon
 - On a 2 degree day with no freezing rain, I'll go to the café
 
 ## Summary
+
+Conditionals in a programming language like JavaScript (that is, `if`-statements) allow us to express very dynamic and natural ideas in code: ideas about what we will do *if* some specific set of circumstances comes to pass. Responding to situations is part of what it means to be *alive*, and so conditionals in a very real sense help our programs to be alive!
 
 ## }

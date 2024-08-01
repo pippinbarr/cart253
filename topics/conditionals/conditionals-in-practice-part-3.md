@@ -1,128 +1,20 @@
-# Logic operators in practice {
+# Conditionals in practice: Part 3: Death {
 
-AND, OR, NOT, got it. But what could we *do* with them?
+Into each life must come... some death.
 
 ## In this module
 
 - Our creature is back
-- Massage!
 - Death by boredom!
 - That's life! And death!
     
 ## Our creature is back
 
-We're going to keep working on the creature from the [conditionals in practice](./conditionals-in-practice.md) module so if you don't have that code sitting around, go back and grab it from the end of the module! I'll wait...
+We're going to keep working on the creature from the [Conditionals in practice: Part 2: Massage](./conditionals-in-practice-part-2.md) module so if you don't have that code sitting around, go back and grab it from the end of the module! I'll wait...
 
 ... okay!
 
 Currently our creature responds in different ways to the mouse and keys, but we can be a bit more sophisticated now with logic operators. So let's delete the stuff in its `checkInput()` and change it up.
-
-## Massage!
-
-Let's change what makes the creature happy: massage.
-
-How could we think of massage in the context of the mouse? What if we consider it massage if *two* things are true:
-
-- The cursor is overlapping the creature AND
-- The cursor is moving
-
-So we want to be able to write something like:
-
-```javascript
-if (mouseIsOverlapping && mouseIsMoving) {
-  // The cursor is overlapping the creature AND it's moving
-  // So the creature is happy!
-  creature.fill = creature.fills.happy;
-}
-```
-
-These would be our two conditions. But for that to work we need the variables `mouseIsOverlapping` and `mouseIsMoving` to have the right `true` or `false` values in them.... so something like:
-
-```javascript
-const mouseIsOverlapping = ?;
-const mouseIsMoving = ?;
-if (mouseIsOverlapping && mouseIsMoving) {
-  // The cursor is overlapping the creature AND it's moving
-  // So the creature is happy!
-  creature.fill = creature.fills.happy;
-}
-```
-
-(We might as well use `const` here because we're not going to change these variables later.)
-
-### `mouseIsOverlapping`
-
-So, how do we write a condition that checks if the mouse cursor overlaps a circle (the creature)?
-
-To check if a pair of (x,y) coordinates are inside a circle we can rely on a neat trick:
-
-*The coordinates (x,y) are inside a specific circle if their *distance* from the centre of the circle* is *less than its radius*. As in this wonderful diagram:
-
-![Diagram of how the distance from the centre of a circle tells us whether a point is inside or outside a circle](./images/distance-and-circles.png)
-
-Better yet, there is a *function* in p5 called `dist()` that we can use to get the distance in pixels between two (x,y) coordinates! With that we can actually express our condition in math! Like this!
-
-```javascript
-// Calculate the distance between the cursor and the creature
-// and put it into a "distance" variable (using const again since
-// we won't change this again later!)
-const distance = dist(mouseX, mouseY, creature.x, creature.y);
-// Calculate whether the mouse overlaps the creature by checking whether
-// the distance is less than its radius! (Half its diameter)
-const mouseIsOverlapping = (distance < creature.size/2);
-```
-
-When we do this `mouseIsOverlapping` will be `true` is the mouse is inside the creature's circle, and `false` if it isn't!
-
-### `mouseIsMoving`
-
-How can we tell if the mouse is moving? Fortunately p5 gives us two variables that help us out here: `movedX` and `movedY` store how many pixels the mouse moves on the x- and y-axes respectives. So, if *either* of them are not `0` then the mouse moved right?
-
-And that is maths, so we can write the code!
-
-```javascript
-// Check if EITHER movedX OR movedY are NOT equal to zero
-// and store the result in our mouseIsMoving variable (another
-// const because we don't want to change it later)
-const mouseIsMoving = (movedX !== 0 || movedY !== 0);
-```
-
-That gives us both of our conditions, so we can finally check for massage
-
-### Massage is go
-
-We can replace our creature's `checkInput()` with our new idea!
-
-```javascript
-/**
- * Creature is happy if being massaged and otherwise bored
- */
-function checkInput() {
-    // Calculate the distance between the cursor and the creature
-    // and put it into a "distance" variable (using const again since
-    // we won't change this again later!)
-    const distance = dist(mouseX, mouseY, creature.x, creature.y);
-    // Calculate whether the mouse overlaps the creature by checking whether
-    // the distance is less than its radius! (Half its diameter)
-    const mouseIsOverlapping = (distance < creature.size/2);
-    // Check if EITHER movedX OR movedY are NOT equal to zero
-    // and store the result in our mouseIsMoving variable (another
-    // const because we don't want to change it later)
-    const mouseIsMoving = (movedX !== 0 || movedY !== 0);
-    // Check if the mouse if over the creature and moving
-    if (mouseIsOverlapping && mouseIsMoving) {
-        // The cursor is overlapping the creature AND it's moving
-        // So the creature is happy! Massage!
-        creature.fill = creature.fills.happy;
-    }
-    else {
-        // Otherwise the creature is bored
-        creature.fill = creature.fills.bored;
-    }
-}
-```
-
-Phew!
 
 ## Death by boredom
 
@@ -163,7 +55,7 @@ const creature = {
   // How bored is the creature right now?
   boredomLevel: 0,
   // How bored can the creature get before dying (in frames)
-  deathByBoredomThresshold: 500
+  deathByBoredomThreshold: 500
 };
 ```
 
@@ -210,7 +102,7 @@ Now each time we check the creature's response to the world and find out it's bo
 
 It's very important that the creature actually *dies* of boredom. 
 
-So how do we know if the creature is dead? Well, if its `alive` property is `false`! Which is to say if it is NOT alive, or `!creature.alive`.
+#### Assigning death
 
 What should at the moment *the creature dies* of boredom?
 
@@ -226,6 +118,8 @@ creature.alive = false;
 creature.fill = creature.fills.dead;
 ```
 
+#### When to die
+
 And what is the *condition* for this to happen? It's when its `boredomLevel` is *greater than* its `deathByBoredomThreshhold`, and that's just math!
 
 ```javascript
@@ -237,6 +131,8 @@ if (creature.boredomLevel > creature.deathByBoredomThresshold) {
     creature.fill = creature.fills.dead;
 }
 ```
+
+#### Where to die
 
 And *where* in our program would we check this? We should check this every time the `boredomLevel` changes which is, again, in our `else` that handles boredom.
 
@@ -280,7 +176,7 @@ function checkInput() {
 
 So, now the creature dies! It gets bored and it dies! Yesss!
 
-But, if we run this program there is something annoying... we let the creature die but then... it still responds to massage! Which is creepy!
+But, if we run this program there is something annoying... we let the creature die but then... it still responds to massage! Which is... incredibly creepy!
 
 ### Being dead
 
@@ -358,12 +254,10 @@ Importantly we've been using *all* our logic operators!
 In doing so we can see how using conditionals lets us model fairly complex behaviours! And this is only scratching the surface! Anything you can imagine can probably be done!
 
 ## Summary
+
+We've used conditionals and logic operators to create a pretty expressive little creature! Who knew that something as dry as logic could be as cool as this?!
     
 ## }
-
-Extras:
-
-Move the parts of if/else into functions
 
 ## Complete creature code
 
@@ -412,16 +306,20 @@ function draw() {
   drawCreature();
 }
 /**
- * Creature is happy if being massaged and otherwise bored
+ * Creature is happy if being massaged and otherwise bored... sometimes to death
  */
 function checkInput() {
-  // Check if the creature is dead
+    // Check if the creature is dead
     // Which is to say if it is NOT alive
     if (!creature.alive) {
         // If it's dead, just stop this function here
         // so that we don't check out massaging and so on
         return;
     }
+    
+    // If we get to here it means the creature IS alive (because the
+    // if-statement above didn't trigger)
+    
     // Calculate the distance between the cursor and the creature
     // and put it into a "distance" variable (using const again since
     // we won't change this again later!)
@@ -451,6 +349,29 @@ function checkInput() {
             // Creature turns dead coloured!
             creature.fill = creature.fills.dead;
         }
+    }
+}
+
+/**
+ * Handles the creature becoming happy
+ */
+function creatureHappy() {
+    creature.fill = creature.fills.happy;
+}
+
+/**
+ * Handles the creature becoming bored
+ */
+function creatureBored() {
+    creature.fill = creature.fills.bored;
+    // Increase its boredom level by one
+    creature.boredomLevel += 1;
+    // Check if the creature has died of boredom
+    if (creature.boredomLevel > creature.deathByBoredomThresshold) {
+        // Creature dies of boredom!
+        creature.alive = false;
+        // Creature turns dead coloured!
+        creature.fill = creature.fills.dead;
     }
 }
 

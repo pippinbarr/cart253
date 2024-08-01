@@ -1,5 +1,7 @@
 # Variables {
 
+## Learning objectives
+
 ## Modules
 
 - *Introducing variables*

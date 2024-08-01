@@ -1,6 +1,6 @@
 # Time and JavaScript and p5 {
    
-Description.
+We've been doing it all along, but it's worth reviewing really specifically how time works in our programs, specifically "what gets executed when" is a big question. And as we begin to add *events* to our programs, this gets even more important.
 
 ## In this module
 
@@ -21,13 +21,13 @@ let z = x * y;
 
 Then JavaScript will first assign `10` to `x`, then `11` to `y` and then the result of multiplying them (`110`) to `z`, and then it will be done.
 
-Of course it gets more complicated as you define functions and call them, but this remains the most basic rule: top to bottom.
+Of course it gets more complicated as you define functions and call them, but this remains the most basic rule: **top to bottom**.
 
 ## p5 time
 
-When using p5 we've been able to define a couple of special functions that will be called at specific *times* in the program. Those are especially `setup()` and `draw()`.
+When using p5 we've been able to define a couple of special functions that will be called at specific *times* in the program. Those are notably `setup()` and `draw()`.
 
-JavaScript will still run our program from the top to the bottom first, but after that it will also call our special functions at the right times.
+JavaScript will still run our program from the top to the bottom first, but *after* that it will also call our special functions at the right times.
 
 So if our program is:
 
@@ -59,7 +59,9 @@ First JavaScript will start at the top, which means it will
 - Assign the various properties to the `ball` object
 - Notice the two function definitions of `setup()` and `draw()` but *not call them!*
 
-Then, thanks to p5 magic behind the scenes, JavaScript will
+Remember that, just *having* a function definition does not mean that code automatically runs. It just means that you *can* call the function as needed.
+
+However, thanks to p5 magic behind the scenes, JavaScript will
 
 - Call `setup()` immediately (which will create the canvas)
 - Call `draw()` right after that (which will draw the ball on the canvas)
@@ -68,7 +70,7 @@ Then, thanks to p5 magic behind the scenes, JavaScript will
 - Call `draw()` about 0.033 seconds later to draw the next frame (which will draw the ball on the canvas one pixel further to the right)
 - Keep on calling `draw()` every 0.033 seconds until the program stops
 
-So time in p5 for now is *mostly* in `draw()`, which is called about 30 times per second, also known as a the framerate.
+So time in p5 for now is *mostly* being driven by the `draw()` function being called about 30 times per second. That's also known as the *framerate*.
 
 ## Summary
 

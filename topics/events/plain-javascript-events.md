@@ -1,81 +1,32 @@
 # Plain JavaScript events {
    
-So far we've seen some "built-in" events for p5 (for the keyboard and mouse) but "secretly" they're just using the underlying JavaScript events system. It's worth seeing how this works!
+So far we've seen some "built-in" event handlers for p5 (for the keyboard and mouse) but "secretly" they're just using the underlying JavaScript events system. It's worth seeing how this works!
 
 ## In this module
 
-- A key press in p5
 - A key press in plain JavaScript
 - The `event` parameter
 - JavaScript events
 
-## A mouse press in p5
-
-As we saw previously, we can magically react to a key press in p5 by just defining a `keyPressed()` function:
-
-```javascript
-// The background colour
-const bg = {
-    fill: "#000000",
-    fills: {
-        black: "#000000",
-        white: "#ffffff"
-    }
-}
-
-/**
- * Create the canvas
- */
-function setup() {
-    createCanvas(400, 400);
-}
-
-/**
- * Fill the canvas
- */
-function draw() {
-    background(bg.fill);
-}
-
-/**
- * Switch the background on key press
- */
-function keyPressed() {
-    if (bg.fill === bg.fills.black) {
-        bg.fill = bg.fills.white;
-    }
-    else {
-        bg.fill = bg.fills.black;
-    }
-}
-```
-
-That works! Thanks for the magical `keyPressed()` function p5!
-
 ## A key press in plain JavaScript
 
-But what if we wanted to go behind the scenes a tiny bit and use the basic *JavaScript* version of listening for a key press event?
+What if we wanted to go behind the scenes a tiny bit and use the basic *JavaScript* version of responding to a key press event?
 
-We would use `addEventListener()` to set up the event in our program:
+We would use `addEventListener()` to say "I want to be told when there is a key press!":
+
 
 ```javascript
-window.addEventListener("eventName", eventHandlerFunction);
+window.addEventListener("keydown", keyPressHandlerFunction);
 ```
 
-- `window` is the part of our page we want to care about events in (you can change this, but `window` is easy for the moment, it means the whole browser window)
+- `window` is the part of our page we want to pay attention to events in (you can change this, but `window` is easy for the moment, it means the whole browser window)
 - `.` tells us that we're going to use something *inside* `window`
 - `addEventListener()` is the special function we call when we want to *listen* for a specific event - that is, we want to be *told* when it happens
 - `(...)` - as always the parentheses contain the information the function needs
-- `"eventName"` is the name of the event we care about, inside quote marks
-- `eventHandlerFunction` is the name of the function we want to call when the event happens
+- `"keydown"` is the name of the event that will be triggered, in this case when a *key* is pressed *down*, not the quotation marks
+- `keyPressHandlerFunction` is the name of the function we want to call when the key pressing event happens
 
-So for a key press we could write:
-
-```javascript
-window.addEventListener("keydown", changeBG);
-```
-
-Here `"keydown"` is the official JavaScript name of the event triggered when the user presses a key. And `changeBG` is the name we'll use for our event handler, called when the key is pressed down!
+So for a background-changing program we could write:
 
 ```javascript
 // The background colour
@@ -93,7 +44,10 @@ const bg = {
 function setup() {
     createCanvas(400, 400);
     
-    // Listen for key down
+    // Start listening for key down
+    // It often makes sense to set up event listeners in setup()
+    // But there are other possibilities too
+    // Call changeBG when a keydown event happens:
     window.addEventListener("keydown", changeBG);
 }
 
@@ -105,7 +59,7 @@ function draw() {
 }
 
 /**
- * Switch the background
+ * The event handler: Switch the background
  */
 function changeBG() {
     if (bg.fill === bg.fills.black) {
@@ -117,7 +71,7 @@ function changeBG() {
 }
 ```
  
-This does the same thing, but in plain JavaScript. Notice one nice thing: instead of just having *one* `mousePressed()` function we can actually set up *different* functions that respond to the mouse press, and those functions can have meaningful names like `changeBG()`.
+Notice one nice thing: instead of just having *one* `keyPressed()` function we could actually set up *different* functions that respond to a press, and those functions can have meaningful names like `changeBG()`. Could be useful.
 
 ## The `event` parameter
 
@@ -188,6 +142,6 @@ But there are a ton of others. Get as deep or shallow as you want!
 
 ## Summary
 
-...
+Now we know how to listen for events using Plain JavaScript which opens up the possibility of some new kinds of events, and increases our knowledge of using JavaScript *without* p5.
     
 ## }

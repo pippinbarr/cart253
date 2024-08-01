@@ -39,24 +39,22 @@ Is there an example from the course (or elsewhere) that resonates with you? Coul
 - [p5 examples](https://p5js.org/examples/)
 - [Open Processing examples](https://openprocessing.org/discover)
 
-**WARNING! WARNING!**
-
-Only work with examples you understand!
-
-**WARNING! WARNING!**
+**WARNING! WARNING! WARNING!**  
+Only work with examples you understand!  
+**WARNING! WARNING! WARNING!**
 
 ## Starting with a prompt
 
-If your brain is really feel dry and arid, consider getting a prompt of some kind that you can *react to*. There are lots of examples of you could use, such as:
+If your brain is really feeling dry and uninspired, consider getting a prompt of some kind that you can *react to*. There are lots of examples of you could use, such as:
 
 - Load a [random wikipedia page](https://en.wikipedia.org/wiki/Special:Random) and try to imagine how you could make a simple interactive experience that reflects it somehow
 - Roll some [story dice](https://davebirss.com/storydice/) and think about what kind of program could incorporate them all
 - Use a [game idea generator](https://letsmakeagame.net/game-idea-generator/) to give you constraints like settings and "mechanics" (though remember to keep it simple)
-- [Oblique Strategies](https://stoney.sb.org/eno/oblique.html) by Brian Eno and Peter Schmidt
+- Stare confusedly an one of the [Oblique Strategies](https://stoney.sb.org/eno/oblique.html) by Brian Eno and Peter Schmidt
 
 ## Making variations
 
-One generative ways to create an interesting project is to take a pre-existing experience and to make *variations* on that original. That way you get the constraints of an entire experience and can focus on novel ways of making it different. Pippin is obsessed with this:
+One generative way to create an interesting project is to take a pre-existing experience and to make *variations* on that original. That way you get the constraints of an entire experience and can focus on novel ways of making it different. Pippin is obsessed with this:
 
 - [PONGS](https://pippinbarr.github.io/pongs/info/)
 - [SNAKISMS](https://www.pippinbarr.com/SNAKISMS/info/), [Let's Snake: Ancient Greek Punishment](https://www.pippinbarr.com/lets-snake-ancient-greek-punishment/info/), [Sibilant Snakelikes](https://pippinbarr.github.io/sibilant-snakelikes/info/)
@@ -69,6 +67,6 @@ Tried all that and still stuck? Talk to someone else! Classmates, the TA, the in
 
 ## Summary
 
-When you're having ideas you need *quantity* and *then* quality. Try to let yourself free to have *any* idea and then worry about it later. 
+When you're having ideas you need *quantity* and *then* quality. Try to let yourself feel free to have *any* idea and then worry about it later. 
     
 ## }

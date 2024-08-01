@@ -16,7 +16,7 @@ Here's the idea we're going to pursue:
 
 > A frog eating flies
 
-Clearly this is pretty basic and there are a *ton* of ways you could thinking about this as a program. It could be an animation, it could be a game, it could be a simulation.
+Clearly this is pretty basic and there are a *ton* of ways you could think about this as a program. It could be an animation, it could be a game, it could be a simulation.
 
 So we need to go from this basic idea to a more specific experience we want to create.
 
@@ -30,13 +30,13 @@ In doing this, we've already made some decisions about what is *in our experienc
 
 - The frog is controlled by the user (could have been the fly, right?!)
 - The frog is at the bottom of the screen (could have been to the side, could have been first-person, ...)
-- The user controls the frog's tongue (could have been auto-tongue I suppose)
+- The user controls the frog's tongue (could have been auto-tongue???)
 - The frog can catch flies (perhaps obvious, but needs to be specified)
 
 So even expanding our idea a *little bit* has led to much more clarity about what this project is. At this point we might even have early thoughts about how to do some of these things in code, like:
 
 - Draw a frog (green cirlces?)
-- Move a frog (position based on mouse position? keyboard?)
+- Move a frog (position based on mouse? keyboard?)
 - Move the fly (weird patterns? linear?)
 
 And more. Our aim is to keep refining our project specification until it is more and more like a total explanation of everything that will need to be in our code.
@@ -59,7 +59,7 @@ By asking those questions we can get even more specific:
 > - If the end of the tongue hits the fly, it is caught and resets to the left
 > - If the fly reaches the righthand side it resets to the left
 
-This is now a pretty good specification of something we could start to plan out in code! There are stills things that are underspecified, like exactly what the frog and fly look like, or how fast the tongue moves, or the speed of the fly, but these are likely things we'll want to figure out once we're working on the code itself.
+This is now a pretty good specification of something we could start to plan out in code! There are still things that are underspecified, like exactly what the frog and fly look like, or how fast the tongue moves, or the speed of the fly, but these are likely things we'll want to figure out once we're working on the code itself.
 
 The next step would be to think about this more in terms of what needs to happen in the *program* version of this. Particularly thinking in terms of the key *things* we need to represent (in variables) and the things that will *happen* both at the beginning (in setup) and each frame (in draw).
 
@@ -114,7 +114,7 @@ We should be able to translate this into code when the time comes.
 
 ## What happens
 
-Thinking in terms of a p5 program, the most important things to thin about are
+Thinking in terms of a p5 program, the most important things to think about are
 
 - What happens right at the beginning (`setup()`)
 - What happens every frame (`draw()`)
@@ -132,7 +132,7 @@ There's more to think about here! We have to think about:
 
 - Moving and displaying the fly
 - Moving and displaying the frog
-- Move and display the tongue
+- Moving and displaying the tongue
 - Checking if the tongue hit the fly and responding
 
 So lets write that down as a series of steps:

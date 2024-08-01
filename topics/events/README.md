@@ -1,4 +1,4 @@
-# Events
+# Events {
 
 Basic motivations
 
@@ -8,17 +8,36 @@ Basic motivations
 
 ## Schedule
 
-- - **Watch** *Time and JavaScript and p5* ([YouTube](MISSING_LINK), YuJa/Moodle) and **read** the [notes](./time-and-javascript-and-p5.md)
-- - **Watch** *Introducing events* ([YouTube](MISSING_LINK), YuJa/Moodle) and **read** the [notes](./introducing-events.md)
-- - **Watch** *Mouse events* ([YouTube](MISSING_LINK), YuJa/Moodle) and **read** the [notes](./mouse-events.md)
-- - **Watch** *Keyboard events* ([YouTube](MISSING_LINK), YuJa/Moodle) and **read** the [notes](./keyboard-events.md)
-- - **Watch** *Time events* ([YouTube](MISSING_LINK), YuJa/Moodle) and **read** the [notes](./time-events.md)
-- - **Watch** *Plain JavaScript events* ([YouTube](MISSING_LINK), YuJa/Moodle) and **read** the [notes](./plain-javascript-events.md)
+- *Time and JavaScript and p5*
+    - Watch the video on Moodle
+    - Read the [Time and JavaScript and p5 notes](./time-and-javascript-and-p5.md)
+- *Introducing events*
+    - Watch the video on Moodle
+    - Read the [Introducing events notes](./introducing-events.md)
+- *Mouse events*
+    - Watch the video on Moodle
+    - Read the [Mouse events notes](./mouse-events.md)
+- *Keyboard events*
+    - Watch the video on Moodle
+    - Read the [Keyboard events notes](./keyboard-events.md)
+- *Time events*
+    - Watch the video on Moodle
+    - Read the [Time events notes](./time-events.md)
+- *Plain JavaScript events*
+    - Watch the video on Moodle
+    - Read the [Plain JavaScript events notes](./plain-javascript-events.md)
+- *Debugging events*
+    - Download the [Debugging Events Project](MISSING_LINK)
+    - Watch the video on Moodle
+    - Read the [Debugging Guide](../../guides/debugging-guide.md)
+- **Extra!** *Sounds*
+    - Read the [Loading and playing sounds in p5 notes](../extras/sounds.md)
+    - You can also read the reference page for [`loadSound()`](https://p5js.org/reference/p5/loadSound/) to get an overview
 
-## Extra! Extra! 🔊 Sounds!
+## Challenges
 
-So far our programs have been *totally silent*. Sure would be nice if they could make noises. And they can!
-
-Read about [loading and playing sounds in p5](../extras/sounds.md) to find out how!
+- Try the [events challenges](MISSING_LINK) (We will review them in class)
 
 ## 🔥 Hot tip: ???
+
+## }

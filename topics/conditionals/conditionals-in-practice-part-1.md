@@ -1,4 +1,4 @@
-# Conditionals in practice {
+# Conditionals in practice: Part 1: Creature loves mouse {
    
 We get the *idea* of conditionals, now let's look at a small example of some working code so that we can explore them in practice. 
     
@@ -25,7 +25,7 @@ const creature = {
   fill: "#000000", // Starts out bored
   // Possible fills for the creature that show its mood
   // We'll need these when we start changing its colour
-  // and its nice to keep them along with all the other info
+  // and it's nice to keep them along with all the other info
   // about the creature
   fills: {
     bored: "#000000", // Black
@@ -78,7 +78,7 @@ Right now the creature is kind of boring because it doesn't *do* anything. It do
 
 Let's begin with a standard `if`. We'll change the colour of our creature based on whether the user is pressing the mouse button.
 
-p5 provides us with a variable called `mouseIsPressed` which will be `true` if the mouse button is down and `false` if the mouse button is not down. That's convenient! `true` and `false` are the kind of thing we need for a *condition*.
+p5 provides us with a variable called `mouseIsPressed` (see the [`mouseIsPressed` documentation](https://p5js.org/reference/p5/mouseIsPressed/)) which will be `true` if the mouse button is down and `false` if the mouse button is not down. That's convenient! `true` and `false` are the kind of thing we need for a *condition*.
 
 So to check if the user pressed the mouse so that we can change the colour of the creature we could write this in our `checkInput()` function:
 
@@ -103,7 +103,7 @@ Right now, the creature becomes happy if you press down the mouse button and the
 
 That's totally fine and we might like that idea - maybe it's made happy for the rest of its life by even a tiny click?
 
-But let's say... no, it's only happen if the mouse is pressed down and becomes bored and disillusioned again if the mouse isn't pressed down.
+But let's say... no, it's only happy if the mouse is pressed down and becomes bored and disillusioned again if the mouse isn't pressed down.
 
 For this we need an `else` because that will let us tell the program what to do if `mouseIsPressed` is `false` - it's the "otherwise" bit:
 
@@ -132,9 +132,9 @@ There, now the creature is happy (green) while the mouse is pressed down, but go
 
 ## `else if`
 
-One last idea, what if the keyboard makes the creature *angry*? It hates it when you press down a key, although if it's already happy about the mouse it will let it slide. 
+One last idea, what if the keyboard makes the creature *angry*? It hates it when you press down a key, although if it's already happy about the mouse it will let it slide because the mouse is just *so exciting*. 
 
-We can describe this situation by adding an `else if` to our code and by using the `keyIsPressed` variable, which is `true` if a key (any key) is pressed down, and false if not.
+We can describe this situation by adding an `else if` to our code and by using the `keyIsPressed` variable (see the [`keyIsPressed` documentation](https://p5js.org/reference/p5/keyIsPressed/)), which is `true` if a key (any key) is pressed down, and false if not.
 
 ```javascript
 /**
@@ -148,7 +148,7 @@ function checkInput() {
         // It likes the mouse! Squeak squeak!
         creature.fill = creature.fills.happy;
     }
-    // Mouse if not pressed, check if a key is pressed...
+    // Mouse is not pressed, so check if a key is pressed...
     else if (keyIsPressed) {
         // A key is pressed!
         // Change the colour of the creature to show it's angry
@@ -178,7 +178,7 @@ It's alllliiiiiiive!
 
 ## Summary
 
-...
+To reiterate, using *conditionals* in our programs is the key way that we can move them from being repetitive and predictable to something much, much more exciting! There's a huge amount of power involved in working out how to use conditionals to *describe situations* we want our program (and its denizens) to care about.
 
 ## }
 

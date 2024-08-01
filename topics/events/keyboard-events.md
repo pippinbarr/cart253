@@ -1,6 +1,6 @@
 # Keyboard events {
    
-Along with the mouse, the keyboard is the other all-powerful way that people tend to interact with their computers. It is a *whole lot of buttons*! Pressing buttons is fun! Let's learn how to make our programs respond to the keyboard using events.
+Along with the mouse, the keyboard is the other most common way that people tend to interact with their computers. It is a *whole lot of buttons*! Pressing buttons is fun! Let's learn how to make our programs respond to the keyboard using events.
 
 ## In this module
 
@@ -57,7 +57,7 @@ function draw() {
 
 Let's control the ball's colour with the keyboard.
 
-## `keyPressed()` and `keyReleased()
+## `keyPressed()` and `keyReleased()`
 
 As a first attempt, we could do exactly the same thing as before, just change colour of the ball when a key is pressed, and then back to the default when it's released:
 
@@ -79,11 +79,11 @@ function keyReleased() {
 
 So, that works and is magical and all that!
 
-But it feels a lot like we should be able to do better because we have *specific buttons*. Right now it doesn't matter *which* button we press!
+But it feels a lot like we should be able to do better because we have *specific buttons*. Right now it doesn't matter *which* key we press!
 
 ## `event`
 
-Well, we can use the same trick as previous. If we define our `keyPressed()` and `keyReleased()` functions to include an `event` parameter in their parentheses then that `event` variable will information about the key that was pressed or released!
+Well, we can use the same trick as before. If we define our `keyPressed()` and `keyReleased()` functions to include an `event` parameter in their parentheses then that `event` variable will information about the key that was pressed or released!
 
 There are two ways we can see which key was pressed.
 
@@ -186,6 +186,8 @@ function keyReleased(event) {
 
 This is more robust for the user because they don't have to worry about whether they have capslock on. But it's *harder to read* for you, because you probably don't have the entire ASCII key code table memorized. The comments help, but maybe not enough.
 
+Where would you get those keycodes? Well the internet. This is a good option: <https://www.toptal.com/developers/keycode>.
+
 ## More data: store key codes in a variable or property
 
 If we think of our program in terms of the *data* or information about the ball we can instead use a variable (or a property) to store the keys that control the ball's colour so we don't have to remember the numbers all.
@@ -261,16 +263,20 @@ function keyReleased(event) {
 
 This is *really* powerful because now if we ever want to change the controls of our program we just change the key codes in our `ball` object!
     
+## Special p5 variables
+
+It's a bit less "proper programming" than using the `event` parameter, but p5 also stores the most recent key pressed in `key` and `keyCode`. You can use that too if you want (and various p5 examples do so), but it's probably better to go with the `event.key` and `event.keyCode` approach.
+    
 ## Other keyboard events
 
 There is one other keyboard event available in p5:
     
-- `keyTyped()` is called when a key that can be displayed as text is pressed (so, like a typewriter)
+- [`keyTyped()`](https://p5js.org/reference/p5/keyTyped/) is called when a key that can be displayed as text is pressed (so, like a typewriter)
 
 Again, you can use this with `event` to find out which key was typed. This one is mostly useful if you're interested in what the user is *typing* as you might expect.
     
 ## Summary
 
-...
+Now we've added the *entire keyboard* to our arsenal of potential input devices. The possibilities are expanding rapidly.
     
 ## }
