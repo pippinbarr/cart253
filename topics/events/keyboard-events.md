@@ -85,6 +85,8 @@ But it feels a lot like we should be able to do better because we have *specific
 
 Well, we can use the same trick as before. If we define our `keyPressed()` and `keyReleased()` functions to include an `event` parameter in their parentheses then that `event` variable will information about the key that was pressed or released!
 
+📖 Read the [`keyPressed()`](https://p5js.org/reference/p5/keyPressed/) and [`keyReleased()`](https://p5js.org/reference/p5/keyReleased/) documentation 📖
+
 There are two ways we can see which key was pressed.
 
 - If we look in `event.key` we'll get the actual label of the key, so if we press `c` then `event.key` will contain `"c"`
@@ -265,7 +267,7 @@ This is *really* powerful because now if we ever want to change the controls of 
     
 ## Special p5 variables
 
-It's a bit less "proper programming" than using the `event` parameter, but p5 also stores the most recent key pressed in `key` and `keyCode`. You can use that too if you want (and various p5 examples do so), but it's probably better to go with the `event.key` and `event.keyCode` approach.
+It's a bit less "proper programming" than using the `event` parameter, but p5 also stores the most recent key pressed in [`key`](https://p5js.org/reference/p5/key/) and [`keyCode`](https://p5js.org/reference/p5/keyCode/). You can use that too if you want (and various p5 examples do so), but it's probably better to go with the `event.key` and `event.keyCode` approach.
     
 ## Other keyboard events
 
@@ -274,6 +276,8 @@ There is one other keyboard event available in p5:
 - [`keyTyped()`](https://p5js.org/reference/p5/keyTyped/) is called when a key that can be displayed as text is pressed (so, like a typewriter)
 
 Again, you can use this with `event` to find out which key was typed. This one is mostly useful if you're interested in what the user is *typing* as you might expect.
+    
+📖 Want to know more? Read the section of the documentation called [Keyboard](https://p5js.org/reference/#:~:text=the%20turnAxis%20variable.-,Keyboard,-key). 📖
     
 ## Summary
 

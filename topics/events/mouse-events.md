@@ -80,6 +80,8 @@ Currently we set the ball in motion and it just heads off on its own. Let's set 
 
 To accomplish that we need to set its velocity *back to zero* when the mouse button is released/let go. And we can do that with `mouseReleased()`!
 
+📖 Read the [`mouseReleased()`](https://p5js.org/reference/p5/mouseReleased/) documentation 📖
+
 ```javascript
 /**
  * Stops the ball moving
@@ -96,6 +98,8 @@ Yes! Now the ball only moves while we're holding down the mouse! True power!
 ## `mouseWheel()`
 
 Just for laughs, let's control the ball's size by using the mouse wheel (or a scroll gesture on a trackpad).
+
+📖 Read the [`mouseWheel()`](https://p5js.org/reference/p5/mouseWheel/) documentation 📖
 
 The `mouseWheel()` function is called whenever the user moves the mouse wheel (or makes a scroll gesture on a trackpad), so as a first approximation we could just make the ball bigger whenever that happens?
 
@@ -115,6 +119,8 @@ Buuuut... it would make more sense if the ball grew when we scroll one way and s
 ### `mouseWheel(event)`
 
 This is a little more sophisticated, but we can define our `mouseWheel()` function as `mouseWheel(event)` instead and that will give us a *variable* called `event` (also known as a *parameter*) that will give us information about what happened. (We'll learn more about this idea of using *parameters* with our functions later.)
+
+📖 This idea of an event parameter is covered in the [`mouseWheel()`](https://p5js.org/reference/p5/mouseWheel/) documentation 📖
 
 For now, we can use `event.delta` to find out how much and in which direction the user scrolled. It contains a *number* that is the number of pixels scrolled in the last frame. Negative if the scrolling went up, positive if the scrolling went down.
 
@@ -150,7 +156,7 @@ There are a few other mouse events available in p5, notably:
 
 You can use them all in the same kind of way as we've been looking at. You define a function with the matching name, and then inside the function you can write code that will run *when that event happens*.
 
-Want to know more? Read the section of the documentation called [Mouse](https://p5js.org/reference/#IO:~:text=characters%20are%20pressed.-,Mouse,-doubleClicked()).
+📖 Want to know more? Read the section of the documentation called [Mouse](https://p5js.org/reference/#IO:~:text=characters%20are%20pressed.-,Mouse,-doubleClicked()). 📖
 
 ## Summary
 

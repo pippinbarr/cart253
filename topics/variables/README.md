@@ -29,13 +29,17 @@
     - Watch the video on Moodle
     - Read the [text notes](./movement-variables.md)
 - *Debugging variables*
-    - Download the [Debugging Variables Project](MISSING_LINK)
+    - Download the [Debugging Variables Project](../../debugging/debugging-variables.zip)
     - Watch the video on Moodle
     - Read the [Debugging Guide](../../guides/debugging-guide.md)
 
 ## Challenges
 
 - **Try** the [variables challenges](./variables-challenges.md) (we will review them in class)
+
+## Examples
+
+...
 
 ## 🔥 Hot tip: `random()`
 

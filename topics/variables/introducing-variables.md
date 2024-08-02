@@ -20,7 +20,10 @@ Let's meet a couple of variables to understand this.
 
 ## A name for a value: `width` and `height`
 
-The variable `width` and `height` are *always available* when we use the p5 library with JavaScript.
+The variable `width` and `height` are *always available* when we use the p5 library with JavaScript. You can...
+
+📖 Read about [`width`](https://p5js.org/reference/p5/width/) and [`height`](https://p5js.org/reference/p5/height/) in the documentation 📖
+
 
 - `width` always contains the *width in pixels of the canvas* (i.e. what you set it to in `createCanvas()`)
 - `height` always contains the *height in pixels of the canvas* (i.e. what you set it to in `createCanvas()`)
@@ -93,6 +96,8 @@ Win, win, win.
 Variables are even more excellent than just providing sensible names for useful values though. Those values can *change over time*!
     
 As with `width` and `height`, the variables `mouseX` and `mouseY` are *always available* when we use p5, our JavaScript library.
+
+📖 Go have a look at the [`mouseX`](https://p5js.org/reference/p5/mouseX/) and [`mouseY`](https://p5js.org/reference/p5/mouseY/) documentation 📖
 
 - `mouseX` is a variable that contains the *current x-coordinate of the mouse*.
 - `mouseY` is a variable that contains the *current y-coordinate of the mouse*.

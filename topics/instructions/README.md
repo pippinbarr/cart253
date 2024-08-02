@@ -23,16 +23,20 @@
 - *Basic drawing* 
     - Watch the video on Moodle
     - Read the [text notes](./basic-drawing.md)
-- *Reading the documentation* **LOOKING AT REPLACING THIS BY ACCESSING THE DOCUMENTATION IN BASIC DRAWING**
+- *Reading the documentation*
     - Watch the video on Moodle
-    - Read the [text notes](./reading-the-documentation.md)
+    - Read the [p5 Reference](https://p5js.org/reference/)
 - *Organizing with functions* 
     - Watch the video on Moodle
     - Read the [text notes](./organizing-with-functions.md)
 - *Debugging instructions*
-    - Download the [Debugging Instructions Project](MISSING_LINK)
+    - Download the [Debugging Instructions Project](../../debugging/debugging-instructions.zip)
     - Watch the video on Moodle
     - Read the [Debugging Guide](../../guides/debugging-guide.md)
+
+## Examples
+
+...
 
 ## Challenges
 
@@ -53,6 +57,5 @@ In VS Code you can position multiple cursors in order to delete or add text in m
 - Windows: click while holding **Control** to add a cursor
 
 This also works if you hold the key and select text.
-
 
 ## }

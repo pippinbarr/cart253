@@ -40,7 +40,9 @@ Specifically, p5 will automatically call certain functions (event handlers) when
 
 In fact, the `draw()` function we always define in our p5 programs *is* a function that responds to an event! It's an *event handler*.
 
-What event does it respond to? The "next animation frame is ready" event! There is a timer hidden from us that is counting out the precise amount of time per frame (around 0.033 seconds for a 30FPS program) and then *calling* `draw()` each time it elapses!
+📖 Read the [`draw()`] documentation 📖
+
+What event does it respond to? The "next animation frame is ready" event! There is a timer hidden from us that is counting out the precise amount of time per frame (around 0.0167 seconds for a 60FPS program) and then *calling* `draw()` each time it elapses!
 
 So when we define `draw()` we're defining the *event handler* for the "next animation frame is ready" event. It's the function that will be in charge of responding to that event.
 
@@ -49,6 +51,8 @@ And what does it do? It generally draws and animates and updates all the stuff t
 ## `mousePressed()` is an event handler
 
 We mentioned earlier that the user pressing the mouse button down is an event, and p5 will automatically call a function called `mousePressed()` each time that happens. 
+
+📖 Read the [`mousePressed()`](https://p5js.org/reference/p5/mousePressed/) documentation 📖
 
 So if we *define* a `mousePressed()` function in our program, p5 will *call* it every time the mouse is pressed, and thus our program can *respond to that event*:
 

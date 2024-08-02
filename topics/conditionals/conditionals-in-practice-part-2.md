@@ -58,7 +58,11 @@ To check if a pair of (x,y) coordinates are inside a circle we can rely on a nea
 
 ![Diagram of how the distance from the centre of a circle tells us whether a point is inside or outside a circle](./images/distance-and-circles.png)
 
-Better yet, there is a *function* in p5 called `dist()` that we can use to get the distance in pixels between two (x,y) coordinates! With that we can actually express our condition in math! Like this!
+Better yet, there is a *function* in p5 called `dist()` that we can use to get the distance in pixels between two (x,y) coordinates! 
+
+📖 Read the [`dist()`](https://p5js.org/reference/p5/dist/) documentation. 📖
+
+With that we can actually express our condition in math! Like this!
 
 ```javascript
 // Calculate the distance between the cursor and the creature
@@ -74,7 +78,11 @@ When we do this `mouseIsOverlapping` will be `true` is the mouse is inside the c
 
 ### `mouseIsMoving`
 
-How can we tell if the mouse is moving? Fortunately p5 gives us two variables that help us out here: `movedX` and `movedY` store how many pixels the mouse moved since the last frame on the x- and y-axes respectively. So, if *either* of them are not `0` then the mouse moved right?
+How can we tell if the mouse is moving? Fortunately p5 gives us two variables that help us out here: `movedX` and `movedY` store how many pixels the mouse moved since the last frame on the x- and y-axes respectively. 
+
+📖 Read the [`movedX`](https://p5js.org/reference/p5/movedX/) and [`movedY`](https://p5js.org/reference/p5/movedY/) documentation. 📖
+
+So, if *either* of those variables are *not* `0` then the mouse moved right?
 
 And that is maths, so we can write the code!
 

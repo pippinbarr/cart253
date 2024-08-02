@@ -78,7 +78,11 @@ Right now the creature is kind of boring because it doesn't *do* anything. It do
 
 Let's begin with a standard `if`. We'll change the colour of our creature based on whether the user is pressing the mouse button.
 
-p5 provides us with a variable called `mouseIsPressed` (see the [`mouseIsPressed` documentation](https://p5js.org/reference/p5/mouseIsPressed/)) which will be `true` if the mouse button is down and `false` if the mouse button is not down. That's convenient! `true` and `false` are the kind of thing we need for a *condition*.
+Guess what? p5 provides us with a variable called `mouseIsPressed`
+
+📖 Read the [`mouseIsPressed`](https://p5js.org/reference/p5/mouseIsPressed/) documentation. 📖
+
+So, `mouseIsPressed` which will be `true` if the mouse button is down and `false` if the mouse button is not down. That's convenient! `true` and `false` are the kind of thing we need for a *condition*.
 
 So to check if the user pressed the mouse so that we can change the colour of the creature we could write this in our `checkInput()` function:
 
@@ -134,7 +138,11 @@ There, now the creature is happy (green) while the mouse is pressed down, but go
 
 One last idea, what if the keyboard makes the creature *angry*? It hates it when you press down a key, although if it's already happy about the mouse it will let it slide because the mouse is just *so exciting*. 
 
-We can describe this situation by adding an `else if` to our code and by using the `keyIsPressed` variable (see the [`keyIsPressed` documentation](https://p5js.org/reference/p5/keyIsPressed/)), which is `true` if a key (any key) is pressed down, and false if not.
+Yes indeed, p5 provides a variable called `keyIsPressed`!
+
+📖 Read the [`keyIsPressed`](https://p5js.org/reference/p5/keyIsPressed/) documentation. 📖
+
+So we can describe this situation by adding an `else if` to our code and by using the `keyIsPressed` variable, which is `true` if a key (any key) is pressed down, and false if not.
 
 ```javascript
 /**
