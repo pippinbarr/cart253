@@ -8,17 +8,17 @@ We work in a folder called a *repository* that stores all our project's files. E
 
 We end up with a timeline of our project that marks every single time we made a change to it, as well as what the changes were.
 
-For example, here's the version control repository (folder) for Pippin's project [*v r $4.99*](https://pippinbarr.com/v-r-4-99/info/):
+For example, here's the version control repository (folder) for Pippin's project [*Let's Snake: Ancient Greek Punishment*](https://pippinbarr.com/lets-snake-ancient-greek-punishment/info/):
 
-[https://github.com/pippinbarr/v-r-4-99/](https://github.com/pippinbarr/v-r-4-99/)
+[https://github.com/pippinbarr/lets-snake-ancient-greek-punishment/](https://github.com/pippinbarr/lets-snake-ancient-greek-punishment/)
 
 And perhaps most importantly, here is the "commit history" of that project:
 
-[https://github.com/pippinbarr/v-r-4-99/commits/master/](https://github.com/pippinbarr/v-r-4-99/commits/master/)
+[https://github.com/pippinbarr/lets-snake-ancient-greek-punishment/commits/master/](https://github.com/pippinbarr/lets-snake-ancient-greek-punishment/commits/main/)
 
 You can see that each time the project was changed in a significant way, there is a timestamp, a message, and a record of exactly what was changed in it.
 
-So you can see that on the 3rd of June, 2022 Pippin "[installed Prisoner-02](https://github.com/pippinbarr/v-r-4-99/commit/78e4e1209a4fb06d78d106abac1ada64c65b03dc)"!
+So you can see that on the 3rd of June, 2022 Pippin "[Fixed the weird event delay in ticks](https://github.com/pippinbarr/lets-snake-ancient-greek-punishment/commit/364291e2521c84cfad3d3fd2a1a0daed27228dd1)"!
 
 ## And why is it?
 
