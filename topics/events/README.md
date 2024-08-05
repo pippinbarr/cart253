@@ -7,6 +7,10 @@
 - Getting comfortable with how time flows in a program
 - Building mastery of different types of events for user input or timing
 
+## Template
+
+- [template-p5-project.zip](../../templates/template-p5-project.zip)
+
 ## Schedule
 
 - *Time and JavaScript and p5*

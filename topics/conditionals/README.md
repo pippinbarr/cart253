@@ -7,6 +7,10 @@
 - Understanding what "conditions" are in a program and how to write them out with `if`-statements
 - Increasing our expressive power with logic operators
 
+## Template
+
+- [template-p5-project.zip](../../templates/template-p5-project.zip)
+
 ## Modules
 
 - *Introducing conditionals*

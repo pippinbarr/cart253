@@ -8,6 +8,10 @@
 - Get the basic software up and running
 - Understand and set up version control
 
+## Template
+
+- [template-p5-project.zip](../../templates/template-p5-project.zip)
+
 ## Modules
 
 - *Welcome to Creative Computation!*
@@ -22,8 +26,8 @@
     - Watch the video on Moodle
     - Read the [Creating a Repository notes](./creating-a-repository.md)
 - *Version Control Workflow*
-    - Download the [Version Control Workflow Project](./version-control-workflow-example.zip)
     - Watch the video on Moodle
+    - When you need it you can copy the [workflow example code](./version-control-workflow-example/js/script.js)
     - Read the [Version Control Workflow notes](./version-control-workflow.md)
 - *GitHub Pages*
     - Watch the video on Moodle

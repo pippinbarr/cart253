@@ -8,6 +8,10 @@
 - Building from an idea through to a thorough plan through to pseudocode
 - Understanding the connections (and fun!) from idea all the way to implementation
 
+## Template
+
+- [template-p5-project.zip](../../templates/template-p5-project.zip)
+
 ## Modules
 
 - *Having ideas*

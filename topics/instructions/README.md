@@ -9,9 +9,9 @@
 - Start getting comfortable with reading documentation
 - Begin learning how to debug code (including spiritually)
 
-## Preparation
+## Template
 
-- Download the [template p5 project](../../templates/template-p5-project.zip)
+- [template-p5-project.zip](../../templates/template-p5-project.zip)
 
 ## Modules
 

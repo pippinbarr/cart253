@@ -8,6 +8,10 @@
 - Using JavaScript Objects to better organize our data
 - Using variables to create *life itself*
 
+## Template
+
+- [template-p5-project.zip](../../templates/template-p5-project.zip)
+
 ## Modules
 
 - *Introducing variables*
