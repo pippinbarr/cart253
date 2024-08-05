@@ -33,6 +33,15 @@
     - Watch the video on Moodle
     - Read the [*GitHub Pages notes*](./github-pages.md)
 
+## Examples
+
+### Projects from CART253 in 2023
+
+- [Emotional Support Pet](https://pippinbarr.com/cart253/examples/student-work/emotional-support-pet/) by Dorsa Zare
+- [JumpThang](https://pippinbarr.com/cart253/examples/student-work/jumpthang/) by Samuel Reinstein Wright
+- [Mantis Anatomy](https://pippinbarr.com/cart253/examples/student-work/mantis-anatomy/) by Scarlett Perez-Hernandez
+- [Minigame Library](https://pippinbarr.com/cart253/examples/student-work/minigame-library/) by Nicolas Morales-Sanabria
+
 ## 🔥 Hot tip: One repository per project
 
 Out in the "real world" developers start a repository for *each project* they work on. 
