@@ -11,10 +11,6 @@ Whoa! It's a course about learning how to code??? You have so many questions, li
 - Can I use AI assistants?
 - What kind of stuff will we be making?
 
-## Also, who are you, Pippin?
-
-[Glad you asked!](https://pippinbarr.com/)
-
 ## Do I already need to know how to code?
 
 Nope.
