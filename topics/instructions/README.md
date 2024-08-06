@@ -21,16 +21,17 @@
 - *Function calls* 
     - Watch the video on Moodle
     - Read the [text notes](./function-calls.md)
-- *Basic commenting* 
+- *Commenting* 
     - Watch the video on Moodle
-    - Read the [text notes](./basic-commenting.md)
-- *Basic drawing* 
+    - Read the [text notes](./commenting.md)
+- *Drawing* 
     - Watch the video on Moodle
-    - Read the [text notes](./basic-drawing.md)
+    - Read the [text notes](./drawing.md)
 - *Reading the documentation*
     - Watch the video on Moodle
     - Read the [p5 Reference](https://p5js.org/reference/)
 - *Organizing with functions* 
+    - Download and unzip the [Starter House Project](./starter-house.zip)
     - Watch the video on Moodle
     - Read the [text notes](./organizing-with-functions.md)
 - *Debugging instructions*
