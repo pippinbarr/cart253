@@ -1,18 +1,49 @@
-### Previously
+# Functions {
 
-- *Organizing with functions* ([YouTube](MISSING_LINK), YuJa/Moodle) and **read** the [notes](../instructions/organizing-with-functions.md)
+✨ ... ✨
 
-### Modules
+## Learning objectives
 
-- *Functions with parameters* [text](./functions-with-parameters.md)
-- *Functions with return values* [text](./functions-with-return-values.md)
-- *Functions and JavaScript Objects* [text](./functions-and-javascript-objects.md)
+- ...
+
+## Template
+
+- [template-p5-project.zip](../../templates/template-p5-project.zip)
+
+## Previously
+
+- *Organizing with functions*
+    - Rewatch the video on Moodle if needed (Instructions week)
+    - Reread the [Organizing with functions notes](../instructions/organizing-with-functions.md) if needed
+
+## Modules
+
+- *Functions with parameters* 
+    - Watch the video on Moodle
+    - Read the [Functions with parameters notes](./functions-with-parameters.md)
+- *Functions with return values* 
+    - Watch the video on Moodle
+    - Read the [Functions with return values notes](./functions-with-return-values.md)
+- *Functions and JavaScript Objects* 
+    - Watch the video on Moodle
+    - Read the [Functions and JavaScript Objects notes](./functions-and-javascript-objects.md)
 - *Refactoring with functions* 
-    - [video]()
+    - Watch the video on Moodle
+- *Debugging functions*
+    - Download the [Debugging functions project](./MISSING_LINK)
+    - Watch the video on Moodle
+    
+## Examples
+
+- ...
+
+## Challenges
+
+- Try the [Functions challenges](MISSING_LINK) (We will review them in class)
 
 ## 🔥 Hot tip: Parameter objects
 
-Here's a way to write nice functions when you have a lot of parameters: *use an object*, that way you can *name* the different arguments you're sending in as properties:
+Here's a way to write functions when you have a lot of parameters: *use an object* as the only parameter, that way you can *name* the different arguments you're sending in as properties:
 
 ```javascript
 function setup() {
@@ -58,3 +89,5 @@ function drawRectangle(options) {
 ```
 
 There's one extra step using something called *destructuring*, but you can ask about that if you're interested!
+
+## }

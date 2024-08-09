@@ -4,9 +4,20 @@ Variables are the life-blood of *change* in our programs. Without them, everythi
     
 ## In this module
 
+- Preparation
 - What is a variable?
 - A name for a value: `width` and `height`
 - A name for a *changing* value: `mouseX` and `mouseY`
+    
+## Preparation
+
+1. Download the [template project](../../templates/template-p5-project.zip)
+2. Unzip it
+3. Rename the folder to `introducing-variables`
+4. Move the folder into your repository
+5. Open the folder in VS Code
+6. Give the program a title in `index.html` (maybe "Introducing variables")
+7. Commit and push the changes
     
 ## What is a variable?
 

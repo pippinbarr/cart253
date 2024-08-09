@@ -4,6 +4,7 @@ Variables are called *variables* because they can change. So far we've seen that
     
 ## In this module
 
+- Preparation
 - No change
 - Change
 - Addition
@@ -11,51 +12,22 @@ Variables are called *variables* because they can change. So far we've seen that
 - Real numbers
 - Multiplication
 - Division
+
+## Preparation
+
+1. Download the [UFO on a Dark Night Project](./examples/ufo-on-a-dark-night.zip)
+2. Unzip it
+3. Move the folder into your repository
+4. Open the folder in VS Code
+5. Commit and push the changes
     
 ## No change
 
-Here's a program that draws a UFO on a dark night.
+Take a look at the *UFO on a Dark Night* project...
 
-```javascript
-// Our UFO
-let ufo = {
-  // Position
-  x: 200,
-  y: 375,
-  // Dimensions
-  width: 150,
-  height: 50,
-  // Fill colour (greyscale)
-  fill: 255
-};
+We've got a variable for the background shade (`bgShade`) and a variable for all of the UFO's properties (`ufo`). But, because these variables and properties never change nothing *happens*. 
 
-// Shade to fill the sky (background)
-let skyShade = 0;
-
-/**
- * Creates the canvas
-*/
-function setup() {
-  createCanvas(400, 400);
-}
-
-/**
- * Displays a UFO
-*/
-function draw() {
-  // Display the sky
-  background(skyShade);
-
-  // Draw the UFO based on its properties
-  push();
-  fill(ufo.fill);
-  noStroke();
-  ellipse(ufo.x, ufo.y, ufo.width, ufo.height);
-  pop();
-}
-```
-
-We've got a variable for the background shade (`bgShade`) and a variable for all of the UFO's properties (`ufo`). But, because these variables and properties never change nothing *happens*. It's just a picture, even though it's clearly *incredible*.
+It's just a picture, even though it's clearly *incredible*.
     
 ## Change
 

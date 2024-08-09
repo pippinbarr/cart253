@@ -4,64 +4,24 @@ When we use variables we often end up with multiple variables that are "for" the
     
 ## In this module
 
+- Preparation
 - Multiple variables for one thing
 - JavaScript Objects to the rescue
 - JavaScript Objects forever
 - Nested JavaScript Objects
 - Dot notation and bracket notation
 
+## Preparation
+
+1. Download the [Self-Esteem Project](./examples/self-esteem.zip)
+2. Unzip it
+3. Move the folder into your repository
+4. Open the folder in VS Code
+5. Commit and push the changes
+
 ## Multiple variables for one thing
 
-Here's a program that draws my self-esteem on the canvas:
-
-```javascript
-// Colour of the sky
-let skyRed = 150;
-let skyGreen = 180;
-let skyBlue = 250;
-
-// The sun
-// Colour
-let sunRed = 255;
-let sunGreen = 255;
-let sunBlue = 0;
-// Position and size
-let sunX = 500;
-let sunY = 70;
-let sunSize = 100;
-
-// My self-esteem
-// Greyscale
-let selfEsteemShade = 0;
-// Position and size
-let selfEsteemX = 320;
-let selfEsteemY = 320;
-let selfEsteemSize = 20;
-
-function setup() {
-  // Create the canvas
-  createCanvas(640, 320);
-}
-
-function draw() {
-  // A nice blue sky
-  background(skyRed, skyGreen, skyBlue);
-  
-  // The sun
-  push();
-  fill(sunRed, sunGreen, sunBlue);
-  noStroke();
-  ellipse(sunX, sunY, sunSize);
-  pop();
-  
-  // My self esteem
-  push();
-  fill(selfEsteemShade);
-  noStroke();
-  ellipse(selfEsteemX, selfEsteemY, selfEsteemSize);
-  pop();
-}
-```
+Take a look at the *Self Esteem* project...
 
 Good! Lots of variables!
 

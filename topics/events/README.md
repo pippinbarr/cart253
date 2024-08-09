@@ -11,7 +11,7 @@
 
 - [template-p5-project.zip](../../templates/template-p5-project.zip)
 
-## Schedule
+## Modules
 
 - *Time and JavaScript and p5*
     - Watch the video on Moodle
@@ -35,7 +35,10 @@
     - Download the [Debugging Events Project](MISSING_LINK)
     - Watch the video on Moodle
     - Read the [Debugging Guide](../../guides/debugging-guide.md)
-- **Extra!** *Sounds*
+
+## Extra! Extra!
+
+- *Sounds*
     - Read the [Loading and playing sounds in p5 notes](../extras/sounds.md)
     - 📖 You can also read the reference page for [`loadSound()`](https://p5js.org/reference/p5/loadSound/) to get an overview 📖
 

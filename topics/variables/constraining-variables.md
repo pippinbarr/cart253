@@ -4,10 +4,19 @@ Much of the time we want the values in our variables to stay within specific lim
 
 ## In this module
 
+- Preparation
 - Motivating constraints
 - An unconstrained ego
 - Introducing `constrain()`
 - A constrained ego
+
+## Preparation
+
+1. Download the [Constrain that Ego! Project](./examples/constrain-that-ego.zip)
+2. Unzip it
+3. Move the folder into your repository
+4. Open the folder in VS Code
+5. Commit and push the changes
 
 ## Motivating constraints
 
@@ -15,45 +24,7 @@ As we've seen, the numbers we change in our variables can easy reach values that
 
 ## An unconstrained ego
 
-Look, it's my ego!
-
-```javascript
-// My ego
-let ego = {
-    x: 200,
-    y: 200,
-    size: 1,
-    fill: 200    
-};
-
-/**
- * Create the canvas
- */
-function setup() {
-    createCanvas(400, 400);
-}
-
-/**
- * Updates (expands and darkens) and displays the ego
- */
-function draw() {
-    // Pink background
-    background(255, 200, 200);
-    
-    // Update the ego
-    // Fill gets darker, symbolizing the negative energy
-    ego.fill = ego.fill - 0.5;
-    // Size gets bigger, symbolizing taking up emotional space
-    ego.size = ego.size + 1;
-    
-    // Draw the ego
-    push();
-    noStroke();
-    fill(ego.fill);
-    ellipse(ego.x, ego.y, ego.size);
-    pop();
-}
-```
+Take a look at the *Constrain that Ego!* project...
 
 In this program the ego just keeps getting bigger! It knows no limits! Likewise, although we can't tell, its `fill` property goes down to `0` (black) but then keeps going down to *negative* values like `-50` etc. Even though that's not visible, we probably want to *control* it.
 

@@ -35,7 +35,10 @@
     - Download the [Debugging Conditionals Project](MISSING_LINK)
     - Watch the video on Moodle
     - Read the [Debugging Guide](../../guides/debugging-guide.md)
-- **Extra!** *Images*
+
+## Extra! Extra!
+
+- *Images*
     - Read the [Loading and displaying images notes](../extras/images.md)
     - 📖 You can also read the documentation for [`loadImage()`](https://p5js.org/reference/p5/loadImage/) and [`image()`](https://p5js.org/reference/p5/image/) 📖
 

@@ -15,21 +15,27 @@
 ## Modules
 
 - *Introducing variables*
+    - Download the [template project](../../templates/template-p5-project.zip)
     - Watch the video on Moodle
     - Read the [text notes](./introducing-variables.md)
 - *Creating variables*
+    - Download the [template project](../../templates/template-p5-project.zip)
     - Watch the video on Moodle
     - Read the [text notes](./creating-variables.md)
 - *Introducing JavaScript Objects*
+    - Download the [Self-Esteem Project](./examples/self-esteem.zip)
     - Watch the video on Moodle
     - Read the [text notes](./introducing-javascript-objects.md)
 - *Changing variables*
+    - Download the [UFO on a Dark Night Project](./examples/ufo-on-a-dark-night.zip)
     - Watch the video on Moodle
     - Read the [text notes](./changing-variables.md)
 - *Constraining variables*
+    - Download the [Constrain that Ego! Project](./examples/constrain-that-ego.zip)
     - Watch the video on Moodle
     - Read the [text notes](./constraining-variables.md)
 - *Variables in Practice: Movement*
+    - Download the [template project](../../templates/template-p5-project.zip)
     - Watch the video on Moodle
     - Read the [text notes](./movement-variables.md)
 - *Debugging variables*
@@ -43,7 +49,10 @@
 
 ## Examples
 
-...
+- [PaintShop Amateur](https://editor.p5js.org/pippinbarr/sketches/qbE1XVdDg)
+- [My First Cursor](https://editor.p5js.org/pippinbarr/sketches/hqyQVfOQz)
+- [Moving a Stone](https://editor.p5js.org/pippinbarr/sketches/wF0Pn3Sce)
+- [Random Artist](https://editor.p5js.org/pippinbarr/sketches/Jmy-sBtTS)
 
 ## 🔥 Hot tip: `random()`
 

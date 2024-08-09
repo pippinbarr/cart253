@@ -41,7 +41,9 @@
 
 ## Examples
 
-...
+- [A Cat](https://editor.p5js.org/pippinbarr/sketches/ITqmsuA-b)
+- [An Alien](https://editor.p5js.org/pippinbarr/sketches/rrmbd-C5M)
+- [Literal Concentric Circles](https://editor.p5js.org/pippinbarr/sketches/6R1uu5aIL)
 
 ## Challenges
 

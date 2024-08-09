@@ -2,9 +2,20 @@
     
 ## In this module
 
+- Preparation
 - Life without variables
 - Declaring, assigning, and using a variable
 - All variables, all the time
+
+## Preparation
+
+1. Download the [template project](../../templates/template-p5-project.zip)
+2. Unzip it
+3. Rename the folder to `creating-variables`
+4. Move the folder into your repository
+5. Open the folder in VS Code
+6. Give the program a title in `index.html` (maybe "Creating variables")
+7. Commit and push the changes
 
 ## Life without variables
 
