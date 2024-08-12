@@ -4,14 +4,19 @@ AND, OR, NOT, got it. But what could we *do* with them?
 
 ## In this module
 
+- Preparation
 - Our creature is back
 - Massage!
     
+## Preparation
+
+1. Download the [Creature Loves Massage](./examples/creature-loves-massage.zip)
+2. Unzip it
+3. Move the folder into your repository
+4. Open the folder in VS Code
+5. Commit and push the changes
+    
 ## Our creature is back
-
-We're going to keep working on the creature from the [Conditionals in practice: Part 1: Creatures loves mouse](./conditionals-in-practice-part-1.md) module so if you don't have that code sitting around, go back and grab it from the end of the module! I'll wait...
-
-... okay!
 
 Currently our creature responds in different ways to the mouse and keys, but we can be a bit more sophisticated now with logic operators. So let's delete the stuff in its `checkInput()` and change it up.
 
@@ -178,6 +183,8 @@ function draw() {
   checkInput();
   drawCreature();
 }
+
+
 /**
  * Creature is happy if being massaged and otherwise bored
  */
@@ -213,22 +220,6 @@ function checkInput() {
  */
 function creatureHappy() {
     creature.fill = creature.fills.happy;
-}
-
-/**
- * Handles the creature becoming bored
- */
-function creatureBored() {
-    creature.fill = creature.fills.bored;
-    // Increase its boredom level by one
-    creature.boredomLevel += 1;
-    // Check if the creature has died of boredom
-    if (creature.boredomLevel > creature.deathByBoredomThresshold) {
-        // Creature dies of boredom!
-        creature.alive = false;
-        // Creature turns dead coloured!
-        creature.fill = creature.fills.dead;
-    }
 }
 
 /**

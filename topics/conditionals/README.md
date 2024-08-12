@@ -16,21 +16,25 @@
 - *Introducing conditionals*
     - Watch the video on Moodle
     - Read the [Introducing conditionals notes](./introducing-conditionals.md)
-- *Conditionals in practice: Part 1: Creature Loves Mouse*
+- *Conditionals in practice 1: Creature loves mouse*
+    - Download the [Creature Loves Mouse Project](./examples/creature-loves-mouse.zip)
     - Watch the video on Moodle
-    - Read the [Conditionals in practice: Part 1: Creature loves mouse notes](./conditionals-in-practice-part-1.md)
+    - Read the [Conditionals in practice 1: Creature loves mouse notes](./conditionals-in-practice-part-1.md)
 - *Booleans*
+    - Download the [Lightswitch](./examples/lightswitch.zip) and [Growhole](./examples/growhole.zip) projects
     - Watch the video on Moodle
     - Read the [Booleans notes](./booleans.md)
 - *Introducing logic operators*
     - Watch the video on Moodle
     - Read the [Introducing logic operators notes](./introducing-logic-operators.md)
-- *Conditionals in practice: Part 1: Massage*
+- *Conditionals in practice 2: Creature loves massage*
+    - Download the [Creature Loves Massage Project](./examples/creature-loves-massage.zip)
     - Watch the video on Moodle
-    - Read the [Conditionals in practice: Part 2: Massage notes](./conditionals-in-practice-part-2.md)
-- *Conditionals in practice: Part 3: Death*
+    - Read the [Conditionals in practice 2: Creature loves massage notes](./conditionals-in-practice-part-2.md)
+- *Conditionals in practice 3: Death by boredom*
+    - Download the [Death By Boredom Project](./examples/death-by-boredom.zip)
     - Watch the video on Moodle
-    - Read the [Conditionals in practice: Part 3: Death notes](./conditionals-in-practice-part-3.md)
+    - Read the [Conditionals in practice 3: Death by boredom notes](./conditionals-in-practice-part-3.md)
 - *Debugging conditionals*
     - Download the [Debugging Conditionals Project](MISSING_LINK)
     - Watch the video on Moodle

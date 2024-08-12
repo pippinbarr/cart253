@@ -1,18 +1,23 @@
-# Conditionals in practice: Part 3: Death {
+# Conditionals in practice 3: Death by boredom {
 
 Into each life must come... some death.
 
 ## In this module
 
+- Preparation
 - Our creature is back
 - Death by boredom!
 - That's life! And death!
     
+## Preparation
+
+1. Download the [Death by Boredom](./examples/death-by-boredom.zip)
+2. Unzip it
+3. Move the folder into your repository
+4. Open the folder in VS Code
+5. Commit and push the changes
+    
 ## Our creature is back
-
-We're going to keep working on the creature from the [Conditionals in practice: Part 2: Massage](./conditionals-in-practice-part-2.md) module so if you don't have that code sitting around, go back and grab it from the end of the module! I'll wait...
-
-... okay!
 
 Currently our creature responds in different ways to the mouse and keys, but we can be a bit more sophisticated now with logic operators. So let's delete the stuff in its `checkInput()` and change it up.
 

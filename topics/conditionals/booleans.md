@@ -4,8 +4,17 @@ When we're using conditionals we have conditions, and conditions are either *tru
 
 ## In this module
 
+- Preparation
 - Boolean values
 - Storing conditions
+
+## Preparation
+
+## Preparation
+
+1. Download the [Lightswitch](./examples/lightswitch.zip) and [Grow Hole](./examples/growhole.zip) projects
+2. Unzip them
+3. Move the folders into your repository
 
 ## Boolean values
 
@@ -25,55 +34,7 @@ This can be handy when we're using conditionals in our program because our varia
 
 ### A lightswitch
 
-Here's a simple lightswitch that makes the canvas white when it's switched on and black when it's switched off.
-
-```javascript
-// Our lightswitch
-const lightswitch = {
-    // Just one property which is whether or not the lightswitch
-    // is turned on. Starts out false (light is off)
-    on: false
-};
-
-/**
- * Creates the canvas
- */
-function setup() {
-    createCanvas(400, 400);
-}
-
-/**
- * Checks the lightswitch and displays the "room"
- */
-function draw() {
-    checkLightswitch();
-    displayRoom();
-}
-
-/**
- * Handles turning the lightswitch on and off with the mouse
- */
-function checkLightswitch() {
-    if (mouseIsPressed) {
-        lightswitch.on = true;
-    }
-    else {
-        lightswitch.on = false;
-    }
-}
-
-/**
- * Displays the room based on the lightswitch
- */
-function displayRoom() {
-    if (lightswitch.on) {
-        background(255);
-    }
-    else {
-        background(0);
-    }
-}
-```
+Take a look at the *Lightswitch* project you downloaded by opening it up in VS Code. It's a simple lightswitch that makes the canvas white when it's switched on and black when it's switched off.
 
 This lightswitch works through the power of being able to *store* boolean values in properties and then to *check* those properties as conditions in our conditionals!
 
@@ -90,71 +51,7 @@ Sometimes this can make our programs easier to read.
 
 ### Stopping a hole from growing...
 
-Here's a program to grow a hole up to a limit. Note how we store the result of a conditional to make it that little bit more readable.
-
-```javascript
-// The hole itself
-const hole = {
-  // Position
-  x: 200,
-  y: 200,
-  // Size
-  size: 10,
-  // Maximum size
-  maxSize: 200,
-  // How much it grows per frame
-  growthRate: 1
-};
-
-/**
- * Creates the canvas
- */
-function setup() {
-  createCanvas(400, 400);
-}
-
-/**
- * Updates and displays the hole
- */
-function draw() {
-  background(225);
-  
-  growHole();
-  checkHoleSize();
-  drawHole();
-}
-
-/**
- * Increases the hole's size by its growth rate
- */
-function growHole() {
-  hole.size += hole.growthRate;
-}
-
-/**
- * Checks if the hole has reached its maximum size
- */
-function checkHoleSize() {
-  // We can *store* the condition we care about in a variable
-  const holeAtMaximum = (hole.size >= hole.maxSize);
-  // This makes the conditional even easier to read!
-  if (holeAtMaximum) {
-    // Stop the hole's growth! It's big enough!
-    hole.growthRate = 0;
-  }
-}
-
-/**
- * Draws the hole on the canvas
- */
-function drawHole() {
-  push();
-  noStroke();
-  fill(0);
-  ellipse(hole.x, hole.y, hole.size);
-  pop();
-}
-```
+Take a look at the *Lightswitch* project you downloaded by opening it up in VS Code. Note how we store the result of a conditional to make it that little bit more readable.
 
 It's a little thing, but it can also be a great way to make sure you understand your program because it makes you give a *name* to the condition you're checking.
 

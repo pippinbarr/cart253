@@ -4,73 +4,23 @@ We get the *idea* of conditionals, now let's look at a small example of some wor
     
 ## In this module
 
-- Setting up
+- Preparation
+- Boring!
 - `if`
 - `else`
 - `else if`
 
-## Setting up
+## Preparation
 
-Here's a small program that draws a... creature!
+1. Download the [Creature Loves Mouse](./examples/creature-loves-mouse.zip)
+2. Unzip it
+3. Move the folder into your repository
+4. Open the folder in VS Code
+5. Commit and push the changes
 
-```javascript
-// Our creature
-const creature = {
-  // Position
-  x: 200,
-  y: 200,
-  // Size
-  size: 200,
-  // Fill
-  fill: "#000000", // Starts out bored
-  // Possible fills for the creature that show its mood
-  // We'll need these when we start changing its colour
-  // and it's nice to keep them along with all the other info
-  // about the creature
-  fills: {
-    bored: "#000000", // Black
-    happy: "#33cc33", // Green
-    angry: "#cc3333" // Red
-  }
-};
+## Boring!
 
-/**
- * Creates the canvas
- */
-function setup() {
-  createCanvas(400, 400);
-}
-
-/**
- * Fills the background, displays the creature 
- */
-function draw() {
-  background(255, 200, 127);
-  
-  checkInput();
-  drawCreature();
-}
-
-/**
- * Responds to user input
- */
-function checkInput() {
-    // We'll need to figure this out
-}
-
-/**
- * Draws the creature
- */
-function drawCreature() {
-  push();
-  noStroke();
-  // Use the creature's fill
-  fill(creature.fill);
-  // Display the creature at its position and size
-  ellipse(creature.x, creature.y, creature.size);
-  pop();
-}
-```
+Let's take a look at our starter project here. It... draws a creature!
 
 Right now the creature is kind of boring because it doesn't *do* anything. It doesn't care about what's going on. So, let's make it respond to us...
 
