@@ -36,7 +36,7 @@
     - Watch the video on Moodle
     - Read the [Conditionals in practice 3: Death by boredom notes](./conditionals-in-practice-part-3.md)
 - *Debugging conditionals*
-    - Download the [Debugging Conditionals Project](MISSING_LINK)
+    - Download the [Debugging Conditionals Project](../../debugging/debugging-conditionals.zip)
     - Watch the video on Moodle
     - Read the [Debugging Guide](../../guides/debugging-guide.md)
 
