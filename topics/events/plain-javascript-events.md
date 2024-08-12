@@ -4,9 +4,20 @@ So far we've seen some "built-in" event handlers for p5 (for the keyboard and mo
 
 ## In this module
 
+- Preparation
 - A key press in plain JavaScript
 - The `event` parameter
 - JavaScript events
+
+## Preparation
+
+1. Download the [template project](../../templates/template-p5-project.zip)
+2. Unzip it
+3. Rename the folder to `plain-javascript-events`
+4. Move the folder into your repository
+5. Open the folder in VS Code
+6. Give the program a title in `index.html` (maybe "Plain JavaScript Events")
+7. Commit and push the changes
 
 ## A key press in plain JavaScript
 

@@ -4,52 +4,23 @@ Perhaps the most fundamental kind of event is just waiting for an amount of time
 
 ## In this module
 
+- Preparation
 - A traffic light
 - `setTimeout()`
 - `setInterval()`
 - Other time events
 
+## Preparation
+
+1. Download the [Traffic Light Project](./examples/traffic-light.zip)
+2. Unzip it
+3. Move the folder into your repository
+4. Open the folder in VS Code
+5. Commit and push the changes
+
 ## A traffic light
 
-Let's make a (very primitive) traffic light:
-
-```javascript
-// The traffic light
-const trafficLight = {
-    // Position and size
-    x: 200,
-    y: 200,
-    size: 100,
-    fill: "#00ff00", // Starts green
-    fills: {
-        stop: "#ff0000", // Red
-        slow: "#ffbb00", // Orange
-        go: "#00ff00" // Green
-    },
-    delay: 1000 // How long between lights
-};
-
-/**
- * Create the canvas
- */
-function setup() {
-    createCanvas(400, 400);
-}
-
-/**
- * Display the traffic light
- */
-function draw() {
-    background(0);
-    
-    // Traffic light
-    push();
-    noStroke();
-    fill(trafficLight.fill);
-    ellipse(trafficLight.x, trafficLight.y, trafficLight.size);
-    pop();
-}
-```
+Let's start by looking at our template code.
 
 Now, this is a great traffic light, but perhaps a little bit redundant if it's always green! Hmm, maybe it's quite dangerous... we need it to change colours after a while to regulate the traffic.
 

@@ -4,56 +4,24 @@ The mouse (or trackpad) is a key way that people interact with the software on t
 
 ## In this module
 
+- Preparation
 - A ball
 - `mousePressed()`
 - `mouseReleased()`
 - `mouseWheel()`
 - Other mouse events
 
+## Preparation
+
+1. Download the [Mouse Events Project](./examples/mouse-events.zip)
+2. Unzip it
+3. Move the folder into your repository
+4. Open the folder in VS Code
+5. Commit and push the changes
+
 ## A ball
 
-Let's use a moving ball as a way to explore some mouse events. Here's some starting code.
-
-```javascript
-// Our ball
-const ball = {
-    // Position
-    x: 0,
-    y: 200,
-    // Size
-    size: 50,
-    // Velocity so it can move
-    velocity: {
-        x: 0,
-        y: 0
-    },
-    // Speed when it moves
-    speed: 5
-}
-
-/**
- * Creates the canvas
- */
-function setup() {
-    createCanvas(400, 400);
-}
-
-/**
- * Moves the ball and draws it
- */
-function draw() {
-    background(0);
-  
-    // Move the ball
-    ball.x += ball.velocity.x
-    ball.y += ball.velocity.y;
-  
-    // Draw the ball
-    push();
-    ellipse(ball.x, ball.y, ball.size);
-    pop();
-}
-```
+Let's use a moving ball as a way to explore some mouse events. Take a look at the starting code.
 
 Right now we can make the ball move if we manually set its velocity properties, but it would be nicer if we could control that with... the mouse!
 

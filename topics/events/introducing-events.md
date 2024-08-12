@@ -4,11 +4,22 @@ Our programs can respond to specific events - like mouse clicks, key presses, in
 
 ## In this module
 
+- Preparation
 - What is an event?
 - Responding to an event with an event handler
 - `draw()` is an event handler
 - `mousePressed()` is an event handler
 - There are so many events!
+
+## Preparation
+
+1. Download the [template project](../../templates/template-p5-project.zip)
+2. Unzip it
+3. Rename the folder to `introducing-events`
+4. Move the folder into your repository
+5. Open the folder in VS Code
+6. Give the program a title in `index.html` (maybe "Introducing events")
+7. Commit and push the changes
 
 ## What is an event?
 

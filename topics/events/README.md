@@ -14,21 +14,27 @@
 ## Modules
 
 - *Time and JavaScript and p5*
+    - Download the [template project](../../templates/template-p5-project.zip)
     - Watch the video on Moodle
     - Read the [Time and JavaScript and p5 notes](./time-and-javascript-and-p5.md)
 - *Introducing events*
+    - Download the [template project](../../templates/template-p5-project.zip)
     - Watch the video on Moodle
     - Read the [Introducing events notes](./introducing-events.md)
 - *Mouse events*
+    - Download the [Mouse Events Project](./examples/mouse-events.zip)
     - Watch the video on Moodle
     - Read the [Mouse events notes](./mouse-events.md)
 - *Keyboard events*
+    - Download the [Keyboard Events Project](./examples/keyboard-events.zip)
     - Watch the video on Moodle
     - Read the [Keyboard events notes](./keyboard-events.md)
 - *Time events*
+    - Download the [Traffic Light Project](./examples/traffic-light.zip)
     - Watch the video on Moodle
     - Read the [Time events notes](./time-events.md)
 - *Plain JavaScript events*
+    - Download the [template project](../../templates/template-p5-project.zip)
     - Watch the video on Moodle
     - Read the [Plain JavaScript events notes](./plain-javascript-events.md)
 - *Debugging events*

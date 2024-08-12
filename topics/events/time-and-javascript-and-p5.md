@@ -4,8 +4,19 @@ We've been doing it all along, but it's worth reviewing really specifically how 
 
 ## In this module
 
+- Preparation
 - JavaScript time
 - p5 time
+
+## Preparation
+
+1. Download the [template project](../../templates/template-p5-project.zip)
+2. Unzip it
+3. Rename the folder to `time-and-javascript-and-p5`
+4. Move the folder into your repository
+5. Open the folder in VS Code
+6. Give the program a title in `index.html` (maybe "Time and JavaScript and p5")
+7. Commit and push the changes
 
 ## JavaScript time
 

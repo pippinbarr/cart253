@@ -4,6 +4,7 @@ Along with the mouse, the keyboard is the other most common way that people tend
 
 ## In this module
 
+- Preparation
 - Another ball
 - `keyPressed()`
 - `keyCode`
@@ -11,49 +12,17 @@ Along with the mouse, the keyboard is the other most common way that people tend
 - Special p5 variables
 - Other keyboard events
 
+## Preparation
+
+1. Download the [Keyboard Events Project](./examples/keyboard-events.zip)
+2. Unzip it
+3. Move the folder into your repository
+4. Open the folder in VS Code
+5. Commit and push the changes
+
 ## Another ball
 
-Well, here's that ball again, it's pretty useful for this stuff.
-
-```javascript
-// Our ball
-const ball = {
-    // Position
-    x: 200,
-    y: 200,
-    // Size
-    size: 50,
-    // fill
-    fill: "#ffffff",
-    // fills
-    fills: {
-        white: "#ffffff",
-        red: "#ff0000",
-        blue: "#0000ff"
-    }
-}
-
-/**
- * Creates the canvas
- */
-function setup() {
-    createCanvas(400, 400);
-}
-
-/**
- * Draws the ball
- */
-function draw() {
-    background(0);
-  
-    // Draw the ball
-    push();
-    noStroke();
-    fill(ball.fill);
-    ellipse(ball.x, ball.y, ball.size);
-    pop();
-}
-```
+Take a quick look at the starting code for this module.
 
 Let's control the ball's colour with the keyboard.
 
