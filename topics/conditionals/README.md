@@ -52,7 +52,10 @@
 
 ## Examples
 
-- ...
+- [Overlapping Circles](https://editor.p5js.org/pippinbarr/sketches/NLnxtLMat)
+- [Overlapping Rectangles](https://editor.p5js.org/pippinbarr/sketches/5hnVN-_C0)
+- [`random()` and probability](https://editor.p5js.org/pippinbarr/sketches/8NkxcrJsi) (Loot drops!)
+- [Screen Wrap](https://editor.p5js.org/pippinbarr/sketches/exJrLtvvU)
 
 ## 🔥 Hot tip: Text
 

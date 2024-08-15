@@ -48,6 +48,13 @@
     - Read the [Loading and playing sounds in p5 notes](../extras/sounds.md)
     - 📖 You can also read the reference page for [`loadSound()`](https://p5js.org/reference/p5/loadSound/) to get an overview 📖
 
+## Examples
+
+- []()
+- []()
+- []()
+- []()
+
 ## Challenges
 
 - Try the [events challenges](MISSING_LINK) (We will review them in class)
