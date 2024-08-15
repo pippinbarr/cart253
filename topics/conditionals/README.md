@@ -94,6 +94,6 @@ function draw() {
 }
 ```
 
-Read the [Typography](https://p5js.org/reference/#Typography) documentation in the reference for more information.
+📖 Read the [Typography](https://p5js.org/reference/#Typography) documentation in the reference for more information. 📖
 
 ## }

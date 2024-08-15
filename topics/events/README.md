@@ -50,9 +50,9 @@
 
 ## Examples
 
-- []()
-- []()
-- []()
+- [Better Off Line](https://editor.p5js.org/pippinbarr/sketches/J3Zms443G)
+- [Sound Effect Button](https://editor.p5js.org/pippinbarr/sketches/UmfzbWYRt)
+- [Tile Based Movement](https://editor.p5js.org/pippinbarr/sketches/fD7Ha1Yva)
 - []()
 
 ## Challenges
