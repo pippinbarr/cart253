@@ -27,11 +27,8 @@
 - *Drawing* 
     - Watch the video on Moodle
     - Read the [text notes](./drawing.md)
-- *Reading the documentation*
-    - Watch the video on Moodle
-    - Read the [p5 Reference](https://p5js.org/reference/)
 - *Organizing with functions* 
-    - Download and unzip the [Starter House Project](./starter-house.zip)
+    - Download the [Starter House project](./examples/starter-house.zip)
     - Watch the video on Moodle
     - Read the [text notes](./organizing-with-functions.md)
 - *Debugging instructions*

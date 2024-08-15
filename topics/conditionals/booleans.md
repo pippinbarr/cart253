@@ -55,6 +55,10 @@ Take a look at the *Lightswitch* project you downloaded by opening it up in VS C
 
 It's a little thing, but it can also be a great way to make sure you understand your program because it makes you give a *name* to the condition you're checking.
 
+## Finishing up
+
+1. Commit and push the changes you have made in this session with an appropriate commit message
+
 ## Summary
 
 In JavaScript the values `true` and `false` are available for storing *conditions*. This often lets us make our programs even more clear.

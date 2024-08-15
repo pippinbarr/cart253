@@ -134,6 +134,10 @@ Each of your actions is triggering different bits of our beautiful `if`-statemen
 
 It's alllliiiiiiive!
 
+## Finishing up
+
+1. Commit and push the changes you have made in this session with an appropriate commit message
+
 ## Summary
 
 To reiterate, using *conditionals* in our programs is the key way that we can move them from being repetitive and predictable to something much, much more exciting! There's a huge amount of power involved in working out how to use conditionals to *describe situations* we want our program (and its denizens) to care about.

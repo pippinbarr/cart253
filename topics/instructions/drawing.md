@@ -17,8 +17,11 @@ One of the main benefits of learning JavaScript via p5.js is that we can very ea
 
 1. Download the [template project](../../templates/template-p5-project.zip)
 2. Unzip it
-3. Open the resulting folder in VS Code
-4. Give the program a title in `index.html`
+3. Rename the folder to `drawing-practice`
+4. Move the folder into your repository
+5. Open the folder in VS Code
+6. Give the program a title in `index.html` (maybe "Drawing Practice")
+7. Commit and push the changes
 
 ## The canvas
 
@@ -277,6 +280,10 @@ function draw() {
 ```
 
 Ah, that's better. A program that makes sense even if you don't know the specific function calls and arguments. If my cat could read, my cat could read this.
+
+## Finishing up
+
+1. Commit and push the changes you have made in this session with an appropriate commit message
 
 ## Summary
 

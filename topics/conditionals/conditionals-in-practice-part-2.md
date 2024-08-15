@@ -137,6 +137,10 @@ Phew! Now we have a creature that's happy if we're giving it a little mouse mass
 
 It's feeling more and more like a real thing.
 
+## Finishing up
+
+1. Commit and push the changes you have made in this session with an appropriate commit message
+
 ## Summary
 
 Most of the time when we're thinking about situations we care about, we care about *combinations* of events and ideas. Logic operators help us to *combine conditions* and so they allow us to express more complex (and naturalistic!) ideas about the world of our program.

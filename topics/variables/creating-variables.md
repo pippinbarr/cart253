@@ -155,6 +155,10 @@ function draw() {
 
 Beautiful, n'est-ce pas?
     
+## Finishing up
+
+1. Commit and push the changes you have made in this session with an appropriate commit message
+
 ## Summary
 
 Declaring our own variables makes our programs infinitely more amazing. They are:

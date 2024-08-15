@@ -83,6 +83,10 @@ However, thanks to p5 magic behind the scenes, JavaScript will
 
 So time in p5 for now is *mostly* being driven by the `draw()` function being called about 30 times per second. That's also known as the *framerate*.
 
+## Finishing up
+
+1. Commit and push the changes you have made in this session with an appropriate commit message
+
 ## Summary
 
 By default JavaScript literally just runs our program from the top to the bottom. p5 adds in the idea that `setup()` is called once at the start, and that `draw()` is called once every frame.

@@ -220,6 +220,10 @@ You can use that shorthand or not as you which. It achieves *exactly* the same t
 
 And yes there is also `-=` and `*=` and `/=` which do the same thing with subtraction, multiplication, and division.
 
+## Finishing up
+
+1. Commit and push the changes you have made in this session with an appropriate commit message
+
 ## Summary
     
 Using variables we can simulate pretty nice physical movement! A circle becomes a bird flying off to seek its fortune!

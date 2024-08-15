@@ -171,6 +171,10 @@ function draw() {
 }
 ```
     
+## Finishing up
+
+1. Commit and push the changes you have made in this session with an appropriate commit message
+
 ## Summary
 
 At the heart of a huge amount of change in a program is this kind of simple *arithmetic* on numbers. We can use the standard arithmetic operators (`+`, `-`, `*`, `\`) to change the numbers in our variables. When we do that, the behaviour of our program changes over time.

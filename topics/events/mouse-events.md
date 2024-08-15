@@ -126,6 +126,10 @@ You can use them all in the same kind of way as we've been looking at. You defin
 
 📖 Want to know more? Read the section of the documentation called [Mouse](https://p5js.org/reference/#IO:~:text=characters%20are%20pressed.-,Mouse,-doubleClicked()). 📖
 
+## Finishing up
+
+1. Commit and push the changes you have made in this session with an appropriate commit message
+
 ## Summary
 
 We can now include the idea of the user doing *all kinds of things with their mouse* (clicking, releasing, dragging, double clicking, ...) as ways they can interact with our program.

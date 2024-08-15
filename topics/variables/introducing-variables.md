@@ -204,6 +204,10 @@ function draw() {
 
 Now the circle changes colour when we move the mouse! And again that's because the `fill()` instruction gets its red and green arguments from the x- and y-coordinates of the mouse.
     
+## Finishing up
+
+1. Commit and push the changes you have made in this session with an appropriate commit message
+
 ## Summary
 
 Variables make our programs able to change what they do and this is crucial to creating any kind of interesting work! In essence, *variables store values* (we have focused on *numbers*) and allow us to *change those values while the program is running*. Powerful stuff.

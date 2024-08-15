@@ -141,6 +141,10 @@ There's one other key time event you can use:
 
 It's a bit unlikely you'll want this one while working with p5, but worth knowing it exists.
 
+## Finishing up
+
+1. Commit and push the changes you have made in this session with an appropriate commit message
+
 ## Summary
 
 With `setTimeout()` and `setInterval()` we now have the power to call a function after an *arbitrary amount of time* which is *very often something we want to do*!

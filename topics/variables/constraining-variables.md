@@ -103,6 +103,10 @@ function draw() {
 
 It fits! And of course you could change the `minSize` and `maxSize` depending on what you *mean* with your program.
 
+## Finishing up
+
+1. Commit and push the changes you have made in this session with an appropriate commit message
+
 ## Summary
 
 We can and should use `constrain()` whenever we want to make sure our variables stay within specific bounds. It's one less thing to worry about when we're debugging for example.

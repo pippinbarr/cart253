@@ -184,7 +184,11 @@ Now we have explanations at all levels of our program and pretty much *anyone* c
 
 Good.
 
-**Rule:** *Any time a comment would clarify how one or more lines of code work or what they are for, write the comment.*
+**Rule:** *Any time a comment would clarify how one or more lines of code work or what they are for, write the comme
+
+## Finishing up
+
+1. Commit and push the changes you have made in this session with an appropriate commit message
 
 ## Summary
 
@@ -193,9 +197,5 @@ We looked at three different kinds of comments we should be writing in our progr
 1. *A top-level comment* should explain the broad strokes of the program, give it a title and author, and credit any other code you're using. Traditionally this goes inside `/** ... */` style comments
 2. *Function definition-level comments* should explain what individual functions in your program do. Traditionally these also use the `/** ... */` style of comment
 3. *Instruction-level comments* help to explain specific lines of code that may otherwise be hard to explain. Traditionally these use the `//` style of comment
-
-## Next
-
-Let's expand our drawing knowledge a bit further.
 
 ## }

@@ -248,6 +248,10 @@ Again, you can use this with `event` to find out which key was typed. This one i
     
 📖 Want to know more? Read the section of the documentation called [Keyboard](https://p5js.org/reference/#:~:text=the%20turnAxis%20variable.-,Keyboard,-key). 📖
     
+## Finishing up
+
+1. Commit and push the changes you have made in this session with an appropriate commit message
+
 ## Summary
 
 Now we've added the *entire keyboard* to our arsenal of potential input devices. The possibilities are expanding rapidly.

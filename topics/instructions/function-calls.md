@@ -8,8 +8,11 @@ We're going to look at the most fundamental kind of JavaScript instruction, the 
 
 1. Download the [template project](../../templates/template-p5-project.zip)
 2. Unzip it
-3. Open the resulting folder in VS Code
-4. Give the project a title in `index.html`
+3. Rename the folder to `function-calls`
+4. Move the folder into your repository
+5. Open the folder in VS Code
+6. Give the program a title in `index.html` (maybe "Function calls")
+7. Commit and push the changes
 
 ## `setup()` and `draw()`
 
@@ -167,6 +170,10 @@ What if I told you that this is a program that simulates the experience of a wri
 ## Play
 
 Now would be a great time to play around the the numbers in the program. There are 10 of them and changing any of them will change the program. Can you make it *mean something else*?? Share your results!
+
+## Finishing up
+
+1. Commit and push the changes you have made in this session with an appropriate commit message
 
 ## Summary
 

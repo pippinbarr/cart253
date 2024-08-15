@@ -116,6 +116,10 @@ We won't have time to get into all of it, but it's possible for our programs to 
 
 It's a very exciting part of programming!
 
+## Finishing up
+
+1. Commit and push the changes you have made in this session with an appropriate commit message
+
 ## Summary
 
 An *event* is something that happens at a *specific moment in time* that our program can be notified of. Specifically, we can define a function called an *event handler* that will be called when the event happens. The power is ours!

@@ -151,6 +151,10 @@ Some nice ones to check out that will play well with p5:
 
 But there are a ton of others. Get as deep or shallow as you want!
 
+## Finishing up
+
+1. Commit and push the changes you have made in this session with an appropriate commit message
+
 ## Summary
 
 Now we know how to listen for events using Plain JavaScript which opens up the possibility of some new kinds of events, and increases our knowledge of using JavaScript *without* p5.

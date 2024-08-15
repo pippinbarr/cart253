@@ -175,6 +175,10 @@ Here you can see that because we have a JavaScript object in the `fill` property
 
 You can keep doing this to any level of depth that is helpful! Learn to love being organized!!
 
+## Finishing up
+
+1. Commit and push the changes you have made in this session with an appropriate commit message
+
 ## Summary
     
 JavaScript Objects allow us to organize the information in our program so that *related information is stored together*. This can help us to think more clearly about our programs and to write clearer code. If you want a fancy word, a JavaScript Object is a *data structure*.

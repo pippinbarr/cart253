@@ -62,8 +62,4 @@ Now we've seen the basic files involved in a JavaScript project. Most importantl
 3. The `assets/` folder that will contain all your images, sounds, and more
 4. The `js/` folder that contains all of your JavaScript, including the libraries you're using (p5 and p5 sound by default) and your own code in `script.js`
 
-## Next
-
-Now all we have to do is learn what to write in `script.js`!
-
 ## }

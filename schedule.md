@@ -1,16 +1,18 @@
-- [Hello, World](topics/hello-world/)
-- [Instructions](topics/instructions/)
-- [Variables](topics/variables/)
-- [Conditionals](topics/conditionals/)
-- [Events](topics/events/)
-- [Making](topics/making/)
-- **Reading week**
-- [Functions](topics/functions/)
-- [Arrays](topics/arrays/)
-- [Loops](topics/loops/)
-- [Data](topics/data/)
-- Jam Week 1
-- Jam Week 2
+# 🗓 Schedule
+
+- [Hello, World](#-hello-world)
+- [Instructions](#-instructions)
+- [Variables](#-variables)
+- [Conditionals](#-conditionals)
+- [Events](#-events)
+- [Making](#-making)
+- [**Reading week**](#-reading-week-no-class)
+- [Functions](#%EF%B8%8F-functions)
+- [Arrays](#-arrays)
+- [Loops](#-loops)
+- [Data](#-data)
+- [Jam Week 1](#-jam-week-1)
+- [Jam Week 2](#-jam-week-2)
 
 ---
 
@@ -24,7 +26,7 @@
 ### In class
 - Introductions
 - The [course outline](./outline) and [schedule](./schedule)
-- Version control demo
+- Version control demo as needed
 
 ### In studio
 - Make sure you have set up and understand your `cart253` repository
@@ -44,8 +46,9 @@
 
 ### In class
 - Thinking like a computer with instructions
-- Instructions challenges discussion
-- How to read the p5 documentation
+- Discussion
+    - Instructions challenges discussion
+    - How to read the p5 documentation
 
 ### In studio
 - Work further on the challenges as needed
@@ -63,8 +66,9 @@
 
 ### In class
 - Thinking like a computer with variables
-- Variables challenges discussion
-- Relative positioning with offsets
+- Discussion
+    - Variables challenges discussion
+    - Relative positioning with offsets
 - Introducing the [Art Jam](./jams/art-jam/) assignment
 
 ### In studio
@@ -85,8 +89,9 @@
 
 ### In class
 - Thinking like a computer with conditionals
-- Conditionals challenges discussion
-- Introduction to program states
+- Discussion
+    - Conditionals challenges
+    - Program states
 
 ### In studio
 - Work further on the challenges as needed
@@ -106,8 +111,9 @@
 
 ### In class
 - Thinking like a computer with events
-- Events challenges discussion
-- Making a button <- Is this a good option? Unsure.
+- Discussion
+    - Events challenges
+    - ...
 
 ### In studio
 - Work further on the challenges as needed
@@ -125,10 +131,11 @@
 - Follow the [Making learning materials](./topics/making/)
 
 ### In class
-- Making challenges discussion
 - Introducing the [Mod Jam](./jams/mod-jam/) assignment
-- Adding states to FrogFrogFrog
-- Adding "tongue charging" to FrogFrogFrog
+- Discussion
+    - Making challenges
+    - Adding states to FrogFrogFrog
+    - Adding "tongue charging" to FrogFrogFrog
 
 ### In studio
 - Work further on the challenges as needed
@@ -195,7 +202,6 @@
 - Thinking like a computer with loops
 - Loops challenges discussion
 - Introducing the [Variation Jam](./jams/variation-jam/) assignment
-- ...
 
 ### In studio
 - Work further on the challenges as needed
@@ -249,6 +255,6 @@
 ### Homework
 - Work on the [Variation Jam](./jams/variation-jam) assignment
 
-## ✋ Final Submission Week (NO CLASSs)
+## ✋ Final Submission Week (NO CLASS)
 
 *Week of 2 December 2024*

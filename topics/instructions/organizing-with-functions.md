@@ -12,9 +12,11 @@ Our programs are going to get longer and longer as we learn the possibilities of
 
 ## Preparation
 
-1. Move the `starter-house` project folder into your repository
-2. Open the folder in VS Code
-3. Commit and push your starting point for this module
+1. Download the [Starter House project](./examples/starter-house.zip)
+2. Unzip it
+3. Move the folder into your repository
+4. Open the folder in VS Code
+5. Commit and push the changes
 
 ## Commenting helps
 
@@ -344,12 +346,12 @@ We can keep doing this as much as we like to create functions that *do one thing
 
 So, from now on you should *never* have a `draw` full of lines and lines and lines of code. `draw` should be easy to read and for this you should rely on using *functions* to organize your code.
 
+## Finishing up
+
+1. Commit and push the changes you have made in this session with an appropriate commit message
+
 ## Summary
 
 We've seen how to define simple functions that help us to break down our program into smaller parts, making it easier to read and easier to work with as it becomes more and more complex. This is called *modularity* and it is so, so good.
-
-## Next
-
-Our program is beautifully structured at this point, but to be strong programmers we need to learn to see how the *computer* will actually read it. Next up: *thinking like a computer*.
 
 ## }

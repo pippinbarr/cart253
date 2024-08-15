@@ -258,6 +258,10 @@ Importantly we've been using *all* our logic operators!
 
 In doing so we can see how using conditionals lets us model fairly complex behaviours! And this is only scratching the surface! Anything you can imagine can probably be done!
 
+## Finishing up
+
+1. Commit and push the changes you have made in this session with an appropriate commit message
+
 ## Summary
 
 We've used conditionals and logic operators to create a pretty expressive little creature! Who knew that something as dry as logic could be as cool as this?!

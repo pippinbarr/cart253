@@ -25,7 +25,7 @@
     - Read the [Writing pseudocode notes](./writing-pseudocode.md)
 - *Implementation*
     - Watch the video on Moodle
-    - Download the [FrogFrogFrog Project](MISSING_LINK)
+    - (If you want to) Download the finished [Frogfrogfrog Project](./examples/frogfrogfrog.zip) and/or [play Frogfrogfrog online](https://pippinbarr.com/cart253-examples/topics/making/frogfrogfrog/)
 
 ## Challenges
 
