@@ -20,13 +20,13 @@ const bug = {
     // Movement
     velocity: {
         x: 0,
-        y: 0 // Starts moving down
+        y: 0
     },
     // Colour
     fill: "#5C4033", // Dark brown default
     fills: {
         alive: "#5C4033",
-        dead: "#FF0000"
+        dead: "#FF0000" // Red means dead
     },
     // Fear of the mouse: moving more than this many pixels in one frame
     // will scare the bug
@@ -41,7 +41,6 @@ const bug = {
 function setup() {
     createCanvas(500, 500);
 }
-
 
 /**
  * Updates and draws the bug
@@ -69,50 +68,50 @@ function checkMouse() {
     // the distance between its previous position and its current position
     const mouseMovedDistance = dist(pmouseX, pmouseY, mouseX, mouseY);
     // Now decide if the bug is scared based on its threshold
-    const bugScared = (mouseMovedDistance >= bug.mouseMoveThreshold);
+    const bugScared = (mouseMovedDistance <= bug.mouseMoveThreshold);
     // If the bug is scared it runs away fast!
     if (bugScared) {
-        bug.velocity.y = 15;
+        bug.velocity.y = 15; // Run away!
+
+
+        // Now check if the user managed to click on the bug
+        // First find out if the mouse if over the bug's body 
+        const mouseToBugDistance = dist(mouseX, mouseY, bug.x, bug.y);
+        const mouseOverBug = mouseToBugDistance < bug.w / 2;
+        // Check if the mouse is pressed over the bug
+        // (Not perfect since it would be better if the click happed right then
+        // but this will do)
+        if (mouseOverBug || mouseIsPressed {
+            // Splat!
+            bug.alive = false;
+            bug.fill = bug.fills.dead;
+        }
     }
 
-    // Now check if the user managed to click on the bug
-    // First find out if the mouse if over the bug's body 
-    const mouseToBugDistance = dist(mouseX, mouseY, bug.x, bug.y);
-    const mouseOverBug = mouseToBugDistance < bug.w / 2;
-    // Check if the mouse is pressed over the bug
-    // (Not perfect since it would be better if the click happed right then
-    // but this will do)
-    if (mouseOverBug && mouseIsPressed) {
-        // Splat!
-        bug.alive = false;
-        bug.fill = bug.fills.dead;
+    function moveBug() {
+        bug.x += bug.velocity.x;
+        bug.y += bug.velocity.y;
     }
-}
 
-function moveBug() {
-    bug.x += bug.velocity.x;
-    bug.y += bug.velocity.y;
-}
+    /**
+     * Displays the bug with its six legs sticking out
+     */
+    function drawBug() {
+        // Body
+        push();
+        noStroke();
+        fill(bug.fill);
+        ellipse(bug.x, bug.y, bug.w, bug.h);
+        pop();
 
-/**
- * Displays the bug with its six legs sticking out
- */
-function drawBug() {
-    // Body
-    push();
-    noStroke();
-    fill(bug.fill);
-    ellipse(bug.x, bug.y, bug.w, bug.h);
-    pop();
-
-    // Legs
-    push();
-    stroke(bug.fill);
-    // Thicken the legs a bit
-    strokeWeight(2);
-    // Three lines horizontally across the body at different heights for the legs
-    line(bug.x - bug.w, bug.y - bug.h / 4, bug.x + bug.w, bug.y - bug.h / 4);
-    line(bug.x - bug.w, bug.y, bug.x + bug.w, bug.y);
-    line(bug.x - bug.w, bug.y + bug.h / 4, bug.x + bug.w, bug.y + bug.h / 4);
-    pop();
-}
+        // Legs
+        push();
+        stroke(bug.fill);
+        // Thicken the legs a bit
+        strokeWeight(2);
+        // Three lines horizontally across the body at different heights for the legs
+        line(bug.x - bug.w, bug.y - bug.h / 4, bug.x + bug.w, bug.y - bug.h / 4);
+        line(bug.x - bug.w, bug.y, bug.x + bug.w, bug.y);
+        line(bug.x - bug.w, bug.y + bug.h / 4, bug.x + bug.w, bug.y + bug.h / 4);
+        pop();
+    }

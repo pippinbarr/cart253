@@ -38,7 +38,7 @@
     - Watch the video on Moodle
     - Read the [Plain JavaScript events notes](./plain-javascript-events.md)
 - *Debugging events*
-    - Download the [Debugging Events Project](MISSING_LINK)
+    - Download the [Debugging Events Project](../../debugging/debugging-events.zip)
     - Watch the video on Moodle
     - Read the [Debugging Guide](../../guides/debugging-guide.md)
 
@@ -53,7 +53,7 @@
 - [Better Off Line](https://editor.p5js.org/pippinbarr/sketches/J3Zms443G)
 - [Sound Effect Button](https://editor.p5js.org/pippinbarr/sketches/UmfzbWYRt)
 - [Tile Based Movement](https://editor.p5js.org/pippinbarr/sketches/fD7Ha1Yva)
-- []()
+- [Coin Collector](https://editor.p5js.org/pippinbarr/sketches/qOdVBY1nQ)
 
 ## Challenges
 
