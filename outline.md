@@ -1,4 +1,6 @@
-# CART 253: Creative Computation 1 – Fall 2024 – 3 credits
+# 📜 Course Outline
+
+## CART 253: Creative Computation 1 – Fall 2024 – 3 credits
 
 ## When and where?
 
