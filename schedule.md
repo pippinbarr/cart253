@@ -25,6 +25,8 @@
 ### Homework
 - Work on next week's materials
 
+---
+
 ## 💬 Instructions
 
 *Week of 9 September 2024*
@@ -44,6 +46,8 @@
 
 ### Homework
 - Work on next week's materials
+
+---
 
 ## 🎁 Variables
 
@@ -68,6 +72,8 @@
 - Work on next week's materials
 - Work on the [Art Jam](./evaluation/art-jam) assignment
 
+---
+
 ## 🤔 Conditionals
 
 *Week of 23 September 2024*
@@ -90,6 +96,8 @@
 - Work on next week's materials
 - Work on the [Art Jam](./evaluation/art-jam) assignment (due next week)
 
+---
+
 ## ⏱ Events
 
 *Week of 30 September 2024*
@@ -110,6 +118,8 @@
 
 ### Homework
 - Work on next week's materials
+
+---
 
 ## 🛠 Making
 
@@ -133,12 +143,16 @@
 - Work on the post-reading week materials
 - Work on the [Mod Jam](./evaluation/mod-jam) assignment
 
+---
+
 ## 📚 Reading week (NO CLASS)
 
 *Week of 14 October 2024*
 
 - Work on next week's materials
 - Work on the [Mod Jam](./evaluation/mod-jam) assignment
+
+---
 
 ## ☎️ Functions
 
@@ -160,6 +174,8 @@
 - Make a start on next week's materials
 - Work on the [Mod Jam](./evaluation/mod-jam) assignment (due next week!)
 
+---
+
 ## 🗄 Arrays
 
 *Week of 28 October 2024*
@@ -178,6 +194,8 @@
 
 ### Homework
 - Make a start on next week's materials
+
+---
 
 ## 🔁 Loops
 
@@ -199,6 +217,8 @@
 - Make a start on next week's materials
 - Work on the [Variation Jam](./evaluation/variation-jam) assignment
 
+---
+
 ## 💿 Data
 
 *Week of 11 November 2024*
@@ -217,6 +237,8 @@
 ### Homework
 - Work on the [Variation Jam](./evaluation/variation-jam) assignment
 
+---
+
 ## 🍓 Jam Week 1
 
 *Week of 18 November 2024*
@@ -230,6 +252,8 @@
 ### Homework
 - Work on the [Variation Jam](./evaluation/variation-jam) assignment
 
+---
+
 ## 🍓 Jam Week 2
 
 *Week of 25 November 2024*
@@ -242,6 +266,8 @@
 
 ### Homework
 - Work on the [Variation Jam](./evaluation/variation-jam) assignment
+
+---
 
 ## ✋ Final Submission Week (NO CLASS)
 
