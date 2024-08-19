@@ -15,22 +15,22 @@
 ## Modules
 
 - *Welcome to Creative Computation!*
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071095&node=5700483&a=114219777)
     - Read the [Welcome to Creative Computation notes](./welcome-to-creative-computation.md)
 - *Software Setup*
     - Follow the [Course Software Installation Guide](../../guides/course-software.md)
 - *What is version control?*
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071096&node=5700485&a=54573756)
     - Read the [What is version control? notes](./what-is-version-control.md)
 - *Creating a Repository*
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071092&node=5700478&a=168654397)
     - Read the [Creating a Repository notes](./creating-a-repository.md)
 - *Version Control Workflow*
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071094&node=5700482&a=168399266)
     - When you need it you can copy the [workflow example code](./version-control-workflow-example/js/script.js)
     - Read the [Version Control Workflow notes](./version-control-workflow.md)
 - *GitHub Pages*
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071093&node=5700481&a=87247591)
     - Read the [*GitHub Pages notes*](./github-pages.md)
 
 ## Examples
