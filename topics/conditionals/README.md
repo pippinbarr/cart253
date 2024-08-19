@@ -1,4 +1,4 @@
-# Conditionals {
+# 🤔 Conditionals {
 
 ✨ Conditionals are the key way we can make a program do *different things* based on the current situation! ✨
 
@@ -14,30 +14,30 @@
 ## Modules
 
 - *Introducing conditionals*
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071114&node=5700547&a=136607647)
     - Read the [Introducing conditionals notes](./introducing-conditionals.md)
 - *Conditionals in practice 1: Creature loves mouse*
     - Download the [Creature Loves Mouse Project](./examples/creature-loves-mouse.zip)
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071111&node=5700535&a=137851353)
     - Read the [Conditionals in practice 1: Creature loves mouse notes](./conditionals-in-practice-part-1.md)
 - *Booleans*
     - Download the [Lightswitch](./examples/lightswitch.zip) and [Growhole](./examples/growhole.zip) projects
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071110&node=5700534&a=7980543)
     - Read the [Booleans notes](./booleans.md)
 - *Introducing logic operators*
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071115&node=5700548&a=89057691)
     - Read the [Introducing logic operators notes](./introducing-logic-operators.md)
 - *Conditionals in practice 2: Creature loves massage*
     - Download the [Creature Loves Massage Project](./examples/creature-loves-massage.zip)
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071112&node=5700536&a=77952213)
     - Read the [Conditionals in practice 2: Creature loves massage notes](./conditionals-in-practice-part-2.md)
 - *Conditionals in practice 3: Death by boredom*
     - Download the [Death By Boredom Project](./examples/death-by-boredom.zip)
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071113&node=5700546&a=198193017)
     - Read the [Conditionals in practice 3: Death by boredom notes](./conditionals-in-practice-part-3.md)
 - *Debugging conditionals*
     - Download the [Debugging Conditionals Project](../../debugging/debugging-conditionals.zip)
-    - Watch the video on Moodle
+    - [Watch the video]()
     - Read the [Debugging Guide](../../guides/debugging-guide.md)
 
 ## Extra! Extra!

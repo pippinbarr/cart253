@@ -1,4 +1,4 @@
-# Hello, World! {
+# 👋 Hello, World! {
 
 ✨ Here we are, together at last in the warm embrace of CART253 - Creative Computation I! ✨
 
@@ -28,8 +28,8 @@
     - [Watch the video](https://concordia.yuja.com/V/Video?v=1071092&node=5700478&a=168654397)
     - Read the [Creating a Repository notes](./creating-a-repository.md)
 - *Version Control Workflow*
+    - Download the [workflow example code](./version-control-workflow-example/js/script.js)
     - [Watch the video](https://concordia.yuja.com/V/Video?v=1071094&node=5700482&a=168399266)
-    - When you need it you can copy the [workflow example code](./version-control-workflow-example/js/script.js)
     - Read the [Version Control Workflow notes](./version-control-workflow.md)
 - *GitHub Pages*
     - [Watch the video](https://concordia.yuja.com/V/Video?v=1071093&node=5700481&a=87247591)

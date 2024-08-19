@@ -1,4 +1,4 @@
-# Instructions {
+# 💬 Instructions {
 
 ✨ Instructions are a fundamental building block of how we tell a computer what to *do* in a programming language! ✨
 
@@ -16,24 +16,24 @@
 ## Modules
 
 - *Anatomy of a p5 project* 
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071097&node=5700486&a=111305522)
     - Read the [text notes](./anatomy-of-a-p5-project.md)
 - *Function calls* 
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071102&node=5700512&a=168592546)
     - Read the [text notes](./function-calls.md)
 - *Commenting* 
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071098&node=5700487&a=127828488)
     - Read the [text notes](./commenting.md)
 - *Drawing* 
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071100&node=5700510&a=164829611)
     - Read the [text notes](./drawing.md)
 - *Organizing with functions* 
     - Download the [Starter House project](./examples/starter-house.zip)
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071103&node=5700520&a=202854226)
     - Read the [text notes](./organizing-with-functions.md)
 - *Debugging instructions*
     - Download the [Debugging Instructions Project](../../debugging/debugging-instructions.zip)
-    - Watch the video on Moodle
+    - [Watch the video]()
     - Read the [Debugging Guide](../../guides/debugging-guide.md)
 
 ## Examples

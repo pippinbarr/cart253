@@ -1,4 +1,4 @@
-# Variables {
+# 🎁 Variables {
 
 ✨ Variables are the lifeblood of *information* in our program and, most important of all: they can *change*! And if they can change, then our program is alive! ✨
 
@@ -16,31 +16,31 @@
 
 - *Introducing variables*
     - Download the [template project](../../templates/template-p5-project.zip)
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071108&node=5700532&a=197018688)
     - Read the [text notes](./introducing-variables.md)
 - *Creating variables*
     - Download the [template project](../../templates/template-p5-project.zip)
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071106&node=5700523&a=25446998)
     - Read the [text notes](./creating-variables.md)
 - *Introducing JavaScript Objects*
     - Download the [Self-Esteem Project](./examples/self-esteem.zip)
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071107&node=5700524&a=96297916)
     - Read the [text notes](./introducing-javascript-objects.md)
 - *Changing variables*
     - Download the [UFO on a Dark Night Project](./examples/ufo-on-a-dark-night.zip)
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071104&node=5700521&a=117175823)
     - Read the [text notes](./changing-variables.md)
 - *Constraining variables*
     - Download the [Constrain that Ego! Project](./examples/constrain-that-ego.zip)
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071105&node=5700522&a=96927948)
     - Read the [text notes](./constraining-variables.md)
 - *Variables in Practice: Movement*
     - Download the [template project](../../templates/template-p5-project.zip)
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071109&node=5700533&a=152878892)
     - Read the [text notes](./movement-variables.md)
 - *Debugging variables*
     - Download the [Debugging Variables Project](../../debugging/debugging-variables.zip)
-    - Watch the video on Moodle
+    - [Watch the video]()
     - Read the [Debugging Guide](../../guides/debugging-guide.md)
 
 ## Challenges

@@ -1,4 +1,4 @@
-# Making {
+# 🛠 Making {
 
 ✨ Actually *making our work* isn't just about knowing the syntax and commands of JavaScript and p5, it's about *coming up with ideas* that we can actually work on and be excited about! ✨
 
@@ -15,16 +15,16 @@
 ## Modules
 
 - *Having ideas*
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071126&node=5700580&a=23694666)
     - Read the [Having ideas notes](./having-ideas.md)
 - *From idea to plan*
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071124&node=5700570&a=18146229)
     - Read the [From idea to plan notes](./from-idea-to-plan.md)
 - *Writing pseudocode*
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071140&node=5700709&a=1715863)
     - Read the [Writing pseudocode notes](./writing-pseudocode.md)
 - *Implementation*
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071139&node=5700701&a=138645286)
     - (If you want to) Download the finished [Frogfrogfrog Project](./examples/frogfrogfrog.zip) and/or [play Frogfrogfrog online](https://pippinbarr.com/cart253-examples/topics/making/frogfrogfrog/)
 
 ## Challenges

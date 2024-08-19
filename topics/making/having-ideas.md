@@ -1,4 +1,4 @@
-# Having ideas {
+# 🛠 Having ideas {
    
 Learning how to program is one thing, learning to have *ideas* for what to make is another. Let's look at some ways to come up with ideas.
 
