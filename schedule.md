@@ -214,9 +214,9 @@
 - 🧑‍🎓 Follow the [Loops learning materials](./topics/loops/)
 
 ### In class
+- 📄 Introducing the [Variation Jam](./evaluation/variation-jam/) assignment
 - 💭 Thinking like a computer with loops
 - 💬 Loops challenges discussion
-- 📄 Introducing the [Variation Jam](./evaluation/variation-jam/) assignment
 
 ### In studio
 - 🔨 Work further on the challenges as needed
@@ -253,13 +253,16 @@
 *Week of 18 November 2024*
 
 ### In class
+- 📄 Introducing the [Post-Reflection](./evaluation/post-reflection/) assignment
 - 💬 Q&A
 
 ### In studio
 - 📄 Work on the [Variation Jam](./evaluation/variation-jam) assignment
+- 📄 Work on the [Post-Reflection](./evaluation/post-reflection/) assignment
 
 ### Homework
 - 📄 Work on the [Variation Jam](./evaluation/variation-jam) assignment
+- 📄 Work on the [Post-Reflection](./evaluation/post-reflection/) assignment
 
 ---
 
@@ -272,9 +275,11 @@
 
 ### In studio
 - 📄 Work on the [Variation Jam](./evaluation/variation-jam) assignment
+- 📄 Work on the [Post-Reflection](./evaluation/post-reflection/) assignment
 
 ### Homework
 - 📄 Work on the [Variation Jam](./evaluation/variation-jam) assignment
+- 📄 Work on the [Post-Reflection](./evaluation/post-reflection/) assignment
 
 ---
 
@@ -283,3 +288,4 @@
 *Week of 2 December 2024*
 
 - 🔥 Submit the [Variation Jam](./evaluation/variation-jam) assignment
+- 🔥 Submit the [Post-Reflection](./evaluation/post-reflection/) assignment

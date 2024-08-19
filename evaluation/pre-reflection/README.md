@@ -1,4 +1,4 @@
-# Pre-reflection
+# 🤔 Pre-reflection
 
 ## Grade
 
@@ -6,11 +6,13 @@ Worth 10% of final grade.
 
 ## Deadlines
 
-**Due by 23:59 on the night of your Variables class, week of 16 September 2024** (Two weeks)
+**🔥 Due by 23:59 on the night of your Variables class, week of 16 September 2024** (Two weeks)
 
 If there is a serious need for an extension, contact your instructor at least 3 days *before* the final deadline.
 
 ## Brief
+
+⚠️ Under construction ⚠️
 
 Write a focused, 500-1000 word essay that explores your present and potential future relationship to programming as a creative form of expression. The essay should:
 

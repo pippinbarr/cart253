@@ -1,5 +1,4 @@
-# Post-reflection
-
+# 🤔 Post-reflection
 
 ## Grade
 
@@ -7,12 +6,13 @@ Worth 10% of final grade.
 
 ## Deadlines
 
-* Section A (Tuesdays): Sunday, 21 April 2024
-* Section B (Thursdays): Sunday, 21 April 2024
+**🔥 Due by 23:59 on the night of class in the Final Submission Week (BUT THERE IS NO CLASS THAT WEEK), week of 18 November 2024** (Two weeks)
 
-Given there is a week's buffer here, no extensions will be considered unless there is an emergency.
+If there is a serious need for an extension, contact your instructor at least 3 days *before* the final deadline.
 
 ## Brief
+
+⚠️ Under construction ⚠️
 
 Write a focused, roughly 1,000 word essay that explores your past, present and potential future relationship to programming as a creative form of expression. The essay should:
 
