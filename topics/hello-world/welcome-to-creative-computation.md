@@ -147,12 +147,7 @@ We are going to be those people.
 
 ## What kind of stuff will I make?
 
-It'll depend a *lot* one what you want to make and how much effort you put in, but here are four examples from the 2023 edition of this course:
-
-- [Emotional Support Pet](https://pippinbarr.com/cart253/examples/student-work/emotional-support-pet/) by Dorsa Zare
-- [JumpThang](https://pippinbarr.com/cart253/examples/student-work/jumpthang/) by Samuel Reinstein Wright
-- [Mantis Anatomy](https://pippinbarr.com/cart253/examples/student-work/mantis-anatomy/) by Scarlett Perez-Hernandez
-- [Minigame Library](https://pippinbarr.com/cart253/examples/student-work/minigame-library/) by Nicolas Morales-Sanabria
+It'll depend a *lot* one what you want to make and how much effort you put in, but there are [examples from previous edition(s) of this course](../../examples/student-work/) available.
 
 ## Summary
     
