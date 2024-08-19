@@ -69,16 +69,16 @@
 - Discussion
     - Variables challenges discussion
     - Relative positioning with offsets
-- Introducing the [Art Jam](./jams/art-jam/) assignment
+- Introducing the [Art Jam](./evaluation/art-jam/) assignment
 
 ### In studio
 - Work further on the challenges as needed
 - Make a start on next week's materials
-- Work on the [Art Jam](./jams/art-jam) assignment
+- Work on the [Art Jam](./evaluation/art-jam) assignment
 
 ### Homework
 - Work on next week's materials
-- Work on the [Art Jam](./jams/art-jam) assignment
+- Work on the [Art Jam](./evaluation/art-jam) assignment
 
 ## 🤔 Conditionals
 
@@ -96,11 +96,11 @@
 ### In studio
 - Work further on the challenges as needed
 - Make a start on next week's materials
-- Work on the [Art Jam](./jams/art-jam) assignment (due next week)
+- Work on the [Art Jam](./evaluation/art-jam) assignment (due next week)
 
 ### Homework
 - Work on next week's materials
-- Work on the [Art Jam](./jams/art-jam) assignment (due next week)
+- Work on the [Art Jam](./evaluation/art-jam) assignment (due next week)
 
 ## ⏱ Events
 
@@ -118,7 +118,7 @@
 ### In studio
 - Work further on the challenges as needed
 - Make a start on next week's materials
-- Finish the [Art Jam](./jams/art-jam) assignment (due tonight)
+- Finish the [Art Jam](./evaluation/art-jam) assignment (due tonight)
 
 ### Homework
 - Work on next week's materials
@@ -131,7 +131,7 @@
 - Follow the [Making learning materials](./topics/making/)
 
 ### In class
-- Introducing the [Mod Jam](./jams/mod-jam/) assignment
+- Introducing the [Mod Jam](./evaluation/mod-jam/) assignment
 - Discussion
     - Making challenges
     - Adding states to FrogFrogFrog
@@ -139,18 +139,18 @@
 
 ### In studio
 - Work further on the challenges as needed
-- Work on the [Mod Jam](./jams/mod-jam) assignment
+- Work on the [Mod Jam](./evaluation/mod-jam) assignment
 
 ### Homework
 - Work on the post-reading week materials
-- Work on the [Mod Jam](./jams/mod-jam) assignment
+- Work on the [Mod Jam](./evaluation/mod-jam) assignment
 
 ## 📚 Reading week (NO CLASS)
 
 *Week of 14 October 2024*
 
 - Work on next week's materials
-- Work on the [Mod Jam](./jams/mod-jam) assignment
+- Work on the [Mod Jam](./evaluation/mod-jam) assignment
 
 ## ☎️ Functions
 
@@ -166,11 +166,11 @@
 
 ### In studio
 - Work further on the challenges as needed
-- Work on the [Mod Jam](./jams/mod-jam) assignment
+- Work on the [Mod Jam](./evaluation/mod-jam) assignment
 
 ### Homework
 - Make a start on next week's materials
-- Work on the [Mod Jam](./jams/mod-jam) assignment (due next week!)
+- Work on the [Mod Jam](./evaluation/mod-jam) assignment (due next week!)
 
 ## 🗄 Arrays
 
@@ -186,7 +186,7 @@
 
 ### In studio
 - Work further on the challenges as needed
-- Work on the [Mod Jam](./jams/mod-jam) assignment (due tonight!)
+- Work on the [Mod Jam](./evaluation/mod-jam) assignment (due tonight!)
 
 ### Homework
 - Make a start on next week's materials
@@ -201,15 +201,15 @@
 ### In class
 - Thinking like a computer with loops
 - Loops challenges discussion
-- Introducing the [Variation Jam](./jams/variation-jam/) assignment
+- Introducing the [Variation Jam](./evaluation/variation-jam/) assignment
 
 ### In studio
 - Work further on the challenges as needed
-- Work on the [Variation Jam](./jams/mod-jam) assignment
+- Work on the [Variation Jam](./evaluation/mod-jam) assignment
 
 ### Homework
 - Make a start on next week's materials
-- Work on the [Variation Jam](./jams/variation-jam) assignment
+- Work on the [Variation Jam](./evaluation/variation-jam) assignment
 
 ## 💿 Data
 
@@ -224,10 +224,10 @@
 
 ### In studio
 - Work further on the challenges as needed
-- Work on the [Variation Jam](./jams/variation-jam) assignment
+- Work on the [Variation Jam](./evaluation/variation-jam) assignment
 
 ### Homework
-- Work on the [Variation Jam](./jams/variation-jam) assignment
+- Work on the [Variation Jam](./evaluation/variation-jam) assignment
 
 ## 🍓 Jam Week 1
 
@@ -237,10 +237,10 @@
 - Q&A
 
 ### In studio
-- Work on the [Variation Jam](./jams/variation-jam) assignment
+- Work on the [Variation Jam](./evaluation/variation-jam) assignment
 
 ### Homework
-- Work on the [Variation Jam](./jams/variation-jam) assignment
+- Work on the [Variation Jam](./evaluation/variation-jam) assignment
 
 ## 🍓 Jam Week 2
 
@@ -250,10 +250,10 @@
 - Q&A
 
 ### In studio
-- Work on the [Variation Jam](./jams/variation-jam) assignment
+- Work on the [Variation Jam](./evaluation/variation-jam) assignment
 
 ### Homework
-- Work on the [Variation Jam](./jams/variation-jam) assignment
+- Work on the [Variation Jam](./evaluation/variation-jam) assignment
 
 ## ✋ Final Submission Week (NO CLASS)
 
