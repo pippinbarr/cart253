@@ -1,18 +1,6 @@
 # 🗓 Schedule
 
-- [Hello, World](#-hello-world)
-- [Instructions](#-instructions)
-- [Variables](#-variables)
-- [Conditionals](#-conditionals)
-- [Events](#-events)
-- [Making](#-making)
-- [**Reading week**](#-reading-week-no-class)
-- [Functions](#%EF%B8%8F-functions)
-- [Arrays](#-arrays)
-- [Loops](#-loops)
-- [Data](#-data)
-- [Jam Week 1](#-jam-week-1)
-- [Jam Week 2](#-jam-week-2)
+[👋 Hello, World](#-hello-world) → [💬 Instructions](#-instructions) → [🎁 Variables](#-variables) → [🤔 Conditionals](#-conditionals) → [⏱ Events](#-events) → [🛠 Making](#-making) → [📚 **Reading week**](#-reading-week-no-class) → [☎️ Functions](#%EF%B8%8F-functions) → [🗄 Arrays](#-arrays) → [🔁 Loops](#-loops) → [💿 Data](#-data) → [🍓 Jam Week 1](#-jam-week-1) → [🍓 Jam Week 2](#-jam-week-2)
 
 ---
 
