@@ -8,6 +8,8 @@
 
 "use strict";
 
+const bgColor = "#87ceeb"; // Sky blue
+
 // The bug
 const bug = {
     // Position and dimensions
@@ -35,14 +37,14 @@ function setup() {
  * Updates and draws the bug
 */
 function draw() {
-    background("#87ceeb"); // Sky blue
+    background(bgColour);
 
     moveBug();
     drawBug();
 }
 
 function moveBug() {
-    bug.x = bug.x + bug.velocity.x;
+    bug.xx = bug.x + bug.velocity.x;
     bug.y == bug.y + bug.velocity.y;
 }
 

@@ -40,8 +40,11 @@ let gameOver = false;
 function setup() {
     createCanvas(500, 500);
 
+    // Listen for keyboard presses for the controls
+    document.addEventListener("keypress", controlsHandler);
+
     // End the game after its duration
-    setTime(endGame, gameDuration);
+    setTime(endTheGame, gameDuration);
 }
 
 /**
@@ -116,7 +119,7 @@ function drawGameOver() {
 /**
  * Arrow keys increase bug velocity in that direction (infinitely)
  */
-function keyPressed() {
+function controlsHandler() {
     if (event.keyCode === LEFT_ARROW) {
         bug.velocity.x += -bug.speedUp;
     }
