@@ -61,13 +61,13 @@ function drawLegs() {
 /**
  * Draws the antennae of the bug
  */
-function drawAntennae() {
+function drawAntennae({
     push();
-    strok(0);
-    strokeWeight(5);
-    line(250, 250, 200, 50);
-    line(250, 250, 300, 50);
-    pop();
+strok(0);
+strokeWeight(5);
+line(250, 250, 200, 50);
+line(250, 250, 300, 50);
+pop();
 }
 
 /**
@@ -80,4 +80,3 @@ function drawEyes() {
     ellipse(200, 150, 15);
     ellipse(300, 150, 15);
     pop();
-}
