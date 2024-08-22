@@ -7,44 +7,33 @@
 - [The console](#the-console)
 - [`console.log()`](#consolelog)
 - [Errors](#errors)
-- [Behavioural Issues](#behavioural-issues)
+- [Undesired behaviour](#behavioural-issues)
+- [Ask for help and take breaks](#ask-for-help-and-take-breaks)
 
 ## What is debugging?
 
-A "bug" is a problem in our program. A bug is generally either:
+A "bug" is a problem in our program:
 
-1. An *error* in the code that leads to an error message and, most likely, the program crashing (or never running).
-2. An unexpected and undesired *behaviour* when the program runs, such as things being the wrong colour, the wrong visuals displaying, a sound repeating infinitely, and much, much more.
-
-*Errors* are relatively straightforward to debug because we get an *error message* that explains the problem and where it was found.
-
-*Behaviours* are often harder to locate and require more sophisticated techniques.
-
-Both require a *mindset*.
+1. An *error* with an *error message* in the Console that probably *crashes* the program.
+2. *Undesired behaviour* when the program runs
 
 ## The debugging mindset
 
-### It's (almost) all debugging
+### Programming is mostly debugging
 
-Debugging can feel pretty frustrating because it means your program isn't working. *But*, not-so-secretly, it's *totally normal* because programs aren't working *most of the time*.
+Debugging can feel pretty frustrating because it means your program isn't working. *But*, it's *totally normal* because programs aren't working *most of the time*.
 
-### It's not about you
+### It's not personal
 
-It's essentially, therefore, to not take bugs *personally*. They're just there, waiting for you to fix them. They are *not* a judgement of your abilities as a programmer. The *program* is broken, not you.
+It's essentially, therefore, to not take bugs *personally*. They are *not* a judgement of your abilities as a programmer. The *program* is broken, not you.
 
 ### Debugging is learning
 
-Also bugs are often great *teachers*. In debugging and encountering the many bugs we encounter, we learn how programs work, the kinds of things that often go wrong, some of our own common errors, and much more.
-
-### Bugs are natural
-
-So, in the end, you probably *shouldn't expect your program to work* in the first place. Then you won't be disappointed! Just be ready to jump into debugging it as a *natural part of the process*.
+Bugs are great *teachers*. In exploring and fixing them we learn how programs work and build up our database of common issues and mistakes to avoid.
 
 ## The console
 
-You need to have the JavaScript console open in your browser to debug. And since debugging is happening most of the time, you need to have the JavaScript console open *all the time*. You should never see your program running without the JavaScript console next to it. *Seriously*.
-
-Open the JavaScript console in Chrome by:
+When coding, **you should always have the JavaScript console open in your browser**. Open the JavaScript console in Chrome by:
 
 - Mac: ⌘ + ⌥ + J (Command + Option + J)
 - Windows: Control + Shift + J
@@ -53,102 +42,113 @@ Open the JavaScript console in Chrome by:
 
 ## `console.log()`
 
-The console is great for reading about errors in your program, but you can also *print information from your program* into the console as well. By using `console.log()`.
+You can also *print information from your program* into the console as well. By using `console.log()`. The key examples are...
 
-### Text messages
-
-The simplest thing you can do is print out some text. A helpful thing to do can be to print a text message at the start of your functions to prove to yourself that they are being executed:
+### Checking some code is running
 
 ```javascript
-function setup() {
-    createCanvas(400, 400);
-}
-
-function draw() {
-    background(255, 255, 0);
-}
-
-function paintTheMonaLisa() {
-    console.log("Started paintTheMoonaLisa()");
-    ellipse(100, 100, 200, 200);
+function myBuggyFunction() {
+  // Checking if a function is actually being called by having it print
+  // a message to the console
+  console.log("myBuggyFunction() called");
+  // Output in console: myBuggyFunction() called
 }
 ```
 
-In this case we would notice that our function `paintTheMonaLisa()` is never called because we never see the message `Started paintTheMoonaLisa()` in the console. That might help us to understand a problem in our program.
+### Checking the value in variables at a certain time
 
-You can use `console.log()` anywhere in your program to print out any text you like. Just make sure you write the text inside quotation marks as above.
+```javascript
+function mySuspiciousFunction() {
+  // Printing out the values in variables to see if there's something wrong
+  // like they are "undefined" or "NaN" (not a number) or just the wrong
+  // kind of thing
+  console.log(bird.x, bird.y);
+  // Possible output in Console: undefined 250 
+}
+```
+
+```javascript
+function mySuspiciousFunction() {
+  // The same thing, but including some extra text to make it more readable
+  // in the console window
+  console.log("bird.x: " + bird.x, "bird.y: " + bird.y);
+  // Possible output in Console: bird.x: undefined bird.y: 250
+}
+```
 
 ## Errors
 
-Errors are bugs in your program that JavaScript *actually notices and complains about*. They will bring up *error messages* in your JavaScript console (which is open, right?).
+Errors are bugs in your program that bring up an *error message* in your JavaScript Console.
 
-Errors come with a *line number* that tells you where JavaScript thinks the problem is. This is often literally where the problem is, but sometimes it's more of a *starting point* representing the moment JavaScript became confused. Poor JavaScript.
+### Reading an error message
 
-### `Uncaught ReferenceError: ______ is not defined`
+A typical error might read like this:
 
-JavaScript has found a *name* in your program that it doesn't know about. This is often a *typo* somewhere, or we have forgotten what we called something in some other part of the program, or we simply *haven't defined* something we're trying to use.
-
-#### Typo in a function call
-
-```javascript
-function setup() {
-  createCanvas(400, 400);
-}
-
-function draw() {
-  backgroun(220);
-}
+```
+script.js:47 Uncaught (in promise) ReferenceError: setTime is not defined
+    at setup (script.js:47:5)
+    at _setup (p5.min.js:3:423972)
+    at _runIfPreloadsAreDone (p5.min.js:3:423132)
+    at _._decrementPreload (p5.min.js:3:423304)
+    at _.<anonymous> (p5.sound.min.js:2:98292)
 ```
 
-```Uncaught ReferenceError: backgroun is not defined   script:6```
+Here we see:
 
+- The type of error (e.g. `Uncaught ReferenceError`)
+- The specific cause of the error (e.g. `setTime is not defined`)
+- The file the error was found in (e.g. `script.js`)
+- The line number the error was found on (e.g. `47`)
+- A whole list of function calls that led to the error
 
-- **Tactic:** Go to the line number and look at the problem function call `backgroun`, think about what's wrong with it
-- **Problem:** We wrote `backgroun` when we meant to write `background`.
-- **Solution:** Correct the typo.
+Generally speaking, you only care about finding the line number in a JavaScript file that *you wrote*. There should not be any errors in p5.js itself.
 
-#### Typo in a function definition
+### Typical errors
 
-```javascript
-function setup() {
-  createCanvas(400, 400);
-}
+#### `Uncaught ReferenceError: ______ is not defined`
 
-function draw() {
-  paintTheMonaLisa();
-}
+JavaScript has found a *name* in your program that it doesn't know about. This is generally:
 
-function paintTheMoonaLisa() {
-    ellipse(100, 100, 200, 200);
-}
-```
+- A variable name that has never been declared
+- A property of a JavaScript Object that has never been defined
+- A function name that has never been defined
 
-```Uncaught ReferenceError: paintTheMonaLisa is not defined   script:6```
+Very often these are caused by typos and you will recognize the mistake quickly if you go to the line in question.
 
-- **Tactic:** Go to the line number and look at the problem function call `paintTheMonaLisa`, think about what's wrong with it, if nothing is wrong with it go looking for the *definition* of that function
-- **Problem:** We wrote `paintTheMoonaLisa` in the function definition when we meant to write `paintTheMonaLisa`.
-- **Solution:** Correct the typo.
+### `Uncaught SyntaxError: Unexpected end of input`
 
-#### Missing function definition
+JavaScript reached the end of your program without all the curly brackets matching up. 
 
-```javascript
-function setup() {
-  createCanvas(400, 400);
-}
+Automatic formatting is your friend here as you should be able to spot a place where the indentation isn't quite right (e.g. function definitions not aligned to the left).
 
-function draw() {
-  paintTheMonaLisa();
-}
-```
+### `Uncaught SyntaxError: Unexpected  ____`
 
-```Uncaught ReferenceError: paintTheMonaLisa is not defined   script:6```
+JavaScript ran into something it wasn't expecting. 
 
-- **Tactic:** Go to the line number and look at the problem function call `paintTheMonaLisa`, think about what's wrong with it, if nothing is wrong with it go looking for the *definition* of that function
-- **Problem:** We haven't defined our `paintTheMonaLisa` function yet.
-- **Solution:** Define the function (or don't call it until it's defined).
+This is usually caused by something just *before* the actual "token" it tells you about so keep your eyes open and don't only look at the line it suggests. 
 
-## Behavioural Issues
+A classic cause is non-matching parentheses. Also not following naming conventions. Or typos on important JavaScript words like `let` or `const` or `function`.
 
-Behavioural issues can be much harder to find. An image might display in the wrong place, a sound might trigger at the wrong time, a character might suddenly disappear from the world, and much more!
+## Undesired behaviour
+
+Behavioural issues can be much harder to find. An image might display in the wrong place, a sound might trigger at the wrong time, a character might suddenly disappear from the world, a shape might refuse to move, and much more!
 
 There's no easy fix here because we have to spend time figuring out where things are going wrong, asking for help, and building up our knowledge of the kinds of things that can happen. 
+
+Key starting points are to:
+
+- Try to understand which *part* of your program is the likely culprit 
+  - This is where dividing a program up into functions is helpful! Find the function responsible for the thing that isn't working.
+- Make sure the code you think *should* be running *is* running
+  - Put a `console.log()` immediately before it (this will help to catch functions not being called or conditions not being met)
+- Make sure your variables and properties have the right kinds of values
+  - Use `console.log()` to track what values are in your variables and properties 
+  - If you see anything suspicious, start to work out *where* and *when* things go wrong
+
+## Ask for help and take breaks
+
+Whatever you do, **do not become obsessed and debug the same thing for hour after hour**.
+
+At the very least **take a break** to refresh your brain. Even if you just go for a five minute walk before getting back to it, that's something.
+
+Remember you're learning and **ask for help** if it's taking a bit too long to find the problem. It's crucial to try yourself, but you also don't want to lose all your time to something someone else can easily help with.
