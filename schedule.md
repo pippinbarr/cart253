@@ -227,6 +227,8 @@
 ### Homework
 - 🧑‍🎓 Make a start on next week's materials
 - 📄 Work on the [Variation Jam](./assignments/variation-jam) assignment
+    - 🔥 Come to class next week with ideas and a plan 🔥
+
 
 ---
 
@@ -242,6 +244,7 @@
 - ...
 
 ### In studio
+- 💬 Early check-ins with Pippin about the Variations Jam (🔥 Do not leave before checking in 🔥)
 - 🔨 Work further on the challenges as needed
 - 📄 Work on the [Variation Jam](./assignments/variation-jam) assignment
 
@@ -259,13 +262,14 @@
 - 💬 Q&A
 
 ### In studio
+- 💬 Continuing check-ins with Pippin about the Variations Jam (🔥 Do not leave before checking in 🔥)
 - 📄 Work on the [Variation Jam](./assignments/variation-jam) assignment
 - 📄 Work on the [Post-Reflection](./assignments/post-reflection/) assignment
 
 ### Homework
 - 📄 Work on the [Variation Jam](./assignments/variation-jam) assignment
 - 📄 Work on the [Post-Reflection](./assignments/post-reflection/) assignment
-
+- 🔥 Come to class next week with a working prototype if at all possible
 ---
 
 ## 🍓 Jam Week 2
@@ -276,6 +280,7 @@
 - 💬 Q&A
 
 ### In studio
+- 🔥 Demos of in progress Variation Jams
 - 📄 Work on the [Variation Jam](./assignments/variation-jam) assignment
 - 📄 Work on the [Post-Reflection](./assignments/post-reflection/) assignment
 
