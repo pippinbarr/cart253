@@ -4,6 +4,7 @@
 
 - [What is debugging?](#what-is-debugging)
 - [The debugging mindset](#the-debugging-mindset)
+- [The editor](#the-editor)
 - [The console](#the-console)
 - [`console.log()`](#consolelog)
 - [Errors](#errors)
@@ -30,6 +31,16 @@ It's essentially, therefore, to not take bugs *personally*. They are *not* a jud
 ### Debugging is learning
 
 Bugs are great *teachers*. In exploring and fixing them we learn how programs work and build up our database of common issues and mistakes to avoid.
+
+## The editor
+
+The code editor is a really useful starting point for debugging. Specifically, it will often show you:
+
+- Mismatching parentheses and curlies (by marking one in red)
+- Messed up indentation that starts exactly where you have a problem (usually curly brackets again)
+- Basic syntax errors (like mispelling `function`)
+
+Make absolutely sure that you editor is automatically formatting your code.
 
 ## The console
 
