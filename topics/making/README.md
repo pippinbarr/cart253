@@ -29,7 +29,7 @@
 
 ## Challenges
 
-- Try the [making challenges](./making-challenges.md) (we will review them in class)
+- Try the [making challenges](./challenges/making-challenges.md) (we will review them in class)
 
 ## 🔥 Hot tip: Assets are less important than code
 
