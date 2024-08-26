@@ -1,4 +1,4 @@
-# Style guide {
+# 🎀 Style guide {
     
 ## Contents
 

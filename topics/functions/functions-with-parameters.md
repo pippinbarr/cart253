@@ -11,7 +11,7 @@ Modularity and reuse
 
 ## Functions for modularity
 
-Imaging we have written a program that draws a sun, and we've been nice and organized and broken out the sun into a function:
+We have written a program that draws a sun, and we've been nice and organized and broken out the sun into a function:
 
 ```javascript
 function setup() {
@@ -67,7 +67,7 @@ You can see it's *very similar* to the original, but now:
 
 ### Function call
 
-We *call* our new function by providing the arguments (values) that should go into each parameter in order. So to draw the same sun we already had we'd write:
+We *call* our new function by providing the arguments (values) that should go into each parameter *in order*. So to draw the same sun we already had we'd write:
 
 ```javascript
 drawSun(500, 100, 80);

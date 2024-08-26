@@ -14,7 +14,7 @@ A list of places to find fully-written examples of code either discussed in the 
 
 ## [💫 Guides](./guides/)
 
-A set of guides to help you know how to do the right thing. Like debug, or meeting the course's programming style requirements.
+Guides to help you know how to do the right thing. Like how to debug, or how to the course's programming style requirements.
 
 ## [💎 Resources](./resources.md)
 

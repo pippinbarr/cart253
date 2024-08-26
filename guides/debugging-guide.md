@@ -1,4 +1,4 @@
-# Debugging guide
+# 🪲 Debugging guide
 
 ## Contents
 

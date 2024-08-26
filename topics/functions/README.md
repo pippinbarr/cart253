@@ -10,12 +10,6 @@
 
 - [template-p5-project.zip](../../templates/template-p5-project.zip)
 
-## Previously
-
-- *Organizing with functions*
-    - Rewatch the video on Moodle if needed (Instructions week)
-    - Reread the [Organizing with functions notes](../instructions/organizing-with-functions.md) if needed
-
 ## Modules
 
 - *Functions with parameters* 
@@ -27,7 +21,7 @@
 - *Functions and JavaScript Objects* 
     - Watch the video on Moodle
     - Read the [Functions and JavaScript Objects notes](./functions-and-javascript-objects.md)
-- *Refactoring with functions* 
+- *Functions in practice: Refactoring* 
     - Watch the video on Moodle
 - *Debugging functions*
     - Download the [Debugging functions project](./MISSING_LINK)
