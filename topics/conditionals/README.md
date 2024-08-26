@@ -48,7 +48,7 @@
 
 ## Challenges
 
-- Try the [conditionals challenges](MISSING_LINK) (We will review them in class)
+- Try the [conditionals challenges](./challenges/conditionals-challenges.md) (We will review them in class)
 
 ## Examples
 

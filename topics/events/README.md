@@ -57,7 +57,7 @@
 
 ## Challenges
 
-- Try the [events challenges](MISSING_LINK) (We will review them in class)
+- Try the [events challenges](./challenges/events-challenges.md) (We will review them in class)
 
 ## 🔥 Hot tip: ???
 
