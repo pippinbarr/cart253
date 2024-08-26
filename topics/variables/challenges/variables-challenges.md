@@ -12,6 +12,8 @@ We're going to start with some example code for you to modify, so start a new p5
  * A guy who becomes visibly furious!
  */
 
+"use strict";
+
 // Our friend Mr. Furious
 let mrFurious = {
   // Position and size
@@ -71,5 +73,11 @@ Make Mr. Furious shake with anger. To do this, when drawing him add a random num
 ### Challenge 5: More Shaking
     
 Instead of him shaking all the time, make Mr. Furious shake more and more over time up to some limit.
+
+### Challenge 6: Debugging
+
+Here's a broken version of one of the examples. See if you can debug it!
+
+[Download the Variables Debugging Challenge Project](./variables-debugging-challenge.zip)
     
 ## }

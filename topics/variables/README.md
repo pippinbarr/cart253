@@ -45,7 +45,7 @@
 
 ## Challenges
 
-- **Try** the [variables challenges](./variables-challenges.md) (we will review them in class)
+- **Try** the [variables challenges](./challenges/variables-challenges.md) (we will review them in class)
 
 ## Examples
 
