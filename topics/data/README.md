@@ -17,6 +17,7 @@
 - *Thinking with data*
     - Watch the video on Moodle
     - Read the [Thinking with data notes](./thinking-with-data.md)
+- *JSON*
 
 ## Examples
 

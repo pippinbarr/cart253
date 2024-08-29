@@ -19,7 +19,7 @@
   - Read the [Introducing arrays notes](./introducing-arrays.md)
 - *Basic arrays in practice*
   - Watch the video on Moodle
-  - Read the [Basic arrays in practice notes](./sequential-arrays-in-practice.md)
+  - Read the [Sequential arrays in practice notes](./sequential-arrays-in-practice.md)
 - *Introducing `for...of`*
   - Watch the video on Moodle
   - Read the [Introducing `for...of` notes](./introducing-for-of.md)

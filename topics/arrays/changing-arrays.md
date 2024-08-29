@@ -13,7 +13,7 @@ Inspire
 
 So far we've largely thought about arrays that we put data into at the beginning of the program and then don't really change.
 
-But often we want to be able to *add element to the array* while our program is running. What if we have an array of flies and we want to *add* flies over time?
+But often we want to be able to *add elements to the array* while our program is running. What if we have an array of flies and we want to *add* flies over time?
 
 Similarly, we may want to *remove elements from the array*. What if the flies die and we don't want them in the array anymore?
 
@@ -110,7 +110,8 @@ What about *removing* a specific element from an array? We can do this with the 
 ```javascript
 let array = [1, 2, 3, 4, 5];
 // Let's remove one element starting at index 2
-array.splice(2, 1); // Now the array is [1, 2, 4, 5]
+array.splice(2, 1); 
+// Now the array is [1, 2, 4, 5]
 ```
 
 So, if we know the *index* of an element we can simply remove it from the array!

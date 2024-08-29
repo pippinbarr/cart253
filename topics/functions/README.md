@@ -24,6 +24,7 @@
     - Watch the video on Moodle
     - Read the [Functions and JavaScript Objects notes](./functions-and-javascript-objects.md)
 - *Functions in practice: Refactoring* 
+    - Download
     - Watch the video on Moodle
 - *Debugging functions*
     - Download the [Debugging functions project](./MISSING_LINK)
@@ -31,7 +32,7 @@
     
 ## Examples
 
-- ...
+- Overlap
 
 ## Challenges
 

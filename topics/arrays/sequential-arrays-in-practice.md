@@ -101,6 +101,9 @@ function mousePressed() {
         // If so, reset it to 0 (go back to the beginning)
         speechIndex = 0;
     }
+    
+    // If you wanted to be very fancy you can use modulo instead:
+    // speechIndex = (speechIndex + 1) % speech.length;
 }
 ```
 
