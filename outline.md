@@ -1,3 +1,5 @@
+[Home](./) / [🗓 Schedule](./schedule) / [🛠 Examples](./examples/) / [💫 Guides](./guides/) / [💎 Resources](./resources.md)
+
 # 📜 Course Outline
 
 ## CART 253: Creative Computation 1 – Fall 2024 – 3 credits

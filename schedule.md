@@ -1,4 +1,4 @@
-
+[Home](./) / [🗓 Schedule](./schedule) / [🛠 Examples](./examples/) / [💫 Guides](./guides/) / [💎 Resources](./resources.md)
 
 # 🗓 Schedule
 

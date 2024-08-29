@@ -1,3 +1,5 @@
+[Home](../../) / [🗓 Schedule](../../schedule) / [🛠 Examples](../../examples/) / [💫 Guides](../../guides/) / [💎 Resources](../../resources.md)
+
 # 💬 Instructions {
 
 ✨ Instructions are a fundamental building block of how we tell a computer what to *do* in a programming language! ✨

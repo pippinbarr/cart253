@@ -1,3 +1,5 @@
+[Home](./) / [🗓 Schedule](./schedule) / [🛠 Examples](./examples/) / [💫 Guides](./guides/) / [💎 Resources](./resources.md)
+
 # CART 253 - Creative Computation I - Fall 2024
 
 ## [📜 Course Outline](./outline.md)

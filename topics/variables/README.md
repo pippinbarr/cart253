@@ -1,3 +1,5 @@
+[Home](../../) / [🗓 Schedule](../../schedule) / [🛠 Examples](../../examples/) / [💫 Guides](../../guides/) / [💎 Resources](../../resources.md)
+
 # 🎁 Variables {
 
 ✨ Variables are the lifeblood of *information* in our program and, most important of all: they can *change*! And if they can change, then our program is alive! ✨

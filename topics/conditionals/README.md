@@ -1,3 +1,5 @@
+[Home](../../) / [🗓 Schedule](../../schedule) / [🛠 Examples](../../examples/) / [💫 Guides](../../guides/) / [💎 Resources](../../resources.md)
+
 # 🤔 Conditionals {
 
 ✨ Conditionals are the key way we can make a program do *different things* based on the current situation! ✨

@@ -1,3 +1,5 @@
+[Home](../../) / [🗓 Schedule](../../schedule) / [🛠 Examples](../../examples/) / [💫 Guides](../../guides/) / [💎 Resources](../../resources.md)
+
 # 👋 Hello, World! {
 
 ✨ Here we are, together at last in the warm embrace of CART253 - Creative Computation I! ✨

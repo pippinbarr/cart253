@@ -1,3 +1,5 @@
+[Home](../../) / [🗓 Schedule](../../schedule) / [🛠 Examples](../../examples/) / [💫 Guides](../../guides/) / [💎 Resources](../../resources.md)
+
 # ⏱ Events {
 
 ✨ Events allow our programs to directly *react* to what a user does. This is at the heart of interactivity and thus one of the most powerful ways our programs can be engaging! ✨

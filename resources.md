@@ -1,3 +1,5 @@
+[Home](./) / [🗓 Schedule](./schedule) / [🛠 Examples](./examples/) / [💫 Guides](./guides/) / [💎 Resources](./resources.md)
+
 # 💎 Resources
 
 **If you find a resource you think should be shared with the class, please notify the instructor (via email, an Issue on this repository, or even a Pull request) to have it added.**

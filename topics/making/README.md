@@ -1,3 +1,5 @@
+[Home](../../) / [🗓 Schedule](../../schedule) / [🛠 Examples](../../examples/) / [💫 Guides](../../guides/) / [💎 Resources](../../resources.md)
+
 # 🛠 Making {
 
 ✨ Actually *making our work* isn't just about knowing the syntax and commands of JavaScript and p5, it's about *coming up with ideas* that we can actually work on and be excited about! ✨
