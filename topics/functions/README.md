@@ -23,7 +23,7 @@
 - *Functions and JavaScript Objects* 
     - Watch the video on Moodle
     - Read the [Functions and JavaScript Objects notes](./functions-and-javascript-objects.md)
-- *Functions in practice: Refactoring* 
+- *Functions in practice: Refactoring X* (Frogfrogfrog?) 
     - Download
     - Watch the video on Moodle
 - *Debugging functions*
@@ -34,6 +34,7 @@
 
 - [Overlapping Circles (Functions)](https://editor.p5js.org/pippinbarr/sketches/Yc4eMdFyH)
 - [Overlapping Rectangles (Functions)](https://editor.p5js.org/pippinbarr/sketches/dJyJ_NV4L)
+- [Moving Stones (Functions)](https://editor.p5js.org/pippinbarr/sketches/IMjU5KE_N)
 
 ## Challenges
 

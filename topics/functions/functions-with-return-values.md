@@ -46,9 +46,9 @@ function add(a, b) {
 
 Important notes:
 
-- This is a function with parameters again because we need to provide the two numbers we want to add!
+- This is a function with *parameters* because we need to provide the two numbers we want to add!
 - We calculate the result (`a + b`) and store it in a variable
-- On the final line of the function we *return* the value in our `result` variable by using the special `return` word. That's what sends the result back out of the function (without it, nothing comes out)
+- On the final line of the function we *return* the value in our `result` variable by using the special `return` reserved word. That's what sends the result back out of the function (without it, nothing comes out)
 
 ## Calling a function with a return value
   
@@ -84,7 +84,7 @@ function add(a, b) {
 }
 ```
 
-That's it! That's how this works. We can create functions that *calculate* or *create* a result now something now!
+That's it! That's how this works. We can create functions that *calculate* or *create* a result now!
 
 ## Summary
 
