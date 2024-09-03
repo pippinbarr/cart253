@@ -14,8 +14,10 @@
 - 🧑‍🎓 Follow the [Hello, World learning materials](./topics/hello-world/)
 
 ### In class
+- 🧭 Orientation (with Kathy)
 - 👋 Introductions
 - 👀 The [course outline](./outline) and [schedule](./schedule)
+- 🧑‍💻 The [Computation Lab](https://www.concordia.ca/finearts/design/facilities/computation.html)
 - 💬 Version control discussion and demo as needed
 - 📄 Introducing the [Pre-Reflection](./assignments/pre-reflection/) assignment
 
