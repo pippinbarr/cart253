@@ -2,11 +2,13 @@
 
 # ☎️ Functions {
 
-✨ ... ✨
+✨ Functions are at the heart of how we *structure* our programs. They allow us to write programs that are more readable and less repetitive. They are the unsung heroes of great code! ✨
 
 ## Learning objectives
 
-- ...
+- Understanding how values are passed into functions
+- Understanding how values are returned from functions
+- Refactoring repetitive code using functions
 
 ## Template
 
@@ -23,8 +25,8 @@
 - *Functions and JavaScript Objects* 
     - Watch the video on Moodle
     - Read the [Functions and JavaScript Objects notes](./functions-and-javascript-objects.md)
-- *Functions in practice: Refactoring X* (Frogfrogfrog?) 
-    - Download
+- *Functions in practice: Refactoring*
+    - Download the [Refectoring Project](./examples/refactoring.zip)
     - Watch the video on Moodle
 - *Debugging functions*
     - Download the [Debugging functions project](./MISSING_LINK)
@@ -87,6 +89,6 @@ function drawRectangle(options) {
 }
 ```
 
-There's one extra step using something called *destructuring*, but you can ask about that if you're interested!
+There's one extra step you could take here using something called *destructuring*, but you can ask about that if you're interested! It's fancy!
 
 ## }

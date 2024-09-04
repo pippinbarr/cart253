@@ -9,7 +9,7 @@
 
 ## JavaScript Objects as parameters
 
-A function's parameters can include any kind of value, including *JavaScript Objects*. JavaScript objects have an important difference that we can use, though.
+A function's parameters can include any kind of value, including *JavaScript Objects*. JavaScript objects have an important quality when passed to functions that we can use, though.
 
 Observe:
 
