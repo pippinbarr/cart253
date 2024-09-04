@@ -1,6 +1,6 @@
 # Functions with parameters {
 
-Modularity and reuse
+We've seen functions already in the context of *organizing* our programs, and they're great for that. The next step is seeing that we can *provide information* to a function so that it can do its job even better.
 
 ## In this module
 
@@ -11,7 +11,7 @@ Modularity and reuse
 
 ## Functions for modularity
 
-We have written a program that draws a sun, and we've been nice and organized and broken out the sun into a function:
+Here's a program that draws a sun. We've been nice and organized and broken out the sun drawing part into a function:
 
 ```javascript
 function setup() {
@@ -40,7 +40,7 @@ But what if we want to draw more than one sun? Right now we would have to write 
 
 ## Functions for reuse
 
-It would be better if we could *reuse* our existing `drawSun()` and simply *tell it where to draw each sun*. And we can, using *parameters*. We already see this trick in the `ellipse()` function, where we're able to specify the `x`, `y`, and `diameter` of the sun's circle. 
+It would be better if we could *reuse* our existing `drawSun()` and simply *tell it where to draw each sun*. And we can, using *parameters*. We already see this trick in, for example, the `ellipse()` function, where we're able to specify the `x`, `y`, and `diameter` of the sun's circle. 
 
 ## Function with parameters
 
@@ -60,10 +60,11 @@ function drawSun(x, y, size) {
 }
 ```
 
-You can see it's *very similar* to the original, but now:
+You can see it's *very similar* to the original, except:
 
-- Inside the parentheses of the function definition line we see a list of *parameters* separated by commas - these will become *variables* we can use inside our function
-- In the function's instructions we can see we *use* those parameters (`x`, `y`, and `size`) to specify the position and size of the circle.
+- We write a series of *parameters* in the parentheses of the function, separated by commas
+- Each of these parameters will work as a *variable* inside the function, containing the values passed when the function is called
+- We *use* those parameter variables in the function to make it do its job (in this case to draw a circle at the specified position and size)
 
 ### Function call
 
@@ -128,5 +129,7 @@ Consider:
 - How much easier it is to *change* how the suns are drawn. You can just edit `drawSun()` once and affect all three suns!
 
 ## Summary
+
+By using paramters in our functions we make them vastly more flexible and reusable in our program. Using parameters is often the key to writing a function that will reduce repetition your program.
 
 ## }

@@ -1,6 +1,6 @@
 # Functions and JavaScript Objects {
    
-...
+Functions have a special relationship with JavaScript objects because they can *change* the objects passed into them, often leading to much easier programming.
 
 ## In this module
 
@@ -9,11 +9,12 @@
 
 ## JavaScript Objects as parameters
 
-A function's parameters can include any kind of value, including *JavaScript Objects*. JavaScript objects have an important quality when passed to functions that we can use, though.
+A function's parameters can include any kind of value, including *JavaScript Objects*. JavaScript objects have an important quality when passed to functions that we can use, though: if you change them inside the function they *stay changed*.
 
 Observe:
 
 ```javascript
+// Our fly that will buzz around
 let buzzyTheFly = {
     x: 200,
     y: 200,
@@ -21,10 +22,16 @@ let buzzyTheFly = {
     buzziness: 4
 };
 
+/**
+ * Create a canvas
+ */
 function setup() {
     createCanvas(400, 400);
 }
 
+/**
+ * Background, move and draw buzzy
+ */
 function draw() {
     background("#87ceeb");
     
@@ -32,11 +39,19 @@ function draw() {
     drawFly(buzzyTheFly);
 }
 
+/**
+ * Move the fly passed in as an argument by updating its position
+ * When buzzyTheFly is passed in, that means we will be changing
+ * buzzyTheFly's position!
+ */
 function moveFly(fly) {
     fly.x += random(-fly.buzziness, fly.buzziness);
     fly.y += random(-fly.buzziness, fly.buzziness);
 }
 
+/**
+ * Draw the fly passed in as an argument
+ */
 function drawFly(fly) {
     push();
     noStroke();
@@ -46,14 +61,16 @@ function drawFly(fly) {
 }
 ```
 
-What is noteworthy about this? It's that `moveFly()` is able to *change* the properties of the fly we pass to it (`buzzyTheFly` in this case):
+So, `moveFly()` is able to *change* the properties of the fly we pass to it (`buzzyTheFly` in this case):
 
 1. The `buzzyTheFly` objects goes into the `fly` parameter of `moveFly()`
-2. The instructions in `moveFly()` *change* the properties of the fly and because that fly is `buzzyTheFly`, `buzzyTheFly` gets changed!
+2. The instructions in `moveFly()` *change* the properties of the `fly` passed in
+3. Because that `fly` is actually `buzzyTheFly`, `buzzyTheFly` gets changed!
     
 This makes it extra easy to have another fly!
 
 ```javascript
+// The original buzzy!
 let buzzyTheFly = {
     x: 200,
     y: 200,
@@ -61,6 +78,7 @@ let buzzyTheFly = {
     buzziness: 4
 };
 
+// Another fly, jazzy
 let jazzyTheFly = {
     x: 300,
     y: 200,
@@ -68,10 +86,16 @@ let jazzyTheFly = {
     buzziness: 1
 };
 
+/**
+ * Create the canvas
+ */
 function setup() {
     createCanvas(400, 400);
 }
 
+/**
+ * Background, move and draw the two flies
+ */
 function draw() {
     background("#87ceeb");
     
@@ -82,11 +106,20 @@ function draw() {
     drawFly(jazzyTheFly);
 }
 
+/**
+ * Move the fly passed in as an argument by updating its position
+ * Now this will be applied to both buzzyTheFly and jazzyTheFly as
+ * they are passed through individually.
+ * So the SAME INSTRUCTIONS are being applied to both. Reuse!
+ */
 function moveFly(fly) {
     fly.x += random(-fly.buzziness, fly.buzziness);
     fly.y += random(-fly.buzziness, fly.buzziness);
 }
 
+/**
+ * Draw the fly passed in
+ */
 function drawFly(fly) {
     push();
     noStroke();
@@ -96,17 +129,20 @@ function drawFly(fly) {
 }
 ```
 
-Now both `buzzyTheFly` and `jazzyTheFly` have their positions changed by `moveFly()` and are displayed by `drawFly()`. The same functions handling two different flies!
+Now both `buzzyTheFly` and `jazzyTheFly` have their positions changed by `moveFly()` and are both displayed by `drawFly()`. The same functions handling two different flies! REUSE!
 
 ## JavaScript Objects as return values
 
-If we want to lean into this model of programming we might want to write a function for *creating* our flies with their various properties:
+If we want to lean into this model of programming we can also write a function for *creating* our flies with their various properties. This will both reduce the number of times we write out a fly object *and* help to keep our fly objects consistent:
 
 ```javascript
 // Buzzy and Jazzy start undefined so we can create them in setup
 let buzzyTheFly = undefined;
 let jazzyTheFly = undefined;
 
+/**
+ * Create the canvas and our two flies
+ */
 function setup() {
     createCanvas(400, 400);
     
@@ -128,8 +164,14 @@ function createFly(x, y, size, buzziness) {
         buzziness: buzziness
     };
     return fly;
+    // Notice how this function basically works as a "template" for what
+    // properties a fly has. If we want to redefine a fly, we come here
+    // and change the properties.
 }
 
+/**
+ * Background, move and draw the flies
+ */
 function draw() {
     background("#87ceeb");
     
@@ -140,11 +182,17 @@ function draw() {
     drawFly(jazzyTheFly);
 }
 
+/**
+ * Move the fly passed in as a parameter.
+ */
 function moveFly(fly) {
     fly.x += random(-fly.buzziness, fly.buzziness);
     fly.y += random(-fly.buzziness, fly.buzziness);
 }
 
+/**
+ * Draw the fly passed in as a parameter
+ */
 function drawFly(fly) {
     push();
     noStroke();
@@ -154,8 +202,10 @@ function drawFly(fly) {
 }
 ```
 
+We can see that our program is becoming more and more concise and we don't have repeated code. If we wanted to add a third fly (`jacuziTheFly`?) it would be really easy! (Try it!)
+
 ## Summary
 
-...
+We can use functions to manipulate JavaScript Objects and also to create them - this often leads to far tidier programs that are easier to understand and easier to change.
     
 ## }

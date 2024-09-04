@@ -34,6 +34,8 @@
     
 ## Examples
 
+- [DIY dist()](https://editor.p5js.org/pippinbarr/sketches/QlqKv-8C8)
+- [Denied Stamp](https://editor.p5js.org/pippinbarr/sketches/88JmODCt9)
 - [Overlapping Circles (Functions)](https://editor.p5js.org/pippinbarr/sketches/Yc4eMdFyH)
 - [Overlapping Rectangles (Functions)](https://editor.p5js.org/pippinbarr/sketches/dJyJ_NV4L)
 - [Moving Stones (Functions)](https://editor.p5js.org/pippinbarr/sketches/IMjU5KE_N)
