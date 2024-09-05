@@ -30,6 +30,10 @@ Office hours: tbd.
 
 We acknowledge that Concordia University is located on unceded Indigenous lands. The Kanien’kehá:ka Nation is recognized as the custodians of the lands and waters on which we gather today. Tiohtiá:ke/Montreal is historically known as a gathering place for many First Nations. Today, it is home to a diverse population of Indigenous and other peoples. We respect the continued connections with the past, present and future in our ongoing relationships with Indigenous and other peoples within the Montreal community.
 
+## Commitment to Diversity and Safer Spaces
+
+The Department of Design and Computation Arts is committed to fostering an equitable and positive learning experience for all students, staff and faculty, free from discrimination based for example on race, gender, gender identity and expression, sexual orientation, ability, religion, ethnicity, age, etc. We value diversity and difference, and strive together to create safer spaces in our classrooms, studios, and labs, where all students can fully engage in scholarly and artistic pursuits, knowing that harmful behaviour (e.g. harassment, microaggressions, intolerance, disrespectful language, etc.) is unacceptable. We believe that celebrating difference is fundamental to supporting an academic community where innovation, creative exploration, and intellectual freedom can flourish.
+
 ## Description
 
 Learning to program is at the heart of understanding computation. In this course we cover an introduction to the key elements of programming, all while emphasizing experimental and playful approaches to software aesthetics. Students will spend time both learning the basics of how to program while also producing their own original work in a studio environment.
@@ -158,10 +162,6 @@ The practical work done in this class will take place on a lab computer or on yo
 ## [Design and Computation Arts Syllabus](https://www.concordia.ca/content/dam/finearts/design/docs/dcart-undergraduate-syllabus.pdf)
 
 (Click through for the standardized information from D/CART that is included as part of all course outlines.)
-
-## Commitment to Diversity and Safer Spaces
-
-The Department of Design and Computation Arts is committed to fostering an equitable and positive learning experience for all students, staff and faculty, free from discrimination based for example on race, gender, gender identity and expression, sexual orientation, ability, religion, ethnicity, age, etc. We value diversity and difference, and strive together to create safer spaces in our classrooms, studios, and labs, where all students can fully engage in scholarly and artistic pursuits, knowing that harmful behaviour (e.g. harassment, microaggressions, intolerance, disrespectful language, etc.) is unacceptable. We believe that celebrating difference is fundamental to supporting an academic community where innovation, creative exploration, and intellectual freedom can flourish.
 
 ## Behaviour
 
