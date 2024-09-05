@@ -2,11 +2,11 @@
 
 # 🗄 Arrays {
 
-✨ ... ✨
+✨ Arrays are an incredibly powerful *data structure* that allow us to keep a bunch of related data *all together in one place*. As an added bonus, they also allow us to store all that data *in order* if that matters to us. They unlock the abilitity to have *much more going on* in a program. ✨
 
 ## Learning objectives
 
-- ...
+- Understanding the structure of an array
 
 ## Template
 
@@ -70,6 +70,30 @@ const fortunes = [
 let randomIndex = Math.floor(Math.random() * fortunes.length);
 // Get the random element at the index
 let randomFortune = fortunes[randomIndex];
+```
+
+Or if you wanted to practice writing your own helper functions:
+
+```javascript
+const fortunes = [
+  "It's going to be okay.",
+  "You will win $1.25 unexpectedly.",
+  "Meh.",
+  "You probably won't die today."  
+];
+
+// Get the random element from the array
+let randomFortune = getRandomElement(fortunes);
+
+/**
+ * Returns a random element from the provided array
+ */
+function getRandomElement(array) {
+  // Calculate a random index in the array
+  const randomIndex = Math.floor(Math.random() * array.length);
+  // Return the element at that index
+  return array[randomIndex];
+}
 ```
 
 ## }
