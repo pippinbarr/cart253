@@ -23,7 +23,7 @@ Let's go through the process of starting a new project. You'll do this a bunch, 
 
 As you improve your programming you will probably start projects in many different ways, but for now you will always *use a template* that will give you all the files you need:
 
-1. [Download the template p5 project](../templates/template-p5-project.zip)
+1. [Download the template p5 project](../../templates/template-p5-project.zip)
 2. Unzip it
 
 You should have a folder called `template-p5-project` which contains a bunch of files you will use to make JavaScript projects. We'll talk about the details later on.
