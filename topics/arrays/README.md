@@ -2,11 +2,14 @@
 
 # 🗄 Arrays {
 
-✨ Arrays are an incredibly powerful *data structure* that allow us to keep a bunch of related data *all together in one place*. As an added bonus, they also allow us to store all that data *in order* if that matters to us. They unlock the abilitity to have *much more going on* in a program. ✨
+✨ Arrays are an incredibly powerful *data structure* that allow us to keep a bunch of related data *all together in one place*. As an added bonus, they also allow us to store all that data *in order* if that matters to us. They unlock the abilitity to have *multitudes* in a program (or to get fancy with data). ✨
 
 ## Learning objectives
 
-- Understanding the structure of an array
+- Understanding the structure of an array (a series of numbered boxes?!)
+- Treating arrays as ordered lists
+- Treating arrays as collections of related values
+- Getting comfortable with manipulating arrays dynamically
 
 ## Template
 
@@ -17,7 +20,7 @@
 - *Introducing arrays*
   - Watch the video on Moodle
   - Read the [Introducing arrays notes](./introducing-arrays.md)
-- *Basic arrays in practice*
+- *Sequential arrays in practice*
   - Watch the video on Moodle
   - Read the [Sequential arrays in practice notes](./sequential-arrays-in-practice.md)
 - *Introducing `for...of`*
