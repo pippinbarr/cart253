@@ -41,6 +41,7 @@
 - 🧑‍🎓 Follow the [Instructions learning materials](./topics/instructions/)
 
 ### In class
+- ⚙️ Setting up recording
 - 💭 Thinking like a computer with instructions
 - 💬 Discussion
     - Instructions challenges discussion
@@ -64,6 +65,7 @@
 - 🧑‍🎓 Follow the [Variables learning materials](./topics/variables/)
 
 ### In class
+- ⚙️ Setting up recording
 - 🔥 The [Pre-Reflection](./assignments/pre-reflection/) assignment is due tonight
 - 📄 Introducing the [Art Jam](./assignments/art-jam/) assignment
 - 💭 Thinking like a computer with variables
@@ -91,6 +93,7 @@
 - 🧑‍🎓 Follow the [Conditionals learning materials](./topics/conditionals/)
 
 ### In class
+- ⚙️ Setting up recording
 - 💭 Thinking like a computer with conditionals
 - Discussion
     - Conditionals challenges
@@ -115,6 +118,7 @@
 - 🧑‍🎓 Follow the [Events learning materials](./topics/events/)
 
 ### In class
+- ⚙️ Setting up recording
 - 🔥 The [Art Jam](./assignments/art-jam) assignment is due tonight
 - 💭 Thinking like a computer with events
 - 💬 Discussion
@@ -140,6 +144,7 @@
 - 🧑‍🎓 Follow the [Making learning materials](./topics/making/)
 
 ### In class
+- ⚙️ Setting up recording
 - 📄 Introducing the [Mod Jam](./assignments/mod-jam/) assignment
 - 💬 Discussion
     - Making challenges
@@ -173,6 +178,7 @@
 - 🧑‍🎓 Follow the [Functions learning materials](./topics/functions/)
 
 ### In class
+- ⚙️ Setting up recording
 - 💭 Thinking like a computer with functions
 - 💬 Functions challenges discussion
 - ...
@@ -195,6 +201,7 @@
 - 🧑‍🎓 Follow the [Arrays learning materials](./topics/arrays/)
 
 ### In class
+- ⚙️ Setting up recording
 - 🔥 The [Mod Jam](./assignments/mod-jam) assignment is due tonight!
 - 💭 Thinking like a computer with arrays
 - 💬 Arrays challenges discussion
@@ -218,6 +225,7 @@
 - 🧑‍🎓 Follow the [Loops learning materials](./topics/loops/)
 
 ### In class
+- ⚙️ Setting up recording
 - 📄 Introducing the [Variation Jam](./assignments/variation-jam/) assignment
 - 💭 Thinking like a computer with loops
 - 💬 Loops challenges discussion
@@ -242,6 +250,7 @@
 - 🧑‍🎓 Follow the [Data learning materials](./topics/data/)
 
 ### In class
+- ⚙️ Setting up recording
 - 💬 Data challenges discussion
 - ...
 
@@ -260,6 +269,7 @@
 *Week of 18 November 2024*
 
 ### In class
+- ⚙️ Setting up recording
 - 📄 Introducing the [Post-Reflection](./assignments/post-reflection/) assignment
 - 💬 Q&A
 
@@ -279,6 +289,7 @@
 *Week of 25 November 2024*
 
 ### In class
+- ⚙️ Setting up recording
 - 💬 Q&A
 
 ### In studio
