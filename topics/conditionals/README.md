@@ -39,7 +39,7 @@
     - Read the [Conditionals in practice 3: Death by boredom notes](./conditionals-in-practice-part-3.md)
 - *Debugging conditionals*
     - Download the [Debugging Conditionals Project](../../debugging/debugging-conditionals.zip)
-    - [Watch the video]()
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1075226&node=5841570&a=189628872)
     - Read the [Debugging Guide](../../guides/debugging-guide.md)
 
 ## Extra! Extra!

@@ -35,7 +35,7 @@
     - Read the [text notes](./organizing-with-functions.md)
 - *Debugging instructions*
     - Download the [Debugging Instructions Project](../../debugging/debugging-instructions.zip)
-    - [Watch the video](https://concordia.yuja.com/V/Video?v=1071099&node=5700495&a=172667897)
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1075225&node=5841569&a=119737574)
     - Read the [Debugging Guide](../../guides/debugging-guide.md)
 
 ## Examples

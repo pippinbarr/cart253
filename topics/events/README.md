@@ -41,7 +41,7 @@
     - Read the [Plain JavaScript events notes](./plain-javascript-events.md)
 - *Debugging events*
     - Download the [Debugging Events Project](../../debugging/debugging-events.zip)
-    - [Watch the video]()
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1075227&node=5841571&a=29567587)
     - Read the [Debugging Guide](../../guides/debugging-guide.md)
 
 ## Extra! Extra!
