@@ -1,12 +1,23 @@
 # Functions with return values {
   
-...
+The other super-power of functions is that along with *receiving* information via their *parameters* they can also *send* information back by using a *return statement*. This allows us to use functions to perform calculations, create new objects, and more!
 
 ## In this module
 
+- Preparation
 - We have seen return values
 - Writing a function with a return value
 - Calling a function with a return value
+
+## Preparation
+
+1. Download the [template project](../../templates/template-p5-project.zip)
+2. Unzip it
+3. Rename the folder to `functions-with-return-values`
+4. Move the folder into your repository
+5. Open the folder in VS Code
+6. Give the program a title in `index.html` (maybe "Functions with return values")
+7. Commit and push the changes
 
 ## We have seen return values
 
@@ -88,6 +99,6 @@ That's it! That's how this works. We can create functions that *calculate* or *c
 
 ## Summary
 
-...
+Any time you find yourself writing some code that performs a calculation it's worth thinking to yourself whether it should be a *function* with a *return value* so that you can use that calculation in more than one place!
   
 ## }

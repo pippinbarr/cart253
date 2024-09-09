@@ -17,12 +17,15 @@
 ## Modules
 
 - *Functions with parameters* 
+    - Download the [template project](../../templates/template-p5-project.zip)
     - Watch the video on Moodle
     - Read the [Functions with parameters notes](./functions-with-parameters.md)
 - *Functions with return values* 
+    - Download the [template project](../../templates/template-p5-project.zip)
     - Watch the video on Moodle
     - Read the [Functions with return values notes](./functions-with-return-values.md)
 - *Functions and JavaScript Objects* 
+    - Download the [template project](../../templates/template-p5-project.zip)
     - Watch the video on Moodle
     - Read the [Functions and JavaScript Objects notes](./functions-and-javascript-objects.md)
 - *Functions in practice: Refactoring*

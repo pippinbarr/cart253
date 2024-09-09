@@ -4,14 +4,45 @@ We've seen functions already in the context of *organizing* our programs, and th
 
 ## In this module
 
+- Preparation
 - Functions for modularity
 - Functions for reuse
 - Functions with parameters
 - Function reuse in action
 
+## Preparation
+
+1. Download the [template project](../../templates/template-p5-project.zip)
+2. Unzip it
+3. Rename the folder to `functions-with-parameters`
+4. Move the folder into your repository
+5. Open the folder in VS Code
+6. Give the program a title in `index.html` (maybe "Functions with parameters")
+7. Commit and push the changes
+
 ## Functions for modularity
 
-Here's a program that draws a sun. We've been nice and organized and broken out the sun drawing part into a function:
+Here's a program that draws a sun:
+
+```javascript
+function setup() {
+  createCanvas(600, 400);
+}
+
+function draw() {
+  // Sky blue
+  background("#87ceeb");
+  
+  // Draw the sun
+  push();
+  noStroke();
+  fill("#f99736");
+  ellipse(500, 100, 80);
+  pop();
+}
+```
+
+Perfectly fine, but we know that we can *improve* this program by create a *function* for drawing the sun, rather than having all its instructions in `draw()`:
 
 ```javascript
 function setup() {
@@ -25,6 +56,9 @@ function draw() {
   drawSun();
 }
 
+/**
+ * Draws the sun
+ */
 function drawSun() {
   push();
   noStroke();
