@@ -2,7 +2,7 @@
 
 # 🗄 Arrays {
 
-✨ Arrays are an incredibly powerful *data structure* that allow us to keep a bunch of related data *all together in one place*. As an added bonus, they also allow us to store all that data *in order* if that matters to us. They unlock the abilitity to have *multitudes* in a program (or to get fancy with data). ✨
+✨ Arrays are a powerful *data structure* that allow us to keep a bunch of related data *all together in one place*. As an added bonus, they also allow us to store all that data *in order* if that matters to us. They unlock the abilitity to have *multitudes* in a program (or to get fancy with data). ✨
 
 ## Learning objectives
 

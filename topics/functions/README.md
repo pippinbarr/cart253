@@ -29,7 +29,7 @@
     - Download the [Refectoring Project](./examples/refactoring.zip)
     - Watch the video on Moodle
 - *Debugging functions*
-    - Download the [Debugging functions project](./MISSING_LINK)
+    - Download the [Debugging functions project](../../debugging/debugging-functions.zip)
     - Watch the video on Moodle
     
 ## Examples
