@@ -65,6 +65,7 @@
 - 🧑‍🎓 Follow the [Variables learning materials](./topics/variables/)
 
 ### In class
+- [FutureBound](https://www.concordia.ca/students/success/futurebound.html?utm_campaign=futurebound) presentation
 - ⚙️ Setting up recording
 - 🔥 The [Pre-Reflection](./assignments/pre-reflection/) assignment is due tonight
 - 📄 Introducing the [Art Jam](./assignments/art-jam/) assignment
