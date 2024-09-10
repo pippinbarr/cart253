@@ -37,10 +37,10 @@ let piArray = [3, 1, 4, 1, 5, 9, 2, 6, 5, 3];
     
 As you can see, when we create an array we have:
 
-- *Square brackets*, `[ ... ]`. These are what tell JavaScript we want an array.
-- A *list of values* separated by commas inside, `3, 1, 4, 1, 5, 9, 2, 6, 5, 3`. These are the elements we want in the array *in order*.
+- *Square brackets*, `[ ... ]`. These are what tell JavaScript we want an array, with the information to be stored in the array going *inside* the brackets.
+- That is, we put a *list of values* separated by commas inside, `3, 1, 4, 1, 5, 9, 2, 6, 5, 3`. These are the *elements* we want in the array *in order*.
 
-We could also create an *empty* array in the way you might expect:
+We can also create an *empty* array in the way you might expect:
 
 ```javascript
 let emptyArray = [];
@@ -50,9 +50,11 @@ let emptyArray = [];
 
 To access a specific element in the array (either to get its value or to set its value) we use the element's *index* along with "bracket notation".
 
-So to get the first digit from our `piArray` we would write:
+To get the first digit from our `piArray` we would write:
 
 ```javascript
+let piArray = [3, 1, 4, 1, 5, 9, 2, 6, 5, 3];
+
 let firstDigitOfPi = piArray[0]; // 3
 ```
 
@@ -66,6 +68,8 @@ As you can see we write:
 We can use the exact same approach to *change* an element in an array. If we wanted to *break pi* for some reason, perhaps to mess with a geometrist, we could write:
 
 ```javascript
+let piArray = [3, 1, 4, 1, 5, 9, 2, 6, 5, 3];
+
 piArray[5] = 8; // Change element 5 from 9 to 8
 ```
 
@@ -80,6 +84,8 @@ This may be obvious, but you can also use *variables* as indexes or to set eleme
 A variable as an index (this will be really useful later!):
 
 ```javascript
+let piArray = [3, 1, 4, 1, 5, 9, 2, 6, 5, 3];
+
 let index = 7;
 let eighthDigitOfPi = piArray[index]; // 6
 ```
@@ -99,12 +105,14 @@ One last useful piece of information: arrays know *how long they are*, that is, 
 
 ```javascript
 let piArray = [3, 1, 4, 1, 5, 9, 2, 6, 5, 3];
+
 let numberOfDigitsOfPi = piArray.length; // 10
 
 let apple = 2;
 let banana = 6;
 let carrot = 4;
 let nutritionalArray = [apple, banana, carrot];
+
 let numberOfHealthySnacks = nutritionalArray.length; // 3
 ```
 

@@ -4,10 +4,19 @@ Inspire
 
 ## In this module
 
+- Preparation
 - Why change arrays?
-- Flies
+- Flies flies flies
 - Pushing
 - Splicing
+
+## Preparation
+
+1. Download the [Flies flies flies! Project](./examples/flies-flies-flies.zip)
+2. Unzip it
+3. Move the folder into your repository
+4. Open the folder in VS Code
+5. Commit and push the changes
 
 ## Why change arrays?
 
@@ -17,62 +26,11 @@ But often we want to be able to *add elements to the array* while our program is
 
 Similarly, we may want to *remove elements from the array*. What if the flies die and we don't want them in the array anymore?
 
-## Flies
+## Flies flies flies!
 
-Let's get our flies program back and then make some changes. For the purposes of this module, we'll leave the `flies` array empty when the program runs. No flies!
+Let's take a look at the Flies flies flies! project we have right now. It's great! It only has one fly in it to start with, but we could add as many as we want just by adding them in `setup()`.
 
-```javascript
-let flies = [];
-
-function setup() {
-    createCanvas(300, 300);
-}
-
-/**
- * Creates a fly (data) with random numbers
- */
-function createFly() {
-    // Generate the random fly
-    let fly = {
-        x: random(0, width),
-        y: random(0, height),
-        size: random(10, 20),
-        buzziness: random(2, 8)
-    };
-    // Return the random fly
-    return fly;
-}
-
-function draw() {
-    background("#87ceeb");
-    
-    // Go through all the flies
-    for (let fly of flies) {
-        moveFly(fly);
-        drawFly(fly);
-    }
-}
-
-/**
- * Moves the fly by changing its position randomly
- * according to its buzziness
- */
-function moveFly(fly) {
-    fly.x += random(-fly.buzziness, fly.buzziness);
-    fly.y += random(-fly.buzziness, fly.buzziness);
-}
-
-/**
- * Draws the fly parameter to canvas
- */
-function drawFly(fly) {
-    push();
-    noStroke();
-    fill(0);
-    ellipse(fly.x, fly.y, fly.size);
-    pop();
-}
-```
+*However*, what if we wanted to *add flies while the program is running*? What if we wanted to be able to *remove flies while the program is running*? That would lead to a much more dynamic fly experience...
 
 Okay, here we go.
 

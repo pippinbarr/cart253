@@ -21,21 +21,28 @@
   - Watch the video on Moodle
   - Read the [Introducing arrays notes](./introducing-arrays.md)
 - *Sequential arrays in practice*
+  - Download the [template project](../../templates/template-p5-project.zip)
   - Watch the video on Moodle
   - Read the [Sequential arrays in practice notes](./sequential-arrays-in-practice.md)
 - *Introducing `for...of`*
+  - Download the [template project](../../templates/template-p5-project.zip)
   - Watch the video on Moodle
   - Read the [Introducing `for...of` notes](./introducing-for-of.md)
 - *`for...of` in practice*
   - Watch the video on Moodle
-  - Read the [`for...of` in practic notes](./for-of-in-practice.md)
+  - Read the [`for...of` in practice notes](./for-of-in-practice.md)
 - *Changing arrays*
+  - Download the [Flies flies flies Project](./examples/flies-flies-flies.zip)
   - Watch the video on Moodle
   - Read the [Changing arrays notes](./changing-arrays.md)
+- *Debugging arrays*
+  - Download the [Debugging Arrays Project](../../debugging/debugging-arrays.zip)
+  - Watch the video on Moodle
 
 ## Examples
 
-- ...
+- [Moving Stones (Arrays)](https://editor.p5js.org/pippinbarr/sketches/zQgkBD1Y4)
+- [Bug Squasher](https://editor.p5js.org/pippinbarr/sketches/cU8ZR2yv5)
 
 ## Challenges
 

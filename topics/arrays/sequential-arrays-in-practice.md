@@ -151,7 +151,7 @@ let animationPositions = [
 let animationIndex = 0;
 ```
 
-Okay that *looks* a lot more freaky... lotsa curly brackets! But it's really and truly *just* an array (the square brackets around the whole thing) that contains a sequence of JavaScript Objects (the curly bracketed parts) that contain positions (the `x` and `y` properties).
+Okay that *looks* a lot more freaky... lotsa curly brackets! But it's really and truly *just* an array (the square brackets go around the whole thing) that contains a sequence of JavaScript Objects (the curly bracketed parts) that contain positions (the `x` and `y` properties).
 
 ### Grand jeté!
 
