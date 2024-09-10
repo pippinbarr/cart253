@@ -43,6 +43,7 @@
 ### In class
 - ⚙️ Setting up recording
 - 💭 Thinking like a computer with instructions
+    - Download the [Thinking like a computer with instructions Project](./topics/instructions/examples/thinking-like-a-computer-with-instructions.zip) if you want to
 - 💬 Discussion
     - Instructions challenges discussion
     - How to read the p5 documentation
