@@ -112,11 +112,11 @@ Students will also create their own repository on GitHub to save, track, and pre
 
 Specific evaluation requirements will be provided when assigned. See the [Schedule](./schedule.md) for timing.
 
-* [Pre-reflection](./evaluation/pre-reflection/) (10%)
-* [Art Jam](./evaluation/art-jam/) (10%)
-* [Mod Jam](./evaluation/mod-jam/) (20%)
-* [Variations Jam](./evaluation/variation-jam/) (30%)
-* [Post-reflection](./evaluation/post-reflection/) (10%)
+* [Pre-reflection](./assignments/pre-reflection/) (10%)
+* [Art Jam](./assignments/art-jam/) (10%)
+* [Mod Jam](./assignments/mod-jam/) (20%)
+* [Variations Jam](./assignments/variation-jam/) (30%)
+* [Post-reflection](./assignments/post-reflection/) (10%)
 * Participation (20%)
     * Participation includes: attending class, completing coursework, being present on the Discord, asking questions, contributing to discussions, sharing ideas, and coming to office hours, email   ing the instructor with updates on projects (even if you do not need help, make sure to touch base with the instructor regularly in some capacity)
 
