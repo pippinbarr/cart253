@@ -21,7 +21,7 @@ Consider a situation where you want to draw a circle on the canvas in a *random*
 
 You can choose a random position for the shape, but you can't *guarantee* that the position isn't *inside the danger zone*.
 
-What you need to do is to *keep trying to position the shape randomly until you find a space that isn't in the danger zone*.
+What you need to do is to *keep trying to position the shape randomly* until you find a space that *isn't in the danger zone*.
 
 And that kind of description of a task is what a `while`-loop was born for...
 

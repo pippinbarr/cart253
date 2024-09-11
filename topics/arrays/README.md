@@ -25,10 +25,11 @@
   - Watch the video on Moodle
   - Read the [Sequential arrays in practice notes](./sequential-arrays-in-practice.md)
 - *Introducing `for...of`*
-  - Download the [template project](../../templates/template-p5-project.zip)
+  - Download the [Flies project](./examples/flies.zip)
   - Watch the video on Moodle
   - Read the [Introducing `for...of` notes](./introducing-for-of.md)
 - *`for...of` in practice*
+  - Download the [Flies flies project](./examples/flies-flies.zip)
   - Watch the video on Moodle
   - Read the [`for...of` in practice notes](./for-of-in-practice.md)
 - *Changing arrays*
@@ -43,6 +44,8 @@
 
 - [Moving Stones (Arrays)](https://editor.p5js.org/pippinbarr/sketches/zQgkBD1Y4)
 - [Bug Squasher](https://editor.p5js.org/pippinbarr/sketches/cU8ZR2yv5)
+- [Friends, Romans, Countrymen](https://editor.p5js.org/pippinbarr/sketches/wfDOLrIm13)
+- [A trail](https://editor.p5js.org/pippinbarr/sketches/5wgSl1Uj7)
 
 ## Challenges
 

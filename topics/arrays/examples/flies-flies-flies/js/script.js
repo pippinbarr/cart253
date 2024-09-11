@@ -7,33 +7,31 @@
 
 "use strict";
 
-// An array for our flies
-// Starts out empty!
-let flies = [];
+// Our array of flies (specifically "fly data" really)
+// Each fly has a position and a size
+let flies = [
+    {
+        x: 100,
+        y: 125,
+        size: 10
+    },
+    {
+        x: 160,
+        y: 170,
+        size: 14
+    },
+    {
+        x: 180,
+        y: 50,
+        size: 5
+    }
+];
 
 /**
  * Creates the canvas
  */
 function setup() {
     createCanvas(300, 300);
-
-    // Create a fly so we can see something
-    flies[0] = createFly();
-}
-
-/**
- * Creates a fly (data) with random numbers
- */
-function createFly() {
-    // Generate the random fly
-    let fly = {
-        x: random(0, width),
-        y: random(0, height),
-        size: random(10, 20),
-        buzziness: random(2, 8)
-    };
-    // Return the random fly
-    return fly;
 }
 
 /**

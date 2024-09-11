@@ -4,53 +4,55 @@ Inspire inspire
 
 ## In this module
 
+- Preparation
 - More flies
 - More flies with your flies?
 
+## Preparation
+
+1. Download the [Flies flies Project](./examples/flies-flies.zip)
+2. Unzip it
+3. Move the folder into your repository
+4. Open the folder in VS Code
+5. Commit and push the changes
+
 ## More flies
 
-We've seen that `for...of` let us draw a set of flies to the canvas pretty easily, but let's lean into it more and use `for...of` all over the place!
+So we've seen that `for...of` let us draw a set of flies to the canvas pretty easily, but let's lean into it this further to create a more dynamic program.
 
-### Our flies
+### Buzzy flies
 
-Let's have some slightly more sophisticated flies. We'll start with an *empty* array and then add the flies in `setup()` using a `createFly()` function!
+Let's add another property to the flies that will let them move, we'll call it `buziness` and we'll use it to move them around randomly (in a fly-like way).
 
 ```javascript
-let flies = [];
-
-function setup() {
-    createCanvas(300, 300);
-    
-    // Create four flies - notice that we can put them into our empty
-    // array using specific indexes
-    // (Yes this is repetitive, yes there is a better way. Later.)
-    flies[0] = createFly();
-    flies[1] = createFly();
-    flies[2] = createFly();
-    flies[3] = createFly();
-}
-
-/**
- * Creates a fly (data) with random numbers
- */
-function createFly() {
-    // Generate the random fly
-    let fly = {
-        x: random(0, width),
-        y: random(0, height),
-        size: random(10, 20),
-        buzziness: random(2, 8)
-    };
-    // Return the random fly
-    return fly;
-}
+let flies = [
+    {
+        x: 100,
+        y: 125,
+        size: 10,
+        // NEW
+        buzziness: 4
+    },
+    {
+        x: 160,
+        y: 170,
+        size: 14,
+        // NEW
+        buzziness: 2
+    },
+    {
+        x: 180,
+        y: 50,
+        size: 5,
+        // NEW
+        buzziness: 3
+    }
+];
 ```
-
-Okay. By the end of `setup()` we have four random flies loaded into our `flies` array.
 
 ### Draw the flies
 
-We've already done this, but let's improve with a function:
+We've already done this, but let's improve our draw loop with a function:
 
 ```javascript
 function draw() {
@@ -63,7 +65,7 @@ function draw() {
 }
 
 /**
- * Draws the fly parameter to canvas
+ * Draws the fly to canvas
  */
 function drawFly(fly) {
     push();
@@ -78,7 +80,7 @@ Perfection, now we have the flies displaying using a function! The `for..of` goe
 
 ### Move the flies
 
-We can apply the exact same idea to move the flies using their `buzziness`:
+We can apply the exact same idea to move the flies using their `buzziness` by writing a `moveFly()` function that will take care of that:
 
 ```javascript
 function draw() {
@@ -103,13 +105,13 @@ function moveFly(fly) {
 
 They move! They buzz! They are flies! And we are... the lord of the flies!
 
+The array, specifically, is letting us act on *the whole group of flies* each with each key idea (movement, display) that we want to include. We can think at the level of "flies" instead of each individual array element.
+
 ## More flies with your flies?
 
 This program is exceptionally tidy. Crucially, the *array* lets us group all our flies together, no matter how many we have. And the `for...of` lets us go through *all* the flies, no matter how many there are. 
 
-Try changing the program to add *no* flies to the array. It still works! (It displays no flies and does not crash because the `for...of` doesn't find any flies and so does nothing).
-
-Try changing the program to add *ten* flies to the array. It still works! (The `for...of` carefully selects each fly and calls `moveFly()` and `drawFly()` for it.)
+Once again, try adding a new fly or two to the array. It joins its buzzing brethren seamlessly!
 
 ## Summary
 
