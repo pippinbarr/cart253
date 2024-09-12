@@ -46,6 +46,43 @@
 - [Mantis Anatomy](https://pippinbarr.com/cart253/examples/student-work/mantis-anatomy/) by Scarlett Perez-Hernandez
 - [Minigame Library](https://pippinbarr.com/cart253/examples/student-work/minigame-library/) by Nicolas Morales-Sanabria
 
+## 🔥 Hot tip: Some better user settings
+
+By default VS Code can be a bit overaggressive with its autocomplete suggestions. If you'd like a relatively simple setup for your VS Code (assuming you haven't customized it a bunch already), then you could copy the following (including the curly brackets):
+
+```json
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.startupEditor": "none",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "[json]": {
+        "editor.quickSuggestions": {
+            "other": "off",
+            "strings": "off"
+        },
+        "editor.inlineSuggest.suppressSuggestions": true,
+        "editor.inlineSuggest.enabled": false
+    },
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.trimAutoWhitespace": false,
+    "editor.formatOnPaste": true,
+    "update.showReleaseNotes": false,
+    "javascript.suggest.enabled": false,
+    "typescript.suggest.enabled": false
+}
+```
+
+Then go to VS Code and:
+
+1. Hit Command-Shift-P (Mac) or Control-Shift-P (Windows to open the "Command Palette)
+2. Type "User Settings" to bring up the user settings option
+3. Choose "Preferences: Open User Settings (JSON)
+4. Select everything in the resulting file and replace it by pasting in the above JSON
+
+Or, if you have a bunch of settings in there, feel free to add the stuff above at the end.
+
 ## 🔥 Hot tip: One repository per project
 
 Out in the "real world" developers start a repository for *each project* they work on. 
