@@ -47,6 +47,13 @@
 - 💬 Discussion
     - Instructions challenges discussion
     - How to read the p5 documentation
+    
+#### In class recordings
+
+These are screen recordings of the discussion periods of the Instructions class for each section. (Section B's one has *really loud keyboard sounds* sorry.)
+
+- [CART253A](https://concordia.yuja.com/V/Video?v=1078631&node=5931981&a=116108286)
+- [CART253B](https://concordia.yuja.com/V/Video?v=1078630&node=5931980&a=195517040)
 
 ### In studio
 - 🔨 Work further on the challenges as needed
