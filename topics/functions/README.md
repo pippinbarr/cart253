@@ -17,7 +17,7 @@
 ## Modules
 
 - *Functions with parameters* 
-    - Download the [template project](../../templates/template-p5-project.zip)
+    - Download the [Trisolaris project](./examples/trisolaris.zip)
     - Watch the video on Moodle
     - Read the [Functions with parameters notes](./functions-with-parameters.md)
 - *Functions with return values* 
