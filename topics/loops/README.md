@@ -21,9 +21,11 @@
   - Watch the video on Moodle
   - Read the [Introducing `while`-loops notes](./introducing-while.loops.md)
 - *`while`-loops in practice*
+  - Download the [The Danger Zone Project](./examples/the-danger-zone.zip)
   - Watch the video on Moodle
   - Read the [`while`-loops in practice notes](./while-loops-in-practice.md)
 - *Introducing `for`-loops*
+  - Download the [Vertical Circles Project](./examples/vertical-circles.zip) (again)
   - Watch the video on Moodle
   - Read the [Introducing `for`-loops notes](./introducing-for-loops.md)
 - *`for`-loops in practice*

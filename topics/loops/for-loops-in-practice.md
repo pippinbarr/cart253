@@ -58,7 +58,7 @@ function drawStar() {
 
 Try changing NUM_STARS to a bigger value... imagine writing the code to draw 10000 stars line by line! Gross!
 
-Try removing the `randomSeed()` line. Now the program is drawing all the stars in new positions every frame. How many stars can it draw before it starts to slow down? 1000? 10000? 100000?
+Try removing the `randomSeed()` line. Now the program is drawing all the stars in new positions every frame. Looks like static! How many stars can it draw before it starts to slow down? 1000? 10000? 100000?
 
 ## Gradient
 
@@ -101,6 +101,6 @@ If you want to get really creative you might want to start thinking about `trans
     
 ## Summary
 
-...
+If you want to repeat a simple set of instructions lots of times, use `for`-loop. This can be a gateway to some really nice imagery and has the advantage of feeling like you're really *using the computer to do the work*!
     
 ## }
