@@ -74,6 +74,7 @@ These are screen recordings of the discussion periods of the Instructions class 
 
 ### In class
 - [FutureBound](https://www.concordia.ca/students/success/futurebound.html?utm_campaign=futurebound) presentation
+- [Computation Artst Student Society (CASS)](https://docs.google.com/presentation/d/1PGYm_qR_TVAptYTRzx0HFKSzFJ1BypBZ/edit?usp=sharing&ouid=106375215747065818237&rtpof=true&sd=true)
 - ⚙️ Setting up recording
 - 🔥 The [Pre-Reflection](./assignments/pre-reflection/) assignment is due tonight
 - 📄 Introducing the [Art Jam](./assignments/art-jam/) assignment

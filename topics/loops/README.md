@@ -17,22 +17,23 @@
 ## Modules
 
 - *Introducing `while`-loops*
-    - Watch the video on Moodle
-    - Read the [Introducing `while`-loops notes](./introducing-while.loops.md)
+  - Download the [Vertical Circles Project](./examples/vertical-circles.zip)
+  - Watch the video on Moodle
+  - Read the [Introducing `while`-loops notes](./introducing-while.loops.md)
 - *`while`-loops in practice*
-    - Watch the video on Moodle
-    - Read the [`while`-loops in practice notes](./while-loops-in-practice.md)
+  - Watch the video on Moodle
+  - Read the [`while`-loops in practice notes](./while-loops-in-practice.md)
 - *Introducing `for`-loops*
-    - Watch the video on Moodle
-    - Read the [Introducing `for`-loops notes](./introducing-for-loops.md)
+  - Watch the video on Moodle
+  - Read the [Introducing `for`-loops notes](./introducing-for-loops.md)
 - *`for`-loops in practice*
-    - Watch the video on Moodle
-    - Read the [`for`-loops in practic notes](./for-loops-in-practice.md)
+  - Watch the video on Moodle
+  - Read the [`for`-loops in practic notes](./for-loops-in-practice.md)
 - *`for` versus `for...of`*
-    - Watch the video on Moodle
-    - Read the [`for` versus `for...of` notes](./for-versus-for-of.md)
+  - Watch the video on Moodle
+  - Read the [`for` versus `for...of` notes](./for-versus-for-of.md)
 - *Debugging loops*
-    - Download the [Debugging loops project](MISSING_LINK)
+  - Download the [Debugging loops project](MISSING_LINK)
     
 ## Examples
 

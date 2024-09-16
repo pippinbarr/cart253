@@ -4,16 +4,18 @@ Inspire
 
 ## In this module
 
-- What does a `while`-loop *do*?
+- What could a `while`-loop *do*?
 - The danger zone
+- `while` to the rescue!
+- Beware infinite loops
 
-## What does a `while`-loop *do*? 
+## What could a `while`-loop *do*? 
     
-Fundamentally, a `while`-loop is the most general kind of loop in programming, so it can take care of any kind of *repetition* of instructions. 
+Fundamentally, a `while`-loop is the most general kind of loop in programming, so it can take care of *any* kind of repetition of instructions. We saw in the previous module, for instance, that it's one way to take care of repetitive drawing instructions (or repetitive text-display, or repetitive calculations, or...).
 
-However, the *special* thing about a `while`-loop is that you can use it when you *don't know* when the loop will end.
+However, a *special* thing about a `while`-loop is that you can use it when you *don't know ahead of time* when the loop will end. That is, you know *why* the loop would end (its *condition*) but not necessarily when that condition will be broken (perhaps because of user-input for example).
 
-So, you should think about using a `while`-loop when you have a situation where you need to repeat some task, but you *don't know* how many times you'll need to repeat it before you're done.
+So, you should definitely think about using a `while`-loop when you have a situation where you need to repeat some task, but you *don't know* how many times you'll need to repeat it before you're done.
 
 ## The danger zone
 
@@ -21,7 +23,9 @@ Consider a situation where you want to draw a circle on the canvas in a *random*
 
 You can choose a random position for the shape, but you can't *guarantee* that the position isn't *inside the danger zone*.
 
-What you need to do is to *keep trying to position the shape randomly* until you find a space that *isn't in the danger zone*.
+## `while` to the rescue!
+
+What you can do instead is to *keep trying to position the shape randomly* until you find a space that *isn't in the danger zone*.
 
 And that kind of description of a task is what a `while`-loop was born for...
 
@@ -103,6 +107,10 @@ function mousePressed() {
     placeHero();
 }
 ```
+
+## Beware infinite loops!
+
+
 
 ## Summary
 
