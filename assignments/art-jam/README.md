@@ -26,8 +26,9 @@ Using p5's drawing instructions and variables as well as your own variables, cre
 - **Use variables** to create change of different kinds (movement, scale, colour, and more)
 - **Use `mouseX` and `mouseY`** to allow for some user interaction/input
 - **Use p5's `map()` function** in some capacity (learn about it by [reading the `map()` reference page](https://p5js.org/reference/p5/map/))
+- **Use at least one conditional** to make the program respond to a changing variable
 
-Using conditionals is optional but encouraged.
+Exceeding these basics is optional but encouraged.
 
 Feel free to borrow from any of the example code you've seen so far in the course, but make sure to **attribute** in your `README.md` and/or your `script.js`.
 
