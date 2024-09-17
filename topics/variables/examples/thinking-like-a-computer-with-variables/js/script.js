@@ -42,11 +42,11 @@ function setup() {
  * Move and draw the turtle
 */
 function draw() {
-    // The sky
-    background(skyShade);
-
     // Make it lighter
     skyShade = skyShade + 10;
+
+    // The sky
+    background(skyShade);
 
     // Move the turtle
     turtle.x += turtle.speed;
