@@ -79,6 +79,7 @@ These are screen recordings of the discussion periods of the Instructions class 
 - 🔥 The [Pre-Reflection](./assignments/pre-reflection/) assignment is due tonight
 - 📄 Introducing the [Art Jam](./assignments/art-jam/) assignment
 - 💭 Thinking like a computer with variables
+    - [Thinking like a computer with variables project](./topics/variables/examples/thinking-like-a-computer-with-variables.zip)
 - 💬 Discussion
     - Variables challenges discussion
     - Relative positioning with offsets
