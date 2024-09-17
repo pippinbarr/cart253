@@ -45,12 +45,12 @@ function draw() {
     // The sky
     background(skyShade);
 
+    // Make it lighter
+    skyShade = skyShade + 10;
+
     // Move the turtle
     turtle.x += turtle.speed;
 
-    // Draw the turtle's head
-    ellipse(turtle.x + turtle.size / 2, turtle.y, turtle.size / 2);
-
-    // Draw the turtle's shell
+    // Draw the turtle (it walks with its head inside its shell okay?)
     ellipse(turtle.x, turtle.y, turtle.size);
 }
