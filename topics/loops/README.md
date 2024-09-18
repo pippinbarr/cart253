@@ -30,7 +30,7 @@
   - Read the [Introducing `for`-loops notes](./introducing-for-loops.md)
 - *`for`-loops in practice*
   - Watch the video on Moodle
-  - Read the [`for`-loops in practic notes](./for-loops-in-practice.md)
+  - Read the [`for`-loops in practice notes](./for-loops-in-practice.md)
 - *`for` versus `for...of`*
   - Watch the video on Moodle
   - Read the [`for` versus `for...of` notes](./for-versus-for-of.md)

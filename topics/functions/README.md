@@ -24,10 +24,14 @@
     - Download the [template project](../../templates/template-p5-project.zip)
     - Watch the video on Moodle
     - Read the [Functions with return values notes](./functions-with-return-values.md)
-- *Functions and JavaScript Objects* 
-    - Download the [Buzzy the fly Project](./examples/buzzy-the-fly.zip)
+- *JavaScript Objects as parameters* 
+    - Download the [Buzzy the parameter Project](./examples/buzzy-the-parameter.zip)
     - Watch the video on Moodle
-    - Read the [Functions and JavaScript Objects notes](./functions-and-javascript-objects.md)
+    - Read the [JavaScript Objects as parameters notes](./javascript-objects-as-parameters.md)
+- *JavaScript Objects as return values* 
+    - Download the [Buzzy the return value Project](./examples/buzzy-the-return-value.zip)
+    - Watch the video on Moodle
+    - Read the [JavaScript Objects as return values notes](./javascript-objects-as-return-values.md)
 - *Functions in practice: Refactoring*
     - Download the [Refectoring Project](./examples/refactoring.zip)
     - Watch the video on Moodle

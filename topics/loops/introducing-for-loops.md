@@ -111,6 +111,8 @@ function draw() {
 
 Same outcome! Way less code! Try changing `diameter` to 10. You *still get nine circles*. Try changing the `9` to `3`. Now you get *three circles*. Think about how this is *different* from the `while`-loop version, which would draw circles from the top to the bottom, no matter the diameter.
 
+Note, too, how *useful* the variable `i` is in here - it always contains the number of the current circle, and we can use that to our advantage (such as for calculating the `y` position of the circle).
+
 ## `while` or `for`?
 
 You can actually write any `for`-loop as a `while`-loop:
