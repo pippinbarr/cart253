@@ -6,6 +6,7 @@ Inspiration
 
 - Preparation
 - Arrays are collections of elements
+- Flies
 - `for...of`
 - Flies flies flies
 
@@ -22,6 +23,8 @@ Inspiration
 So far we've mostly thought of arrays as being *in order*. That's natural because they *are numbered* with their indexes.
 
 But, the more common use of arrays in programming is actually just to store "a bunch of elements" you want to keep together because they're related. You don't care about the order they're in, just keeping them all in one (named) place.
+
+## Flies
 
 Let's take a look at the project we downloaded. There's an array of flies storing data about each fly we want to display. Great.
 

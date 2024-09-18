@@ -50,34 +50,6 @@ let flies = [
 ];
 ```
 
-### Draw the flies
-
-We've already done this, but let's improve our draw loop with a function:
-
-```javascript
-function draw() {
-    background("#87ceeb");
-    
-    // Go through all the flies
-    for (let fly of flies) {
-        drawFly(fly);
-    }
-}
-
-/**
- * Draws the fly to canvas
- */
-function drawFly(fly) {
-    push();
-    noStroke();
-    fill(0);
-    ellipse(fly.x, fly.y, fly.size);
-    pop();
-}
-```
-
-Perfection, now we have the flies displaying using a function! The `for..of` goes through each fly in the array and puts it in a `fly` variable. Then we pass that fly through to `drawFly()` which actually does the work of displaying it.
-
 ### Move the flies
 
 We can apply the exact same idea to move the flies using their `buzziness` by writing a `moveFly()` function that will take care of that:

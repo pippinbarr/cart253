@@ -37,7 +37,7 @@ Okay, here we go.
 
 ## Creating flies
 
-If we're going to be adding new flies to our array, it would be a good idea to write a function that does that for us. Let's write a `createFly()` function that will generate a fly with random properties:
+If we're going to be adding new flies to our array, it would be a good idea to write a function that can create a fly... on the fly! Let's write a `createFly()` function that will generate a fly with random properties:
 
 ```javascript
 /**

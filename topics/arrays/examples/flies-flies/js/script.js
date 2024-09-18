@@ -44,10 +44,17 @@ function draw() {
 
     // Display each fly in the array
     for (let fly of flies) {
-        push();
-        noStroke();
-        fill(0);
-        ellipse(fly.x, fly.y, fly.size);
-        pop();
+        drawFly(fly);
     }
+}
+
+/**
+ * Draws the provided fly to the canvas
+ */
+function drawFly(fly) {
+    push();
+    noStroke();
+    fill(0);
+    ellipse(fly.x, fly.y, fly.size);
+    pop();
 }
