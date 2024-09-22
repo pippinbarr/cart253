@@ -104,6 +104,7 @@ These are screen recordings of the discussion periods of the Instructions class 
 - 🧑‍🎓 Follow the [Conditionals learning materials](./topics/conditionals/)
 
 ### In class
+- 💬 A visit from Sabine from the [Computation Lab](https://www.concordia.ca/finearts/design/facilities/computation.html)
 - ⚙️ Setting up recording
 - 💭 Thinking like a computer with conditionals
 - Discussion
