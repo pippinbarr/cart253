@@ -51,7 +51,7 @@ function drawSun2() {
 /**
  * Draws the third sun
  */
-function drawSun2() {
+function drawSun3() {
     push();
     noStroke();
     fill("#f99736");

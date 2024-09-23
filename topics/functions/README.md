@@ -18,26 +18,26 @@
 
 - *Functions with parameters* 
     - Download the [Trisolaris project](./examples/trisolaris.zip)
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1085478&node=5999536&a=127200052)
     - Read the [Functions with parameters notes](./functions-with-parameters.md)
 - *Functions with return values* 
-    - Download the [template project](../../templates/template-p5-project.zip)
-    - Watch the video on Moodle
+    - Download the [Trisolaris Returns project](./examples/trisolaris-returns.zip)
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1085479&node=5999544&a=173500209)
     - Read the [Functions with return values notes](./functions-with-return-values.md)
 - *JavaScript Objects as parameters* 
     - Download the [Buzzy the parameter Project](./examples/buzzy-the-parameter.zip)
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1085480&node=5999566&a=202007275)
     - Read the [JavaScript Objects as parameters notes](./javascript-objects-as-parameters.md)
 - *JavaScript Objects as return values* 
     - Download the [Buzzy the return value Project](./examples/buzzy-the-return-value.zip)
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1085481&node=5999576&a=39178082)
     - Read the [JavaScript Objects as return values notes](./javascript-objects-as-return-values.md)
 - *Functions in practice: Refactoring*
     - Download the [Refectoring Project](./examples/refactoring.zip)
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1085485&node=5999580&a=171884012)
 - *Debugging functions*
     - Download the [Debugging functions project](../../debugging/debugging-functions.zip)
-    - Watch the video on Moodle
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1085477&node=5999512&a=196867108)
     
 ## Examples
 
