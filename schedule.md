@@ -112,6 +112,7 @@ These are screen recordings of the discussion periods of the Instructions class 
     - [Conditionals challenges](./topics/conditionals/challenges/)
     - Program states
         - [Basic States](https://editor.p5js.org/pippinbarr/sketches/cpmo2ac1V)
+    - [Running circle](https://editor.p5js.org/pippinbarr/sketches/daalbYwlG)
 
 ### In studio
 - 🔨 Work further on the challenges as needed
