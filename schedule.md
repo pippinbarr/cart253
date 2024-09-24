@@ -109,7 +109,7 @@ These are screen recordings of the discussion periods of the Instructions class 
 - 💭 Thinking like a computer with conditionals
     - [Thinking like a computer with conditionals project](./topics/conditionals/examples/thinking-like-a-computer-with-conditionals.zip)
 - Discussion
-    - [Conditionals challenges](./topics/conditionals/challenges/)
+    - [Conditionals challenges](./topics/conditionals/challenges/conditionals-challenges)
     - Program states
         - [Basic States](https://editor.p5js.org/pippinbarr/sketches/cpmo2ac1V)
     - [Running circle](https://editor.p5js.org/pippinbarr/sketches/daalbYwlG)
