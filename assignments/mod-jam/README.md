@@ -60,6 +60,22 @@ Your submission should just be plain text that includes (substituting your GitHu
 
 See the assignment rubric on Moodle for details.
 
+Grades are converted from the 10 point scale on Moodle as follows:
+
+```
+10/10 → A+
+ 9/10 → A
+ 8/10 → A-
+ 7/10 → B+
+ 6/10 → B
+ 5/10 → B-
+ 4/10 → C+
+ 3/10 → C
+ 2/10 → C-
+ 1/10 → D+
+ 0/10 → F
+```
+
 ---
 
 ## }
