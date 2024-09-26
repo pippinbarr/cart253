@@ -106,6 +106,7 @@ These are screen recordings of the discussion periods of the Instructions class 
 ### In class
 - 💬 A visit from Sabine from the [Computation Lab](https://www.concordia.ca/finearts/design/facilities/computation.html)
 - ⚙️ Setting up recording
+- 🅰️ Grade scale
 - 💭 Thinking like a computer with conditionals
     - [Thinking like a computer with conditionals project](./topics/conditionals/examples/thinking-like-a-computer-with-conditionals.zip)
 - Discussion
@@ -134,6 +135,7 @@ These are screen recordings of the discussion periods of the Instructions class 
 
 ### In class
 - ⚙️ Setting up recording
+- 🅰️ Grade scale reminder
 - 🔥 The [Art Jam](./assignments/art-jam) assignment is due tonight
 - 💭 Thinking like a computer with events
 - 💬 Discussion
