@@ -1,6 +1,6 @@
 # Introducing `for...of` {
     
-Inspiration
+Although arrays do keep track of the *order* of elements in them, we can also use arrays just as simple *groups* of elements that we want to act on. For this, we can use a special kind of *loop* that lets us do something with every element in an array: `for...of`.
 
 ## In this module
 

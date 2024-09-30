@@ -1,6 +1,6 @@
 # Introducing arrays {
     
-Inspiring words
+Arrays are one of the most important ways we organize our data in a program. We call this kind of thing a *data structure* and if you're going to get comfortable with just one data structure, it should be *arrays*.
 
 ## In this module
 

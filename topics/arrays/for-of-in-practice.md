@@ -1,6 +1,6 @@
 # `for...of` in practice {
 
-Inspire inspire
+Being able to treat an array as a *group* of related data is one of the most central ways of creating more complex and larger-scale programs. Let's go a little further!
 
 ## In this module
 
@@ -22,7 +22,7 @@ So we've seen that `for...of` let us draw a set of flies to the canvas pretty ea
 
 ### Buzzy flies
 
-Let's add another property to the flies that will let them move, we'll call it `buziness` and we'll use it to move them around randomly (in a fly-like way).
+Let's add another property to the flies that will let them move, we'll call it `buzziness` and we'll use it to move them around randomly (in a fly-like way).
 
 ```javascript
 let flies = [

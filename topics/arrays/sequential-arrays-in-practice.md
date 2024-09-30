@@ -1,11 +1,22 @@
 # Sequential arrays in practice {
   
-Inspiration
+Arrays are most obviously a collection of elements *in order*. The fact they're in order can be meaningful to how we choose to use an array, such as going through them from first to last. 
 
 ## In this module
 
+- Preparation
 - Arrays are in order
 - Speech! Speech!
+
+## Preparation
+
+1. Download the [Template p5 project](../../templates/template-p5-project.zip)
+2. Unzip it
+3. Rename the folder to `speech-speech`
+4. Move the folder into your repository
+5. Open the folder in VS Code
+6. Change the title in `index.html` ("Speech! Speech!"?)
+7. Commit and push the changes
 
 ## Arrays are in order
 
