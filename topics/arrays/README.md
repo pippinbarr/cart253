@@ -18,27 +18,27 @@
 ## Modules
 
 - *Introducing arrays*
-  - Watch the video on Moodle
+  - [Watch the video](https://concordia.yuja.com/V/Video?v=1088798&node=6032684&a=103682281)
   - Read the [Introducing arrays notes](./introducing-arrays.md)
 - *Sequential arrays in practice*
   - Download the [template project](../../templates/template-p5-project.zip)
-  - Watch the video on Moodle
+  - [Watch the video](https://concordia.yuja.com/V/Video?v=1088803&node=6032697&a=20174771)
   - Read the [Sequential arrays in practice notes](./sequential-arrays-in-practice.md)
 - *Introducing `for...of`*
   - Download the [Flies project](./examples/flies.zip)
-  - Watch the video on Moodle
+  - [Watch the video](https://concordia.yuja.com/V/Video?v=1088802&node=6032692&a=147190846)
   - Read the [Introducing `for...of` notes](./introducing-for-of.md)
 - *`for...of` in practice*
   - Download the [Flies flies project](./examples/flies-flies.zip)
-  - Watch the video on Moodle
+  - [Watch the video](https://concordia.yuja.com/V/Video?v=1088797&node=6032673&a=18377488)
   - Read the [`for...of` in practice notes](./for-of-in-practice.md)
 - *Changing arrays*
   - Download the [Flies flies flies Project](./examples/flies-flies-flies.zip)
-  - Watch the video on Moodle
+  - [Watch the video](https://concordia.yuja.com/V/Video?v=1088794&node=6032617&a=68750880)
   - Read the [Changing arrays notes](./changing-arrays.md)
 - *Debugging arrays*
   - Download the [Debugging Arrays Project](../../debugging/debugging-arrays.zip)
-  - Watch the video on Moodle
+  - [Watch the video](https://concordia.yuja.com/V/Video?v=1088796&node=6032663&a=74693267)
 
 ## Examples
 
