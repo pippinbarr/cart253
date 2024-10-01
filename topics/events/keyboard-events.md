@@ -149,7 +149,7 @@ function keyPressed(event) {
  * - R or B = Set the ball back to default
  */
 function keyReleased(event) {
-    if (event.keyCode === 82 || event.key === 66) {
+    if (event.keyCode === 82 || event.keyCode === 66) {
         ball.fill = ball.fills.white;
     }
 }
