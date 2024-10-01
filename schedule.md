@@ -138,6 +138,7 @@ These are screen recordings of the discussion periods of the Instructions class 
 - 🅰️ Grade scale reminder
 - 🔥 The [Art Jam](./assignments/art-jam) assignment is due tonight
 - 💭 Thinking like a computer with events
+    - [Thinking like a computer with events project](./topics/events/examples/thinking-like-a-computer-with-events.zip)
 - 💬 Discussion
     - Events challenges
     - ...
