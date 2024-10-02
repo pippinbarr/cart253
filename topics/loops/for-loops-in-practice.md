@@ -1,6 +1,6 @@
 # `for`-loops in practice {
    
-Inspire
+Let's take a look a couple of examples of how we can use `for`-loops to take care of very "large scale" repetitive tasks, unlocking the powerful nature of repetition in computation for aesthetic benefits!
 
 ## In this module
 
@@ -14,7 +14,21 @@ Essentially a `for`-loop helps us run instructions a specific number of times. I
 
 ## Starfield
 
+### Preparation
+
+1. Download the [template project](../../templates/template-p5-project.zip)
+2. Unzip it
+3. Rename the folder to `star-field`
+4. Move the folder into your repository
+5. Open the folder in VS Code
+6. Give the program a title in `index.html` (maybe "Star-field")
+7. Commit and push the changes
+
+### The brief
+
 Consider the problem of drawing 100 stars in random positions. Doing that line by line would take way too long. 
+
+#### The solution
 
 However, a `for`-loop can count to 100 for us, and we can just draw a star each time...
 
@@ -62,7 +76,21 @@ Try removing the `randomSeed()` line. Now the program is drawing all the stars i
 
 ## Gradient
 
+### Preparation
+
+1. Download the [template project](../../templates/template-p5-project.zip)
+2. Unzip it
+3. Rename the folder to `gradient`
+4. Move the folder into your repository
+5. Open the folder in VS Code
+6. Give the program a title in `index.html` (maybe "Gradient")
+7. Commit and push the changes
+
+### The brief
+
 A lot of nice-looking generative art is based on repetition. Let's think of a simple idea: a series of lines that go across the canvas and change colour from black to white. Also known as a gradient!
+
+### The solution
 
 A `for`-loop can easily keep drawing lines all the way across the canvas! And we can use the iterator variable (usually `i`) of a `for`-loop to figure out what colour to use per line...
 
