@@ -18,28 +18,27 @@
 
 - *Introducing `while`-loops*
   - Download the [Vertical Circles Project](./examples/vertical-circles.zip)
-  - Watch the video on Moodle
+  - [Watch the video](https://concordia.yuja.com/V/Video?v=1089980&node=6042848&a=195309627)
   - Read the [Introducing `while`-loops notes](./introducing-while.loops.md)
 - *`while`-loops in practice*
   - Download the [The Danger Zone Project](./examples/the-danger-zone.zip)
-  - Watch the video on Moodle
+  - [Watch the video](https://concordia.yuja.com/V/Video?v=1089983&node=6042901&a=91290428)
   - Read the [`while`-loops in practice notes](./while-loops-in-practice.md)
 - *Introducing `for`-loops*
   - Download the [Vertical Circles Project](./examples/vertical-circles.zip) (again)
-  - Watch the video on Moodle
+  - [Watch the video](https://concordia.yuja.com/V/Video?v=1089976&node=6042839&a=200241546)
   - Read the [Introducing `for`-loops notes](./introducing-for-loops.md)
 - *`for`-loops in practice*
   - Download the [Template Project](../../templates/template-p5-project.zip)
-  - Watch the video on Moodle
+  - [Watch the video](https://concordia.yuja.com/V/Video?v=1089973&node=6042814&a=16500598)
   - Read the [`for`-loops in practice notes](./for-loops-in-practice.md)
 - *`for` versus `for...of`*
-  - Watch the video on Moodle
+  - [Watch the video](https://concordia.yuja.com/V/Video?v=1089975&node=6042817&a=149796131)
   - Read the [`for` versus `for...of` notes](./for-versus-for-of.md)
 - *Debugging loops*
   - Download the [Debugging loops project](../../debugging/debugging-loops.zip)
-  - Watch the video on Moodle
+  - [Watch the video](https://concordia.yuja.com/V/Video?v=1089970&node=6042790&a=204270212)
 
-    
 ## Examples
 
 - [Concentric rings](https://editor.p5js.org/pippinbarr/sketches/NFEMNYKUE)
