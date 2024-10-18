@@ -107,7 +107,7 @@ For now, also pass the current `ball` variable to each function so they still wo
 
 Instead of a single `ball` variable, create a variable called `balls` and assign an empty array.
 
-### Challenge 3: Add our loop
+### Challenge 3: Add our `for...of` loop
 
 To deal with our new array, add a `for...of` loop in `draw()` that goes through the `balls` array and calls our three functions on each element.
 
