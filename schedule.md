@@ -197,9 +197,9 @@ These are screen recordings of the discussion periods of the Instructions class 
 
 ### In class
 - ⚙️ Setting up recording
+- ⏰ One week flexibility on [Mod Jam](./assignments/mod-jam)
 - 💭 Thinking like a computer with functions
 - 💬 Functions challenges discussion
-- ...
 
 ### In studio
 - 🔨 Work further on the challenges as needed
@@ -207,7 +207,7 @@ These are screen recordings of the discussion periods of the Instructions class 
 
 ### Homework
 - 🧑‍🎓 Make a start on next week's materials
-- 📄 Work on the [Mod Jam](./assignments/mod-jam) assignment (due next week!)
+- 📄 Work on the [Mod Jam](./assignments/mod-jam) assignment
 
 ---
 

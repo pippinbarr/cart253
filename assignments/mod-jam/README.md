@@ -6,10 +6,14 @@
 
 #### Deadlines
 
-- 🔥 Section B: 23:59, 29 October 2024
-- 🔥 Section A: 23:59, 31 October 2024
+- 🔥 Section B:
+    - 23:59, 29 October 2024
+    - **or** 23:59, 5 November 2024
+- 🔥 Section A:
+    - 23:59, 31 October 2024
+    - **or** 23:59, 7 November 2024
 
-That is, you have **three weeks** from assignment.
+That is, you have **three weeks** from assignment (with a one week buffer if you need it).
 
 If there is a serious need for an extension, contact your instructor at least 3 days *before* the final deadline.
 
