@@ -50,7 +50,7 @@
 
 ## Challenges
 
-- Try the [Functions challenges](MISSING_LINK) (We will review them in class)
+- Try the [Functions challenges](./challenges/functions-challenges.md) (We will review them in class)
 
 ## 🔥 Hot tip: Parameter objects
 

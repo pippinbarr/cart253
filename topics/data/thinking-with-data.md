@@ -59,7 +59,7 @@ This works and is a reasonable way to start even! We get to see the visual layou
 
 *But*, it's very rigid. It's annoying to change anything. Note, for example, how all the platforms have the same dimensions, so if we change one we'll have to change them all.
 
-If we want to add a platform we'll have to just write out all the same instructions. If we want to move a platform we have to find the line of code that draws is and remember which number is `x` and which is `y`.
+If we want to add a platform we'll have to just write out all the same instructions. If we want to move a platform we have to find the line of code that draws it and remember which number is `x` and which is `y`.
 
 ## JavaScript Objects!
 

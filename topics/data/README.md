@@ -15,9 +15,11 @@
 ## Modules
 
 - *Thinking with data*
-    - Watch the video on Moodle
+    - Watch the video
     - Read the [Thinking with data notes](./thinking-with-data.md)
 - *JSON*
+    - Watch the video
+    - Read the [JSON notes](./json.md)
 
 ## Examples
 
