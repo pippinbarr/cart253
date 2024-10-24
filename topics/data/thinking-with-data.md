@@ -22,7 +22,7 @@ Making this separation is a *huge* part of writing better programs that make us 
 
 ## Raw data!
 
-Let's imagine we're writing a program where there are three platforms of different types a charater can jump on. Our first approximation of displaying the platforms might be like this:
+Let's imagine we're writing a program where there are three platforms of different types a character can jump on. Our first approximation of displaying the platforms might be like this:
 
 ```javascript
 function setup() {
@@ -55,7 +55,7 @@ function draw() {
 }
 ```
 
-This works and is a reasonable way to start even! We get to see the visual layout, make tweaks, etc.
+This works and is a reasonable way to started even! We get to see the visual layout, make tweaks, etc.
 
 *But*, it's very rigid. It's annoying to change anything. Note, for example, how all the platforms have the same dimensions, so if we change one we'll have to change them all.
 
