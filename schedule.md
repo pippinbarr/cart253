@@ -221,8 +221,7 @@ These are screen recordings of the discussion periods of the Instructions class 
 ### In class
 - ⚙️ Setting up recording
 - 🔥 The [Mod Jam](./assignments/mod-jam) assignment is due tonight!
-- 💭 Thinking like a computer with arrays
-- 💬 Arrays challenges discussion
+- 💭💬 Arrays challenges discussion
 - ...
 
 ### In studio
