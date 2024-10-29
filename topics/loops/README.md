@@ -47,7 +47,7 @@
     
 ## Challenges
 
-- Try the [Loops challenges](MISSING_LINK) (We will review them in class)
+- Try the [Loops challenges](./challenges/loops-challenges.md) (We will review them in class)
 
 ## 🔥 Hot tip: 3D
 

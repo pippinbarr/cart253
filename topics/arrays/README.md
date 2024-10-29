@@ -49,7 +49,7 @@
 
 ## Challenges
 
-- Try the [Arrays challenges](MISSING_LINK) (We will review them in class)
+- Try the [Arrays challenges](./challenges/arrays-challenges.md) (We will review them in class)
 
 ## 🔥 Hot tip: Choosing a random element in an array
 
