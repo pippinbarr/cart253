@@ -83,7 +83,7 @@ There are a couple of specific rules in JSON to remember:
 
 The other option for JSON data in a file is that it is presented as an array. Such as this JSON data giving the names of (four) muppets...
 
-`muppets.json`
+[`muppets.json`](./examples/muppets.json)
 ```json
 [
   "Grover",
@@ -93,7 +93,7 @@ The other option for JSON data in a file is that it is presented as an array. Su
 ]
 ```
 
-Generally speak: just avoid this, it's better and easier to have the file contain an *object*, notably so you can include a "description" and so on.
+Generally speaking: just avoid this, it's better and easier to have the file contain an *object*, notably so you can include a "description" and so on.
 
 ## Obtaining JSON data
 
@@ -115,7 +115,7 @@ You can **find existing JSON-formatted data**, such as in [Darius Kazemi's corpo
 
 ## Loading JSON files
 
-Let's do some practical work now. We'll work in the [Tarot project]() we downloaded at the start.
+Let's do some practical work now. We'll work in the [Tarot project](./examples/tarot.zip) we downloaded at the start.
 
 ### 1. Get a file
 
