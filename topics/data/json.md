@@ -4,11 +4,20 @@ JSON is a way that we can store our program's data in a *file* instead of in the
 
 ## In this module
 
+* Preparation
 * What is JSON?
 * The JSON format
 * Obtaining JSON data
 * Loading JSON files
 * Accessing the data
+
+## Preparation
+
+1. Download the [Tarot project](./examples/tarot.zip)
+2. Unzip it
+3. Move the folder into your repository
+4. Open the folder in VS Code
+5. Commit and push the changes
 
 ## What is JSON?
 
