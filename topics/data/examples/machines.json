@@ -1,0 +1,29 @@
+{
+    "description": "Data about the machines our user can interact with",
+    "machines": [
+        {
+            "type": "incinerator",
+            "x": 0,
+            "y": 100,
+            "width": 100,
+            "height": 100,
+            "fill": "#ff4400"
+        },
+        {
+            "type": "freezer",
+            "x": 150,
+            "y": 100,
+            "width": 100,
+            "height": 100,
+            "fill": "#bbbbff"
+        },
+        {
+            "type": "crusher",
+            "x": 300,
+            "y": 100,
+            "width": 100,
+            "height": 100,
+            "fill": "#777777"
+        }
+    ]
+}

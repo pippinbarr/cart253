@@ -35,7 +35,7 @@ Let's think about a **file** with JSON data in it. These files have the extensio
 
 The main (and frankly best) option for JSON data in our file is to store it all inside an **object**, which allows us to use the standard form of **properties** (officially called **names** in JSON) and **values**. If we moved our data about the *machines* we were discussing in the previous model into a JSON file it would look like this:
 
-`machines.json`
+[`machines.json`](./examples/machines.json)
 ```json
 {
   "description": "Data about the machines our user can interact with",
@@ -46,7 +46,7 @@ The main (and frankly best) option for JSON data in our file is to store it all 
         "y": 100,
         "width": 100,
         "height": 100,
-        "fill": "#ff4400",
+        "fill": "#ff4400"
     },
     {
         "type": "freezer",
@@ -54,7 +54,7 @@ The main (and frankly best) option for JSON data in our file is to store it all 
         "y": 100,
         "width": 100,
         "height": 100,
-        "fill": "#bbbbff",
+        "fill": "#bbbbff"
     },
     {
         "type": "crusher",
