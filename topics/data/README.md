@@ -15,9 +15,11 @@
 ## Modules
 
 - *Thinking with data*
+    - Download the [Machines project](./examples/machines.zip)
     - Watch the video
     - Read the [Thinking with data notes](./thinking-with-data.md)
 - *JSON*
+    - Download the [Tarot project](./examples/tarot.zip)
     - Watch the video
     - Read the [JSON notes](./json.md)
 
