@@ -2,11 +2,12 @@
 
 # 💿 Data {
     
-✨ ... ✨
+✨ Thinking and working with *data* in our programs is a key way to make them more manageable, more organized, and more exciting! It forces us to be more aware of *what's important* in our program, and to make sure we can express that information clearly. Your programs will thank you! ✨
 
 ## Learning objectives
 
-- ...
+- Understanding how to use data to simplify a program
+- Understanding and using JSON data in a program
 
 ## Template
 
@@ -16,16 +17,16 @@
 
 - *Thinking with data*
     - Download the [Machines project](./examples/machines.zip)
-    - Watch the video
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1110793&node=6140497&a=174235184)
     - Read the [Thinking with data notes](./thinking-with-data.md)
 - *JSON*
     - Download the [Tarot project](./examples/tarot.zip)
-    - Watch the video
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1110790&node=6140493&a=188105976)
     - Read the [JSON notes](./json.md)
 
 ## Examples
 
-- ...
+- See the [Data Collection](https://editor.p5js.org/pippinbarr/collections/nAnXQS1Ft) in Pippin's p5 editor for a series of Visual Novel-inspired examples, a localization example, better state data for states, and a data-mashup with JSON.
 
 ## Challenges
 
