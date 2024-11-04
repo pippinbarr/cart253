@@ -243,6 +243,7 @@ These are screen recordings of the discussion periods of the Instructions class 
 
 ### In class
 - ⚙️ Setting up recording
+- 🔥 [Mod Jam](./assignments/mod-jam) definitely due tonight!
 - 📄 Introducing the [Variation Jam](./assignments/variation-jam/) assignment
 - 💭 Thinking like a computer with loops
 - 💬 Loops challenges discussion

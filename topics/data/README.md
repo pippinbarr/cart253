@@ -30,7 +30,7 @@
 
 ## Challenges
 
-- Try the [Data challenges](MISSING_LINK) (We will review them in class)
+- Try the [Data challenges](./challenges/data-challenges.md) (We will review them in class)
 
 ## 🔥 Hot tip: Darius Kazemi's Corpora
 
