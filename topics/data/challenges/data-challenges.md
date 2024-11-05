@@ -123,10 +123,4 @@ You can use this trick to access the correct version of the instructions via the
 
 All going to plan, you will see the correct language appear when you set `lang` to `en` or `fr`. Localized!
 
-### Challenge 7: Debugging
-
-Here's a broken version of one of the examples. See if you can debug it!
-
-[Download the Data Debugging Challenge Project](./data-debugging-challenge.zip)
-    
 ## }

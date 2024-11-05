@@ -23,6 +23,9 @@
     - Download the [Tarot project](./examples/tarot.zip)
     - [Watch the video](https://concordia.yuja.com/V/Video?v=1110790&node=6140493&a=188105976)
     - Read the [JSON notes](./json.md)
+- *Debugging Data*
+    - Download the [Debugging Data project](./examples/debugging-data.zip)
+    - [Watch the video](https://concordia.yuja.com/V/Video?v=1113940&node=6151601&a=193068170)
 
 ## Examples
 
