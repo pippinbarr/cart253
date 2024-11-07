@@ -48,7 +48,7 @@
 
 - *Sounds*
     - Read the [Loading and playing sounds in p5 notes](../extras/sounds.md)
-    - 📖 You can also read the reference page for [`loadSound()`](https://p5js.org/reference/p5/loadSound/) to get an overview 📖
+    - 📖 You can also read the reference page for [`loadSound()`](https://p5js.org/reference/p5.sound/loadSound/) to get an overview 📖
 
 ## Examples
 
