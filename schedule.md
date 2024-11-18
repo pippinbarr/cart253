@@ -288,6 +288,7 @@ These are screen recordings of the discussion periods of the Instructions class 
 
 ### In class
 - ⚙️ Setting up recording
+- 📝 Course evaluations
 - 📄 Introducing the [Post-Reflection](./assignments/post-reflection/) assignment
 - 💬 Q&A
 
@@ -308,6 +309,7 @@ These are screen recordings of the discussion periods of the Instructions class 
 
 ### In class
 - ⚙️ Setting up recording
+- 📝 Course evaluations
 - 💬 Q&A
 
 ### In studio
