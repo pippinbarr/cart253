@@ -6,8 +6,8 @@ Worth 10% of final grade.
 
 ## Deadlines
 
-- 🔥 Section B: 23:59, 19 November 2024
-- 🔥 Section A: 23:59, 21 November 2024
+- 🔥 Section B: 23:59, 3 December 2024
+- 🔥 Section A: 23:59, 5 December 2024
 
 That is, you have two weeks from assignment.
 
@@ -15,13 +15,13 @@ If there is a serious need for an extension, contact your instructor at least 3 
 
 ## Brief
 
-Write a short essay that explores your past, present and potential future relationship to programming as a creative form. The essay should:
+Write a short essay that explores your relationship to programming as it has developed over this course. The essay should:
 
 - **Revisit your programming knowledge at the start of the course** and compare it to what you know now. What are the most significant changes?
-- **Discuss the relationship between your new programming knowledge and your  creative practice**. This can include elements that you are comfortable with, but also things you're challenged by but want to work on incorporating into your creative coding practice. What can you do now as an artist who codes?
-- **Revisit the Big Idea you discussed in the pre-reflection**. Are you closer to accomplishing it now? How has your understanding of the project changed? If you've moved on, describe a new Big Idea that you're excited about working toward as a creative programmer.
+- **Discuss the relationship between your new programming knowledge and your creative practice**. This can include elements that you are comfortable with, but also things you're challenged by but want to work on incorporating into your creative coding practice. What can you do now as an artist who codes?
+- **Look to the future of your role as a creative coder**. How much closer are you to owning that role? How has your understanding of creative code changed? What are you looking forward to being able to do in the future?
 
-In your discussions, it is key to demonstrate your ability to make connections between your specific, technical knowledge (p5.js, JavaScript, etc.) and your approach to creative work in computation arts.
+In your discussions, it is key to demonstrate your ability to make connections between your specific, technical knowledge (p5.js, JavaScript, if-statements, for-loops, etc. etc. etc.) and your approach to creative work in computation arts.
 
 Word count required: 1000-1250 words.
 
