@@ -8,273 +8,258 @@
 
 ## 👋 Hello, World
 
-*Week of 2 September 2024*
+*Week of 1 September 2025*
 
 ### Before class
-- 🧑‍🎓 Follow the [Hello, World learning materials](./topics/hello-world/)
+- (Optional) 🧑‍🎓 Follow the [Hello, World learning materials](./topics/hello-world/)
 
 ### In class
-- 🧭 Orientation (with Kathy)
+- 🧭 CART Orientation
 - 👋 Introductions
 - 👀 The [course outline](./outline) and [schedule](./schedule)
 - 🧑‍💻 The [Computation Lab](https://www.concordia.ca/finearts/design/facilities/computation.html)
-- 💬 Version control discussion and demo as needed
-- 📄 Introducing the [Pre-Reflection](./assignments/pre-reflection/) assignment
+- 😎 That's cool...
+- 🐸 The [FrogFrogFrog repository](https://github.com/pippinbarr/frogfrogfrog/)
+- 💬 Explanation of challenges
 
 ### In studio
-- 🐱 Make sure you have set up and understand your `cart253` repository
-- 💬 Discuss your hopes and dreams with the instructor and TA and each other
-- 🔨 Make a start on next week's materials
+- 🧑‍🎓 Follow the [Hello, World learning materials](./topics/hello-world/)
+- 🤔🤔 Do the [Hello, World Challenge](./topics/hello-world/challenge)
 - 🆘 Try *asking for help* at least once
+- 🔨 (If time) Make a start on next week's materials
 
 ### Homework
-- 🧑‍🎓 Start on next week's materials
-- 🔨 Work on the [Pre-Reflection](./assignments/pre-reflection/) assignment
+- 🧑‍🎓 Follow next week's materials
 
 ---
 
 ## 💬 Instructions
 
-*Week of 9 September 2024*
+*Week of 8 September 2025*
 
 ### Before class
 - 🧑‍🎓 Follow the [Instructions learning materials](./topics/instructions/)
 
 ### In class
-- ⚙️ Setting up recording
+- 😎 That's cool...
 - 💭 Thinking like a computer with instructions
-    - Download the [Thinking like a computer with instructions Project](./topics/instructions/examples/thinking-like-a-computer-with-instructions.zip) if you want to
-- 💬 Discussion
-    - Instructions challenges discussion
-    - How to read the p5 documentation
-    
-#### In class recordings
-
-These are screen recordings of the discussion periods of the Instructions class for each section. (Section B's one has *really loud keyboard sounds* sorry.)
-
-- [CART253A](https://concordia.yuja.com/V/Video?v=1078631&node=5931981&a=116108286)
-- [CART253B](https://concordia.yuja.com/V/Video?v=1078630&node=5931980&a=195517040)
+    - Download the [Thinking like a computer with instructions Project](./topics/instructions/examples/thinking-like-a-computer-with-instructions.zip) if you want to follow along
+- 💬 Instructions Examples
+- 📄 Reading the documentation
+- 🔥 Instructions Hot Tips
+- 🧑‍💻 Introducing the [Art Jam](./assignments/art-jam/) assignment
+- 🐸 The [FrogFrogFrog repository](https://github.com/pippinbarr/frogfrogfrog/)
 
 ### In studio
-- 🔨 Work further on the challenges as needed
-- 🔨 Make a start on next week's materials
+- 🤔🤔 Do the [Instructions Challenge](./topics/instructions/challenge)
+- 🧑‍💻 Work on the [Art Jam](./assignments/art-jam) assignment
 
 ### Homework
-- 🧑‍🎓 Start on next week's materials
-- 📄 Work on the [Pre-Reflection](./assignments/pre-reflection/) assignment (due next week)
+- 🧑‍🎓 Follow next week's materials
+- 🧑‍💻 Work on the [Art Jam](./assignments/art-jam) assignment
 
 ---
 
 ## 🎁 Variables
 
-*Week of 16 September 2024*
+*Week of 15 September 2025*
 
 ### Before class
 - 🧑‍🎓 Follow the [Variables learning materials](./topics/variables/)
 
 ### In class
-- [FutureBound](https://www.concordia.ca/students/success/futurebound.html?utm_campaign=futurebound) presentation
-- [Computation Artst Student Society (CASS)](https://docs.google.com/presentation/d/1PGYm_qR_TVAptYTRzx0HFKSzFJ1BypBZ/edit?usp=sharing&ouid=106375215747065818237&rtpof=true&sd=true)
-- ⚙️ Setting up recording
-- 🔥 The [Pre-Reflection](./assignments/pre-reflection/) assignment is due tonight
-- 📄 Introducing the [Art Jam](./assignments/art-jam/) assignment
+- 😎 That's cool...
 - 💭 Thinking like a computer with variables
     - [Thinking like a computer with variables project](./topics/variables/examples/thinking-like-a-computer-with-variables.zip)
-- 💬 Discussion
-    - Variables challenges discussion
-    - Relative positioning with offsets
+- 💬 Variables Examples
+- 💬 Relative positioning
+- 🔥 Variables Hot Tips
 
 ### In studio
-- 🔨 Work further on the challenges as needed
-- 🔨 Make a start on next week's materials
-- 📄 Work on the [Art Jam](./assignments/art-jam) assignment
+- 🤔🤔 Do the [Variables Challenge](./topics/variables/challenge)
+- 🧑‍💻 Work on the [Art Jam](./assignments/art-jam) assignment
 
 ### Homework
-- 🔥 Submit the [Pre-Reflection](./assignments/pre-reflection/) assignment
-- 🧑‍🎓 Start on next week's materials
+- 🧑‍🎓 Follow next week's materials
 - 📄 Work on the [Art Jam](./assignments/art-jam) assignment
 
 ---
 
 ## 🤔 Conditionals
 
-*Week of 23 September 2024*
+*Week of 22 September 2025*
 
 ### Before class
 - 🧑‍🎓 Follow the [Conditionals learning materials](./topics/conditionals/)
 
 ### In class
-- 💬 A visit from Sabine from the [Computation Lab](https://www.concordia.ca/finearts/design/facilities/computation.html)
-- ⚙️ Setting up recording
-- 🅰️ Grade scale
+- 😎 That's cool...
 - 💭 Thinking like a computer with conditionals
     - [Thinking like a computer with conditionals project](./topics/conditionals/examples/thinking-like-a-computer-with-conditionals.zip)
-- Discussion
-    - [Conditionals challenges](./topics/conditionals/challenges/conditionals-challenges)
-    - Program states
-        - [Basic States](https://editor.p5js.org/pippinbarr/sketches/cpmo2ac1V)
-    - [Running circle](https://editor.p5js.org/pippinbarr/sketches/daalbYwlG)
+- 💬 Conditionals Examples
+- 🔥 Conditionals Hot Tips
 
 ### In studio
-- 🔨 Work further on the challenges as needed
-- 🧑‍🎓 Make a start on next week's materials
+- 🤔🤔 Do the [Conditionals Challenge](./topics/conditionals/challenge)
 - 📄 Work on the [Art Jam](./assignments/art-jam) assignment (due next week)
 
 ### Homework
-- 🧑‍🎓 Start on next week's materials
+- 🧑‍🎓 Follow next week's materials
 - 📄 Work on the [Art Jam](./assignments/art-jam) assignment (due next week)
 
 ---
 
 ## ⏱ Events
 
-*Week of 30 September 2024*
+*Week of 29 September 2025*
 
 ### Before class
 - 🧑‍🎓 Follow the [Events learning materials](./topics/events/)
 
 ### In class
-- ⚙️ Setting up recording
-- 🅰️ Grade scale reminder
+- 😎 That's cool...
 - 🔥 The [Art Jam](./assignments/art-jam) assignment is due tonight
+- 📄 Introducing the [Mod Jam](./assignments/mod-jam/) assignment
 - 💭 Thinking like a computer with events
     - [Thinking like a computer with events project](./topics/events/examples/thinking-like-a-computer-with-events.zip)
-- 💬 Discussion
-    - Events challenges
-    - ...
+- 💬 Events Examples
+- 🔥 Events Hot Tips
 
 ### In studio
-- 🔨 Work further on the challenges as needed
-- 🧑‍🎓 Make a start on next week's materials
-- 📄 Work on the [Art Jam](./assignments/art-jam) assignment (due tonight)
+- 🤔🤔 Do the [Events Challenge](./topics/events/challenge)
+- 📄 Finish the [Art Jam](./assignments/art-jam) assignment (due tonight)
 
 ### Homework
-- 🧑‍🎓 Start on next week's materials
 - 🔥 Submit the [Art Jam](./assignments/art-jam) assignment (due tonight)
+- 🧑‍🎓 Follow next week's materials
+- 🔥 Come to class next week with your working Mod Jam
 
 ---
 
 ## 🛠 Making
 
-*Week of 7 October 2024*
+*Week of 6 October 2025*
 
 ### Before class
 - 🧑‍🎓 Follow the [Making learning materials](./topics/making/)
 
 ### In class
-- ⚙️ Setting up recording
-- 📄 Introducing the [Mod Jam](./assignments/mod-jam/) assignment
-- 💬 Discussion
-    - Making challenges
+- 😎 That's cool...
+- 💬 Making Examples (live requests?)
     - Adding states to FrogFrogFrog
     - Adding "tongue charging" to FrogFrogFrog
+- 🔥 Making Hot Tips
+- 👀 Testing! Testing! Looking at each other's Art Jams
+    - Complete the associated [Art Jam Reflection](./assignments/art-jam-reflection/)
 
 ### In studio
-- 🔨 Work further on the challenges as needed
+- 🤔🤔 Do the [Making Challenge](./topics/making/challenge)
 - 📄 Work on the [Mod Jam](./assignments/mod-jam) assignment
 
 ### Homework
-- 🧑‍🎓 Work on the post-reading week materials
 - 📄 Work on the [Mod Jam](./assignments/mod-jam) assignment
+- 🧑‍🎓 Follow the post-reading week materials
 
 ---
 
 ## 📚 Reading week (NO CLASS)
 
-*Week of 14 October 2024*
+*Week of 13 October 2025*
 
-- 🧑‍🎓 Work on next week's materials
 - 📄 Work on the [Mod Jam](./assignments/mod-jam) assignment
+- 🧑‍🎓 Follow next week's materials
 
 ---
 
 ## ☎️ Functions
 
-*Week of 21 October 2024*
+*Week of 20 October 2025*
 
 ### Before class
 - 🧑‍🎓 Follow the [Functions learning materials](./topics/functions/)
 
 ### In class
-- ⚙️ Setting up recording
-- ⏰ One week flexibility on [Mod Jam](./assignments/mod-jam)
+- 😎 That's cool...
 - 💭 Thinking like a computer with functions
-- 💬 Functions challenges discussion
+- 💬 Functions Examples
+- 🔥 Functions Hot Tips
 
 ### In studio
-- 🔨 Work further on the challenges as needed
+- 🤔🤔 Do the [Functions Challenge](./topics/functions/challenge)
 - 📄 Work on the [Mod Jam](./assignments/mod-jam) assignment
 
 ### Homework
-- 🧑‍🎓 Make a start on next week's materials
 - 📄 Work on the [Mod Jam](./assignments/mod-jam) assignment
+- 🧑‍🎓 Follow next week's materials
 
 ---
 
 ## 🗄 Arrays
 
-*Week of 28 October 2024*
+*Week of 27 October 2025*
 
 ### Before class
 - 🧑‍🎓 Follow the [Arrays learning materials](./topics/arrays/)
 
 ### In class
-- ⚙️ Setting up recording
+- 😎 That's cool...
 - 🔥 The [Mod Jam](./assignments/mod-jam) assignment is due tonight!
-- 💭💬 Arrays challenges discussion
-- ...
+- 💭 Thinking like a computer with arrays (if we can!)
+- 💬 Arrays Examples
+- 🔥 Arrays Hot Tips
+- 📄 Introducing the [Variation Jam](./assignments/variation-jam/) assignment
 
 ### In studio
-- 🔨 Work further on the challenges as needed
+- 🤔🤔 Do the [Arrays Challenge](./topics/arrays/challenge)
 - 📄 Work on the [Mod Jam](./assignments/mod-jam) assignment (due tonight!)
 
 ### Homework
-- 🧑‍🎓 Make a start on next week's materials
 - 🔥 Submit the [Mod Jam](./assignments/mod-jam) assignment (due tonight!)
+- 🧑‍🎓 Follow next week's materials
+- 🔥 Come to class next week with your working Mod Jam
 
 ---
 
 ## 🔁 Loops
 
-*Week of 4 November 2024*
+*Week of 3 November 2025*
 
 ### Before class
 - 🧑‍🎓 Follow the [Loops learning materials](./topics/loops/)
 
 ### In class
-- ⚙️ Setting up recording
-- 🔥 [Mod Jam](./assignments/mod-jam) definitely due tonight!
-- 📄 Introducing the [Variation Jam](./assignments/variation-jam/) assignment
+- 😎 That's cool...
 - 💭 Thinking like a computer with loops
-- 💬 Loops challenges discussion
+- 💬 Loops Examples
+- 🔥 Loops Hot Tips
+- 👀 Testing! Testing! Looking at each other's Mod Jams
+    - Complete the associated [Art Jam Reflection](./assignments/art-jam-reflection/)
 
 ### In studio
-- 🔨 Work further on the challenges as needed
+- 🤔🤔 Do the [Loops Challenge](./topics/loops/challenge)
 - 📄 Work on the [Variation Jam](./assignments/mod-jam) assignment
 
 ### Homework
-- 🧑‍🎓 Make a start on next week's materials
 - 📄 Work on the [Variation Jam](./assignments/variation-jam) assignment
-    - 🔥 Come to class next week with ideas and a plan 🔥
-
+- 🧑‍🎓 Follow next week's materials
 
 ---
 
 ## 💿 Data
 
-*Week of 11 November 2024*
+*Week of 10 November 2025*
 
 ### Before class
 - 🧑‍🎓 Follow the [Data learning materials](./topics/data/)
 
 ### In class
-- ⚙️ Setting up recording
-- 💬 Data challenges discussion
-- ...
+- 😎 That's cool...
+- 💭 Thinking like a computer with data (if we can?)
+- 💬 Data Examples
+- 🔥 Data Hot Tips
 
 ### In studio
-- 💬 Early check-ins with Pippin about the Variations Jam (🔥 Do not leave before checking in 🔥)
-- 🔨 Work further on the challenges as needed
+- 🤔🤔 Do the [Data Challenge](./topics/data/challenge)
 - 📄 Work on the [Variation Jam](./assignments/variation-jam) assignment
 
 ### Homework
@@ -284,36 +269,37 @@ These are screen recordings of the discussion periods of the Instructions class 
 
 ## 🍓 Jam Week 1
 
-*Week of 18 November 2024*
+*Week of 17 November 2025*
 
 ### In class
-- ⚙️ Setting up recording
+- 😎 That's cool...
 - 📝 Course evaluations
 - 📄 Introducing the [Post-Reflection](./assignments/post-reflection/) assignment
-- 💬 Q&A
+- Q&A
 
 ### In studio
-- 💬 Continuing check-ins with Pippin about the Variations Jam (🔥 Do not leave before checking in 🔥)
+- 💬 Check in with your instructor or teaching assistant about progress on the Variation Jam (🔥 Do not leave before checking in 🔥)
 - 📄 Work on the [Variation Jam](./assignments/variation-jam) assignment
 - 📄 Work on the [Post-Reflection](./assignments/post-reflection/) assignment
 
 ### Homework
 - 📄 Work on the [Variation Jam](./assignments/variation-jam) assignment
 - 📄 Work on the [Post-Reflection](./assignments/post-reflection/) assignment
-- 🔥 Come to class next week with a working prototype if at all possible
+- 🔥 Come to class next week with a working prototype
+
 ---
 
 ## 🍓 Jam Week 2
 
-*Week of 25 November 2024*
+*Week of 24 November 2025*
 
 ### In class
-- ⚙️ Setting up recording
-- 📝 Course evaluations
-- 💬 Q&A
+- 😎 That's cool...
+- Q&A
+- 👀 Testing! Testing! Looking at each other's Variation Jams
+    - Complete the associated [Art Jam Reflection](./assignments/art-jam-reflection/)
 
 ### In studio
-- 🔥 Demos of in progress Variation Jams
 - 📄 Work on the [Variation Jam](./assignments/variation-jam) assignment
 - 📄 Work on the [Post-Reflection](./assignments/post-reflection/) assignment
 
@@ -325,7 +311,7 @@ These are screen recordings of the discussion periods of the Instructions class 
 
 ## ✋ Final Submission Week (NO CLASS)
 
-*Week of 2 December 2024*
+*Week of 1 December 2025*
 
 - 🔥 Submit the [Variation Jam](./assignments/variation-jam) assignment
 - 🔥 Submit the [Post-Reflection](./assignments/post-reflection/) assignment
