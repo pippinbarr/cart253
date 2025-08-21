@@ -15,6 +15,10 @@
 
 ## Modules
 
+[Vimeo playlist for Conditionals](https://vimeo.com/showcase/11842914)
+
+(Inline links below are for YuJa)
+
 - *Introducing conditionals*
     - [Watch the video](https://concordia.yuja.com/V/Video?v=1071114&node=5700547&a=136607647)
     - Read the [Introducing conditionals notes](./introducing-conditionals.md)

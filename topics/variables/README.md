@@ -16,6 +16,10 @@
 
 ## Modules
 
+[Vimeo playlist for Variables](https://vimeo.com/showcase/11842907)
+
+(Inline links below are for YuJa)
+
 - *Introducing variables*
     - Download the [template project](../../templates/template-p5-project.zip)
     - [Watch the video](https://concordia.yuja.com/V/Video?v=1071108&node=5700532&a=197018688)

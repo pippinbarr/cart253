@@ -10,7 +10,7 @@
 
 **Section A**: Thursdays, 13:15 – 17:15 in EV 5.815  
 **Section B**: Tuesdays, 13:15 – 17:15 in EV 5.709  
-**Section AA**: Wednesdays, 17:45 - 21:45 in EV 5.XXX
+**Section AA**: Wednesdays, 17:45 - 21:45 in EV 5.709
 
 Also: Discord, email, and the internet!
 
@@ -36,7 +36,10 @@ Computation Lab Coordinator
 Department of Design and Comptuation Arts  
 
 [sabine.rosenberg@concordia.ca](mailto:sabine.rosenberg@concordia.ca)  
-[website]()
+
+Office hours: CLAB Hours (EV 6.705)
+
+**Teaching assistant**: Kamyar Karimi
 
 ## [Territorial acknowledgment](https://www.concordia.ca/about/indigenous/territorial-acknowledgement.html)
 

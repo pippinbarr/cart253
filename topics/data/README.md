@@ -15,6 +15,10 @@
 
 ## Modules
 
+[Vimeo playlist for Data](https://vimeo.com/showcase/11842963)
+
+(Inline links below are for YuJa)
+
 - *Thinking with data*
     - Download the [Machines project](./examples/machines.zip)
     - [Watch the video](https://concordia.yuja.com/V/Video?v=1110793&node=6140497&a=174235184)

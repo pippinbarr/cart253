@@ -16,7 +16,9 @@
 
 ## Modules
 
-[YuJA Playlist for Hello, World!](https://concordia.yuja.com/V/PlayList?node=5700815&a=1643301425)
+[Vimeo playlist for Hello, World!](https://vimeo.com/showcase/11842892)
+
+(Inline links below are for YuJa)
 
 - *Welcome to Creative Computation!*
     - [Watch the video](https://concordia.yuja.com/V/Video?v=1071095&node=5700483&a=114219777)

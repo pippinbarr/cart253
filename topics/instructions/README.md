@@ -17,6 +17,10 @@
 
 ## Modules
 
+[Vimeo playlist for Instructions](https://vimeo.com/showcase/11842898)
+
+(Inline links below are for YuJa.)
+
 - *Anatomy of a p5 project* 
     - [Watch the video](https://concordia.yuja.com/V/Video?v=1071097&node=5700486&a=111305522)
     - Read the [text notes](./anatomy-of-a-p5-project.md)

@@ -17,6 +17,10 @@
 
 ## Modules
 
+[Vimeo playlist for Arrays](https://vimeo.com/showcase/11842949)
+
+(Inline links below are for YuJa)
+
 - *Introducing arrays*
   - [Watch the video](https://concordia.yuja.com/V/Video?v=1088798&node=6032684&a=103682281)
   - Read the [Introducing arrays notes](./introducing-arrays.md)

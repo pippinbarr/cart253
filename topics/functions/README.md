@@ -16,6 +16,10 @@
 
 ## Modules
 
+[Vimeo playlist for Functions](https://vimeo.com/showcase/11842930?share=copy)
+
+(Inline links below are for YuJa)
+
 - *Functions with parameters* 
     - Download the [Trisolaris project](./examples/trisolaris.zip)
     - [Watch the video](https://concordia.yuja.com/V/Video?v=1085478&node=5999536&a=127200052)

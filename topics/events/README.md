@@ -15,6 +15,10 @@
 
 ## Modules
 
+[Vimeo playlist for Events](https://vimeo.com/showcase/11842925)
+
+(Inline links below are for YuJa)
+
 - *Time and JavaScript and p5*
     - Download the [template project](../../templates/template-p5-project.zip)
     - [Watch the video](https://concordia.yuja.com/V/Video?v=1071121&node=5700565&a=197642688)

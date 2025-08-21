@@ -16,6 +16,10 @@
     
 ## Modules
 
+[Vimeo playlist for Loops](https://vimeo.com/showcase/11842957)
+
+(Inline links below are for YuJa)
+
 - *Introducing `while`-loops*
   - Download the [Vertical Circles Project](./examples/vertical-circles.zip)
   - [Watch the video](https://concordia.yuja.com/V/Video?v=1089980&node=6042848&a=195309627)

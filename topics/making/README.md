@@ -16,6 +16,10 @@
 
 ## Modules
 
+[Vimeo playlist for Making](https://vimeo.com/showcase/11842927)
+
+(Inline links below are for YuJa)
+
 - *Having ideas*
     - [Watch the video](https://concordia.yuja.com/V/Video?v=1071126&node=5700580&a=23694666)
     - Read the [Having ideas notes](./having-ideas.md)
