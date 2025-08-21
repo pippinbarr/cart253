@@ -2,18 +2,21 @@
 
 # 📜 Course Outline
 
-## CART 253: Creative Computation 1 – Fall 2024 – 3 credits
+## CART 253: Creative Computation 1 – Fall 2025 – 3 credits
 
 ## When and where?
 
-1 September – 14 December, 2024  
+2 September – 1 December, 2025  
 
-**Section A**: Thursdays, 13:15 – 17:15 in EV 5.709  
-**Section B**: Tuesdays, 13:15 – 17:15 in EV 5.815
+**Section A**: Thursdays, 13:15 – 17:15 in EV 5.815  
+**Section B**: Tuesdays, 13:15 – 17:15 in EV 5.709  
+**Section AA**: Wednesdays, 17:45 - 21:45 in EV 5.XXX
 
-Also: Discord, Zoom, email, the internet!
+Also: Discord, email, and the internet!
 
 ## Who?
+
+### Sections A and B
 
 Dr. Pippin Barr  
 Associate Professor and Department Chair  
@@ -24,7 +27,16 @@ Department of Design and Computation Arts
 
 Office hours: tbd.
 
-**Teaching assistant**: Mathilde Davan
+**Teaching assistant**: Michael Vlamis
+
+### Section AA
+
+Sabine Rosenberg  
+Computation Lab Coordinator  
+Department of Design and Comptuation Arts  
+
+[sabine.rosenberg@concordia.ca](mailto:sabine.rosenberg@concordia.ca)  
+[website]()
 
 ## [Territorial acknowledgment](https://www.concordia.ca/about/indigenous/territorial-acknowledgement.html)
 
@@ -52,27 +64,29 @@ After completing this course, students should be able to:
 
 Most weeks will include a number of lecture videos and notes covering a specific topic in programming for students to follow in their own time before that week's class time.
 
-### Challenges
-
-Most weeks will include a small set of challenges for students to test their understanding of the week's material. The challenges will be discussed in class.
-
 ### Class structure
 
 #### Discussion
 
 Each class will being with a discussion period in the classroom. This will generally include:
 
-- a chance for students to present and discuss their responses to the week's challenges
 - an ongoing series of discussions of how a computer perceives and executes the code related to the week's topic
-- a presentation of a useful or more advanced idea related to the week's topic
-- a question and answer period as needed
+- a presentation of a useful or more advanced idea related to the week's topic as relevant
+- a run-through of the week's example code
+
+#### In-class challenge
+
+Most classes will include a time-limited and evaluated in-class challenge for students to complete in pairs. Asking for help during the challenge is allowed and encouraged.
+
+#### User testing
+
+Some weeks will include a period of trying out each other's work. Students will be assigned a set of other student work to respond to in a short written response.
 
 #### Studio time
 
-After the start of class period, there will be studio time during which the instructor and TA will be available for specific student requests for assistance in person or via the class Discord.
+There will be studio time during which the instructor and TA will be available for specific student requests for assistance in person or via the class Discord.
 
-Attendance of the studio period is technically optional, but students are *very heavily encouraged* to take the time to connect with the instructor and TA and to work in the group setting. You learn by doing and you learn by getting help.
-
+Attendance of the studio period is *highly encouraged* to take the time to connect with the instructor and TA and to work in the group setting. You learn by doing and you learn by getting help.
 
 ### Projects
 
@@ -80,7 +94,7 @@ There will be three graded projects, called "jams," during the course. Each will
 
 ### Office hours
 
-The instructor will be live on Discord for extra hours during the week explicitly to support students with questions about programming topics, activities, exercises, projects, and anything else of relevance.
+The instructors will be live on Discord for extra hours during the week explicitly to support students with questions about programming topics, activities, exercises, projects, and anything else of relevance.
 
 ## Expected skills
 
@@ -112,13 +126,15 @@ Students will also create their own repository on GitHub to save, track, and pre
 
 Specific evaluation requirements will be provided when assigned. See the [Schedule](./schedule.md) for timing.
 
-* [Pre-reflection](./assignments/pre-reflection/) (10%)
+* [In-class Challenges](./assignments/challenges/) x 10 (1% each, totalling 10%)
 * [Art Jam](./assignments/art-jam/) (10%)
 * [Mod Jam](./assignments/mod-jam/) (20%)
-* [Variations Jam](./assignments/variation-jam/) (30%)
+* [Mod Jam Response](./assignments/mod-jam-response) (5%)
+* [Variation Jam](./assignments/variation-jam/) (30%)
+* [Variation Jam Response](./assignments/variation-jam-response) (5%)
 * [Post-reflection](./assignments/post-reflection/) (10%)
-* Participation (20%)
-    * Participation includes: attending class, completing coursework, being present on the Discord, asking questions, contributing to discussions, sharing ideas, and coming to office hours, email   ing the instructor with updates on projects (even if you do not need help, make sure to touch base with the instructor regularly in some capacity)
+* Participation (10%)
+    * Participation includes: attending class, completing coursework, being present on the Discord, asking questions, contributing to discussions, sharing ideas, and coming to office hours (note: even if you feel that you never need help, make sure to touch base with the instructor regularly in some capacity)
 
 ## French
 
@@ -128,7 +144,7 @@ Students have the right to write in French at Concordia. Pippin can read French 
 
 Late work of any kind will lose one letter grade per day late, beginning immediately after the deadline (e.g. if it is two days late, work that would have received a B would lose two letter grades and receive a C+). 
 
-**🔥 Please get in touch with Pippin before a deadline passes if you think you won't make it 🔥**
+**🔥 Please get in touch with the instructor before a deadline passes if you think you won't make it 🔥**
 
 ## Academic integrity
 
@@ -144,7 +160,7 @@ When creating projects in code, make sure you attribute all elements that are no
 
 ### Programming and AI
 
-It is course policy that no student will use AI tools or similar to help them with their programming work. There is a great conversation to be had about these tools and we should have it, but the bottom line is that this course is about learning to code from the ground up.
+It is course policy that no student will use AI tools or similar to produce their work. There is a great conversation to be had about these tools and we should have it, but the bottom line is that this course is about learning to code, not having it done for us.
 
 ## Costs
 
@@ -153,7 +169,7 @@ It is course policy that no student will use AI tools or similar to help them wi
 
 ## Technology
 
-The practical work done in this class will take place on a lab computer or on your own computer, with course software installed on it by you. The instructor is significantly more experienced with macOS, but will work to support Windows and even Linux as needed. This course does not require a significantly powerful machine beyond the ability to run a web browser.
+The practical work done in this class will take place on a lab computer or on your own computer, with course software installed on it by you. This course does not require a significantly powerful machine beyond the ability to run a text editor and a web browser.
 
 ## [Course Schedule](./schedule)
 
@@ -162,6 +178,8 @@ The practical work done in this class will take place on a lab computer or on yo
 ## [Design and Computation Arts Syllabus](https://www.concordia.ca/content/dam/finearts/design/docs/dcart-undergraduate-syllabus.pdf)
 
 (Click through for the standardized information from D/CART that is included as part of all course outlines.)
+
+**Note especially**: The Department of Design and Computation Arts offers extremely useful labs for students to get help and resources to do their work during the program. This includes the [Computation Lab](https://www.concordia.ca/finearts/design/facilities/computation.html), the [Sensor Lab](https://www.concordia.ca/finearts/design/facilities/sensor.html), the [Visual Communication Lab](https://www.concordia.ca/finearts/design/facilities/visual-communication.html), the [Soft Surface Lab](https://www.concordia.ca/finearts/design/facilities/soft-surface.html) and the [Documentation Lab](https://www.concordia.ca/finearts/design/facilities/documentation.html). To gain access to and support these labs we ask for a $50 departmental fee to be paid once per year. The fee can be paid via the faculty's [Online Fees System](https://adsys2.concordia.ca/OFAF/pages/Default).
 
 ## Behaviour
 
