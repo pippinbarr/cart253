@@ -43,13 +43,13 @@
 ### In class
 - 😎 That's cool...
 - 💭 Thinking like a computer with instructions
-    - Download the [Thinking like a computer with instructions Project](./topics/instructions/examples/thinking-like-a-computer-with-instructions.zip) if you want to follow along
+    - [Thinking like a computer with instructions Project](./topics/instructions/examples/thinking-like-a-computer-with-instructions.zip) 
 - 💬 Instructions Examples
 - 📄 Reading the documentation
 - 🔥 Instructions Hot Tips
 - 🧑‍💻 Introducing the [Art Jam](./assignments/art-jam/) assignment
 - 🐸 The [FrogFrogFrog repository](https://github.com/pippinbarr/frogfrogfrog/)
-- 🐞 [The Instructions Debugging Challenge](./assignments/challenges/instructions/instructions-debugging-challenge.zip)
+- 🐞 [Debugging Instructions](./assignments/challenges/instructions/instructions-debugging-challenge.zip)
 
 ### In studio
 - 🤔🤔 Do the [Instructions Challenge](./assignments/challenges/instructions/)

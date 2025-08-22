@@ -6,12 +6,12 @@
 
 #### Deadlines
 
-- 🔥 Section B: 23:59, 1 October 2024
-- 🔥 Section A: 23:59, 3 October 2024
+- 🔥 Section B: 23:59, 30 September 2024
+- 🔥 Section A: 23:59, 2 October 2024
 
-That is, you have two weeks from assignment.
+That is, you have three weeks from assignment.
 
-If there is a serious need for an extension, contact your instructor at least 3 days *before* the final deadline.
+If there is a serious need for an extension, contact your instructor at least 3 days *before* the final deadline. Asking for an extension the day of or days after the deadline isn't fair.
 
 ## Objectives
 
@@ -21,16 +21,21 @@ If there is a serious need for an extension, contact your instructor at least 3 
 
 ## Brief
 
-Using p5's drawing instructions and variables as well as your own variables, create a surprising and compelling visual experience on the canvas. This could be representational or abstract according to your preference. But it must:
+> Draw a self-portrait (in JavaScript with p5)
 
-- **Use variables** to create change of different kinds (movement, scale, colour, and more)
-- **Use `mouseX` and `mouseY`** to allow for some user interaction/input
-- **Use p5's `map()` function** in some capacity (learn about it by [reading the `map()` reference page](https://p5js.org/reference/p5/map/))
+Using p5's drawing instructions, create a self-portrait on the canvas. You have total freedom of representation here, so it could be realistic, abstract, absurd, dada, pointilist, expressionist, cubist, procedural, scary, etc.
+
+The self-portrait must:
+
+- **Use variables** to create change over time
+
+- **Use `mouseX` and `mouseY`** to allow for some user interaction
+
+- **Use at least one p5 function you've never tried** (search the reference, make sure you *state* the new function in your `README.md`)
+
 - **Use at least one conditional** to make the program respond to a changing variable
 
-Exceeding these basics is optional but encouraged.
-
-Feel free to borrow from any of the example code you've seen so far in the course, but make sure to **attribute** in your `README.md` and/or your `script.js`.
+Feel free to borrow from any of the example code you've seen so far in the course, but make sure to **attribute** in your `README.md`.
 
 ## Advice
 
@@ -38,44 +43,26 @@ Feel free to borrow from any of the example code you've seen so far in the cours
 2. **Start small**. Think of the smallest possible version of what you want to make and make that first. Once it works, you can start adding to it.
 3. **Seek help**. Ask for help early to discuss your idea and work out ways to achieve it, as well as to get specific technical help as you run into problems. If you can't think of an idea, ask for help with that.
 4. **Be stylish**. Make sure you read the [style guide](../../guides/style-guide.md).
+5. **Be committed**. Remember your grade is heavily affected by your use of version control and writing good commit messages.
 
 ## Submission
 
 Submission will take place on **Moodle**. Go to the appropriately named **assignment** on the Moodle and then submit your work there.
 
-Your submission should just be plain text that includes (substituting your GitHub username and any difference in the folder names):
+Your submission should just be plain text that includes:
 
-1. A link to your exercise code (e.g. <https://github.com/pippinbarr/cart253/tree/main/assignments/art-jam/>)
-2. A link to your project running online (e.g. <https://pippinbarr.github.io/cart253-2023/assignments/art-jam/>)
+1. A link to your exercise code in your repository (e.g. <https://github.com/pippinbarr/cart253/tree/main/assignments/art-jam/>)
+2. A link to your project running online (e.g. <https://pippinbarr.github.io/cart253/assignments/art-jam/>)
 
 🔥 Make sure that your project actually runs online before you submit 🔥
 
-🔥 Make sure that comment your project before you submit 🔥
+🔥 Make sure that you have commented your project before you submit 🔥
 
-🔥 Make sure that you have written a `README.md` before you submit 🔥
+🔥 Make sure that you have filled out your `README.md` before you submit 🔥
 
 ## Evaluation
 
 See the assignment rubric on Moodle for details.
-
-Grades are converted from the 13 point scale on Moodle as follows:
-
-```
-13/13 → A+
-12/13 → A
-11/13 → A-
-10/13 → B+
- 9/13 → B
- 8/13 → B-
- 7/13 → C+
- 6/13 → C
- 5/13 → C-
- 4/13 → D+
- 3/13 → D
- 2/13 → D-
- 1/13 → F
- 0/13 → F
-```
 
 ---
 
