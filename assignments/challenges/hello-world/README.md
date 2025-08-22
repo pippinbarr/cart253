@@ -4,11 +4,13 @@ We need to make sure we feel comfortable with our software and especially the id
 
 As with all challenges, do this work *in pairs*.
 
-## Challenge: create your `cart253` repository and make changes and commits of `README.md`
+## Challenge
 
-To complete this challenge you should follow the course materials on version control to each create your `cart253` repository on your own computer or on a lab computer.
+> Create your `cart253` repository and make multiple edits to and commits of `README.md`
 
-Once it's created, use your text editor to make changes to the `README.md` file, taking the opportunity to practice with markdown for formatting. Make the `README.md` file into a nice explanation of what will be in the repository.
+1. Follow the course materials on version control as needed to each create your `cart253` repository on your own computer or on a lab computer.
+2. Use your text editor to make changes to the `README.md` file, taking the opportunity to practice with markdown for formatting. Commit and push to the repository with a good commit message. 
+3. Repeat step 2 multiple times to make the `README.md` file into a nice explanation of what will be in the repository.
 
 Help and ask for help from your partner and from the instructor and teaching assistant as needed.
 
@@ -27,7 +29,11 @@ This challenge is pass/fail and is worth 1% of your final grade.
 
 ## Submission
 
-Once you're cleared to submit, go to the Moodle and both submit your work. All you need to submit is:
+Once you're cleared to submit, go to the Moodle and both submit your work. You should each separately submit:
 
-- The link to your repository on GitHub (e.g. https://github.com/pippinbarr/cart253)
-- The link to the website version of your repository on GitHub Pages (e.g. https://pippinbarr.github.io/cart253)
+- Your name
+    - The link to your repository on GitHub (e.g. https://github.com/pippinbarr/cart253)
+    - The link to the website version of your repository on GitHub Pages (e.g. https://pippinbarr.github.io/cart253)
+- The name of your partner for this challenge
+    - The link to *their* repository on GitHub
+    - The link to *their* website version
