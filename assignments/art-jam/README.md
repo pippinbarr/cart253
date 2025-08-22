@@ -7,11 +7,12 @@
 #### Deadlines
 
 - 🔥 Section B: 23:59, 30 September 2025
+- 🔥 Section C: 23:59, 1 October 2025
 - 🔥 Section A: 23:59, 2 October 2025
 
 That is, you have three weeks from assignment.
 
-If there is a serious need for an extension, contact your instructor at least 3 days *before* the final deadline. Asking for an extension the day of or days after the deadline isn't fair.
+If there is a serious need for an extension, contact your instructor at least 3 days *before* the final deadline.
 
 ## Objectives
 

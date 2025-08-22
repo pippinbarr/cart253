@@ -150,16 +150,18 @@
     - Adding states to FrogFrogFrog
     - Adding "tongue charging" to FrogFrogFrog
 - 🔥 Making Hot Tips
-- 👀 Testing! Testing! Looking at each other's Art Jams
-    - Complete the associated [Art Jam Reflection](./assignments/art-jam-reflection/)
+- 🧐 Introducing the [Art Jam Response](./assignments/responses/art-jam/)
+- 👀 Art Jam Response Time!
 
 ### In studio
 - 🤔🤔 Do the [Making Challenge](./assignments/challenges/making/)
 - 📄 Work on the [Mod Jam](./assignments/mod-jam) assignment
+- 🧐 Work on the [Art Jam Response](./assignments/responses/art-jam/)
 
 ### Homework
 - 📄 Work on the [Mod Jam](./assignments/mod-jam) assignment
 - 🧑‍🎓 Follow the post-reading week materials
+- 🧐 Work on the [Art Jam Response](./assignments/responses/art-jam/)
 
 ---
 
@@ -167,6 +169,7 @@
 
 *Week of 13 October 2025*
 
+- 🧐🔥 The [Art Jam Response](./assignments/responses/art-jam/) is due this week
 - 📄 Work on the [Mod Jam](./assignments/mod-jam) assignment
 - 🧑‍🎓 Follow next week's materials
 
