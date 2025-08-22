@@ -303,17 +303,14 @@
 ### In class
 - 😎 That's cool...
 - Q&A
-- 🧐 Introducing the [Variation Jam Response](./assignments/responses/variation-jam/)
-- 👀 Variation Jam Response Time!
+- 👀 Variation Jam Response Time! (No evaluation on this one, let's just enjoy!)
 
 ### In studio
 - 📄 Work on the [Variation Jam](./assignments/variation-jam) assignment
-- 📄 Work on the [Variation Jam Response](./assignments/responses/variation-jam/)
 - 📄 Work on the [Post-Reflection](./assignments/post-reflection/) assignment
 
 ### Homework
 - 📄 Work on the [Variation Jam](./assignments/variation-jam) assignment
-- 📄 Work on the [Variation Jam Response](./assignments/responses/variation-jam/)
 - 📄 Work on the [Post-Reflection](./assignments/post-reflection/) assignment
 
 ---
@@ -323,5 +320,4 @@
 *Week of 1 December 2025*
 
 - 🔥 Submit the [Variation Jam](./assignments/variation-jam) assignment
-- 🔥 Submit the [Variation Jam Response](./assignments/responses/variation-jam/)
 - 🔥 Submit the [Post-Reflection](./assignments/post-reflection/) assignment
