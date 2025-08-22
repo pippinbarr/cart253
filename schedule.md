@@ -49,6 +49,7 @@
 - 🔥 Instructions Hot Tips
 - 🧑‍💻 Introducing the [Art Jam](./assignments/art-jam/) assignment
 - 🐸 The [FrogFrogFrog repository](https://github.com/pippinbarr/frogfrogfrog/)
+- 🐞 [The Instructions Debugging Challenge](./assignments/challenges/instructions/instructions-debugging-challenge.zip)
 
 ### In studio
 - 🤔🤔 Do the [Instructions Challenge](./assignments/challenges/instructions/)
