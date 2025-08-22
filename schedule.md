@@ -24,7 +24,7 @@
 
 ### In studio
 - 🧑‍🎓 Follow the [Hello, World learning materials](./topics/hello-world/)
-- 🤔🤔 Do the [Hello, World Challenge](./topics/hello-world/challenge)
+- 🤔🤔 Do the [Hello, World Challenge](./assignments/challenges/hello-world/)
 - 🆘 Try *asking for help* at least once
 - 🔨 (If time) Make a start on next week's materials
 
@@ -51,7 +51,7 @@
 - 🐸 The [FrogFrogFrog repository](https://github.com/pippinbarr/frogfrogfrog/)
 
 ### In studio
-- 🤔🤔 Do the [Instructions Challenge](./topics/instructions/challenge)
+- 🤔🤔 Do the [Instructions Challenge](./assignments/challenges/instructions/)
 - 🧑‍💻 Work on the [Art Jam](./assignments/art-jam) assignment
 
 ### Homework
@@ -76,7 +76,7 @@
 - 🔥 Variables Hot Tips
 
 ### In studio
-- 🤔🤔 Do the [Variables Challenge](./topics/variables/challenge)
+- 🤔🤔 Do the [Variables Challenge](./assignments/challenges/variables/)
 - 🧑‍💻 Work on the [Art Jam](./assignments/art-jam) assignment
 
 ### Homework
@@ -100,7 +100,7 @@
 - 🔥 Conditionals Hot Tips
 
 ### In studio
-- 🤔🤔 Do the [Conditionals Challenge](./topics/conditionals/challenge)
+- 🤔🤔 Do the [Conditionals Challenge](./assignments/challenges/conditionals/)
 - 📄 Work on the [Art Jam](./assignments/art-jam) assignment (due next week)
 
 ### Homework
@@ -126,7 +126,7 @@
 - 🔥 Events Hot Tips
 
 ### In studio
-- 🤔🤔 Do the [Events Challenge](./topics/events/challenge)
+- 🤔🤔 Do the [Events Challenge](./assignments/challenges/events/)
 - 📄 Finish the [Art Jam](./assignments/art-jam) assignment (due tonight)
 
 ### Homework
@@ -153,7 +153,7 @@
     - Complete the associated [Art Jam Reflection](./assignments/art-jam-reflection/)
 
 ### In studio
-- 🤔🤔 Do the [Making Challenge](./topics/making/challenge)
+- 🤔🤔 Do the [Making Challenge](./assignments/challenges/making/)
 - 📄 Work on the [Mod Jam](./assignments/mod-jam) assignment
 
 ### Homework
@@ -185,7 +185,7 @@
 - 🔥 Functions Hot Tips
 
 ### In studio
-- 🤔🤔 Do the [Functions Challenge](./topics/functions/challenge)
+- 🤔🤔 Do the [Functions Challenge](./assignments/challenges/functions/)
 - 📄 Work on the [Mod Jam](./assignments/mod-jam) assignment
 
 ### Homework
@@ -210,7 +210,7 @@
 - 📄 Introducing the [Variation Jam](./assignments/variation-jam/) assignment
 
 ### In studio
-- 🤔🤔 Do the [Arrays Challenge](./topics/arrays/challenge)
+- 🤔🤔 Do the [Arrays Challenge](./assignments/challenges/arrays/)
 - 📄 Work on the [Mod Jam](./assignments/mod-jam) assignment (due tonight!)
 
 ### Homework
@@ -236,7 +236,7 @@
     - Complete the associated [Art Jam Reflection](./assignments/art-jam-reflection/)
 
 ### In studio
-- 🤔🤔 Do the [Loops Challenge](./topics/loops/challenge)
+- 🤔🤔 Do the [Loops Challenge](./assignments/challenges/loops/)
 - 📄 Work on the [Variation Jam](./assignments/mod-jam) assignment
 
 ### Homework
@@ -259,7 +259,7 @@
 - 🔥 Data Hot Tips
 
 ### In studio
-- 🤔🤔 Do the [Data Challenge](./topics/data/challenge)
+- 🤔🤔 Do the [Data Challenge](./assignments/challenges/data/)
 - 📄 Work on the [Variation Jam](./assignments/variation-jam) assignment
 
 ### Homework
