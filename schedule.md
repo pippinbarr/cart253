@@ -236,14 +236,16 @@
 - 💭 Thinking like a computer with loops
 - 💬 Loops Examples
 - 🔥 Loops Hot Tips
-- 👀 Testing! Testing! Looking at each other's Mod Jams
-    - Complete the associated [Art Jam Reflection](./assignments/art-jam-reflection/)
+- 🧐 Introducing the [Mod Jam Response](./assignments/responses/mod-jam/)
+- 👀 Mod Jam Response Time!
 
 ### In studio
 - 🤔🤔 Do the [Loops Challenge](./assignments/challenges/loops/)
 - 📄 Work on the [Variation Jam](./assignments/mod-jam) assignment
+- 🧐 Work on the [Mod Jam Response](./assignments/responses/mod-jam/)
 
 ### Homework
+- 🧐 Work on the [Mod Jam Response](./assignments/responses/mod-jam/)
 - 📄 Work on the [Variation Jam](./assignments/variation-jam) assignment
 - 🧑‍🎓 Follow next week's materials
 
@@ -257,6 +259,7 @@
 - 🧑‍🎓 Follow the [Data learning materials](./topics/data/)
 
 ### In class
+- 🧐🔥 The [Mod Jam Response](./assignments/responses/mod-jam/) is due this week
 - 😎 That's cool...
 - 💭 Thinking like a computer with data (if we can?)
 - 💬 Data Examples
@@ -300,15 +303,17 @@
 ### In class
 - 😎 That's cool...
 - Q&A
-- 👀 Testing! Testing! Looking at each other's Variation Jams
-    - Complete the associated [Art Jam Reflection](./assignments/art-jam-reflection/)
+- 🧐 Introducing the [Variation Jam Response](./assignments/responses/variation-jam/)
+- 👀 Variation Jam Response Time!
 
 ### In studio
 - 📄 Work on the [Variation Jam](./assignments/variation-jam) assignment
+- 📄 Work on the [Variation Jam Response](./assignments/responses/variation-jam/)
 - 📄 Work on the [Post-Reflection](./assignments/post-reflection/) assignment
 
 ### Homework
 - 📄 Work on the [Variation Jam](./assignments/variation-jam) assignment
+- 📄 Work on the [Variation Jam Response](./assignments/responses/variation-jam/)
 - 📄 Work on the [Post-Reflection](./assignments/post-reflection/) assignment
 
 ---
@@ -318,4 +323,5 @@
 *Week of 1 December 2025*
 
 - 🔥 Submit the [Variation Jam](./assignments/variation-jam) assignment
+- 🔥 Submit the [Variation Jam Response](./assignments/responses/variation-jam/)
 - 🔥 Submit the [Post-Reflection](./assignments/post-reflection/) assignment
