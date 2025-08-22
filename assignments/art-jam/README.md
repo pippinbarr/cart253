@@ -6,8 +6,8 @@
 
 #### Deadlines
 
-- 🔥 Section B: 23:59, 30 September 2024
-- 🔥 Section A: 23:59, 2 October 2024
+- 🔥 Section B: 23:59, 30 September 2025
+- 🔥 Section A: 23:59, 2 October 2025
 
 That is, you have three weeks from assignment.
 
