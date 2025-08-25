@@ -7,6 +7,7 @@ Worth 10% of final grade.
 ## Deadlines
 
 - 🔥 Section B: 23:59, 3 December 2024
+- 🔥 Section AA: 23:59, 4 December 2024
 - 🔥 Section A: 23:59, 5 December 2024
 
 That is, you have two weeks from assignment.
