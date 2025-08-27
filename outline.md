@@ -8,8 +8,8 @@
 
 2 September – 1 December, 2025  
 
-**Section A**: Thursdays, 13:15 – 17:15 in EV 5.815  
-**Section B**: Tuesdays, 13:15 – 17:15 in EV 5.709  
+**Section A**: Thursdays, 13:15 – 17:15 in EV 5.709  
+**Section B**: Tuesdays, 13:15 – 17:15 in EV 5.815  
 **Section AA**: Wednesdays, 17:45 - 21:45 in EV 5.709
 
 Also: Discord, email, and the internet!
