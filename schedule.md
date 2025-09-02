@@ -23,8 +23,10 @@
 - 💬 Explanation of challenges
 
 ### In studio
-- 🧑‍🎓 Follow the [Hello, World learning materials](./topics/hello-world/)
 - 🤔🤔 Do the [Hello, World Challenge](./assignments/challenges/hello-world/)
+    - 🧑‍🎓 Follow the [Hello, World learning materials](./topics/hello-world/)
+    - 👬 Since you're in a team, you might be better off *reading* the matierals than watching the videos, that way you can more easily do it together
+    - 🚨 Late addition: If you've already followed the materials, also install "p5js Snippets" in VS Code to autocomplete p5js stuff! (If not, don't worry, it's in the instructions.)
 - 🆘 Try *asking for help* at least once
 - 🔨 (If time) Make a start on next week's materials
 

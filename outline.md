@@ -164,7 +164,7 @@ When creating projects in code, make sure you attribute all elements that are no
 ### Programming and AI
 
 It is course policy that no student will use AI tools or similar to produce their work. There is a great conversation to be had about these tools and we should have it, but the bottom line is that this course is about learning to code, not having it done for us.
-
+    
 ## Costs
 
 * See the [Department Syllabus](https://www.concordia.ca/content/dam/finearts/design/docs/dcart-undergraduate-syllabus.pdf)

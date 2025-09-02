@@ -44,6 +44,14 @@ Arguably the most important extension for you to install right away is the *Live
 1. Click on the "Install" button for the "Live Server" extension
 1. Look for the "Go Live" button that should now have appeared at the bottom-right of your VS Code window
 
+#### p5js Snippets
+
+Created by the epic Daniel Schiffman (codingtrain), this extension will autocomplete a bunch (all?) of the p5.js functions you'll be using all semester, as well as pop up a little explanation. Not a total substitute for learning these and reading the documentation, but definitely a useful thing and very much an industry standard practice.
+
+1. Go to the Extensions menu again
+1. Search for "p5js"
+1. Click on the "Install" button
+
 #### HTML CSS Support
 
 We're not really doing much in the way of HTML/CSS in this course, but it's nice to have this extension installed anyway:
