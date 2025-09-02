@@ -12,17 +12,15 @@ To do this:
 
 1. Follow the [Hello, World Learning Materials](../../../topics/hello-world/) in order to
 
-- install the necessary software
-- create a course repository
-- learn about version control
-- make a couple of changes to a sample project
-- enable GitHub Pages
+    - install the necessary software (or make sure you can open it on a CDA computer)
+    - create a course repository
+    - learn about version control
+    - make a couple of changes to a sample project
+    - enable GitHub Pages
  
 (Ideally, use the text-based materials rather than the video so you can easily talk to each other.)
 
-2. Now that you've mastered version control, use your text editor to make changes to the `README.md` file in your main repository, taking the opportunity to practice with markdown for formatting. Commit and push to the repository with a good commit message. 
-
-3. Repeat step 2 multiple times to make the `README.md` file into a nice explanation of what will be in the repository.
+2. Now that you've mastered version control, use your text editor to make changes to the `README.md` file in your main repository (the `cart253` folder), taking the opportunity to practice with markdown for formatting. Commit and push to the repository with a good commit message. 
 
 Help and ask for help from your partner and from the instructor and teaching assistant as needed.
 
