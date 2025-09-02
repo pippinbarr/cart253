@@ -168,6 +168,8 @@ It is course policy that no student will use AI tools or similar to produce thei
 ## Costs
 
 * See the [Department Syllabus](https://www.concordia.ca/content/dam/finearts/design/docs/dcart-undergraduate-syllabus.pdf)
+    - **Note especially**: The Department of Design and Computation Arts offers extremely useful labs for students to get help and resources to do their work during the program. This includes the [Computation Lab](https://www.concordia.ca/finearts/design/facilities/computation.html), the [Sensor Lab](https://www.concordia.ca/finearts/design/facilities/sensor.html), the [Visual Communication Lab](https://www.concordia.ca/finearts/design/facilities/visual-communication.html), the [Soft Surface Lab](https://www.concordia.ca/finearts/design/facilities/soft-surface.html) and the [Documentation Lab](https://www.concordia.ca/finearts/design/facilities/documentation.html). To gain access to and support these labs we ask for a $50 departmental fee to be paid once per year. The fee can be paid via the faculty's [Online Fees System](https://adsys2.concordia.ca/OFAF/pages/Default).
+
 * All software students are expected to use in the class will be free.
 
 ## Technology
@@ -181,8 +183,6 @@ The practical work done in this class will take place on a lab computer or on yo
 ## [Design and Computation Arts Syllabus](https://www.concordia.ca/content/dam/finearts/design/docs/dcart-undergraduate-syllabus.pdf)
 
 (Click through for the standardized information from D/CART that is included as part of all course outlines.)
-
-**Note especially**: The Department of Design and Computation Arts offers extremely useful labs for students to get help and resources to do their work during the program. This includes the [Computation Lab](https://www.concordia.ca/finearts/design/facilities/computation.html), the [Sensor Lab](https://www.concordia.ca/finearts/design/facilities/sensor.html), the [Visual Communication Lab](https://www.concordia.ca/finearts/design/facilities/visual-communication.html), the [Soft Surface Lab](https://www.concordia.ca/finearts/design/facilities/soft-surface.html) and the [Documentation Lab](https://www.concordia.ca/finearts/design/facilities/documentation.html). To gain access to and support these labs we ask for a $50 departmental fee to be paid once per year. The fee can be paid via the faculty's [Online Fees System](https://adsys2.concordia.ca/OFAF/pages/Default).
 
 ## Behaviour
 
