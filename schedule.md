@@ -17,7 +17,6 @@
 - 🧭 CART Orientation
 - 👋 Introductions
 - 👀 The [course outline](./outline) and [schedule](./schedule)
-- 🧑‍💻 The [Computation Lab](https://www.concordia.ca/finearts/design/facilities/computation.html)
 - 😎 That's cool...
 - 🐸 The [FrogFrogFrog repository](https://github.com/pippinbarr/frogfrogfrog/)
 - 💬 Explanation of challenges
