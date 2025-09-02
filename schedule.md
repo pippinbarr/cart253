@@ -23,6 +23,7 @@
 - 💬 Explanation of challenges
 
 ### In studio
+- 💬 Reminder: Join the class Discord (link on Moodle), and 🚨please set your Nickname on the server to something recognizable as you🚨
 - 🤔🤔 Do the [Hello, World Challenge](./assignments/challenges/hello-world/)
     - 🧑‍🎓 Follow the [Hello, World learning materials](./topics/hello-world/)
     - 👬 Since you're in a team, you might be better off *reading* the matierals than watching the videos, that way you can more easily do it together
