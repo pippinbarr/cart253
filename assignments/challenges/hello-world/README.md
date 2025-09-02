@@ -8,7 +8,7 @@ As with all challenges, do this work *in pairs*. Help each other! Talk! Compare 
 
 > Create your `cart253` repository and make multiple edits to and commits of `README.md`
 
-1. Follow the course materials on version control as needed to each create your `cart253` repository on your own computer or on a lab computer. (Ideally, use the text-based materials rather than the video so you can easily talk to each other.)
+1. Follow the [Hello, World Learning Materials](../../../topics/hello-world/) on version control as needed to each create your `cart253` repository on your own computer or on a lab computer. (Ideally, use the text-based materials rather than the video so you can easily talk to each other.)
 2. Use your text editor to make changes to the `README.md` file, taking the opportunity to practice with markdown for formatting. Commit and push to the repository with a good commit message. 
 3. Repeat step 2 multiple times to make the `README.md` file into a nice explanation of what will be in the repository.
 
