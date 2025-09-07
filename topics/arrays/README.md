@@ -51,10 +51,6 @@
 - [Friends, Romans, Countrymen](https://editor.p5js.org/pippinbarr/sketches/wfDOLrIm13)
 - [A trail](https://editor.p5js.org/pippinbarr/sketches/5wgSl1Uj7)
 
-## Challenges
-
-- Try the [Arrays challenges](./challenges/arrays-challenges.md) (We will review them in class)
-
 ## 🔥 Hot tip: Choosing a random element in an array
 
 Sometimes it could be really cool to choose a *random* element in an array, right? Like, say, a fortune! Well, it's pretty easy with `random()`!

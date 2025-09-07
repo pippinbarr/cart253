@@ -61,9 +61,6 @@
 - [Tile Based Movement](https://editor.p5js.org/pippinbarr/sketches/fD7Ha1Yva)
 - [Coin Collector](https://editor.p5js.org/pippinbarr/sketches/qOdVBY1nQ)
 
-## Challenges
-
-- Try the [events challenges](./challenges/events-challenges.md) (We will review them in class)
 
 ## 🔥 Hot tip: Trigonometry
 

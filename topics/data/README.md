@@ -35,10 +35,6 @@
 
 - See the [Data Collection](https://editor.p5js.org/pippinbarr/collections/nAnXQS1Ft) in Pippin's p5 editor for a series of Visual Novel-inspired examples, a localization example, better state data for states, and a data-mashup with JSON.
 
-## Challenges
-
-- Try the [Data challenges](./challenges/data-challenges.md) (We will review them in class)
-
 ## 🔥 Hot tip: Darius Kazemi's Corpora
 
 If you're looking for fun data to play around with, a great option is Darius Kazemi's `corpora` repository: [https://github.com/dariusk/corpora](https://github.com/dariusk/corpora)

@@ -49,10 +49,6 @@
     - [Watch the video](https://concordia.yuja.com/V/Video?v=1075224&node=5841554&a=60867061)
     - Read the [Debugging Guide](../../guides/debugging-guide.md)
 
-## Challenges
-
-- **Try** the [variables challenges](./challenges/variables-challenges.md) (we will review them in class)
-
 ## Examples
 
 - [PaintShop Amateur](https://editor.p5js.org/pippinbarr/sketches/qbE1XVdDg)

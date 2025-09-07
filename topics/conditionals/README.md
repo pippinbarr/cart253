@@ -52,9 +52,6 @@
     - Read the [Loading and displaying images notes](../extras/images.md)
     - 📖 You can also read the documentation for [`loadImage()`](https://p5js.org/reference/p5/loadImage/) and [`image()`](https://p5js.org/reference/p5/image/) 📖
 
-## Challenges
-
-- Try the [conditionals challenges](./challenges/conditionals-challenges.md) (We will review them in class)
 
 ## Examples
 

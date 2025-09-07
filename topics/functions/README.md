@@ -52,9 +52,6 @@
 - [Moving Stones (Functions)](https://editor.p5js.org/pippinbarr/sketches/IMjU5KE_N)
 - [Clicky Bug](https://editor.p5js.org/pippinbarr/sketches/z8cKGbJff)
 
-## Challenges
-
-- Try the [Functions challenges](./challenges/functions-challenges.md) (We will review them in class)
 
 ## 🔥 Hot tip: Parameter objects
 

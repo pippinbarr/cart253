@@ -49,10 +49,6 @@
 - [Literal Concentric Circles](https://editor.p5js.org/pippinbarr/sketches/6R1uu5aIL)
 - [Cursed Umbrella](https://editor.p5js.org/pippinbarr/sketches/_QVef4_66)
 
-## Challenges
-
-- Try the [instructions challenges](./challenges/drawing-challenges.md) (we will review them in class)
-
 ## 🔥 Hot tip: Commenting Shortcut
 
 In VS Code you can comment or uncomment the line of code at your text cursor using the shortcut

@@ -49,10 +49,6 @@
 - [Interactive concentric rings](https://editor.p5js.org/pippinbarr/sketches/7KfK3pK9i)
 - [Venetian blinds](https://editor.p5js.org/pippinbarr/sketches/hAadmI3kr)
     
-## Challenges
-
-- Try the [Loops challenges](./challenges/loops-challenges.md) (We will review them in class)
-
 ## 🔥 Hot tip: 3D
 
 There's a whole extra part of p5 devoted to drawing stuff in 3D using WebGL. One weird thing that you need to remember with it is that the origin (that is, the coordinates 0,0) is in the *centre* of the canvas when you use WebGL.
