@@ -43,15 +43,17 @@
 - 🧑‍🎓 Follow the [Instructions learning materials](./topics/instructions/)
 
 ### In class
-- 😎 That's cool...
+- 💬 Reminder: Join the class Discord (link on Moodle)
+- 😎 That's cool...?
 - 💭 Thinking like a computer with instructions
     - [Thinking like a computer with instructions Project](./topics/instructions/examples/thinking-like-a-computer-with-instructions.zip) 
 - 💬 Instructions Examples
 - 📄 Reading the documentation
 - 🔥 Instructions Hot Tips
+- 🐞 [Debugging Instructions](./assignments/challenges/instructions/instructions-debugging-challenge.zip)
 - 🧑‍💻 Introducing the [Art Jam](./assignments/art-jam/) assignment
 - 🐸 The [FrogFrogFrog repository](https://github.com/pippinbarr/frogfrogfrog/)
-- 🐞 [Debugging Instructions](./assignments/challenges/instructions/instructions-debugging-challenge.zip)
+- 🤔🤔 Introducing the [Instructions Challenge](./assignments/challenges/instructions/)
 
 ### In studio
 - 🤔🤔 Do the [Instructions Challenge](./assignments/challenges/instructions/)
