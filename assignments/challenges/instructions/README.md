@@ -4,6 +4,14 @@ Let's make sure we understand the key ideas of writing *instructions* in JavaScr
 
 As with all challenges, do this work *in pairs*. This means you will both submit the same work and should work together on one computer to produce the project.
 
+Remember, to start up you should:
+
+1. Download the [template project](../../../templates/template-p5-project.zip)
+2. Rename that folder, maybe to `instructions-challenge`
+3. Put that folder in your `cart253` repository
+4. Commit and push that change with a message like "Started the instructions challenge"
+5. Keep committing and pushing as you go along
+
 ## Challenge
 
 With your partner:
