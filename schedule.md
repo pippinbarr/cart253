@@ -79,6 +79,10 @@
 - 💬 Variables Examples
 - 💬 Relative positioning
 - 🔥 Variables Hot Tips
+- 🐞 [Debugging Variables](./assignments/challenges/instructions/variables-debugging-challenge.zip)
+- 🧑‍💻 Reminder of the [Art Jam](./assignments/art-jam/) assignment
+- 🐸 Reminder of the [FrogFrogFrog repository](https://github.com/pippinbarr/frogfrogfrog/)
+- 🤔🤔 Introducing the [Variables Challenge](./assignments/challenges/variables/)
 
 ### In studio
 - 🤔🤔 Do the [Variables Challenge](./assignments/challenges/variables/)
