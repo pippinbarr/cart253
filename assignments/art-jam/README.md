@@ -38,6 +38,16 @@ The self-portrait must:
 
 Feel free to borrow from any of the example code you've seen so far in the course, but make sure to **attribute** in your `README.md`.
 
+## How to start a project
+
+Remember to take this basic steps to get going:
+
+1. Download the [template project](../../templates/template-p5-project.zip)
+2. Rename that folder, maybe to `art-jam`
+3. Put that folder in your `cart253` repository somewhere
+4. Commit and push that change with a message like "Started the art jam"
+5. Keep committing and pushing as you go along to max out your commitment grade
+
 ## Advice
 
 1. **Start early**. Don't delay thinking about the project. Get your ideas together early so that you've got a good amount of time to work on them.

@@ -21,23 +21,7 @@ Any *submitted* project must include a file titled `README.md` in the main proje
 
 The `README.md` is also another good place for attribution if you are using code and/or media from other sources that you need to credit.
 
-Example:
-
-```md
-# Aquarium Simulation
-Pippin Barr
-
-## [View the project online](URL_TO_THE_PROJECT)
-
-## Description
-This is an aquarium simulation in which fish of different kinds swim around on the canvas. The user can interact with the fish by clicking on them to make them grow (as if feeding them). Over time the fish shrink, so the you will need to keep busy clicking to keep them alive!
-
-## Credits
-This project uses [p5.js](https://p5js.org).
-
-## Attribution
-The fish images were sourced from the [Creative Commons image "Georgia Aquarium Fish"](https://search.creativecommons.org/photos/96f6f770-eac1-488c-8abb-16bee7bcc874) by Mike Johnston which is licensed with CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.
-```
+Use the [frogfrogfrog repository](https://github.com/pippinbarr/frogfrogfrog) as an example of how to proceed when in doubt.
 
 ## Commenting
 
@@ -67,6 +51,8 @@ Example:
  */
 ```
 
+Use the [frogfrogfrog repository](https://github.com/pippinbarr/frogfrogfrog) as an example of how to proceed when in doubt.
+
 ### Function-level comments
 
 All functions should include a comment before them that explains what the function does.
@@ -85,6 +71,8 @@ function drawFrog() {
     pop();
 }
 ```
+
+Use the [frogfrogfrog repository](https://github.com/pippinbarr/frogfrogfrog) as an example of how to proceed when in doubt.
 
 ### Line-level comments
 
@@ -106,6 +94,8 @@ function setup() {
     fly.velocity.y = random(-fly.speed, fly.speed);
 }
 ```
+
+Use the [frogfrogfrog repository](https://github.com/pippinbarr/frogfrogfrog) as an example of how to proceed when in doubt.
 
 ## Naming
 
@@ -191,6 +181,8 @@ function drawFrog() {
 }
 ```
 
+Use the [frogfrogfrog repository](https://github.com/pippinbarr/frogfrogfrog) as an example of how to proceed when in doubt.
+
 ## Version Control
 
 Part of your programming style for this class will be based on your approach to version control. This essentially boils down to:
@@ -198,6 +190,7 @@ Part of your programming style for this class will be based on your approach to 
 - Commit (and push) regularly
 - Commit any time you do a significant and/or distinct block of work (ideally that runs)
 - Write clear commit messages that explain what you did
-
+- For the purposes of learning, ideally *reflect* on what your commit does in the bigger context of your project, not just technically but in terms of design and philosophy
     
+Use the [frogfrogfrog repository](https://github.com/pippinbarr/frogfrogfrog) as an example of how to proceed when in doubt.
 ## }
