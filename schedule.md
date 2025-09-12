@@ -73,13 +73,13 @@
 - 🧑‍🎓 Follow the [Variables learning materials](./topics/variables/)
 
 ### In class
-- 😎 That's cool...
+- 😎 That's cool...?
 - 💭 Thinking like a computer with variables
     - [Thinking like a computer with variables project](./topics/variables/examples/thinking-like-a-computer-with-variables.zip)
 - 💬 Variables Examples
-- 💬 Relative positioning
 - 🔥 Variables Hot Tips
 - 🐞 [Debugging Variables](./assignments/challenges/instructions/variables-debugging-challenge.zip)
+- 🤵 Let's look at the [Style Guide](./guides/style-guide.md)
 - 🧑‍💻 Reminder of the [Art Jam](./assignments/art-jam/) assignment
 - 🐸 Reminder of the [FrogFrogFrog repository](https://github.com/pippinbarr/frogfrogfrog/)
 - 🤔🤔 Introducing the [Variables Challenge](./assignments/challenges/variables/)
@@ -107,6 +107,7 @@
     - [Thinking like a computer with conditionals project](./topics/conditionals/examples/thinking-like-a-computer-with-conditionals.zip)
 - 💬 Conditionals Examples
 - 🔥 Conditionals Hot Tips
+- 🤔🤔 Introducing the [Conditionals Challenge](./assignments/challenges/conditionals/)
 
 ### In studio
 - 🤔🤔 Do the [Conditionals Challenge](./assignments/challenges/conditionals/)
