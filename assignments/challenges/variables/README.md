@@ -12,7 +12,11 @@ To start up you should:
 4. Commit and push that change with a message like "Started the variables challenge"
 5. Keep committing and pushing as you go along to practice your commit message writing
 
-Remember to ask for help as much as you like.
+### 🔥 Do not do the challenge solo. 🔥
+### 🔥 Do not do the challenge at home. 🔥
+### 🔥 It is okay not to finish the challenge. 🔥
+### 🔥 The main thing it to try hard and ask for help. 🔥
+### 🔥 Try to spend between 30-45 minutes max to save time for your larger assignments 🔥
 
 ## Challenge
 

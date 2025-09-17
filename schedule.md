@@ -78,7 +78,7 @@
     - [Thinking like a computer with variables project](./topics/variables/examples/thinking-like-a-computer-with-variables.zip)
 - 💬 Variables Examples
 - 🔥 Variables Hot Tips
-- 🐞 [Debugging Variables](./assignments/challenges/instructions/variables-debugging-challenge.zip)
+- 🐞 [Debugging Variables](./assignments/challenges/variables/variables-debugging-challenge.zip)
 - 🤵 Let's look at the [Style Guide](./guides/style-guide.md)
 - 🧑‍💻 Reminder of the [Art Jam](./assignments/art-jam/) assignment
 - 🐸 Reminder of the [FrogFrogFrog repository](https://github.com/pippinbarr/frogfrogfrog/)
