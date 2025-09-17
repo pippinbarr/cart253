@@ -16,6 +16,7 @@ To start up you should:
 ### 🔥 Do not do the challenge at home. 🔥
 ### 🔥 It is okay not to finish the challenge. 🔥
 ### 🔥 The main thing it to try hard and ask for help. 🔥
+### 🔥 The 🌶️ steps are for people wanting to be a bit ambitious 🔥
 ### 🔥 Try to spend between 30-45 minutes max to save time for your larger assignments 🔥
 
 ## Challenge
@@ -74,11 +75,13 @@ function draw() {
 
 ### Step 2: Make Mr. Furious turn red over time
 
-He's getting angrier and angrier, so make him turn more and more red over time. Maybe you should *constrain* any numbers you change so they stay in a reasonable range?
+He's getting angrier and angrier, so make him turn more and more red over time. 
+
+🌶️ Maybe you should *constrain* any numbers you change so they stay in a reasonable range?
 
 ### Step 3: Make day turn to night
 
-Make the sky (the background) turn from blue to black over time. You'll need to create a new variable (probably a JavaScript Object called `sky`?) for this, then change it over time.
+Make the sky (the background) turn from blue to black over time. You'll need to create a new variable (probably a JavaScript Object called `sky`?) for this, then change it over time (probably it'll be a bit like Mr. Furious' fill?).
 
 ### Step 4: Add an annoying bird
 
@@ -88,11 +91,13 @@ Add a "bird" to this world that flies across the screen from left to right. Any 
 
 ### Step 5: Shaking with rage
 
-Make Mr. Furious shake with anger. Changing his position with random numbers ever frame is one way you could achieve this?
+Make Mr. Furious shake with anger. Changing his position with random numbers every frame is one way you could achieve this?
 
 ### Step 6: More Shaking
     
-Instead of him shaking all the time, make Mr. Furious shake more and more over time up to some limit. Could you even have a single `rage` variable that controls his colour *and* his shaking?
+Instead of him shaking all the time, make Mr. Furious shake more and more over time up to some limit. 
+
+🌶️ Could you even have a single `rage` variable you use to control his colour *and* his shaking? The `map()` function could be your friend, or possibly `lerp()`
 
 ## References
 
