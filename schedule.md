@@ -102,6 +102,7 @@
 - 🧑‍🎓 Follow the [Conditionals learning materials](./topics/conditionals/)
 
 ### In class
+- 🏡 [CASS Orientation 2025](./other/cass-orientation-2025.pdf) (PowerPoint slides as PDF)
 - 😎 That's cool...
 - 💭 Thinking like a computer with conditionals
     - [Thinking like a computer with conditionals project](./topics/conditionals/examples/thinking-like-a-computer-with-conditionals.zip)
