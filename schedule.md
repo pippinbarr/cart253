@@ -102,12 +102,15 @@
 - 🧑‍🎓 Follow the [Conditionals learning materials](./topics/conditionals/)
 
 ### In class
+- Section A & B: FutureBound Presentation
 - 🏡 [CASS Orientation 2025](./other/cass-orientation-2025.pdf) (PowerPoint slides as PDF)
 - 😎 That's cool...
 - 💭 Thinking like a computer with conditionals
     - [Thinking like a computer with conditionals project](./topics/conditionals/examples/thinking-like-a-computer-with-conditionals.zip)
 - 💬 Conditionals Examples
 - 🔥 Conditionals Hot Tips
+- 🐞 [Debugging Conditionals](./assignments/challenges/conditionals/conditionals-debugging-challenge.zip)
+- 🧑‍💻 The [Art Jam](./assignments/art-jam) is due next week!
 - 🤔🤔 Introducing the [Conditionals Challenge](./assignments/challenges/conditionals/)
 
 ### In studio
