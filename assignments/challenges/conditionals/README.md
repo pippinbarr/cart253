@@ -16,8 +16,8 @@ To start up you should:
 ### 🔥 Do not do the challenge at home. 🔥
 ### 🔥 It is okay not to finish the challenge. 🔥
 ### 🔥 The main thing it to try hard and ask for help. 🔥
-### 🔥 The 🌶️ steps are for people wanting to be a bit ambitious 🔥
-### 🔥 Try to spend between 30-45 minutes max to save time for your larger assignments 🔥
+### 🔥 The 🌶️ steps are for people wanting to be ambitious 🔥
+### 🔥 Try to spend 30-45 minutes maximum to save time for your other work 🔥
 
 ## Challenge
 
@@ -106,25 +106,25 @@ function drawPuck() {
 
 ### Step 2: Write a function to move the puck
 
-Add a function called `moveTarget()` to the program and call it in `draw()`.
+Add a function called `movePuck()` to the program and call it in `draw()`.
 
-This function should:
+`movePuck()` should:
 
-- Check if the user and puck circles overlap
-- If so, it should calculate the distance between the user and the puck on x and y *separately*
-- Then it should move the puck **1 pixel** *away from the user* along the dimension the user is closest on. (e.g. if the user is closest to the puck on the x-axis, then the puck should move away from the user on the x-axis)
+- Check if the user and puck circles overlap (use `dist()` for this, check the [Overlapping Circles example](https://editor.p5js.org/pippinbarr/sketches/NLnxtLMat) if you need to see it being done)
+- If the user and puck *do overlap*, calculate the distance between the user and the puck on x and y *separately* (so we will need *two* new variables here, one for the distance along x and one for the distance along y)
+- Move the puck *away from the user* along the dimension the user is closest on. (e.g. if the user is closest to the puck on the x-axis, then the puck should move away from the user on the x-axis)
 
-🌶️ If you're feeling really hardcore you could implement the puck's movement with velocity and acceleration and cause it to accelerate away, then slow down with friction over time? Very spicy.
+🌶️ If you're feeling ultra spicy you could implement the puck's movement with velocity and acceleration and cause it to accelerate away, then slow down with friction over time?
 
 ### Step 3: Add a target
 
 Add another varible for a circle called `target` and write a `drawTarget()` function you  call in `draw()`. Display the target in the same way as the user and puck but give it a different visual appearance (say, a different colour).
 
-🌶️ Can you work out how to make the taret have a dashed outline? Feel free to ask the internet. It was surprisingly non-obvious last time I checked and involves stepping outside of p5.
+🌶️ Can you work out how to make the target have a dashed outline? Feel free to ask the internet. It was surprisingly non-obvious last time I checked and involves stepping outside of p5 a little bit.
 
 ### Step 4: Change the target colour if the puck is inside it
 
-Write another function `checkPuck()` you will call in `draw()` that checks if the puck is currently overlapping the target (remember `dist()` from earlier). If it is, change the colour of the target to indicate the overlap. If it isn't, change the colour of the target to indicate there is no overlaps (say, green for an overlap and red for no overlap).
+Write another function `checkTarget()` you will call in `draw()` that checks if the puck is currently overlapping the target (remember `dist()` from earlier). If it is, change the colour of the target to indicate the overlap. If it isn't, change the colour of the target to indicate there is no overlap (say, green for an overlap and red for no overlap).
     
 🌶️ This is currently very functional, is there a way to give this a more emotional arc? Could the puck be sad when not overlapping and happy when it is? How might you display the user, puck, and target to convey this idea? Faces? Little people or animals? The metaphor of "pushing" one thing onto another could go in lots of directions, no?
 
