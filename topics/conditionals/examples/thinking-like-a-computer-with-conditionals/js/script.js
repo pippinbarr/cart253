@@ -29,9 +29,9 @@ function draw() {
     else if (mouseX > width * 0.66) {
         drawCircle();
     }
-    // Otherwise make the background red
+    // Otherwise draw and X in the centre
     else {
-        background("#ff0000");
+        drawX();
     }
 }
 
@@ -55,5 +55,17 @@ function drawCircle() {
     fill("#ff0000");
     noStroke();
     ellipse(width * 0.8333, height * 0.5, width * 0.33);
+    pop();
+}
+
+/**
+ * Draws an X in the centre of the canvas
+ */
+function drawX() {
+    push();
+    stroke("#ff0000");
+    strokeWeight(10);
+    line(width * 0.33, height * 0.25, width * 0.66, height * 0.75);
+    line(width * 0.66, height * 0.25, width * 0.33, height * 0.75);
     pop();
 }
