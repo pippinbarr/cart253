@@ -111,10 +111,22 @@ Add a function called `movePuck()` to the program and call it in `draw()`.
 `movePuck()` should:
 
 - Check if the user and puck circles overlap (use `dist()` for this, check the [Overlapping Circles example](https://editor.p5js.org/pippinbarr/sketches/NLnxtLMat) if you need to see it being done)
-- If the user and puck *do overlap*, calculate the distance between the user and the puck on x and y *separately* (so we will need *two* new variables here, one for the distance along x and one for the distance along y)
-- Move the puck *away from the user* along the dimension the user is closest on. (e.g. if the user is closest to the puck on the x-axis, then the puck should move away from the user on the x-axis)
+
+If the user and puck *do overlap*, we want to push the puck. But how?
+
+#### Option one
+
+One option is to think about it in terms of checking which *side* of the puck the user is on, and pushing it in the opposite direction. So we could write an `if` that checks if the user is to the left, and if so push the puck to the right. If we did that for all four "sides" then the puck will move "appropriately."
+
+#### Option two
+
+A different option is just to *move the puck* based on the *distance* between the puck and user on x. (You might need to divide that distance by something to make it a bit smaller so it's not too powerful). Then repeat the same idea for y.
+
+#### Option spice
 
 🌶️ If you're feeling ultra spicy you could implement the puck's movement with velocity and acceleration and cause it to accelerate away, then slow down with friction over time?
+
+🌶️🌶️ If you're feeling flaming hot cheetos about it, you could calculate the *angle* between the user and puck and move the puck away at that angle.
 
 ### Step 3: Add a target
 
