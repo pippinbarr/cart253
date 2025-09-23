@@ -51,7 +51,7 @@ Sometimes this can make our programs easier to read.
 
 ### Stopping a hole from growing...
 
-Take a look at the *Lightswitch* project you downloaded by opening it up in VS Code. Note how we store the result of a conditional to make it that little bit more readable.
+Take a look at the *Growhole* project you downloaded by opening it up in VS Code. Note how we store the result of a conditional to make it that little bit more readable.
 
 It's a little thing, but it can also be a great way to make sure you understand your program because it makes you give a *name* to the condition you're checking.
 

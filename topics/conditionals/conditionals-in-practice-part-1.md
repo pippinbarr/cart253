@@ -111,7 +111,7 @@ function checkInput() {
         // A key is pressed!
         // Change the colour of the creature to show it's angry
         // It hates those keys! Ugh!
-        create.fill = creature.fills.angry;
+        creature.fill = creature.fills.angry;
     }
     else {
         // The mouse isn't pressed and no key is pressed!
@@ -200,7 +200,7 @@ function checkInput() {
         // A key is pressed!
         // Change the colour of the creature to show it's angry
         // It hates those keys! Ugh!
-        create.fill = creature.fills.angry;
+        creature.fill = creature.fills.angry;
     }
     else {
         // The mouse isn't pressed and no key is pressed!

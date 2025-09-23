@@ -362,29 +362,6 @@ function checkInput() {
 }
 
 /**
- * Handles the creature becoming happy
- */
-function creatureHappy() {
-    creature.fill = creature.fills.happy;
-}
-
-/**
- * Handles the creature becoming bored
- */
-function creatureBored() {
-    creature.fill = creature.fills.bored;
-    // Increase its boredom level by one
-    creature.boredomLevel += 1;
-    // Check if the creature has died of boredom
-    if (creature.boredomLevel > creature.deathByBoredomThresshold) {
-        // Creature dies of boredom!
-        creature.alive = false;
-        // Creature turns dead coloured!
-        creature.fill = creature.fills.dead;
-    }
-}
-
-/**
  * Draws the creature
  */
 function drawCreature() {
