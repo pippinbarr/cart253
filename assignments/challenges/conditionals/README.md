@@ -23,7 +23,7 @@ To start up you should:
 
 With your partner(s):
 
-> Make Mr. Furious Furious
+> Push a puck
 
 ### Step 1: Set up the example code
    
