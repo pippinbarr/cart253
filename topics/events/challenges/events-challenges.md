@@ -89,10 +89,4 @@ Check out the [Page Visibility API](https://developer.mozilla.org/en-US/docs/Web
 
 This should allow *all* your events to call the same event handler that sets the game to be over.
 
-### Challenge 6: Debugging
-
-Here's a broken version of one of the examples. See if you can debug it!
-
-[Download the Events Debugging Challenge Project](./debugging-events-challenge.zip)
-    
 ## }

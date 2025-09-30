@@ -85,7 +85,7 @@ Which is not how traffic lights work. Rather, they change repeatedly over time. 
 `setInterval()` is the same as `setTimeout()` except that the *timer* resets each time it goes off.
 
 ```javascript
-setsetInterval(eventHandlerFunction, delayInMilliseconds);
+setInterval(eventHandlerFunction, delayInMilliseconds);
 ```
 
 So, again, it's a function that takes *two arguments*:

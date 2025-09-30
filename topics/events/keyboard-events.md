@@ -246,7 +246,7 @@ There is one other keyboard event available in p5:
 
 Again, you can use this with `event` to find out which key was typed. This one is mostly useful if you're interested in what the user is *typing* as you might expect.
     
-📖 Want to know more? Read the section of the documentation called [Keyboard](https://p5js.org/reference/#:~:text=the%20turnAxis%20variable.-,Keyboard,-key). 📖
+📖 Want to know more? Read the section of the documentation called [Keyboard](https://p5js.org/reference/#:~:text=the%20turnAxis%20variable-,Keyboard,-key). 📖
     
 ## Finishing up
 
