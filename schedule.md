@@ -138,6 +138,8 @@
     - [Thinking like a computer with events project](./topics/events/examples/thinking-like-a-computer-with-events.zip)
 - 💬 Events Examples
 - 🔥 Events Hot Tips
+- 🐞 [Debugging Events](./assignments/challenges/events/events-debugging-challenge.zip)
+- 🤔🤔 Introducing the [Events Challenge](./assignments/challenges/events/)
 
 ### In studio
 - 🤔🤔 Do the [Events Challenge](./assignments/challenges/events/)
@@ -146,7 +148,7 @@
 ### Homework
 - 🔥 Submit the [Art Jam](./assignments/art-jam) assignment (due tonight)
 - 🧑‍🎓 Follow next week's materials
-- 🔥 Come to class next week with your working Mod Jam
+- 🔥 Next week we'll have our Art Jam Vernissage!
 
 ---
 
@@ -159,12 +161,11 @@
 
 ### In class
 - 😎 That's cool...
-- 💬 Making Examples (live requests?)
+- 💬 Live Making Examples
     - Adding states to FrogFrogFrog
-    - Adding "tongue charging" to FrogFrogFrog
 - 🔥 Making Hot Tips
 - 🧐 Introducing the [Art Jam Response](./assignments/responses/art-jam/)
-- 👀 Art Jam Response Time!
+- 👀 Art Jam Vernissage!
 
 ### In studio
 - 🤔🤔 Do the [Making Challenge](./assignments/challenges/making/)

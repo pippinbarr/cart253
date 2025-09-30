@@ -20,11 +20,11 @@ If there is a serious need for an extension, contact your instructor at least 3 
 
 ## Brief
 
-During the Art Jam Response time you will be assigned to look at the work of a small set of other students during studio time. Make sure to take notes and ask questions of your colleagues.
+During the Art Jam Response time you will be assigned to look at the work of a three other students. Make sure to take notes! And ask questions of your colleagues if needed.
 
 In your own time, write a roughly 500-word response to the work that you saw, especially noting down what you found most *surprising* and *compelling* in the work you experienced. You can focus on the code, the experience itself, or both, depending on what you find most interesting.
 
-Your response should include *links* to each of the running programs you experienced. Make sure you get the working links.
+Your response should include *links* to each of the running programs you experienced.
 
 Your response should be written in *markdown* as a file titled something like `art-jam-response.md` in an appropriate folder in your class repository. This will make it easier to share with others.
 
