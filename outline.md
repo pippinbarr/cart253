@@ -131,10 +131,10 @@ Specific evaluation requirements will be provided when assigned. See the [Schedu
 
 * [In-class Challenges](./assignments/challenges/) x 10 (1% each, totalling 10%)
 * [Art Jam](./assignments/art-jam/) (10%)
+* [Ar Jam Response](./assignments/art-jam-response) (5%)
 * [Mod Jam](./assignments/mod-jam/) (20%)
 * [Mod Jam Response](./assignments/mod-jam-response) (5%)
 * [Variation Jam](./assignments/variation-jam/) (30%)
-* [Variation Jam Response](./assignments/variation-jam-response) (5%)
 * [Post-reflection](./assignments/post-reflection/) (10%)
 * Participation (10%)
     * Participation includes: attending class, completing coursework, being present on the Discord, asking questions, contributing to discussions, sharing ideas, and coming to office hours (note: even if you feel that you never need help, make sure to touch base with the instructor regularly in some capacity)
