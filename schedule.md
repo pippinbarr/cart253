@@ -160,12 +160,11 @@
 - 🧑‍🎓 Follow the [Making learning materials](./topics/making/)
 
 ### In class
-- 😎 That's cool...
-- 💬 Live Making Examples
+- 💬 Live Making Examples?
     - Adding states to FrogFrogFrog
 - 🔥 Making Hot Tips
 - 🧐 Introducing the [Art Jam Response](./assignments/responses/art-jam/)
-- 👀 Art Jam Vernissage!
+- 😎 That's cool... it's the Art Jam Vernissage!
 
 ### In studio
 - 🤔🤔 Do the [Making Challenge](./assignments/challenges/making/)
