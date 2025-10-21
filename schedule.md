@@ -201,6 +201,7 @@
     - [Thinking like a computer with events project](./topics/functions/examples/thinking-like-a-computer-with-events.zip)
 - 💬 Functions Examples
 - 🔥 Functions Hot Tips
+- 🐞 [Debugging Functions](./assignments/challenges/functions/functions-debugging-challenge.zip)
 - 🔥 The [Mod Jam](./assignments/mod-jam) is due next week
 
 ### In studio
