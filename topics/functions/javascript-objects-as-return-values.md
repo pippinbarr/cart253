@@ -22,14 +22,14 @@ Very frequently we want to make more than one JavaScript object of the same type
 Whenever we see that we are likely to create more that one JavaScript object of the same "type" (i.e. has the same property names), we should write a function to take care of it. Consider:
 
 ```javascript
-let horsey = {
-    name: "Horsey",
+let horseyHorseFace = {
+    name: "Horsey Horse Face",
     colour: "#7d561d",
     legs: 3
 };
 
-let horso = {
-    name: "Horso",
+let horsoHorseFace = {
+    name: "Horso Horse Face",
     colour: "#7d561d",
     legs: 4
 };
@@ -38,8 +38,8 @@ let horso = {
 If we had this in our program we should strongly consider creating these horses via a *function* to make our program better organized and more reusable:
 
 ```javascript
-let horsey = createHorse("Horsey");
-let horso = createHorse("Horso");
+let horseyHorseFace = createHorse("Horsey Horse Face");
+let horsoHorseFace = createHorse("Horso Horse Face");
 
 function createHorse(name) {
     let horse = {
