@@ -25,7 +25,7 @@ Department of Design and Computation Arts
 [pippin.barr@concordia.ca](mailto:pippin.barr@concordia.ca)  
 [www.pippinbarr.com](http://www.pippinbarr.com/)  
 
-Office hours: tbd.
+Office hours: Wednesdays 13:00-14:00 (with some overflow when needed)
 
 **Teaching assistant**: Michael Vlamis
 
