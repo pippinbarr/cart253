@@ -1,4 +1,4 @@
-# Events Challenge
+# Functions Challenge
 
 Let's make sure we understand the key ideas of using *functions* in JavaScript by using them in a miniature project.
 
