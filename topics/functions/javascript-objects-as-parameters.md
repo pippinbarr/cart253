@@ -21,18 +21,20 @@ Functions have a special relationship with JavaScript objects because they can *
 A function's parameters can include any kind of value, including *JavaScript Objects*. JavaScript objects have an important quality when passed to functions that we can use, though: if you change them inside the function they *stay changed*.
 
 ```javascript
-let horsey = {
+let horseyHorseFace = {
     name: "Horsey",
     color: "#7d561d",
     legs: 4
 };
 
 // Here horsey.legs is 4
-cutOffOneLeg(horsey);
+cutOffOneLeg(horseyHorseFace);
 // Here horsey.legs is 3!
 
 /**
- * Removes one of the provided horse's legs
+ * Removes one of the provided horse parameter's legs property
+ * Note that it is *not* the same as horseyHorseFace which is the variable
+ * containing a specific horse above
  */
 function cutOffOneLeg(horse) {
     horse.legs -= 1;
@@ -41,10 +43,10 @@ function cutOffOneLeg(horse) {
 
 This might seem totally normal to you, and if so great! But if not, sit with it for a bit: 
 
-1. We passed `horsey` into `cutOffOneLeg()`
-2. That means that JavaScript object ended up in the `horse` parameter
+1. We passed `horseyHorseFace` into `cutOffOneLeg()`
+2. That means that JavaScript object in `horseyHorseFace` ended up in the `horse` parameter
 3. We then subtracted one from that JavaScript object's `legs` property
-4. And that actually acted on the object that is *still in the `horsey` variable*
+4. And that actually acted on the object that is *still in the `horseyHorseFace` variable*
 
 🧠 If you want to be a brainiac about it, this is because when we pass a JavaScript object into a function's parameters it is "passed by *reference*", whereas something like a number is "passed by *value*". 🧠
 
