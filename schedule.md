@@ -198,12 +198,14 @@
 ### In class
 - 😎 That's cool...
 - 💭 Thinking like a computer with functions
+    - [Thinking like a computer with events project](./topics/functions/examples/thinking-like-a-computer-with-events.zip)
 - 💬 Functions Examples
 - 🔥 Functions Hot Tips
+- 🔥 The [Mod Jam](./assignments/mod-jam) is due next week
 
 ### In studio
 - 🤔🤔 Do the [Functions Challenge](./assignments/challenges/functions/)
-- 📄 Work on the [Mod Jam](./assignments/mod-jam) assignment
+- 📄 Work on the [Mod Jam](./assignments/mod-jam) assignment, 
 
 ### Homework
 - 📄 Work on the [Mod Jam](./assignments/mod-jam) assignment
