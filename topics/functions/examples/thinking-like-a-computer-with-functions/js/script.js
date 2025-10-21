@@ -22,8 +22,8 @@ function draw() {
     background("pink");
 
     // Draw two coloured rectangles
-    drawCenteredNoStrokeRectWithColor(width / 2, height / 4, 200, 100, "#ceeb87");
-    drawCenteredNoStrokeRectWithColor(width / 2, 3 * height / 4, 200, 100, "#ce87eb");
+    fancyRect(width / 2, height / 4, 200, 100, "#ceeb87");
+    fancyRect(width / 2, 3 * height / 4, 200, 100, "#ce87eb");
 
     // Calculate the meaning of life
     const meaningOfLife = add(21, 21);
@@ -48,7 +48,7 @@ function add(a, b) {
  * Draws a centered rect with no stroke at the provided position
  * with the provided dimensions and fills it with the provided colour
  */
-function drawCenteredNoStrokeRectWithColor(x, y, w, h, c) {
+function fancyRect(x, y, w, h, c) {
     push();
     rectMode(CENTER);
     noStroke();
