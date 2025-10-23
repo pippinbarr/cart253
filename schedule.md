@@ -198,7 +198,7 @@
 ### In class
 - 😎 That's cool...
 - 💭 Thinking like a computer with functions
-    - [Thinking like a computer with events project](./topics/functions/examples/thinking-like-a-computer-with-events.zip)
+    - [Thinking like a computer with functions project](./topics/functions/examples/thinking-like-a-computer-with-functions.zip)
 - 💬 Functions Examples
 - 🔥 Functions Hot Tips
 - 🐞 [Debugging Functions](./assignments/challenges/functions/functions-debugging-challenge.zip)
