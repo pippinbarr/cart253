@@ -162,7 +162,7 @@ You can use the `checkOverlap()` function to do the overlap check but first make
 
 ### Step 5: Two balls!
 
-Add another ball object to the program (calling it `ball2` is fine) with a different position and velocity etc., then call `moveBall()`, `drawBall()` and `handleBounce()` with that ball to see some of the magic of functions!
+Add another ball object to the program (calling it `ball2` is fine) with a different position and velocity etc., then call `moveBall()`, `drawBall()` and `handleBounce()` with that ball to see some of the magic of functions! **You do not need to write new functions to handle the new ball!**
 
 🌶️ Could you have two paddles as well? How would you control them separately? (Maybe the simplest would be if they each moved in the opposite direction to one another?) 
 
