@@ -6,9 +6,9 @@
 
 #### Deadlines
 
-- 🔥 Section B: 23:59, 28 October 2025
-- 🔥 Section AA: 23:59, 29 October 2025
-- 🔥 Section A: 23:59, 30 October 2025
+- 🔥 Section B: 23:59, ~~28 October 2025~~ 3 November 2025
+- 🔥 Section AA: ~~23:59, 29 October 2025~~ 4 November 2025
+- 🔥 Section A: 23:59, ~~30 October 2025~~ 5 November 2025
 
 That is, you have **four weeks** from assignment.
 
