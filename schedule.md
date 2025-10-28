@@ -223,18 +223,20 @@
 
 ### In class
 - 😎 That's cool...
-- 🔥 The [Mod Jam](./assignments/mod-jam) assignment is due tonight!
-- 💭 Thinking like a computer with arrays (if we can!)
+- 🔥 The [Mod Jam](./assignments/mod-jam) assignment is due ~~tonight~~ next week!
+- 💭 Thinking like a computer with arrays
+    - [Thinking like a computer with arrays project](./topics/arrays/examples/thinking-like-a-computer-with-arrays.zip)
 - 💬 Arrays Examples
 - 🔥 Arrays Hot Tips
+- 🐞 [Debugging Arrays](./assignments/challenges/arrays/arrays-debugging-challenge.zip)
 - 📄 Introducing the [Variation Jam](./assignments/variation-jam/) assignment
 
 ### In studio
 - 🤔🤔 Do the [Arrays Challenge](./assignments/challenges/arrays/)
-- 📄 Work on the [Mod Jam](./assignments/mod-jam) assignment (due tonight!)
+- 📄 Work on the [Mod Jam](./assignments/mod-jam) assignment (due ~~tonight~~ next week!)
 
 ### Homework
-- 🔥 Submit the [Mod Jam](./assignments/mod-jam) assignment (due tonight!)
+- 🔥 Submit the [Mod Jam](./assignments/mod-jam) assignment (due ~~tonight~~ next week!)
 - 🧑‍🎓 Follow next week's materials
 - 🔥 Come to class next week with your working Mod Jam
 
