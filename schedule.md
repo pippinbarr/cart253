@@ -228,7 +228,7 @@
     - [Thinking like a computer with arrays project](./topics/arrays/examples/thinking-like-a-computer-with-arrays.zip)
 - 💬 Arrays Examples
 - 🔥 Arrays Hot Tips
-- 🐞 [Debugging Arrays](./assignments/challenges/arrays/arrays-debugging-challenge.zip)
+- 🐞 [Debugging Arrays](./topics/arrays/challenges/arrays-debugging-challenge.zip)
 - 📄 Introducing the [Variation Jam](./assignments/variation-jam/) assignment
 
 ### In studio
