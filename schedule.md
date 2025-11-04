@@ -225,7 +225,7 @@
 - 😎 That's cool...
 - 🔥 The [Mod Jam](./assignments/mod-jam) assignment is due ~~tonight~~ next week!
 - 💭 Thinking like a computer with arrays
-    - [Thinking like a computer with arrays project](./topics/arrays/examples/thinking-like-a-computer-with-arrays.zip)
+    - [Thinking like a computer with arrays project](./topics/arrays/examples/thinking-like-a-computer-with-arrays.zip)    
 - 💬 Arrays Examples
 - 🔥 Arrays Hot Tips
 - 🐞 [Debugging Arrays](./topics/arrays/challenges/arrays-debugging-challenge.zip)
@@ -252,10 +252,12 @@
 ### In class
 - 😎 That's cool...
 - 💭 Thinking like a computer with loops
+    - [Thinking like a computer with loops project](./topics/loops/examples/thinking-like-a-computer-with-loops.zip)
 - 💬 Loops Examples
 - 🔥 Loops Hot Tips
+- 🐞 [Debugging Loops](./topics/loops/challenges/loops-debugging-challenge.zip)
 - 🧐 Introducing the [Mod Jam Response](./assignments/responses/mod-jam/)
-- 👀 Mod Jam Response Time!
+- 👀 Mod Jam Vernissage!
 
 ### In studio
 - 🤔🤔 Do the [Loops Challenge](./assignments/challenges/loops/)
