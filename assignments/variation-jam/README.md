@@ -24,7 +24,7 @@ If there is a serious need for an extension, contact your instructor at least 3 
 
 Start with an existing **simple** experience create a minimum of *three* distinctive variations on that experience. Your starting point can be a previous project, including *frogfrogfrog* or something completely new.
 
-Using the variation template (tbd.), your final project must include a menu that allows the user to select amongst the different variations when the program loads.
+Your final project should include a menu that allows the user to select amongst the different variations when the program loads. This menu can either be a series of *links* to separate project folders (easiest) or a more sophisticated menu system within the program itself (consult with instructor for approaches to this).
 
 Make sure to *document* the nature of your variations in your `README.md` file.
 
