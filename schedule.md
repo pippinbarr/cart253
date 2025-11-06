@@ -261,7 +261,7 @@
 
 ### In studio
 - 🤔🤔 Do the [Loops Challenge](./assignments/challenges/loops/)
-- 📄 Work on the [Variation Jam](./assignments/mod-jam) assignment
+- 📄 Work on the [Variation Jam](./assignments/variation-jam) assignment
 - 🧐 Work on the [Mod Jam Response](./assignments/responses/mod-jam/)
 
 ### Homework
