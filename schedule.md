@@ -284,6 +284,7 @@
 - 💭 Thinking like a computer with data (if we can?)
 - 💬 Data Examples
 - 🔥 Data Hot Tips
+- 👀 Check out the [Variations Menu](../../templates/variations-menu.zip) if you want to
 
 ### In studio
 - 🤔🤔 Do the [Data Challenge](./assignments/challenges/data/)
