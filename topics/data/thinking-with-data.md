@@ -35,6 +35,37 @@ Check out the example "Machines" project we're starting with. Here we're imagini
 
 Take a look at the code we have...
 
+```javascript
+function setup() {
+    createCanvas(400, 200);
+}
+
+function draw() {
+    background(0);
+    
+    // Incinerator
+    push();
+    noStroke();
+    fill("#ff4400");
+    rect(0, 100, 100, 100);
+    pop();
+    
+    // Freezer
+    push();
+    noStroke();
+    fill("#bbbbff");
+    rect(150, 100, 100, 100);
+    pop();
+    
+    // Crusher
+    push();
+    noStroke();
+    fill("#777777");
+    rect(300, 100, 100, 100);
+    pop();
+}
+```
+
 Well, it works and is a reasonable way to started even! We get to see the visual layout, make tweaks, etc.
 
 *But*, it's very rigid. It's annoying to change anything. Note, for example, how all the machines have the same dimensions (for now), so if we change one we'll have to change them all.

@@ -281,17 +281,18 @@
 ### In class
 - 🧐🔥 The [Mod Jam Response](./assignments/responses/mod-jam/) is due this week
 - 😎 That's cool...
-- 💭 Thinking like a computer with data (if we can?)
-- 💬 Data Examples
+- 💬 Data Examples (let's spend extra time here instead of thinking like a computer)
 - 🔥 Data Hot Tips
-- 👀 Check out the [Variations Menu](../../templates/variations-menu.zip) if you want to
+- 👀 Reminder: Check out the [Variations Menu](../../templates/variations-menu.zip) if you want to
 
 ### In studio
 - 🤔🤔 Do the [Data Challenge](./assignments/challenges/data/)
 - 📄 Work on the [Variation Jam](./assignments/variation-jam) assignment
+- 📄 Work on the [Mod Jam Response](./assignments/responses/mod-jam) assignment
 
 ### Homework
 - 📄 Work on the [Variation Jam](./assignments/variation-jam) assignment
+- 📄 Work on the [Mod Jam Response](./assignments/responses/mod-jam) assignment
 
 ---
 
@@ -302,6 +303,7 @@
 ### In class
 - 😎 That's cool...
 - 📝 Course evaluations
+- 🧐🔥 The [Mod Jam Response](./assignments/responses/mod-jam/) is due this week
 - 📄 Introducing the [Post-Reflection](./assignments/post-reflection/) assignment
 - Q&A
 
