@@ -283,7 +283,7 @@
 - 🔥 Data Hot Tips
 - 💬 Data Examples
     - Let's spend extra time here instead of thinking like a computer
-- 👀 Reminder: Check out the [Variations Menu](../../templates/variations-menu.zip) if you want to
+- 👀 Reminder: Check out the [Variations Menu](./templates/variations-menu.zip) if you want to
 - 🧐🔥 The [Mod Jam Response](./assignments/responses/mod-jam/) is due *next* week
 
 ### In studio
