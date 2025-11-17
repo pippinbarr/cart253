@@ -326,6 +326,7 @@
 
 ### In class
 - 😎 That's cool...
+- 📝 Course evaluations
 - Q&A
 - 👀 Variation Jam Response Time! (No evaluation on this one, let's just enjoy!)
 
