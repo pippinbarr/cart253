@@ -328,7 +328,7 @@
 - 😎 That's cool...
 - 📝 Course evaluations
 - Q&A
-- 👀 Variation Jam Response Time! (No evaluation on this one, let's just enjoy!)
+- 👀 Variation Jam vernissage? Do we got something?
 
 ### In studio
 - 📄 Work on the [Variation Jam](./assignments/variation-jam) assignment
