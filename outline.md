@@ -2,11 +2,11 @@
 
 # 📜 Course Outline
 
-## CART 253: Creative Computation 1 – Fall 2025 – 3 credits
+## CART 253: Creative Computation 1 – Fall 2026 – 3 credits
 
 ## When and where?
 
-2 September – 1 December, 2025  
+8 September – 3 December, 2026  
 
 **Section A**: Thursdays, 13:15 – 17:15 in EV 5.709  
 **Section B**: Tuesdays, 13:15 – 17:15 in EV 5.815  
@@ -19,15 +19,15 @@ Also: Discord, email, and the internet!
 ### Sections A and B
 
 Dr. Pippin Barr  
-Associate Professor and Department Chair  
+Associate Professor 
 Department of Design and Computation Arts  
 
 [pippin.barr@concordia.ca](mailto:pippin.barr@concordia.ca)  
 [www.pippinbarr.com](http://www.pippinbarr.com/)  
 
-Office hours: Wednesdays 13:00-14:00 (with some overflow when needed)
+Office hours: tbd.
 
-**Teaching assistant**: Michael Vlamis
+**Teaching assistant**: ??
 
 ### Section AA
 
@@ -37,9 +37,9 @@ Department of Design and Comptuation Arts
 
 [sabine.rosenberg@concordia.ca](mailto:sabine.rosenberg@concordia.ca)  
 
-Office hours: CLAB Hours (EV 6.705)
+Office hours: [CLAB Hours](https://www.concordia.ca/finearts/design/facilities/computation.html#:~:text=%C2%A0(6th%20floor)-,Hours%20of%20operation,-%3A%C2%A0) (EV 6.705)
 
-**Teaching assistant**: Kamyar Karimi
+**Teaching assistant**: ??
 
 ## [Territorial acknowledgment](https://www.concordia.ca/about/indigenous/territorial-acknowledgement.html)
 
@@ -65,35 +65,37 @@ After completing this course, students should be able to:
 
 ### Lectures
 
-Most weeks will include a number of lecture videos and notes covering a specific topic in programming for students to follow in their own time before that week's class time.
+Most weeks will include a number of lecture videos and notes covering a specific topic in programming for students to follow in their own time *before* that week's class time.
 
 ### Class structure
 
-#### Discussion
+#### Discussion and live coding
 
 Each class will being with a discussion period in the classroom. This will generally include:
 
-- an ongoing series of discussions of how a computer perceives and executes the code related to the week's topic
-- a presentation of a useful or more advanced idea related to the week's topic as relevant
+- useful or more advanced idea related to the week's topic as relevant
 - a run-through of the week's example code
+- exploring student questions and ideas through live coding
 
 #### In-class challenge
 
 Most classes will include a time-limited and evaluated in-class challenge for students to complete in pairs. Asking for help during the challenge is allowed and encouraged.
 
-#### User testing
+#### Demos
 
-Some weeks will include a period of trying out each other's work. Students will be assigned a set of other student work to respond to in a short written response.
+Each week will include a period of trying out each other's work.
 
-#### Studio time
+#### Studio
 
 There will be studio time during which the instructor and TA will be available for specific student requests for assistance in person or via the class Discord.
 
 Attendance of the studio period is *highly encouraged* to take the time to connect with the instructor and TA and to work in the group setting. You learn by doing and you learn by getting help.
 
-### Projects
+### Assignments
 
-There will be three graded projects, called "jams," during the course. Each will be used as an opportunity for students to practice and develop their programming skills with room to express their own ideas.
+#### Prototyping assignments
+
+There will be 11 small weekly assignments (best 10 grades will contribute to thef inal grade) and one slightly larger final assignment during the course. Each will be used as an opportunity for students to practice and develop their programming skills with room to express their own ideas.
 
 ### Office hours
 
@@ -115,11 +117,11 @@ You're reading this course outline on GitHub. You can either read it as a websit
 
 <https://pippinbarr.com/cart253/>
 
-or as the actual GitHub repository it not-so-secretly is by going to
+or as the actual GitHub repository it is by going to
 
 <https://github.com/pippinbarr/cart253/>
 
-Students will also create their own repository on GitHub to save, track, and present their coursework. (Actual submission will be via Moodle, for privacy reasons.)
+Students will also create their own repository on GitHub to save, track, and present their coursework. Actual submission will be via Moodle.
 
 ## Discord
 
@@ -129,15 +131,15 @@ Students will also create their own repository on GitHub to save, track, and pre
 
 Specific evaluation requirements will be provided when assigned. See the [Schedule](./schedule.md) for timing.
 
-* [In-class Challenges](./assignments/challenges/) x 10 (1% each, totalling 10%)
-* [Art Jam](./assignments/art-jam/) (10%)
-* [Ar Jam Response](./assignments/art-jam-response) (5%)
-* [Mod Jam](./assignments/mod-jam/) (20%)
-* [Mod Jam Response](./assignments/mod-jam-response) (5%)
-* [Variation Jam](./assignments/variation-jam/) (30%)
-* [Post-reflection](./assignments/post-reflection/) (10%)
+* In-class Challenges x 10 (pass/fail, 1% each, totalling 10%)
+* Prototyping Assignments x 10 (6% each, totally 60%)
+    * Three prototypes
+    * One reflective journal entry
+* Final Prototype x 1 (20%)
+    * One prototype
+    * In-class presentation
 * Participation (10%)
-    * Participation includes: attending class, completing coursework, being present on the Discord, asking questions, contributing to discussions, sharing ideas, and coming to office hours (note: even if you feel that you never need help, make sure to touch base with the instructor regularly in some capacity)
+    * Participation includes: attending class, completing coursework, demoing work, being present on the Discord, asking questions, contributing to discussions, sharing ideas, and coming to office hours (note: even if you feel that you never need help, make sure to touch base with the instructor regularly in some capacity)
 
 ## French
 
