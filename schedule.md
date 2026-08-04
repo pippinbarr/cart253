@@ -17,16 +17,16 @@
 - 🧭 CART Orientation
 - 👋 Introductions
 - 👀 The [course outline](./outline) and [schedule](./schedule)
-- [Prototyping: Website](./assignments/website/README.md)
+- 💡 [Prototyping: Website](./assignments/prototyping/website/README.md)
 
 ### In studio
 - 💬 Join the class Discord (link on Moodle)
 - 🤔🤔 [Hello, World Challenge](./assignments/challenges/hello-world/)
-- [Prototyping: Website](./assignments/website/README.md)
+- 💡 [Prototyping: Website](./assignments/prototyping/website/README.md)
 - 🆘 Try *asking for help* at least once
 
 ### Homework
-- [Prototyping: Website](./assignments/website/README.md)
+- 💡 [Prototyping: Website](./assignments/prototyping/website/README.md)
 - 🧑‍🎓 Follow next week's materials
 
 ---
@@ -39,6 +39,7 @@
 - 🧑‍🎓 Follow the [Instructions learning materials](./topics/instructions/)
 
 ### In class
+- 👐 Demos
 - 💬 Instructions Examples and 🔥 Hot Tips 
 - 📄 Reading the documentation
 - 🐸 The [FrogFrogFrog repository](https://github.com/pippinbarr/frogfrogfrog/)
@@ -48,7 +49,7 @@
     - Creating prototypes
     - Adding prototypes to your website
     - Writing your reflective journal
-    - [Prototyping: Instructions](./assignments/prototyping/instructions/instructions/)
+- 💡 [Prototyping: Instructions](./assignments/prototyping/instructions/)
 
 ### In studio
 - 🤔🤔 [Instructions Challenge](./assignments/challenges/instructions/)
@@ -68,6 +69,7 @@
 - 🧑‍🎓 Follow the [Variables learning materials](./topics/variables/)
 
 ### In class
+- 👐 Demos
 - 💬 Variables Examples and 🔥 Hot Tips
 - 🤵 Let's look at the [Style Guide](./guides/style-guide.md)
 - 🎷 Live coding
@@ -88,6 +90,7 @@
 - 🧑‍🎓 Follow the [Conditionals learning materials](./topics/conditionals/)
 
 ### In class
+- 👐 Demos
 - 💬 Conditionals Examples and 🔥 Hot Tips
 - 🎷 Live coding
 
@@ -108,6 +111,7 @@
 - 🧑‍🎓 Follow the [Events learning materials](./topics/events/)
 
 ### In class
+- 👐 Demos
 - 💬 Events Examples and 🔥 Hot Tips
 - 🎷 Live coding
 
@@ -135,6 +139,7 @@
 - 🧑‍🎓 Follow the [Functions learning materials](./topics/functions/)
 
 ### In class
+- 👐 Demos
 - 💬 Functions Examples and 🔥 Hot Tips
 - 🎷 Live coding
 
@@ -154,6 +159,7 @@
 - 🧑‍🎓 Follow the [Arrays learning materials](./topics/arrays/)
 
 ### In class
+- 👐 Demos
 - 💬 Arrays Examples and 🔥 Hot Tips
 - 🎷 Live coding
 
@@ -173,6 +179,7 @@
 - 🧑‍🎓 Follow the [Loops learning materials](./topics/loops/)
 
 ### In class
+- 👐 Demos
 - 💬 Loops Examples and 🔥 Hot Tips
 - 🎷 Live coding
 
@@ -192,6 +199,7 @@
 - 🧑‍🎓 Follow the [Data learning materials](./topics/data/)
 
 ### In class
+- 👐 Demos
 - 💬 Data Examples and 🔥 Hot Tips
 - 🎷 Live coding
 
@@ -203,12 +211,12 @@ assignment
 
 ---
 
-## 🍓 Jam Week 1
+## ✨ Polish Week 1
 
 *Week of 16 November 2026*
 
 ### In class
-- 📝 Course evaluations
+- 👐 Demos
 
 ### In studio
 
@@ -217,12 +225,27 @@ assignment
 
 ---
 
-## 🍓 Jam Week 2
+## ✨ Polish Week 2
 
 *Week of 23 November 2026*
 
 ### In class
-- 👀 Final presentations!
+- 👐 Demos
+- 📝 Course evaluations
+
+### In studio
+
+### Homework
+
+---
+
+## ✨ Presentation Week
+
+*Week of 30 November 2026*
+
+### In class
+- 👐 Demos
+- 🪩 Presentations
 - 📝 Course evaluations
 
 ### In studio
@@ -233,6 +256,6 @@ assignment
 
 ## ✋ Final Submission Week (NO CLASS)
 
-*Week of 30 November 2025*
+*Week of 7 December 2026*
 
 - 🔥 Submit

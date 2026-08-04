@@ -18,7 +18,7 @@ To do this:
     - make a couple of changes to a sample project
     - enable GitHub Pages
  
-(Ideally, use the text-based materials rather than the video so you can easily talk to each other.)
+(You may want to use the text-based materials rather than the video so you can easily talk to each other at the same time.)
 
 2. Now that you've mastered version control, use your text editor to make changes to the `README.md` file in your main repository (the `cart253` folder), taking the opportunity to practice with markdown for formatting. Commit and push to the repository with a good commit message. 
 
@@ -39,7 +39,7 @@ This challenge is pass/fail and is worth 1% of your final grade.
 
 ## Submission
 
-Once you're cleared to submit, go to the Moodle and both submit your work. You should each separately submit:
+Once you're cleared to submit, go to the Moodle and both submit your work. You should each *separately* submit:
 
 - Your name
     - The link to your repository on GitHub (e.g. https://github.com/pippinbarr/cart253)
