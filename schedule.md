@@ -74,12 +74,15 @@
 - 💬 Variables Examples and 🔥 Hot Tips
 - 🤵 Let's look at the [Style Guide](./guides/style-guide.md)
 - 🎷 Live coding
+- 💡 [Prototyping: Variables](./assignments/prototyping/variables/README.md)
 
 ### In studio
 - 🤔🤔 Do the [Variables Challenge](./assignments/challenges/variables/)
+- 💡 [Prototyping: Variables](./assignments/prototyping/variables/README.md)
 
 ### Homework
 - 🧑‍🎓 Follow next week's materials
+- 💡 [Prototyping: Variables](./assignments/prototyping/variables/README.md)
 
 ---
 
@@ -94,13 +97,15 @@
 - 👐 Demos
 - 💬 Conditionals Examples and 🔥 Hot Tips
 - 🎷 Live coding
+- 💡 [Prototyping: Conditionals](./assignments/prototyping/conditionals/README.md)
 
 ### In studio
 - 🤔🤔 Do the [Conditionals Challenge](./assignments/challenges/conditionals/)
+- 💡 [Prototyping: Conditionals](./assignments/prototyping/conditionals/README.md)
 
 ### Homework
 - 🧑‍🎓 Follow next week's materials
-
+- 💡 [Prototyping: Conditionals](./assignments/prototyping/conditionals/README.md)
 
 ---
 
@@ -115,12 +120,16 @@
 - 👐 Demos
 - 💬 Events Examples and 🔥 Hot Tips
 - 🎷 Live coding
+- 💡 [Prototyping: Events](./assignments/prototyping/events/README.md)
+
 
 ### In studio
 - 🤔🤔 Do the [Events Challenge](./assignments/challenges/events/)
+- 💡 [Prototyping: Events](./assignments/prototyping/events/README.md)
 
 ### Homework
 - 🧑‍🎓 Follow next week's materials
+- 💡 [Prototyping: Events](./assignments/prototyping/events/README.md)
 
 ---
 
@@ -143,12 +152,15 @@
 - 👐 Demos
 - 💬 Functions Examples and 🔥 Hot Tips
 - 🎷 Live coding
+- 💡 [Prototyping: Functions](./assignments/prototyping/functions/README.md)
 
 ### In studio
 - 🤔🤔 Do the [Functions Challenge](./assignments/challenges/functions/)
+- 💡 [Prototyping: Functions](./assignments/prototyping/functions/README.md)
 
 ### Homework
 - 🧑‍🎓 Follow next week's materials
+- 💡 [Prototyping: Functions](./assignments/prototyping/functions/README.md)
 
 ---
 
@@ -163,12 +175,16 @@
 - 👐 Demos
 - 💬 Arrays Examples and 🔥 Hot Tips
 - 🎷 Live coding
+- 💡 [Prototyping: Arrays](./assignments/prototyping/arrays/README.md)
 
 ### In studio
 - 🤔🤔 Do the [Arrays Challenge](./assignments/challenges/arrays/)
+- 💡 [Prototyping: Arrays](./assignments/prototyping/arrays/README.md)
 
 ### Homework
 - 🧑‍🎓 Follow next week's materials
+- 💡 [Prototyping: Arrays](./assignments/prototyping/arrays/README.md)
+
 
 ---
 
@@ -183,12 +199,15 @@
 - 👐 Demos
 - 💬 Loops Examples and 🔥 Hot Tips
 - 🎷 Live coding
+- 💡 [Prototyping: Loops](./assignments/prototyping/loops/README.md)
 
 ### In studio
 - 🤔🤔 Do the [Loops Challenge](./assignments/challenges/loops/)
+- 💡 [Prototyping: Loops](./assignments/prototyping/loops/README.md)
 
 ### Homework
 - 🧑‍🎓 Follow next week's materials
+- 💡 [Prototyping: Loops](./assignments/prototyping/loops/README.md)
 
 ---
 
@@ -203,12 +222,18 @@
 - 👐 Demos
 - 💬 Data Examples and 🔥 Hot Tips
 - 🎷 Live coding
+- 💡 [Prototyping: Data](./assignments/prototyping/data/README.md)
+- ✨ [Prototyping: Polish](./assignments/polish/README.md)
 
 ### In studio
 - 🤔🤔 Do the [Data Challenge](./assignments/challenges/data/)
 assignment
+- 💡 [Prototyping: Data](./assignments/prototyping/data/README.md)
+- ✨ [Prototyping: Polish](./assignments/polish/README.md)
 
 ### Homework
+- 💡 [Prototyping: Data](./assignments/prototyping/data/README.md)
+- ✨ [Prototyping: Polish](./assignments/polish/README.md)
 
 ---
 
@@ -220,9 +245,10 @@ assignment
 - 👐 Demos
 
 ### In studio
+- ✨ [Prototyping: Polish](./assignments/polish/README.md)
 
 ### Homework
-- 🔥 Come to class next week with a working prototype
+- ✨ [Prototyping: Polish](./assignments/polish/README.md)
 
 ---
 
@@ -235,8 +261,10 @@ assignment
 - 📝 Course evaluations
 
 ### In studio
+- ✨ [Prototyping: Polish](./assignments/polish/README.md)
 
 ### Homework
+- ✨ [Prototyping: Polish](./assignments/polish/README.md)
 
 ---
 
@@ -249,9 +277,8 @@ assignment
 - 🪩 Presentations
 - 📝 Course evaluations
 
-### In studio
-
 ### Homework
+- ✨ [Prototyping: Polish](./assignments/polish/README.md)
 
 ---
 
@@ -259,4 +286,4 @@ assignment
 
 *Week of 7 December 2026*
 
-- 🔥 Submit
+- ✨ [Prototyping: Polish](./assignments/polish/README.md)
