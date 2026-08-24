@@ -44,6 +44,7 @@
 - 📄 Reading the documentation
 - 🐸 The [FrogFrogFrog repository](https://github.com/pippinbarr/frogfrogfrog/)
 - 🎷 Live coding
+- 🛟 [Guides](./guides/)
 - 💡 Introducing the prototyping assignments
     - Organizing your repository
     - Creating prototypes
