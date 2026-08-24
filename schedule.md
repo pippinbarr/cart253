@@ -239,7 +239,7 @@ assignment
 
 ---
 
-## ✨ Presentation Week
+## 🪩 Presentation Week
 
 *Week of 30 November 2026*
 

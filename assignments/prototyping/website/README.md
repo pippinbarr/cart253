@@ -2,7 +2,7 @@
 
 #### Grade
 
-- 6% of final grade
+- 7% of final grade
 
 #### Deadline
 

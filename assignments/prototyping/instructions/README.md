@@ -2,7 +2,7 @@
 
 #### Grade
 
-- 6% of final grade
+- 7% of final grade
 
 #### Deadline
 
@@ -27,7 +27,7 @@ Feel free to borrow from any of the example code you've seen so far in the cours
 
 ### One journal entry
 
-Write a journal entry in your process journal reflecting on what you learned while making your prototypes. What surprised you? What is cool? What is difficult to understand? What do you hope someone else would get out of your work? Is there anything here you would be interested to develop further? Include at least one screenshot, include at least one quote of some of your code. (250 words)
+Write a journal entry in your process journal reflecting on what you learned while making your prototypes. What surprised you? What is cool? What is difficult to understand? What do you hope someone else would get out of your work? Is there anything here you would be interested to develop further? Include at least one screenshot. (250 words)
 
 ## How to start a prototype
 
@@ -35,7 +35,7 @@ Remember to take this basic steps to get going:
 
 1. Download the [template project](../../templates/template-p5-project.zip)
 2. Rename that folder, maybe to `instructions-prototype-1` or `blueberry-swirl` (you can always rename it later)
-3. Put that folder in your responsity repository somewhere sensible like `cart253/prototypes/instructions/`
+3. Put that folder in your repository somewhere sensible like `cart253/prototypes/instructions/`
 4. Commit and push that change with a message like "Started blueberry swirl prototype"
 5. Keep committing and pushing as you go along, being sure to write about *what* you did and *why* you did it
 
@@ -43,7 +43,7 @@ Remember to take this basic steps to get going:
 
 You should add the following to your class homepage (aka. `cart253/README.md`):
 1. A heading naming the assignment
-2. Links to each of your three running prototypes and links to their code
+2. Links to each of your three running prototypes and links to their code on GitHub
 3. A link to your journal entry for this assignment
 
 It will look something like this in markdown:
@@ -60,7 +60,7 @@ It will look something like this in markdown:
 - [Instructions Prototypes Reflection](https://pippinbarr.github.io/cart253/journal.md#instructions-prototypes-reflection)
 ```
 
-You will submit a link to your README.md with the above links in it via Moodle, see below.
+You will then only need to submit a link to your README.md via Moodle, see below.
 
 ## Advice
 
@@ -78,14 +78,14 @@ Your submission should just be a plain text link to your README.md that contains
 
  <https://github.com/pippinbarr/cart253/blob/main/README.md> or
  
- <https://pippinbarr.com/cart253/>
+ <https://pippinbarr.github.io/cart253/>
 
 🔥 Make sure all your links work before you submit 🔥  
 🔥 Make sure that you have commented your project before you submit 🔥
 
 ## Evaluation
 
-See the assignment rubric on Moodle for details.
+See the assignment rubric on Moodle for precise details.
 
 ---
 

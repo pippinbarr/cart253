@@ -59,7 +59,7 @@ After completing this course, students should be able to:
 
 * Read, understand and write JavaScript
 * Comfortably use the arts-oriented library p5 to make digital art
-* Use programming to explore and express their ideas
+* Begin to use programming to explore and express their ideas
 
 ## Key activities
 
@@ -95,7 +95,7 @@ Attendance of the studio period is *highly encouraged* to take the time to conne
 
 #### Prototyping assignments
 
-There will be 11 small weekly assignments (best 10 grades will contribute to thef inal grade) and one slightly larger final assignment during the course. Each will be used as an opportunity for students to practice and develop their programming skills with room to express their own ideas.
+There will be weekly assignments per topic and one slightly larger final assignment during the course. Each will be used as an opportunity for students to practice and develop their programming skills with room to express their own ideas.
 
 ### Office hours
 
@@ -131,15 +131,16 @@ Students will also create their own repository on GitHub to save, track, and pre
 
 Specific evaluation requirements will be provided when assigned. See the [Schedule](./schedule.md) for timing.
 
-* In-class Challenges x 10 (pass/fail, 1% each, totalling 10%)
-* Prototyping Assignments x 10 (6% each, totally 60%)
+* In-class Challenges x 9 (pass/fail, 1% each, totalling 9%)
+* Prototyping Assignments x 9 (7% each, totalling 63%)
     * Three prototypes
     * One reflective journal entry
 * Final Prototype x 1 (20%)
     * One prototype
     * In-class presentation
-* Participation (10%)
-    * Participation includes: attending class, completing coursework, demoing work, being present on the Discord, asking questions, contributing to discussions, sharing ideas, and coming to office hours (note: even if you feel that you never need help, make sure to touch base with the instructor regularly in some capacity)
+    * Final reflective journal entry
+* Participation (8%)
+    * Participation includes: attending class, completing coursework, demoing work, being present on the Discord, asking questions, contributing to discussions, sharing ideas, and coming to office hours (note: even if you feel that you *never* need help, make sure to touch base with the instructor regularly in some capacity)
 
 ## French
 
@@ -169,7 +170,7 @@ It is course policy that no student will use AI tools or similar to produce thei
     
 ## Costs
 
-* See the [Department Syllabus](https://www.concordia.ca/content/dam/finearts/design/docs/dcart-undergraduate-syllabus.pdf)
+* See the [Department Information](https://www.concordia.ca/content/dam/finearts/design/docs/dcart-undergraduate-information.pdf)
     - **Note especially**: The Department of Design and Computation Arts offers extremely useful labs for students to get help and resources to do their work during the program. This includes the [Computation Lab](https://www.concordia.ca/finearts/design/facilities/computation.html), the [Sensor Lab](https://www.concordia.ca/finearts/design/facilities/sensor.html), the [Visual Communication Lab](https://www.concordia.ca/finearts/design/facilities/visual-communication.html), the [Soft Surface Lab](https://www.concordia.ca/finearts/design/facilities/soft-surface.html) and the [Documentation Lab](https://www.concordia.ca/finearts/design/facilities/documentation.html). To gain access to and support these labs we ask for a $50 departmental fee to be paid once per year. The fee can be paid via the faculty's [Online Fees System](https://adsys2.concordia.ca/OFAF/pages/Default).
 
 * All software students are expected to use in the class will be free.
@@ -182,7 +183,7 @@ The practical work done in this class will take place on a lab computer or on yo
 
 (Click through for week-by-week information about what we will cover in the course.)
 
-## [Design and Computation Arts Syllabus](https://www.concordia.ca/content/dam/finearts/design/docs/dcart-undergraduate-syllabus.pdf)
+## [Design and Computation Arts Undergraduate Information](https://www.concordia.ca/content/dam/finearts/design/docs/dcart-undergraduate-information.pdf)
 
 (Click through for the standardized information from D/CART that is included as part of all course outlines.)
 
