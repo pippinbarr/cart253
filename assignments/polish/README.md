@@ -1,7 +1,0 @@
-# Assignment: Polish {
-
-tbd.
-
----
-
-## }

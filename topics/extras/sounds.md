@@ -21,7 +21,8 @@ Let's say you have a sound file called `bark.wav`. First, you:
 
 ### Loading and playing the sound
 
-Now the image is in your project you can load it. The simplest approach here is to use `preload()` in your project to load the sound *into a variable*. That's right, a variable can contain a sound.
+Now the sound is in your project you can load it. We're going to write a function called `preload()` that we'll call in `setup()`. In it we will load our sound *into a variable*. That's right, a variable can contain a sound.
+
 
 ```javascript
 // We need a variable to store our sound in so we can use it later
@@ -31,17 +32,33 @@ let barkSFX = undefined;
 /**
  * Load our bark sound
  */
-function preload() {
+async function preload() {
     // This is how you load a sound!
     // Note that loadSound() needs the PATH to your sound inside your project
     // Note that the path is CASE SENSITIVE
     // Note that the filename is CASE SENSITIVE
     // Note the QUOTE MARKS around the path
-    barkSFX = loadSound("assets/sounds/bark.wav");
+    barkSFX = await loadSound("assets/sounds/bark.wav");
+    // Note the use of "await" before we call loadSound() as well,
+    // we need this because we're loading a file which takes time,
+    // so our program needs to (a)wait the file!
+    // It means the program will *pause* here until the file is loaded.
+
 }
 
-function setup() {
+/**
+ * setup() is run once at the start of our program.
+ * 
+ * Note that because we're loading files we put "async" in front of setup()
+ * to show that it involves instructions that take variable time (loading).
+ */
+async function setup() {
     createCanvas(640, 480);
+    
+    // We call preload() to load our files and include "await" in front of
+    // it so our program pauses until the preloading of the files is done.
+    await preload();
+
 }
 
 function draw() {
@@ -81,7 +98,7 @@ The easiest way to do that is to start your program with a screen that requires 
 
 ## Summary
 
-Using `loadSound()` in `preload()` we can load a sound into a variable (or object property). Using `.play()` we can play the sound.
+Using `loadSound()` we can load a sound into a variable (or object property). Using `.play()` we can play the sound.
 
 We will pay attention to *sound file sizes* and *sound file formats* to make sure they are appropriate.
     

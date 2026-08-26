@@ -38,15 +38,17 @@ let state = "title";
 /**
  * Loads our text data
  */
-function preload() {
-    strings = loadJSON("assets/data/localisation.json");
+async function preload() {
+    strings = await loadJSON("assets/data/localisation.json");
 }
 
 /**
  * Create the canvas, set up text
  */
-function setup() {
+async function setup() {
     createCanvas(500, 500);
+
+    await preload();
 
     // Text settings
     textSize(32);

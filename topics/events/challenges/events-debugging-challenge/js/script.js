@@ -30,15 +30,17 @@ let gameOver = true;
 /**
  * Load the coin collection sound
  */
-function preload() {
-    coin.collectSFX = loadSound("assets/sounds/collect.wav")
+async function preload() {
+    coin.collectSFX = await loadSound("assets/sounds/collect.wav")
 }
 
 /**
  * Create the canvas
  */
-function setup() {
+async function setup() {
     createCanvas(600, 600);
+
+    await preload();
 
     // Reset the coin to put it in a random place
     resetCoin();

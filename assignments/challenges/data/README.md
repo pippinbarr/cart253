@@ -102,7 +102,7 @@ Copy your two JSON files into your project in the `assets/data` folder (create i
 
 ### Step 3: Load your data
 
-Add a `preload()` function to load the two data files into the provided data variables.
+Add an `async preload()` function to load the two data files into the provided data variables. Call the function in `setup()` (don't forget to use `await`!)
 
 ### Step 4: Use your data
 

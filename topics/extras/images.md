@@ -21,7 +21,7 @@ Let's say you have an image file called `bird.png`. First, you:
 
 ### Loading the image
 
-Now the image is in your project you can load it. The simplest approach here is to include a function called `preload()` in your project. In it you will load the image *into a variable*. That's right, a variable can contain an image.
+Now the image is in your project you can load it. We're going to write a function called `preload()` that we'll call in `setup()`. In it we will load our image *into a variable*. That's right, a variable can contain an image.
 
 ```javascript
 // We need a variable to store our image in so we can use it later
@@ -30,18 +30,35 @@ let birdImage = undefined;
 
 /**
  * Load our bird image
+ * 
+ * Note the "async" at the front here which we need to be able to
+ * load files in p5. 
  */
-function preload() {
+async function preload() {
     // This is how you load an image!
     // Note that loadImage() needs the PATH to your image inside your project
     // Note that the path is CASE SENSITIVE
     // Note that the filename is CASE SENSITIVE
-    // Note the QUOTE MARKS around the path
-    birdImage = loadImage("assets/images/bird.png");
+    // Note the QUOTE MARKS around the path    
+    birdImage = await loadImage("assets/images/bird.png");
+    // Note the use of "await" before we call loadImage() as well,
+    // we need this because we're loading a file which takes time,
+    // so our program needs to (a)wait the file!
+    // It means the program will *pause* here until the file is loaded.
 }
 
-function setup() {
+/**
+ * setup() is run once at the start of our program.
+ * 
+ * Note that because we're loading files we put "async" in front of setup()
+ * to show that it involves instructions that take variable time (loading).
+ */
+async function setup() {
     createCanvas(640, 480);
+    
+    // We call preload() to load our files and include "await" in front of
+    // it so our program pauses until the preloading of the files is done.
+    await preload();
 }
 
 function draw() {
@@ -90,13 +107,15 @@ let bird = {
     image: undefined
 };
 
-function preload() {
+async function preload() {
     // Load the bird image into our bird object's image property
-    bird.image = loadImage("assets/images/bird.png");
+    bird.image = await loadImage("assets/images/bird.png");
 }
 
-function setup() {
+asyc function setup() {
     createCanvas(640, 480);
+    
+    await preload();
 }
 
 function draw() {
@@ -118,7 +137,7 @@ The birdie! It's flying, mom!
 
 ## Summary
 
-Using `loadImage()` in `preload()` we can load an image into a variable (or property). Using `image()` in `draw()` we can display the image. Using `imageMode(CENTER)` we can display images from their centrepoint.
+Using `loadImage()` we can load an image into a variable (or property). Using `image()` in `draw()` we can display the image. Using `imageMode(CENTER)` we can display images from their centrepoint.
 
 We will pay attention to *image file sizes* and *image dimensions* to make sure they are appropriate.
     

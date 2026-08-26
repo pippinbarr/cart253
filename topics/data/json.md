@@ -131,7 +131,7 @@ Note that the `assets/data` location is just a suggestion, not a rule. If you ha
 
 Many libraries (including p5) provide functions for **loading** JSON data from a file. In p5, that function is called [`loadJSON()`](https://p5js.org/reference/#/p5/loadJSON).
 
-The easiest way to use `loadJSON()` is, as with `loadImage()` and `loadSound()`, to put it in the `preload()` function so that you don't need to worry about **how long** a file takes to load.
+The easiest way to use `loadJSON()` is, as with `loadImage()` and `loadSound()`, to put it in a `preload()` function and to use `await` so that you don't need to worry about **how long** a file takes to load.
 
 Just as with the other `load` functions, when used in `preload()`, `loadJSON` will return a value we can store in a variable...
 
@@ -139,13 +139,15 @@ Just as with the other `load` functions, when used in `preload()`, `loadJSON` wi
 // A global variable to store our data in
 let tarot;
 
-function preload() {
+async function preload() {
   // Used in preload, loadJSON will just return the data into our variable
-  tarot = loadJSON("assets/data/tarot_interpretations.json");
+  tarot = await loadJSON("assets/data/tarot_interpretations.json");
+  // The await means the program will wait here until the file is loaded
 }
 
 function setup() {
-
+  // Wait for preload to finish before continuing
+  await preload();
 }
 
 function draw() {
@@ -157,7 +159,7 @@ Now when our program starts the `tarot` variable will have the data in it!
 
 ### 3. Access the data
 
-The beauty of loading JSON in `preload()` is that it's just ready to use once our program starts in `setup()`.
+The beauty of loading JSON in our `preload()` is that it's just ready to use once our program starts in `setup()`.
 
 Importantly, because the JSON format mirrors JavaScript, when we load the **object** in `tarot_interpretations.json` it will be stored as an **object** structured in exactly the same way in our `tarot` variable.
 
@@ -175,13 +177,15 @@ So...
 // A global variable to store our data in
 let tarot;
 
-function preload() {
+async function preload() {
   // Used in preload, loadJSON will just return the data into our variable
-  tarot = loadJSON("assets/data/tarot_interpretations.json");
+  tarot = await loadJSON("assets/data/tarot_interpretations.json");
 }
 
-function setup() {
+async function setup() {
   createCanvas(windowWidth, windowHeight);
+  
+  await preload();
 }
 
 function draw() {
@@ -218,13 +222,15 @@ So to access this and display it in our code we need...
 // A global variable to store our data in
 let tarot;
 
-function preload() {
+async function preload() {
   // Used in preload, loadJSON will just return the data into our variable
-  tarot = loadJSON("assets/data/tarot_interpretations.json");
+  tarot = await loadJSON("assets/data/tarot_interpretations.json");
 }
 
-function setup() {
+async function setup() {
   createCanvas(windowWidth, windowHeight);
+  
+  await preload();
 }
 
 function draw() {
@@ -259,13 +265,15 @@ let tarot;
 // A global variable to store our fortune in
 let fortune;
 
-function preload() {
+async function preload() {
   // Used in preload, loadJSON will just return the data into our variable
-  tarot = loadJSON("assets/data/tarot_interpretations.json");
+  tarot = await loadJSON("assets/data/tarot_interpretations.json");
 }
 
-function setup() {
+async function setup() {
   createCanvas(windowWidth, windowHeight);
+  
+  await preload();
 
   // Choose a random card
   let card = random(tarot.tarot_interpretations);

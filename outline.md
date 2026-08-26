@@ -135,10 +135,9 @@ Specific evaluation requirements will be provided when assigned. See the [Schedu
 * Prototyping Assignments x 9 (7% each, totalling 63%)
     * Three prototypes
     * One reflective journal entry
-* Final Prototype x 1 (20%)
-    * One prototype
-    * In-class presentation
-    * Final reflective journal entry
+* Polish Prototype x 1 (20%)
+    * One prototype with reflective journal entry (15%)
+    * Polish Presentation in class (5%)
 * Participation (8%)
     * Participation includes: attending class, completing coursework, demoing work, being present on the Discord, asking questions, contributing to discussions, sharing ideas, and coming to office hours (note: even if you feel that you *never* need help, make sure to touch base with the instructor regularly in some capacity)
 

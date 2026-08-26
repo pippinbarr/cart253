@@ -40,15 +40,17 @@ let marcImage = undefined;
 /**
  * Loads the Marc Anthony image
  */
-function preload() {
-    marcImage = loadImage("assets/images/marc.png");
+async function preload() {
+    marcImage = await loadImage("assets/images/marc.png");
 }
 
 /**
  * Creates the canvas
  */
-function setup() {
+async function setup() {
     createCanvas(400, 400);
+
+    await preload();
 }
 
 /**

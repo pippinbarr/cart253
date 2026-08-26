@@ -17,15 +17,17 @@ let clownImage = undefined;
 /**
  * Load the clown image
  */
-function preload() {
-    clownImage = loadImage("assets/images/clown.png");
+async function preload() {
+    clownImage = await loadImage("assets/images/clown.png");
 }
 
 /**
  * Create the canvas
  */
-function setup() {
+async function setup() {
     createCanvas(400, 400);
+
+    await preload();
 }
 
 /**
