@@ -45,6 +45,7 @@
 - 🧑‍🎓 Follow the [Instructions learning materials](./topics/instructions/)
 
 ### In class
+- A visit from CASS (Computation Arts Student Society)
 - 👐 Demos (of websites)
 - 📄 Reading the documentation
 - 💬 Instructions Examples and 🔥 Hot Tips 
