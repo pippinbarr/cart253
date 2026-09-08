@@ -30,7 +30,7 @@ The point of GitHub Pages is to make your programming projects available online 
 - Substitute your repository folder name for `cart253` if it's different
 - Substitute the path to your project for `topics/version-control/version-control-workflow` if it's different
 
-All going to plan, when you build the right URL you'll see the project in the browser, but this time it's **onlin**! You could send it to your friends and relatives! Why not??
+All going to plan, when you build the right URL you'll see the project in the browser, but this time it's **online**! You could send it to your friends and relatives! Why not??
 
 ## The GitHub Pages URL
 
