@@ -163,14 +163,14 @@ That, my friend, is the version control workflow. Learn to love it. It's basical
 
 ## Summary
 
-Whenever we start a new project you:
+Whenever you start a new project you:
 
 1. Download the template
 2. Rename it
 3. Move it into your repository
 4. Commit and push that change
 
-Whenever we work on your project you:
+Whenever you work on your project you:
 
 1. Make a significant set of changes (a new feature, fixing a problem, ...)
 2. Check it worked in the browser
