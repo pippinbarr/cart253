@@ -6,7 +6,7 @@
 
 ## Template(s)
 
-* [Template p5 project .zip file](../templates/template-p5-project.zip)
+* [Template p5 project .zip file](./templates/template-p5-project.zip)
 
 ## p5.js
 

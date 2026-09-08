@@ -15,19 +15,25 @@
 
 ### In class
 - 🧭 CART Orientation
+    - Introductions and Q&A followed by a facilities tour
 - 👋 Introductions
 - 👀 The [course outline](./outline) and [schedule](./schedule)
+- 🤔🤔 [Hello, World Challenge](./assignments/challenges/hello-world/)
+    - Introducing the idea of challenges
 - 💡 [Prototyping: Website](./assignments/prototyping/website/README.md)
+    - Assignment overview
+    - Assignment submission
+    - Assignment rubric
 
 ### In studio
-- 💬 Join the class Discord (link on Moodle)
+- 💬 Join the class Discord (link on Moodle), please use your real name or something like it
 - 🤔🤔 [Hello, World Challenge](./assignments/challenges/hello-world/)
 - 💡 [Prototyping: Website](./assignments/prototyping/website/README.md)
 - 🆘 Try *asking for help* at least once
 
 ### Homework
 - 💡 [Prototyping: Website](./assignments/prototyping/website/README.md)
-- 🧑‍🎓 Follow next week's materials
+- 🧑‍🎓 Follow next week's materials (that is, do them *before* class next week)
 
 ---
 
@@ -39,9 +45,9 @@
 - 🧑‍🎓 Follow the [Instructions learning materials](./topics/instructions/)
 
 ### In class
-- 👐 Demos
-- 💬 Instructions Examples and 🔥 Hot Tips 
+- 👐 Demos (of websites)
 - 📄 Reading the documentation
+- 💬 Instructions Examples and 🔥 Hot Tips 
 - 🐸 The [FrogFrogFrog repository](https://github.com/pippinbarr/frogfrogfrog/)
 - 🎷 Live coding
 - 🛟 [Guides](./guides/)
@@ -50,6 +56,7 @@
     - Creating prototypes
     - Adding prototypes to your website
     - Writing your reflective journal
+    - The prototyping assignment rubric
 - 💡 [Prototyping: Instructions](./assignments/prototyping/instructions/)
 
 ### In studio
@@ -71,8 +78,8 @@
 
 ### In class
 - 👐 Demos
-- 💬 Variables Examples and 🔥 Hot Tips
 - 🤵 Let's look at the [Style Guide](./guides/style-guide.md)
+- 💬 Variables Examples and 🔥 Hot Tips
 - 🎷 Live coding
 - 💡 [Prototyping: Variables](./assignments/prototyping/variables/README.md)
 

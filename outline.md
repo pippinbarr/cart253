@@ -19,7 +19,7 @@ Also: Discord, email, and the internet!
 ### Sections A and B
 
 Dr. Pippin Barr  
-Associate Professor 
+Associate Professor  
 Department of Design and Computation Arts  
 
 [pippin.barr@concordia.ca](mailto:pippin.barr@concordia.ca)  
@@ -27,7 +27,7 @@ Department of Design and Computation Arts
 
 Office hours: tbd.
 
-**Teaching assistant**: ??
+**Teaching assistant**: Michael Vlamis
 
 ### Section AA
 
@@ -39,7 +39,7 @@ Department of Design and Comptuation Arts
 
 Office hours: [CLAB Hours](https://www.concordia.ca/finearts/design/facilities/computation.html#:~:text=%C2%A0(6th%20floor)-,Hours%20of%20operation,-%3A%C2%A0) (EV 6.705)
 
-**Teaching assistant**: ??
+**Teaching assistant**: Michael Vlamis
 
 ## [Territorial acknowledgment](https://www.concordia.ca/about/indigenous/territorial-acknowledgement.html)
 
@@ -89,7 +89,7 @@ Each week will include a period of trying out each other's work.
 
 There will be studio time during which the instructor and TA will be available for specific student requests for assistance in person or via the class Discord.
 
-Attendance of the studio period is *highly encouraged* to take the time to connect with the instructor and TA and to work in the group setting. You learn by doing and you learn by getting help.
+Attendance of the studio period is *highly encouraged* to take the time to connect with the instructor and TA and to work in the group setting. You learn by doing, you learn by getting help, and you learn by helping!
 
 ### Assignments
 
@@ -133,8 +133,7 @@ Specific evaluation requirements will be provided when assigned. See the [Schedu
 
 * In-class Challenges x 9 (pass/fail, 1% each, totalling 9%)
 * Prototyping Assignments x 9 (7% each, totalling 63%)
-    * Three prototypes
-    * One reflective journal entry
+    * Three prototypes and one reflective journal entry per assignment
 * Polish Prototype x 1 (20%)
     * One prototype with reflective journal entry (15%)
     * Polish Presentation in class (5%)
@@ -143,13 +142,13 @@ Specific evaluation requirements will be provided when assigned. See the [Schedu
 
 ## French
 
-Students have the right to write in French at Concordia. Pippin can read French fairly well, but cannot offer substantive feedback on writing skill itself. Given that this is a programming course, you are welcome to name variables and functions in French as well as to write comments in French.
+Students have the right to write in French at Concordia. Pippin can read French fairly well, but cannot offer substantive feedback on writing skill itself. Given that this is a programming course, you are welcome to name variables and functions in French as well as to write comments and commit messages etc. in French.
 
 ## Late work policy
 
-Late work of any kind will lose one letter grade per day late, beginning immediately after the deadline (e.g. if it is two days late, work that would have received a B would lose two letter grades and receive a C+). 
+Late work of any kind will lose two points per day late, beginning immediately after the deadline (e.g. if it is two days late, work that would have received a 22/22 would lose two points and receive a 20/22). 
 
-**🔥 Please get in touch with the instructor before a deadline passes if you think you won't make it 🔥**
+**🔥 Please get in touch with the instructor before a deadline passes if you think you won't or can't make it 🔥**
 
 ## Academic integrity
 
@@ -165,12 +164,12 @@ When creating projects in code, make sure you attribute all elements that are no
 
 ### Programming and AI
 
-It is course policy that no student will use AI tools or similar to produce their work. There is a great conversation to be had about these tools and we should have it, but the bottom line is that this course is about learning to code, not having it done for us.
+It is course policy that no student will use AI tools or similar to produce their work. There is a great conversation to be had about these tools and we should have it, but the bottom line is that this course is about learning to code, not having it done for us. Using AI to help you understand the concepts taught in the course is well worth discussing.
     
 ## Costs
 
 * See the [Department Information](https://www.concordia.ca/content/dam/finearts/design/docs/dcart-undergraduate-information.pdf)
-    - **Note especially**: The Department of Design and Computation Arts offers extremely useful labs for students to get help and resources to do their work during the program. This includes the [Computation Lab](https://www.concordia.ca/finearts/design/facilities/computation.html), the [Sensor Lab](https://www.concordia.ca/finearts/design/facilities/sensor.html), the [Visual Communication Lab](https://www.concordia.ca/finearts/design/facilities/visual-communication.html), the [Soft Surface Lab](https://www.concordia.ca/finearts/design/facilities/soft-surface.html) and the [Documentation Lab](https://www.concordia.ca/finearts/design/facilities/documentation.html). To gain access to and support these labs we ask for a $50 departmental fee to be paid once per year. The fee can be paid via the faculty's [Online Fees System](https://adsys2.concordia.ca/OFAF/pages/Default).
+    - **Note especially**: The Department of Design and Computation Arts offers extremely useful labs for students to get help and resources to do their work during the program. This includes the [Computation Lab](https://www.concordia.ca/finearts/design/facilities/computation.html), the [Sensor Lab](https://www.concordia.ca/finearts/design/facilities/sensor.html), the [Visual Communication Lab](https://www.concordia.ca/finearts/design/facilities/visual-communication.html), the [Soft Surface Lab](https://www.concordia.ca/finearts/design/facilities/soft-surface.html) and the [Documentation Lab](https://www.concordia.ca/finearts/design/facilities/documentation.html).
 
 * All software students are expected to use in the class will be free.
 
