@@ -39,7 +39,7 @@ Write a journal entry in your process journal reflecting on what you learned whi
 
 Remember to take this basic steps to get going:
 
-1. Download the [template project](../../templates/template-p5-project.zip)
+1. Download the [template project](../../../templates/template-p5-project.zip)
 2. Rename that folder, maybe to `instructions-prototype-1` or `blueberry-swirl` (you can always rename it later)
 3. Put that folder in your repository somewhere sensible like `cart253/prototypes/instructions/`
 4. Commit and push that change with a message like "Started blueberry swirl prototype"
