@@ -61,7 +61,7 @@ You will then only need to submit a link to your README.md via Moodle, see below
 1. **Start early**. Don't delay thinking about this. Start playing around immediately.
 2. **Start small**. Think of the smallest possible version of what you want to make and make that first. Once it works, you can start adding to it.
 3. **Seek help**. Ask for help as soon as you need it either to discuss what you want to do or to figure out a problem.
-4. **Be stylish**. Make sure you read the [style guide](../../guides/style-guide.md).
+4. **Be stylish**. Make sure you read the [style guide](../../../guides/style-guide.md).
 5. **Be committed**. Remember your grade includes your use of version control and writing good commit messages.
 
 ## Submission
