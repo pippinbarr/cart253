@@ -17,11 +17,13 @@ Put briefly, just let VS Code *format your code for you*. If you haven't already
 
 ## `README.md`
 
-Any *submitted* project must include a file titled `README.md` in the main project folder (it's there by default in the template). This document should explain your project and should provide any information someone interested in it might need to understand the implementation and also how to interact with it. It should clearly state the title of the project as well as your authorship.
+A good project includes a file titled `README.md` in the main project folder (it's there by default in the template). This document explains your project and should provide any information someone interested in it might need to understand the implementation and also how to interact with it. It should clearly state the title of the project as well as your authorship.
 
 The `README.md` is also another good place for attribution if you are using code and/or media from other sources that you need to credit.
 
-Use the [frogfrogfrog repository](https://github.com/pippinbarr/frogfrogfrog) as an example of how to proceed when in doubt.
+Use the [frogfrogfrog repository](https://github.com/pippinbarr/frogfrogfrog) as one example of how to proceed when in doubt.
+
+**NOTE:** In the case of prototypes this is less important, but it is *very good practice* to write a README.
 
 ## Commenting
 
@@ -185,7 +187,7 @@ Use the [frogfrogfrog repository](https://github.com/pippinbarr/frogfrogfrog) as
 
 ## Version Control
 
-Part of your programming style for this class will be based on your approach to version control. This essentially boils down to:
+A different kind of style concerns your approach to version control. This essentially boils down to:
 
 - Commit (and push) regularly
 - Commit any time you do a significant and/or distinct block of work (ideally that runs)

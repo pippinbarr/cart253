@@ -78,6 +78,7 @@
 - 🧑‍🎓 Follow the [Variables learning materials](./topics/variables/)
 
 ### In class
+- 👔 Pippin's office hours: Mondays 11:00-12:00 (in person and online), Fridays 11:00-12:00 (online only) [Inevitably there will be weeks where I can't make one of these and I'll figure it out. Discord is always open]
 - 👐 Demos
 - 🤵 Let's look at the [Style Guide](./guides/style-guide.md)
 - 💬 Variables Examples and 🔥 Hot Tips
