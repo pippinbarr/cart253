@@ -27,5 +27,10 @@ function setup() {
  * Drawings that change...
 */
 function draw() {
+    // Make the background as grey as the salary man's heart
+    background("grey");
 
+    fill("#aaaaaa");
+    strokeWeight(10);
+    square(800, 100 - 25, 25);
 }
