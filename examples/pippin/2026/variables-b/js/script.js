@@ -8,11 +8,11 @@
 "use strict";
 
 let salaryMan = {
-    x: 1000,
+    x: 900,
     y: 100,
     size: 25,
     fill: "#aaaaaa",
-    speed: -1
+    speed: -0.5
 };
 
 /**
@@ -25,16 +25,17 @@ function setup() {
 
 
 /**
- * Drawings that change...
+ * A salaryman walks across the screen to work
 */
 function draw() {
     // Make the background as grey as the salary man's heart
     background("grey");
 
+    // Draw the salary man
     fill(salaryMan.fill);
     strokeWeight(10);
     square(salaryMan.x, salaryMan.y - salaryMan.size, salaryMan.size);
 
+    // Make the salaryman move
     salaryMan.x = salaryMan.x + salaryMan.speed;
-    salaryMan.speed = salaryMan.speed - 100;
 }   
