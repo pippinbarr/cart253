@@ -5,12 +5,13 @@
  * Launches a rocket launch downward
  */
 
+
 // Our rocket
 const rocket = {
     x: 50,
     y: 0,
     size: 50,
-    speed: 0,
+    speed: 3,
     acceleration: 0.2
 };
 
@@ -24,6 +25,7 @@ function setup() {
 /**
  * Make a rocket launch down
  */
+let seen = false;
 function draw() {
     background("skyblue");
 
@@ -36,7 +38,7 @@ function draw() {
     rectMode(CENTER);
     noStroke();
     fill("rebeccapurple");
-    square(rocket.x, rocket.y + rocket.size / 2, rocket.size);
+    square(rocket.x, rocket.y, rocket.size);
     pop();
 }
 
