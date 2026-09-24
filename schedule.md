@@ -84,6 +84,7 @@
 - 💬 Variables Examples and 🔥 Hot Tips
 - 🎷 Live coding
 - 💡 [Prototyping: Variables](./assignments/prototyping/variables/README.md)
+    - What to submit
 
 ### In studio
 - 🤔🤔 Do the [Variables Challenge](./assignments/challenges/variables/)
@@ -111,6 +112,7 @@
 ### In studio
 - 🤔🤔 Do the [Conditionals Challenge](./assignments/challenges/conditionals/)
 - 💡 [Prototyping: Conditionals](./assignments/prototyping/conditionals/README.md)
+    - What to submit
 
 ### Homework
 - 🧑‍🎓 Follow next week's materials

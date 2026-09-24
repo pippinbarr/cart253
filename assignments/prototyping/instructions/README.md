@@ -68,7 +68,7 @@ You will then only need to submit a link to your README.md via Moodle, see below
 
 Submission will take place on **Moodle**. Go to the appropriately named **assignment** on the Moodle and then submit your work there.
 
-Your submission should just be a plain text link to your website or to your README.md that contains the materials for this assignment, e.g.
+Your submission should just be a plain text link to your website or to your README.md that contains the links for this assignment, e.g.
 
 Website version: <https://pippinbarr.github.io/cart253/>
  
