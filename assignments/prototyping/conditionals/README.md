@@ -21,7 +21,7 @@ If you ever need an extension, contact your instructor at least 3 days *before* 
 
 ### Three prototypes
 
-Create three distinct, *small* prototypes that explore the material learned during this week. Each prototype should be build as a *separate* small project (starting with the template project each time). Make sure you play around with what is possible in terms of using conditionals to create programs that express choice, personality, preference, possibility, rarity, narrative, and more. There are many area to explore:
+Create three distinct, *small* prototypes that explore the material learned during this week. Each prototype should be built as a *separate* small project (starting with the template project each time). Make sure you play around with what is possible in terms of using conditionals to create programs that express choice, personality, preference, possibility, rarity, narrative, and more. There are many area to explore:
 
 - What kinds of information can a conditional use to make a decision?
 - What kinds of *change* in your program can trigger a conditional?
