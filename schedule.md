@@ -148,6 +148,9 @@
 
 *Week of 12 October 2026*
 
+- 👀 Review the course materials so far
+    - Either via the learning materials per week
+    - Or via [this syntax review](./guides/syntax-review/) guide
 - 🧑‍🎓 Follow next week's materials
 
 ---
