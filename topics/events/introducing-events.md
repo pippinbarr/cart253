@@ -51,7 +51,7 @@ Specifically, p5 will automatically call certain functions (event handlers) when
 
 In fact, the `draw()` function we always define in our p5 programs *is* a function that responds to an event! It's an *event handler*.
 
-📖 Read the [`draw()`] documentation 📖
+📖 Read the [`draw()`](https://p5js.org/reference/p5/draw/) documentation 📖
 
 What event does it respond to? The "next animation frame is ready" event! There is a timer hidden from us that is counting out the precise amount of time per frame (around 0.0167 seconds for a 60FPS program) and then *calling* `draw()` each time it elapses!
 
