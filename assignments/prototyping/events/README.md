@@ -109,6 +109,12 @@ Website version: <https://pippinbarr.github.io/cart253/>
  
 Repository version: <https://github.com/pippinbarr/cart253/>
 
+If you would like to be fancy you could make a new README.md for each topic and put it in a corresponding folder with all your prototypes and code linked there instead, e.g. you would submit something like:
+
+Website version: <https://pippinbarr.github.io/cart253/events/>
+
+Repository version: <https://pippinbarr.github.io/cart253/tree/main/events/>
+
 
 🔥 Make sure all your links work before you submit 🔥  
 🔥 Make sure that you have commented your project before you submit 🔥
