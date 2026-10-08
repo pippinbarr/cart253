@@ -6,7 +6,7 @@
 
 #### Deadline
 
-- One week, see Moodle
+- Two weeks, see Moodle
 
 If you ever need an extension, contact your instructor at least 3 days *before* the final deadline.
 
