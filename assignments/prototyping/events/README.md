@@ -10,6 +10,8 @@
 
 If you ever need an extension, contact your instructor at least 3 days *before* the final deadline.
 
+🔥 Read the submission guidelines carefully. You will lose points for incorrect submission formats. 🔥
+
 ## Objectives
 
 - Get comfortable with events and the idea of your program *responding* to external input
@@ -44,15 +46,6 @@ Remember to take this basic steps to get going:
 
 Do that three times and you'll have three prototypes.
 
-## What to submit
-
-You should add the following to your class homepage (aka. `cart253/README.md`):
-1. A heading naming the assignment
-2. A screenshot and title for each prototype, followed by links to the running prototype and its code in your repository
-3. A link to your journal entry for this assignment
-
-You will then only need to submit a link to your README.md via Moodle, see below.
-
 ## Advice
 
 1. **Start early**. Don't delay thinking about this. Start playing around immediately.
@@ -60,18 +53,61 @@ You will then only need to submit a link to your README.md via Moodle, see below
 3. **Seek help**. Ask for help as soon as you need it either to discuss what you want to do or to figure out a problem.
 4. **Be stylish**. Make sure you read the [style guide](../../../guides/style-guide.md).
 5. **Be committed**. Remember your grade includes your use of version control and writing good commit messages.
+6. **Check your links**. When you submit, make sure your links work.
+
+## What to submit
+
+You should add the following to your class homepage (aka. `cart253/README.md`):
+1. A heading naming the assignment
+2. A screenshot and title for each prototype, followed by links to the running prototype and its code in your repository
+3. A link to your journal entry for this assignment
+
+It might look like this (for Pippin, whose username is `pippinbarr`):
+
+```md
+## Events Prototypes
+
+[Reflective Journal](./journal)
+
+### Name of Prototype One
+
+![Screenshot of prototype one](./screenshots/events/prototype-one-screenshot.png)
+
+[View online](https://pippinbarr.github.io/cart253/assignments/events/prototype-one/)
+
+[View code](https://github.com/pippinbarr/cart253/tree/main/assignments/events/prototype-one/)
+
+### Name of Prototype Two
+
+![Screenshot of prototype two](./screenshots/events/prototype-two-screenshot.png)
+
+[View online](https://pippinbarr.github.io/cart253/assignments/events/prototype-two/)
+
+[View code](https://github.com/pippinbarr/cart253/tree/main/assignments/events/prototype-two/)
+
+### Name of Prototype Three
+
+![Screenshot of prototype three](./screenshots/events/prototype-three-screenshot.png)
+
+[View online](https://pippinbarr.github.io/cart253/assignments/events/prototype-three/)
+
+[View code](https://github.com/pippinbarr/cart253/tree/main/assignments/events/prototype-three/)
+
+```
+
+You will then only need to submit a link to your README.md via Moodle (see below) beause the instructor will be able to easily find all your running prototypes and their code.
 
 ## Submission
 
 Submission will take place on **Moodle**. Go to the appropriately named **assignment** on the Moodle and then submit your work there.
 
-Your submission should just be a plain text link to your website or to your README.md that contains the materials for this assignment, e.g.
+Your submission should just be a plain text link to your website/README.md that contains the materials for this assignment, e.g. (for Pippin it would be)
 
 Website version: <https://pippinbarr.github.io/cart253/>
  
  or
  
- Repository version: <https://github.com/pippinbarr/cart253/>
+Repository version: <https://github.com/pippinbarr/cart253/>
 
 
 🔥 Make sure all your links work before you submit 🔥  
