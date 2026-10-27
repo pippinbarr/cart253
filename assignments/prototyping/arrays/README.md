@@ -25,7 +25,7 @@ If you ever need an extension, contact your instructor at least 3 days *before* 
 Create three distinct, *small* prototypes that explore the material learned during this week. Each prototype should be built as a *separate* small project (starting with the template project each time). Make sure you play around with what is possible in terms of using arrays. Consider:
 
 - Looking at past prototypes and extending one with arrays to create multiple (or many, or too many!) elements where previously there was only one
-- Exploring the kinds of data you can store in an array (strings could lead to dialog, images could be things to draw, sounds could be randomized sound effects, objects could be elements that move around...)
+- Exploring the kinds of data you can store in an array (strings could lead to dialog, images could be things to draw, sequences of images could be an animation, sounds could be randomized sound effects, objects could be elements that move around...)
 - Trying to get a *system* running where all the elements in an array "live" and interact with each other or other elements on the screen (lots of locusts eating wheat?)
 
 Feel free to borrow from any of the example code you've seen so far in the course, but make sure to **attribute** in you code in the top-level comment. Remember that is *your* work that will be graded in cases, not starting code you may use.
