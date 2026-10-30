@@ -134,12 +134,12 @@ Students will also create their own repository on GitHub to save, track, and pre
 Specific evaluation requirements will be provided when assigned. See the [Schedule](./schedule.md) for timing.
 
 * In-class Challenges x 9 (pass/fail, 1% each, totalling 9%)
-* Prototyping Assignments x 9 (7% each, totalling 63%)
+* Prototyping Assignments x 7 (7% each, totalling 49%)
     * Three prototypes and one reflective journal entry per assignment
-* Polish Prototype x 1 (20%)
-    * One prototype with reflective journal entry (15%)
-    * Polish Presentation in class (5%)
-* Participation (8%)
+* Polish Prototype x 1 (32%)
+    * One prototype with four reflective journal entries (25%)
+    * Polish Presentation in class (7%)
+* Participation (10%)
     * Participation includes: attending class, completing coursework, demoing work, being present on the Discord, asking questions, contributing to discussions, sharing ideas, and coming to office hours (note: even if you feel that you *never* need help, make sure to touch base with the instructor regularly in some capacity)
 
 ## French

@@ -213,15 +213,13 @@
 - 👐 Demos
 - 💬 Loops Examples and 🔥 Hot Tips
 - 🎷 Live coding
-- 💡 [Prototyping: Loops](./assignments/prototyping/loops/README.md)
+- There is no Loops prototyping assignment
 
 ### In studio
 - 🤔🤔 Do the [Loops Challenge](./assignments/challenges/loops/)
-- 💡 [Prototyping: Loops](./assignments/prototyping/loops/README.md)
 
 ### Homework
 - 🧑‍🎓 Follow next week's materials
-- 💡 [Prototyping: Loops](./assignments/prototyping/loops/README.md)
 
 ---
 
@@ -236,17 +234,14 @@
 - 👐 Demos
 - 💬 Data Examples and 🔥 Hot Tips
 - 🎷 Live coding
-- 💡 [Prototyping: Data](./assignments/prototyping/data/README.md)
 - ✨ [Prototyping: Polish](./assignments/polish/README.md)
 
 ### In studio
 - 🤔🤔 Do the [Data Challenge](./assignments/challenges/data/)
 assignment
-- 💡 [Prototyping: Data](./assignments/prototyping/data/README.md)
 - ✨ [Prototyping: Polish](./assignments/polish/README.md)
 
 ### Homework
-- 💡 [Prototyping: Data](./assignments/prototyping/data/README.md)
 - ✨ [Prototyping: Polish](./assignments/polish/README.md)
 
 ---
