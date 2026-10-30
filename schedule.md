@@ -2,7 +2,7 @@
 
 # 🗓 Schedule
 
-[👋 Hello, World](#-hello-world) → [💬 Instructions](#-instructions) → [🎁 Variables](#-variables) → [🤔 Conditionals](#-conditionals) → [⏱ Events](#-events) → [📚 **Reading week**](#-reading-week-no-class) → [☎️ Functions](#%EF%B8%8F-functions) → [🗄 Arrays](#-arrays) → [🔁 Loops](#-loops) → [💿 Data](#-data) → [🍓 Jam Week 1](#-jam-week-1) → [🍓 Jam Week 2](#-jam-week-2)
+[👋 Hello, World](#-hello-world) → [💬 Instructions](#-instructions) → [🎁 Variables](#-variables) → [🤔 Conditionals](#-conditionals) → [⏱ Events](#-events) → [📚 **Reading week**](#-reading-week-no-class) → [☎️ Functions](#%EF%B8%8F-functions) → [🗄 Arrays](#-arrays) → [🔁 Loops](#-loops) → [💿 Data](#-data) → [✨ Final Prototype Week 1](#-final-prototype-week-1) → [✨ Final Prototype Week 2](#-final-prototype-week-2) → [🪩 Final Presentation Week](#-final-presentation-week-2)
 
 ---
 
@@ -234,19 +234,19 @@
 - 👐 Demos
 - 💬 Data Examples and 🔥 Hot Tips
 - 🎷 Live coding
-- ✨ [Prototyping: Polish](./assignments/polish/README.md)
+- ✨ [Final Prototype](./assignments/final/README.md)
 
 ### In studio
 - 🤔🤔 Do the [Data Challenge](./assignments/challenges/data/)
 assignment
-- ✨ [Prototyping: Polish](./assignments/polish/README.md)
+- ✨ [Final Prototype](./assignments/final/README.md)
 
 ### Homework
-- ✨ [Prototyping: Polish](./assignments/polish/README.md)
+- ✨ [Final Prototype](./assignments/final/README.md)
 
 ---
 
-## ✨ Polish Week 1
+## ✨ Final Prototype Week 1
 
 *Week of 16 November 2026*
 
@@ -254,14 +254,14 @@ assignment
 - 👐 Demos
 
 ### In studio
-- ✨ [Prototyping: Polish](./assignments/polish/README.md)
+- ✨ [Final Prototype](./assignments/final/README.md)
 
 ### Homework
-- ✨ [Prototyping: Polish](./assignments/polish/README.md)
+- ✨ [Final Prototype](./assignments/final/README.md)
 
 ---
 
-## ✨ Polish Week 2
+## ✨ Final Prototype Week 2
 
 *Week of 23 November 2026*
 
@@ -270,14 +270,14 @@ assignment
 - 📝 Course evaluations
 
 ### In studio
-- ✨ [Prototyping: Polish](./assignments/polish/README.md)
+- ✨ [Final Prototype](./assignments/final/README.md)
 
 ### Homework
-- ✨ [Prototyping: Polish](./assignments/polish/README.md)
+- ✨ [Final Prototype](./assignments/final/README.md)
 
 ---
 
-## 🪩 Presentation Week
+## 🪩 Final Presentation Week
 
 *Week of 30 November 2026*
 
@@ -287,7 +287,7 @@ assignment
 - 📝 Course evaluations
 
 ### Homework
-- ✨ [Prototyping: Polish](./assignments/polish/README.md)
+- ✨ [Final Prototype](./assignments/final/README.md)
 
 ---
 
@@ -295,4 +295,4 @@ assignment
 
 *Week of 7 December 2026*
 
-- ✨ [Prototyping: Polish](./assignments/polish/README.md)
+- ✨ [Final Prototype](./assignments/final/README.md)
