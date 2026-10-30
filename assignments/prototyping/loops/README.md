@@ -1,7 +1,0 @@
-# Prototyping: Loops {
-
-tbd.
-
----
-
-## }
