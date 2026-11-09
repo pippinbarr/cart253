@@ -20,9 +20,9 @@
 
 ### Functional demo
 
-Bring a *working* build of the final project to class for a demo session on the final day. It does not need to be the final version as that is not due until the following week, but it should be advanced enough that people can interact with it and get the idea.
+Have a *working* build of the final project on the final day. It does not need to be the final version as that is not due until the following week, but it should be advanced enough that people can interact with it and get the idea. You will post the build on the Discord so that people get a chance to check out your work during Studio time. 
 
-The demo session will be *before* the presentations so you'll know you're talking to people who have seen the build before you present.
+There will not be an official demo session before the presentations for reasons of time, so think of your presentation partly as a pitch to encourage others to try out your work afterwards!
 
 ### Presentation
 
@@ -34,7 +34,8 @@ Give a *five minute* presentation of your final project that covers:
 
 🔥 Practice your presentation ahead of time and make sure it is five minutes. 🔥  
 🔥 Create a presentation document (e.g. Markdown) or set of slides – do not make it up on the day. 🔥  
-🔥 Make sure your presentation has *links* to anything you need to refer to while presenting 🔥
+🔥 Make sure your presentation has *links* to anything you need to refer to while presenting 🔥  
+🔥 Don't get distracted by going through your actual prototype during the presentation as this can take up too much time. 🔥  
 
 ### Presentation file(s)
 
