@@ -14,7 +14,7 @@ let r = 0;
  * Create the canvas
 */
 function setup() {
-    createCanvas(800, 800, WEBGL);
+    createCanvas(windowWidth, windowHeight, WEBGL);
 }
 
 
