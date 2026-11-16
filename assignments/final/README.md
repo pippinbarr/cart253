@@ -7,7 +7,7 @@
 
 ## Deadlines
 
-- Presentations will be held in class during the final week (week of 30 December 2026)
+- Presentations will be held in class during the final week (week of 30 November 2026)
 - Prototype(s) are due one week *after* the final class (week of 7 December 2026)
 
 🔥 If you are running into trouble, get in touch with your instructor *early* to work out a plan, we want to help
