@@ -266,7 +266,12 @@ assignment
 *Week of 23 November 2026*
 
 ### In class
-- 👐 Demos?
+- 🎁 Presentations logistics for next week
+    - Make sure you can run your presentation from the class computer at the front which will be logged in as the *instructor*
+    - The easiest is likely to make or export your presentation material as a PDF and to put it in your course repository so you can easily load it when it's your turn
+    - (Try to avoid that situation of getting to the front and then needing to remember and type in a long URL followed by realizing you have to log into Google Slides and do MFA in front of us all)
+    - Include links in your presentation to anything you want to show off (including your currently prototypes etc.)
+    - Don't forget to *practice your presentation for timing*, we will keep to time, you might well get cut off if you go long
 - 💬 Talking about the course
 - 📝 Course evaluations
 
